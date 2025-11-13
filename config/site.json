@@ -1,0 +1,66 @@
+{
+  "seo": {
+    "title": "Water Meter Leak Detection, Miami Florida | Total Leak De...",
+    "ogImage": "/images/og-image.jpg",
+    "keywords": "water leak detection",
+    "description": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!"
+  },
+  "name": "Total Leak Detection",
+  "logo": "/images/logo.png",
+  "logoAlt": "Total Leak Detection Logo",
+  "logoWidth": 180,
+  "logoHeight": 180,
+  "favicon": "/favicon.ico",
+  "email": "info@totalleakdetection.com",
+  "hours": "Monday - Friday: 9:00 AM - 5:00 PM",
+  "phone": "(855) 385-5325",
+  "social": {
+    "twitter": "https://twitter.com/totalleakdetection",
+    "youtube": "https://youtube.com/@totalleakdetection",
+    "facebook": "https://facebook.com/totalleakdetection",
+    "linkedin": "https://linkedin.com/company/totalleakdetection",
+    "instagram": "https://instagram.com/totalleakdetection"
+  },
+  "address": "7790 NW 55th St, Doral, FL 33166",
+  "reviews": {
+    "yelp": {
+      "url": "https://www.yelp.com/biz/",
+      "rating": 4.9,
+      "reviewCount": "136+"
+    },
+    "google": {
+      "url": "https://g.page/r/",
+      "rating": 5,
+      "reviewCount": "100+"
+    },
+    "facebook": {
+      "url": "https://facebook.com/reviews",
+      "rating": 5,
+      "reviewCount": "50+"
+    }
+  },
+  "tagline": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!",
+  "navigation": [
+    {
+      "href": "/#services",
+      "name": "Services"
+    },
+    {
+      "href": "/#about",
+      "name": "About"
+    },
+    {
+      "href": "/#testimonials",
+      "name": "Testimonials"
+    },
+    {
+      "href": "/blog",
+      "name": "Blog"
+    },
+    {
+      "href": "/#contact",
+      "name": "Contact"
+    }
+  ],
+  "description": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!"
+}

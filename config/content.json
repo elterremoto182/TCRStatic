@@ -1,0 +1,188 @@
+{
+  "hero": {
+    "headline": "Water Leak Detection Florida – Total Leak Detection",
+    "subheadline": "Expert water leak detection technicians. We work with all insurance companies, Fast plumbing reports, Licensed & Insured",
+    "ctaPrimary": {
+      "text": "Get Started",
+      "href": "/#contact"
+    },
+    "ctaSecondary": {
+      "text": "Our Services",
+      "href": "/#services"
+    },
+    "backgroundImage": "/images/hero/hero-background.jpeg",
+    "backgroundVideo": ""
+  },
+  "services": [
+    {
+      "id": "clog",
+      "icon": "Wrench",
+      "title": "clog",
+      "description": "Professional clog services",
+      "features": ["Professional Service", "Expert Team", "Quality Results"],
+      "image": "/images/services/clog.jpg"
+    },
+    {
+      "id": "drain-cleaning",
+      "icon": "Waves",
+      "title": "Drain Cleaning",
+      "description": "Blocked drains can lead to unpleasant odors, slow water drainage, and even costly repairs. As an essential component of plumbing maintenance, effective drain cleaners play a pivotal role in preventing and resolving clogs.",
+      "features": ["Professional Service", "Expert Team", "Quality Results"],
+      "image": "/images/services/drain-cleaning.jpg"
+    },
+    {
+      "id": "leak-detection",
+      "icon": "Zap",
+      "title": "leak detection",
+      "description": "The Importance of Professional Leak Detection in Preventing Water Damage Water damage is one of the most costly and disruptive problems a homeowner or business can face.",
+      "features": ["Professional Service", "Expert Team", "Quality Results"],
+      "image": "/images/services/leak-detection.jpg"
+    },
+    {
+      "id": "mold",
+      "icon": "Home",
+      "title": "Mold",
+      "description": "Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection Breathe Easier with Professional Mold Inspections from Total Leak Detection",
+      "features": ["Professional Service", "Expert Team", "Quality Results"],
+      "image": "/images/services/mold.jpg"
+    }
+  ],
+  "about": {
+    "headline": "Why Choose Us?",
+    "description": "We provide professional services with expertise and dedication to quality.",
+    "teamImage": "/images/team/team-photo.jpg",
+    "stats": [
+      {
+        "value": "1000+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "24/7",
+        "label": "Support Available"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "features": [
+      {
+        "icon": "Shield",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your peace of mind."
+      },
+      {
+        "icon": "Award",
+        "title": "Award Winning Service",
+        "description": "Recognized for excellence in our industry."
+      },
+      {
+        "icon": "Clock",
+        "title": "Fast & Reliable",
+        "description": "Quick response times and dependable service."
+      },
+      {
+        "icon": "Users",
+        "title": "Expert Team",
+        "description": "Experienced professionals dedicated to quality."
+      }
+    ]
+  },
+  "gallery": {
+    "headline": "Our Work",
+    "description": "See the quality and professionalism behind every project.",
+    "projects": [
+      {
+        "id": 1,
+        "title": "What to Expect During a Sewer Camera Inspection in Miami, FL ",
+        "category": "Sewer",
+        "beforeImage": "/images/gallery/project-1-before.jpeg",
+        "afterImage": "/images/gallery/project-1-after.jpeg",
+        "description": "Introduction  If you’re a homeowner in Miami, FL, it’s important to understand what happens during a sewer camera inspection. This knowledge will help you maintain a healthy plumbing system.  Sewer camera inspections are a non-invasive way to diagnose plumbing problems. "
+      },
+      {
+        "id": 2,
+        "title": "The Importance of Sewer Camera Inspections in Miami: Prevent Costly Repairs ",
+        "category": "Sewer",
+        "beforeImage": "/images/gallery/project-2-before.jpeg",
+        "afterImage": "/images/gallery/project-2-after.jpeg",
+        "description": "Introduction  Sewer camera inspections are essential in Miami to prevent costly repairs and effectively address plumbing problems. This advanced technology allows for a non-invasive visual assessment of underground pipes, helping to identify issues such as blockages, leaks, or structural damage."
+      },
+      {
+        "id": 3,
+        "title": "Effective Solutions for Low Water Pressure in Your Home",
+        "category": "Uncategorized",
+        "beforeImage": "/images/gallery/project-3-before.jpeg",
+        "afterImage": "/images/gallery/project-3-after.jpeg",
+        "description": "Understanding Low Water Pressure A well-functioning plumbing system is essential for maintaining adequate water pressure in your home. The system comprises pipes, valves, fixtures, and appliances that work together to deliver water efficiently."
+      },
+      {
+        "id": 4,
+        "title": "The Ultimate Guide to Effective Drain Cleaners: What Really Works?",
+        "category": "Drain Cleaning",
+        "beforeImage": "/images/gallery/project-4-before.jpeg",
+        "afterImage": "/images/gallery/project-4-after.jpeg",
+        "description": "Introduction Maintaining clear plumbing systems is crucial for the smooth functioning of any household. Blocked drains can lead to unpleasant odors, slow water drainage, and even costly repairs."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "role": "Business Owner",
+      "content": "Excellent service and professional results. Highly recommend!",
+      "rating": 5,
+      "image": "/images/testimonials/testimonial-1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "role": "Homeowner",
+      "content": "Outstanding quality and attention to detail. Very satisfied!",
+      "rating": 5,
+      "image": "/images/testimonials/testimonial-2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "role": "Property Manager",
+      "content": "Professional team, great communication, and excellent work!",
+      "rating": 5,
+      "image": "/images/testimonials/testimonial-3.jpeg"
+    }
+  ],
+  "cta": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact us today for a consultation and see how we can help you.",
+    "buttonText": "Contact Us",
+    "buttonHref": "/#contact",
+    "backgroundImage": "/images/cta/cta-background.jpeg"
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "description": "Fill out the form below or call us directly. We're here to help!"
+  },
+  "branding": {
+    "companyName": "Your Business Name",
+    "tagline": "Professional Services",
+    "badges": [
+      {
+        "name": "Licensed & Insured",
+        "image": "/images/badges/licensed-insured.jpeg"
+      },
+      {
+        "name": "Award Winning",
+        "image": "/images/badges/award-winning.jpeg"
+      },
+      {
+        "name": "Trusted by Clients",
+        "image": "/images/badges/trusted.jpeg"
+      }
+    ]
+  }
+}
