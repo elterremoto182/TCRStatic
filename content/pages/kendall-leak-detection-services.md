@@ -1,10 +1,13 @@
 ---
-title: "Kendall Leak Detection Services"
-slug: "kendall-leak-detection-services"
+title: Kendall Leak Detection Services
+slug: kendall-leak-detection-services
 menu_order: 0
-seo_title: "Kendall Leak Detection | Professional Water & Sewer Leak Detection Services"
-seo_description: "Need expert leak detection in Kendall, FL? Total Leak Detection provides fast, non-invasive water and sewer leak detection for homes and businesses. Call now for 24/7 service!"
-keywords: ["detection", "kendall", "services", "miami", "total", "water", "leaks", "sewer", "areas", "damage"]
+seo_title: Kendall Leak Detection | Professional Water & Sewer Leak Detection Services
+seo_description: >-
+  Need expert leak detection in Kendall, FL? Total Leak Detection provides fast,
+  non-invasive water and sewer leak detection for homes and businesses. Call now
+  for 24/7 service!
+keywords: ["Kendall Leak Detection Services"]
 ---
 
 **Kendall Leak Detection Services – Total Leak Detection**

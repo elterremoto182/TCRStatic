@@ -1,9 +1,13 @@
 ---
-title: "Plumbing Report Writing In Florida"
-slug: "services/plumbing-report-writing/"
+title: Plumbing Report Writing In Florida
+slug: services/plumbing-report-writing/
 menu_order: 0
-seo_title: "Plumbing Report Writing in Florida | Plumbing Repair Contractors"
-seo_description: "Comprehensive plumbing report writing in Miami, FL for commercial & residential properties. Latest technology & equipment for accuracy. Easy-to-read reports!"
+seo_title: Plumbing Report Writing in Florida | Plumbing Repair Contractors
+seo_description: >-
+  Comprehensive plumbing report writing in Miami, FL for commercial &
+  residential properties. Latest technology & equipment for accuracy.
+  Easy-to-read reports!
+keywords: ["Plumbing Report Writing In Florida"]
 ---
 
 # Plumbing Report Writing In Florida

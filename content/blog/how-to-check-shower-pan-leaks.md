@@ -1,12 +1,21 @@
 ---
-title: "How to Check A Shower Pan For Leaks"
-date: "2022-07-28"
-excerpt: "Shower pan leaks can be the #1 most overlooked cause of chronic water damage and mold in your home. In the 1970s shower pans liners were made out of lead which most didn’t last very long. Nowadays Liners are made from thin, strong, flexible plastic."
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "How to Check A Shower Pan For Leaks - Total Leak Detection"
-seo_description: "This article provides a step-by-step guide on how to check for shower pan leaks. Learn the process of checking for leaks, from locating the source of the leak to finding the best solution for a permanent fix. Get tips on how to use a moisture meter to detect a leak and the importance of sealing your shower pan correctly."
-keywords: ["shower", "water", "liner", "leaks", "drain", "cause", "damage", "plastic", "installed", "installation"]
+title: How to Check A Shower Pan For Leaks
+date: '2022-07-28'
+excerpt: >-
+  Shower pan leaks can be the #1 most overlooked cause of chronic water damage
+  and mold in your home. In the 1970s shower pans liners were made out of lead
+  which most didn’t last very long. Nowadays Liners are made from thin, strong,
+  flexible plastic.
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: How to Check A Shower Pan For Leaks - Total Leak Detection
+seo_description: >-
+  This article provides a step-by-step guide on how to check for shower pan
+  leaks. Learn the process of checking for leaks, from locating the source of
+  the leak to finding the best solution for a permanent fix. Get tips on how to
+  use a moisture meter to detect a leak and the importance of sealing your
+  shower pan correctly.
+keywords: ["shower pan leak"]
 ---
 
 ## Shower Pan Leaks

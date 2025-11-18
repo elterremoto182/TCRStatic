@@ -1,9 +1,12 @@
 ---
-title: "Commercial services"
-slug: "services/commercial-services"
+title: Commercial services
+slug: services/commercial-services
 menu_order: 0
-seo_title: "Commercial services - Total Leak Detection"
-seo_description: "Commercial Leak Detection Services: We offer specialized leak detection services tailored to meet the needs of commercial properties."
+seo_title: Commercial services - Total Leak Detection
+seo_description: >-
+  Commercial Leak Detection Services: We offer specialized leak detection
+  services tailored to meet the needs of commercial properties.
+keywords: ["Commercial services"]
 ---
 
 # Commercial services

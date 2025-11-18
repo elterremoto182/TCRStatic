@@ -1,10 +1,12 @@
 ---
-title: "Mold Testing in Deerfield Beach, FL"
-slug: "mold-testing-in-deerfield-beach-fl"
+title: 'Mold Testing in Deerfield Beach, FL'
+slug: mold-testing-in-deerfield-beach-fl
 menu_order: 0
-seo_title: "Mold Testing in Deerfield Beach, FL – Total Leak Detection"
-seo_description: "Certified mold testing in Deerfield Beach, FL. Fast, accurate, and affordable inspections with same-day reports. Protect your home and family today."
-keywords: ["testing", "deerfield", "beach", "schedule", "service", "certified", "property", "today", "inspection", "detection"]
+seo_title: 'Mold Testing in Deerfield Beach, FL – Total Leak Detection'
+seo_description: >-
+  Certified mold testing in Deerfield Beach, FL. Fast, accurate, and affordable
+  inspections with same-day reports. Protect your home and family today.
+keywords: ["mold testing Deerfield Beach"]
 ---
 
 ## **Fast, Accurate Mold Testing in Deerfield Be**ach

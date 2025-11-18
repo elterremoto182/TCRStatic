@@ -1,12 +1,19 @@
 ---
-title: "Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection"
-date: "2023-10-31"
-excerpt: "Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection Breathe Easier with Professional Mold Inspections from Total Leak Detection Living in Miami means dealing with high humidity, frequent rainfall, and year-round warmth—ideal conditions for mold to grow unnoticed in your home. While many homeowners focus on visible cleanliness, the air you breathe …"
-author: "Tomasz Alemany"
-category: "Mold"
-seo_title: "Mold Inspection Miami | Improve Indoor Air Quality"
-seo_description: "Worried about indoor air quality? Get expert mold inspections in Miami from Total Leak Detection. Improve your air, protect your health. Call now!"
-keywords: ["detection", "indoor", "quality", "inspection", "miami", "total", "professional", "inspections", "health", "spores"]
+title: Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection
+date: '2023-10-31'
+excerpt: >-
+  Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection
+  Breathe Easier with Professional Mold Inspections from Total Leak Detection
+  Living in Miami means dealing with high humidity, frequent rainfall, and
+  year-round warmth—ideal conditions for mold to grow unnoticed in your home.
+  While many homeowners focus on visible cleanliness, the air you breathe …
+author: Tomasz Alemany
+category: Mold
+seo_title: Mold Inspection Miami | Improve Indoor Air Quality
+seo_description: >-
+  Worried about indoor air quality? Get expert mold inspections in Miami from
+  Total Leak Detection. Improve your air, protect your health. Call now!
+keywords: ["indoor air quality mold testing"]
 ---
 
 # Mold Inspection Miami | Improve Indoor Air Quality with Total Leak Detection

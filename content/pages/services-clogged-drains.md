@@ -1,9 +1,12 @@
 ---
-title: "Clogged drains"
-slug: "services/clogged-drains"
+title: Clogged drains
+slug: services/clogged-drains
 menu_order: 0
-seo_title: "Clogged drains - Total Leak Detection"
-seo_description: "Clogged Drains Services by Total Leak Detection: Trust our experts to address and resolve any issues with clogged drains efficiently."
+seo_title: Clogged drains - Total Leak Detection
+seo_description: >-
+  Clogged Drains Services by Total Leak Detection: Trust our experts to address
+  and resolve any issues with clogged drains efficiently.
+keywords: ["Clogged drains"]
 ---
 
 # Clogged drains

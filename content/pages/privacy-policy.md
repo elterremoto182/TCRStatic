@@ -1,10 +1,12 @@
 ---
-title: "Privacy Policy"
-slug: "privacy-policy"
+title: Privacy Policy
+slug: privacy-policy
 menu_order: 0
-seo_title: "Privacy Policy - Total Leak Detection"
-seo_description: "Total Leak Detection Privacy Policy: Understand how we protect your information and maintain your privacy when using our services."
-keywords: ["information", "total", "detection", "cookies", "provide", "website", "websites", "privacy", "business", "services"]
+seo_title: Privacy Policy - Total Leak Detection
+seo_description: >-
+  Total Leak Detection Privacy Policy: Understand how we protect your
+  information and maintain your privacy when using our services.
+keywords: ["privacy policy total leak detection"]
 ---
 
 # Privacy Policy

@@ -1,10 +1,12 @@
 ---
-title: "Total Leak Detection Deerfield Beach"
-slug: "total-leak-detection-deerfield-beach"
+title: Total Leak Detection Deerfield Beach
+slug: total-leak-detection-deerfield-beach
 menu_order: 0
-seo_title: "Leak Detection in Deerfield Beach – Water & Sewer Leaks"
-seo_description: "Total Leak Detection offers fast, reliable leak detection services in Deerfield Beach. We specialize in water, and sewer leak detection"
-keywords: ["detection", "deerfield", "beach", "total", "leaks", "services", "testing", "property", "provide", "camera"]
+seo_title: Leak Detection in Deerfield Beach – Water & Sewer Leaks
+seo_description: >-
+  Total Leak Detection offers fast, reliable leak detection services in
+  Deerfield Beach. We specialize in water, and sewer leak detection
+keywords: ["Leak detection Deerfield Beach"]
 ---
 
 ## Total Leak Detection Deerfield Beach

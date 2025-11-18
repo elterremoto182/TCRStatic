@@ -1,12 +1,22 @@
 ---
-title: "Essential Tips for Maintaining Your Sewer Line: What Homeowners Must Know"
-date: "2024-08-28"
-excerpt: "Understanding Your Sewer Line System A well-functioning sewer system is essential for maintaining a clean and healthy living environment. At its core, a sewer line is responsible for transporting wastewater from your home to the municipal sewer or septic tank. How Sewer Lines Work Sewer lines operate on a gravity-based system, where waste flows downhill …"
-author: "seoanalytics534@gmail.com"
-category: "Uncategorized"
-seo_title: "Essential Tips for Maintaining Your Sewer Line: What Homeowners Must Know - Total Leak Detection"
-seo_description: "Protect your home from costly sewer issues. Discover essential tips for maintaining your sewer line, including regular inspections, proper waste disposal, and preventive measures."
-keywords: ["sewer", "system", "plumbing", "blockages", "water", "inspections", "lines", "maintenance", "regular", "issues"]
+title: 'Essential Tips for Maintaining Your Sewer Line: What Homeowners Must Know'
+date: '2024-08-28'
+excerpt: >-
+  Understanding Your Sewer Line System A well-functioning sewer system is
+  essential for maintaining a clean and healthy living environment. At its core,
+  a sewer line is responsible for transporting wastewater from your home to the
+  municipal sewer or septic tank. How Sewer Lines Work Sewer lines operate on a
+  gravity-based system, where waste flows downhill …
+author: seoanalytics534@gmail.com
+category: Uncategorized
+seo_title: >-
+  Essential Tips for Maintaining Your Sewer Line: What Homeowners Must Know -
+  Total Leak Detection
+seo_description: >-
+  Protect your home from costly sewer issues. Discover essential tips for
+  maintaining your sewer line, including regular inspections, proper waste
+  disposal, and preventive measures.
+keywords: ["Sewer line maintenance tips"]
 ---
 
 ## Understanding Your Sewer Line System

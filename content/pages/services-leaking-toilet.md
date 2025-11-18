@@ -1,9 +1,12 @@
 ---
-title: "Leaking toilet and faucets"
-slug: "services/leaking-toilet/"
+title: Leaking toilet and faucets
+slug: services/leaking-toilet/
 menu_order: 0
-seo_title: "Leaking toilet and faucets"
-seo_description: "Leaking Toilet Services: Don't let a leaking toilet cause inconvenience. Contact us for efficient leak detection and repair services."
+seo_title: Leaking toilet and faucets
+seo_description: >-
+  Leaking Toilet Services: Don't let a leaking toilet cause inconvenience.
+  Contact us for efficient leak detection and repair services.
+keywords: ["Leaking toilet and faucets"]
 ---
 
 # Leaking toilet and faucets

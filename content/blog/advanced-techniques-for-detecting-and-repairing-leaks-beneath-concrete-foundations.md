@@ -1,12 +1,23 @@
 ---
-title: "Advanced Techniques for Detecting and Repairing Leaks Beneath Concrete Foundations"
-date: "2024-05-16"
-excerpt: "Detecting and repairing leaks beneath concrete foundations are critical for maintaining the structural integrity of buildings and ensuring a safe living environment. This comprehensive guide explores advanced techniques and best practices to help you efficiently manage and resolve these hidden problems. Understanding the Risk of Leaks Under Concrete Leaks under concrete, often referred to …"
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "Detecting and Repairing Leaks Beneath Concrete Foundations"
-seo_description: "Explore state-of-the-art methods for locating and fixing plumbing leaks under concrete foundations. Learn about the latest technologies and practical solutions to address this challenging issue effectively."
-keywords: ["leaks", "concrete", "detection", "water", "techniques", "beneath", "foundations", "property", "advanced", "repairing"]
+title: >-
+  Advanced Techniques for Detecting and Repairing Leaks Beneath Concrete
+  Foundations
+date: '2024-05-16'
+excerpt: >-
+  Detecting and repairing leaks beneath concrete foundations are critical for
+  maintaining the structural integrity of buildings and ensuring a safe living
+  environment. This comprehensive guide explores advanced techniques and best
+  practices to help you efficiently manage and resolve these hidden problems.
+  Understanding the Risk of Leaks Under Concrete Leaks under concrete, often
+  referred to …
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: Detecting and Repairing Leaks Beneath Concrete Foundations
+seo_description: >-
+  Explore state-of-the-art methods for locating and fixing plumbing leaks under
+  concrete foundations. Learn about the latest technologies and practical
+  solutions to address this challenging issue effectively.
+keywords: ["concrete leak detection"]
 ---
 
 Detecting and repairing leaks beneath concrete foundations are critical for maintaining the structural integrity of buildings and ensuring a safe living environment. This comprehensive guide explores advanced techniques and best practices to help you efficiently manage and resolve these hidden problems.

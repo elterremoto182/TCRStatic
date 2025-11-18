@@ -1,9 +1,12 @@
 ---
-title: "Mold Testing"
-slug: "services/mold-testing"
+title: Mold Testing
+slug: services/mold-testing
 menu_order: 0
-seo_title: "Mold Testing [Services in Miami, Broward and Palm Beach]"
-seo_description: "Mold Testing Services by Total Leak Detection: Ensure the safety of your home by detecting and addressing any mold issues promptly."
+seo_title: 'Mold Testing [Services in Miami, Broward and Palm Beach]'
+seo_description: >-
+  Mold Testing Services by Total Leak Detection: Ensure the safety of your home
+  by detecting and addressing any mold issues promptly.
+keywords: ["Mold Testing"]
 ---
 
 # Mold Testing

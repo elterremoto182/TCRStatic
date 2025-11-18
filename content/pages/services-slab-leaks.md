@@ -1,9 +1,12 @@
 ---
-title: "Slab leaks"
-slug: "services/slab-leaks"
+title: Slab leaks
+slug: services/slab-leaks
 menu_order: 0
-seo_title: "Slab leaks - Total Leak Detection"
-seo_description: "Slab Leak Detection and Repair by Total Leak Detection: We use advanced techniques to detect and repair slab leaks efficiently."
+seo_title: Slab leaks - Total Leak Detection
+seo_description: >-
+  Slab Leak Detection and Repair by Total Leak Detection: We use advanced
+  techniques to detect and repair slab leaks efficiently.
+keywords: ["Slab leaks in miami"]
 ---
 
 # Slab leaks

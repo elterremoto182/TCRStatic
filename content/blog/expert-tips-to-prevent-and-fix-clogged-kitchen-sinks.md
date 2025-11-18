@@ -1,12 +1,20 @@
 ---
-title: "Expert Tips to Prevent and Fix Clogged Kitchen Sinks"
-date: "2024-07-24"
-excerpt: "Introduction Keeping your kitchen sink clean is important for a functional and hygienic home. Clogged kitchen sinks can lead to many problems, such as bad smells, slow drainage, and even possible water damage. Knowing the common causes of clogs can help you prevent these issues before they get worse. This article will provide you with …"
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "Expert Tips to Prevent and Fix Clogged Kitchen Sinks"
-seo_description: "Discover expert tips to prevent and fix clogged kitchen sinks. Learn about common causes, preventive measures, and effective solutions to keep your kitchen sink flowing smoothly."
-keywords: ["clogs", "kitchen", "drain", "water", "grease", "debris", "disposal", "pipes", "prevent", "clean"]
+title: Expert Tips to Prevent and Fix Clogged Kitchen Sinks
+date: '2024-07-24'
+excerpt: >-
+  Introduction Keeping your kitchen sink clean is important for a functional and
+  hygienic home. Clogged kitchen sinks can lead to many problems, such as bad
+  smells, slow drainage, and even possible water damage. Knowing the common
+  causes of clogs can help you prevent these issues before they get worse. This
+  article will provide you with …
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: Expert Tips to Prevent and Fix Clogged Kitchen Sinks
+seo_description: >-
+  Discover expert tips to prevent and fix clogged kitchen sinks. Learn about
+  common causes, preventive measures, and effective solutions to keep your
+  kitchen sink flowing smoothly.
+keywords: ["Prevent and fix clogged kitchen sink"]
 ---
 
 ## Introduction

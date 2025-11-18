@@ -1,10 +1,13 @@
 ---
-title: "Miami Lakes Leak Detection Services"
-slug: "miami-lakes-leak-detection-services"
+title: Miami Lakes Leak Detection Services
+slug: miami-lakes-leak-detection-services
 menu_order: 0
-seo_title: "Miami Lakes Leak Detection | Expert Water & Sewer Leak Detection Services"
-seo_description: "Looking for professional leak detection in Miami Lakes, FL? Total Leak Detection provides non-invasive water and sewer leak detection for homes and businesses. Call now for 24/7 service!"
-keywords: ["detection", "miami", "services", "lakes", "total", "water", "leaks", "sewer", "areas", "damage"]
+seo_title: Miami Lakes Leak Detection | Expert Water & Sewer Leak Detection Services
+seo_description: >-
+  Looking for professional leak detection in Miami Lakes, FL? Total Leak
+  Detection provides non-invasive water and sewer leak detection for homes and
+  businesses. Call now for 24/7 service!
+keywords: ["Miami Lakes Leak Detection Services"]
 ---
 
 **Miami Lakes Leak Detection Services – Total Leak Detection**

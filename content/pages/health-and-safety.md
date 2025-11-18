@@ -1,10 +1,12 @@
 ---
-title: "HEALTH &#038; SAFETY"
-slug: "health-and-safety"
+title: HEALTH &#038; SAFETY
+slug: health-and-safety
 menu_order: 0
-seo_title: "HEALTH & SAFETY - Total Leak Detection"
-seo_description: "Health and Safety at Total Leak Detection: We prioritize the well-being of our customers and employees in all our leak detection services."
-keywords: ["health", "safety", "situation", "local", "cleaning", "avoiding", "contact", "tissue", "customers", "concerns"]
+seo_title: HEALTH & SAFETY - Total Leak Detection
+seo_description: >-
+  Health and Safety at Total Leak Detection: We prioritize the well-being of our
+  customers and employees in all our leak detection services.
+keywords: ["health and safety total leak detection"]
 ---
 
 ### YOUR HEALTH, SAFETY AND WELL-BEING IS OUR TOP PRIORITY

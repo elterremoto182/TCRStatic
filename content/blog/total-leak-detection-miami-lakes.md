@@ -1,12 +1,18 @@
 ---
-title: "Total Leak Detection: Miami Lakes"
-date: "2022-07-28"
-excerpt: "Did you know that the average household wastes 10,000 gallons of water each year from leaks? Although the water supply is plentiful in South Florida, no one wants to be wasteful. The last thing you want to deal with is an expensive water bill or—even worse—a plumbing emergency in your home."
-author: "priyanka"
-category: "Uncategorized"
-seo_title: "Leak Detection Miami Lakes: Save Water Today - Total Leak Detection"
-seo_description: "Discover effective leak detection in Miami Lakes to prevent costly water waste and plumbing emergencies in your home."
-keywords: ["detection", "water", "miami", "plumbing", "lakes", "leaks", "inspection", "camera", "report", "total"]
+title: 'Total Leak Detection: Miami Lakes'
+date: '2022-07-28'
+excerpt: >-
+  Did you know that the average household wastes 10,000 gallons of water each
+  year from leaks? Although the water supply is plentiful in South Florida, no
+  one wants to be wasteful. The last thing you want to deal with is an expensive
+  water bill or—even worse—a plumbing emergency in your home.
+author: priyanka
+category: Uncategorized
+seo_title: 'Leak Detection Miami Lakes: Save Water Today - Total Leak Detection'
+seo_description: >-
+  Discover effective leak detection in Miami Lakes to prevent costly water waste
+  and plumbing emergencies in your home.
+keywords: ["leak detection miami lakes"]
 ---
 
 The following is a video of a leak detection in Miami Lakes Florida.

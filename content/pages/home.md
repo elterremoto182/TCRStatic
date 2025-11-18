@@ -1,12 +1,15 @@
 ---
-title: "Home"
-slug: "home"
-template: "views/template-home.blade.php"
+title: Home
+slug: home
+template: views/template-home.blade.php
 menu_order: 0
 is_front_page: true
-seo_title: "Water Meter Leak Detection, Miami Florida | Total Leak Detection"
-seo_description: "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!"
-keywords: ["water", "damage", "plumbing", "detection", "pipes", "result", "range", "issues", "reduced", "quality"]
+seo_title: 'Water Meter Leak Detection, Miami Florida | Total Leak Detection'
+seo_description: >-
+  Get water leak detection in Florida. Get plumbing & water meter repair
+  services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate
+  today!
+keywords: ["water leak detection"]
 ---
 
 # Water Leak Detection Florida – Total Leak Detection

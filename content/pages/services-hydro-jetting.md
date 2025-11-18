@@ -1,9 +1,12 @@
 ---
-title: "Hydro jetting"
-slug: "services/hydro-jetting/"
+title: Hydro jetting
+slug: services/hydro-jetting/
 menu_order: 0
-seo_title: "Hydro jetting - Total Leak Detection"
-seo_description: "Hydro-Jetting Services by Total Leak Detection: Experience the power of hydro-jetting to clear out your pipes and restore optimal flow."
+seo_title: Hydro jetting - Total Leak Detection
+seo_description: >-
+  Hydro-Jetting Services by Total Leak Detection: Experience the power of
+  hydro-jetting to clear out your pipes and restore optimal flow.
+keywords: ["Hydro jetting"]
 ---
 
 # Hydro jetting

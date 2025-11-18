@@ -1,12 +1,20 @@
 ---
-title: "Choosing the Perfect Pipe Size for Your Main Sewer Line"
-date: "2024-06-17"
-excerpt: "Introduction Choosing the perfect pipe size for your main sewer line is critical for the overall efficiency of your drainage system. The right pipe size can prevent blockages, reduce maintenance costs, and ensure a smooth flow of wastewater out of your property. Key takeaway: In this article, we discuss the different types of pipes for …"
-author: "Tomasz Alemany"
-category: "Sewer"
-seo_title: "Main Sewer Line Pipe Size: Importance Explained - Total Leak Detection"
-seo_description: "Learn how to choose the perfect pipe size for your main sewer line. Explore different pipe types, repair options, and expert tips for efficient plumbing solutions."
-keywords: ["sewer", "pipes", "wastewater", "commercial", "system", "maintenance", "sizes", "ensure", "factors", "requirements"]
+title: Choosing the Perfect Pipe Size for Your Main Sewer Line
+date: '2024-06-17'
+excerpt: >-
+  Introduction Choosing the perfect pipe size for your main sewer line is
+  critical for the overall efficiency of your drainage system. The right pipe
+  size can prevent blockages, reduce maintenance costs, and ensure a smooth flow
+  of wastewater out of your property. Key takeaway: In this article, we discuss
+  the different types of pipes for …
+author: Tomasz Alemany
+category: Sewer
+seo_title: 'Main Sewer Line Pipe Size: Importance Explained - Total Leak Detection'
+seo_description: >-
+  Learn how to choose the perfect pipe size for your main sewer line. Explore
+  different pipe types, repair options, and expert tips for efficient plumbing
+  solutions.
+keywords: ["Main sewer line pipe size"]
 ---
 
 ## **Introduction**

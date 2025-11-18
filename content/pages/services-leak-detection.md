@@ -1,9 +1,12 @@
 ---
-title: "Best Leak Detection Services Company Florida"
-slug: "services/leak-detection/"
+title: Best Leak Detection Services Company Florida
+slug: services/leak-detection/
 menu_order: 0
-seo_title: "Best Leak Detection Services Company Florida"
-seo_description: "Hire leak detection services in Miami, Ft Lauderdale & more. Quick & accurate detection & repairs. 40+ years of experience. Commercial & residential"
+seo_title: Best Leak Detection Services Company Florida
+seo_description: >-
+  Hire leak detection services in Miami, Ft Lauderdale & more. Quick & accurate
+  detection & repairs. 40+ years of experience. Commercial & residential
+keywords: ["Best Leak Detection Services Company Florida"]
 ---
 
 # Best Leak Detection Services Company Florida

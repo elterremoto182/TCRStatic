@@ -1,12 +1,21 @@
 ---
-title: "Why Your Toilet Bubbles When Your Washing Machine Drains: Causes and Solutions"
-date: "2024-06-17"
-excerpt: "Experiencing a toilet that bubbles when the washing machine drains can be both puzzling and concerning. This phenomenon often indicates an underlying plumbing issue that, if left unaddressed, could lead to more severe damage in your home’s plumbing system. Addressing this problem promptly is crucial. Ignoring it may result in extensive plumbing repairs and increased …"
-author: "Tomasz Alemany"
-category: "Sewer"
-seo_title: "Why Your Toilet Bubbles When Your Washing Machine Drains: Causes and Solutions - Total Leak Detection"
-seo_description: "Find out why your toilet bubbles when your washing machine drains. Explore common causes and effective solutions to fix this plumbing issue fast."
-keywords: ["toilet", "plumbing", "bubbling", "drains", "system", "professional", "sewer", "washing", "machine", "drainage"]
+title: 'Why Your Toilet Bubbles When Your Washing Machine Drains: Causes and Solutions'
+date: '2024-06-17'
+excerpt: >-
+  Experiencing a toilet that bubbles when the washing machine drains can be both
+  puzzling and concerning. This phenomenon often indicates an underlying
+  plumbing issue that, if left unaddressed, could lead to more severe damage in
+  your home’s plumbing system. Addressing this problem promptly is crucial.
+  Ignoring it may result in extensive plumbing repairs and increased …
+author: Tomasz Alemany
+category: Sewer
+seo_title: >-
+  Why Your Toilet Bubbles When Your Washing Machine Drains: Causes and Solutions
+  - Total Leak Detection
+seo_description: >-
+  Find out why your toilet bubbles when your washing machine drains. Explore
+  common causes and effective solutions to fix this plumbing issue fast.
+keywords: ["toilet bubbles when washer drains"]
 ---
 
 Experiencing a toilet that bubbles when the washing machine drains can be both puzzling and concerning. This phenomenon often indicates an underlying plumbing issue that, if left unaddressed, could lead to more severe damage in your home’s plumbing system.

@@ -1,12 +1,18 @@
 ---
-title: "7 Simple Steps To Do A Mold Test"
-date: "2022-12-05"
-excerpt: "The only way to know for sure whether or not there is mold present in your home is to have it tested. Mold testing involves collecting samples of the air or surfaces in your home and testing them in a lab for the presence of mold. If mold is detected, a professional can then help …"
-author: "priyanka"
-category: "Uncategorized"
-seo_title: "7 Simple Steps To Do A Mold Test [Tips & Benefits]"
-seo_description: "The first step in the mold testing process is to schedule a mold inspection. During the inspection, a qualified mold inspector will assess..."
-keywords: ["testing", "samples", "inspector", "potential", "property", "report", "present", "health", "risks", "results"]
+title: 7 Simple Steps To Do A Mold Test
+date: '2022-12-05'
+excerpt: >-
+  The only way to know for sure whether or not there is mold present in your
+  home is to have it tested. Mold testing involves collecting samples of the air
+  or surfaces in your home and testing them in a lab for the presence of mold.
+  If mold is detected, a professional can then help …
+author: priyanka
+category: Uncategorized
+seo_title: '7 Simple Steps To Do A Mold Test [Tips & Benefits]'
+seo_description: >-
+  The first step in the mold testing process is to schedule a mold inspection.
+  During the inspection, a qualified mold inspector will assess...
+keywords: ["mold testing"]
 ---
 
 The only way to know for sure whether or not there is mold present in your home is to have it tested. Mold testing involves collecting samples of the air or surfaces in your home and testing them in a lab for the presence of mold.

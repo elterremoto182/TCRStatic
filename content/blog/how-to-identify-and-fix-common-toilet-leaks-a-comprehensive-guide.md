@@ -1,12 +1,21 @@
 ---
-title: "How to Identify and Fix Common Toilet Leaks: A Comprehensive Guide"
-date: "2024-07-24"
-excerpt: "Understanding Toilet Leaks To effectively identify and fix toilet leaks, it’s crucial to understand how toilets work and the role each component plays in maintaining proper functionality. Common Components Involved in Leaks Importance of Regular Maintenance Regular maintenance helps prevent these issues: Ignoring routine checks can lead to significant water wastage, potentially up to 5 …"
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "How to Identify & Fix Common Toilet Leaks: A Comprehensive Guide"
-seo_description: "Learn how to identify and fix common toilet leaks with our comprehensive guide. Discover simple DIY methods to detect leaks, prevent water damage, and save on utility bills."
-keywords: ["water", "toilet", "valve", "leaks", "float", "flapper", "issues", "mechanism", "level", "supply"]
+title: 'How to Identify and Fix Common Toilet Leaks: A Comprehensive Guide'
+date: '2024-07-24'
+excerpt: >-
+  Understanding Toilet Leaks To effectively identify and fix toilet leaks, it’s
+  crucial to understand how toilets work and the role each component plays in
+  maintaining proper functionality. Common Components Involved in Leaks
+  Importance of Regular Maintenance Regular maintenance helps prevent these
+  issues: Ignoring routine checks can lead to significant water wastage,
+  potentially up to 5 …
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: 'How to Identify & Fix Common Toilet Leaks: A Comprehensive Guide'
+seo_description: >-
+  Learn how to identify and fix common toilet leaks with our comprehensive
+  guide. Discover simple DIY methods to detect leaks, prevent water damage, and
+  save on utility bills.
+keywords: ["How to fix common toilet leaks"]
 ---
 
 ## Understanding Toilet Leaks

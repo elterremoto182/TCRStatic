@@ -1,12 +1,20 @@
 ---
-title: "The Importance of Professional Leak Detection in Preventing Water Damage."
-date: "2023-10-30"
-excerpt: "The Importance of Professional Leak Detection in Preventing Water Damage Water damage is one of the most costly and disruptive problems a homeowner or business can face. While some leaks are obvious—like a burst pipe or dripping faucet—many are hidden behind walls, under floors, or beneath slabs. These undetected leaks can slowly compromise your property’s …"
-author: "Tomasz Alemany"
-category: "leak detection"
-seo_title: "Professional Leak Detection Miami | Prevent Water Damage Before It Starts"
-seo_description: "Discover how professional leak detection can prevent costly water damage in your home or business. Learn why early detection matters and how experts find hidden leaks."
-keywords: ["detection", "water", "leaks", "professional", "damage", "hidden", "property", "behind", "walls", "issues"]
+title: The Importance of Professional Leak Detection in Preventing Water Damage.
+date: '2023-10-30'
+excerpt: >-
+  The Importance of Professional Leak Detection in Preventing Water Damage Water
+  damage is one of the most costly and disruptive problems a homeowner or
+  business can face. While some leaks are obvious—like a burst pipe or dripping
+  faucet—many are hidden behind walls, under floors, or beneath slabs. These
+  undetected leaks can slowly compromise your property’s …
+author: Tomasz Alemany
+category: leak detection
+seo_title: Professional Leak Detection Miami | Prevent Water Damage Before It Starts
+seo_description: >-
+  Discover how professional leak detection can prevent costly water damage in
+  your home or business. Learn why early detection matters and how experts find
+  hidden leaks.
+keywords: ["Professional leak detection"]
 ---
 
 # The Importance of Professional Leak Detection in Preventing Water Damage

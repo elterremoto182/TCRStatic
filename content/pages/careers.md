@@ -1,11 +1,16 @@
 ---
-title: "Careers"
-slug: "careers"
-template: "views/template-careers.blade.php"
+title: Careers
+slug: careers
+template: views/template-careers.blade.php
 menu_order: 0
-seo_title: "Careers - Total Leak Detection"
-seo_description: "Quality Heating is a family-owned and operated company who has been in business for over 39 years. We strive for excellence in customer service and with our team members. Our culture promotes balance between family and work while training and educating our team members. It is very important for our team members to be the &hellip; Continued"
-keywords: ["members", "career", "benefits", "quality", "heating", "family", "company", "promote", "insurance", "careers"]
+seo_title: Careers - Total Leak Detection
+seo_description: >-
+  Quality Heating is a family-owned and operated company who has been in
+  business for over 39 years. We strive for excellence in customer service and
+  with our team members. Our culture promotes balance between family and work
+  while training and educating our team members. It is very important for our
+  team members to be the &hellip; Continued
+keywords: ["Join Total Leak Detection"]
 ---
 
 Quality Heating is a family-owned and operated company who has been in business for over 39 years. We strive for excellence in customer service and with our team members.

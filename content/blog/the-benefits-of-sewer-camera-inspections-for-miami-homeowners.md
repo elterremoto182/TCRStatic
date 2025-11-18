@@ -1,12 +1,20 @@
 ---
-title: "The Benefits of Sewer Camera Inspections for Miami Homeowners"
-date: "2023-11-02"
-excerpt: "The Benefits of Sewer Camera Inspections for Miami Homeowners Sewer systems are a critical, yet often overlooked, part of any home. In cities like Miami, where aging infrastructure and root intrusion are common, hidden problems in sewer lines can lead to costly repairs if not detected early. One of the most effective tools available to …"
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "Sewer Camera Inspection Miami | Homeowners Should Consider It"
-seo_description: "Learn how sewer camera inspections help Miami homeowners detect plumbing issues early. Understand the process, benefits, and when to schedule an inspection."
-keywords: ["sewer", "camera", "plumbing", "inspection", "inspections", "miami", "homeowners", "lines", "condition", "issues"]
+title: The Benefits of Sewer Camera Inspections for Miami Homeowners
+date: '2023-11-02'
+excerpt: >-
+  The Benefits of Sewer Camera Inspections for Miami Homeowners Sewer systems
+  are a critical, yet often overlooked, part of any home. In cities like Miami,
+  where aging infrastructure and root intrusion are common, hidden problems in
+  sewer lines can lead to costly repairs if not detected early. One of the most
+  effective tools available to …
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: Sewer Camera Inspection Miami | Homeowners Should Consider It
+seo_description: >-
+  Learn how sewer camera inspections help Miami homeowners detect plumbing
+  issues early. Understand the process, benefits, and when to schedule an
+  inspection.
+keywords: ["Sewer camera inspection Miami"]
 ---
 
 # The Benefits of Sewer Camera Inspections for Miami Homeowners

@@ -1,11 +1,13 @@
 ---
-title: "About"
-slug: "about"
-template: "views/template-about.blade.php"
+title: About
+slug: about
+template: views/template-about.blade.php
 menu_order: 0
-seo_title: "About - Total Leak Detection"
-seo_description: "About Total Leak Detection: Learn about our expertise in leak detection services and our commitment to customer satisfaction."
-keywords: ["plumbing", "detection", "reports", "advanced", "business", "sewer", "camera", "inspections", "techniques", "trained"]
+seo_title: About - Total Leak Detection
+seo_description: >-
+  About Total Leak Detection: Learn about our expertise in leak detection
+  services and our commitment to customer satisfaction.
+keywords: ["About Total Leak Detection"]
 ---
 ## About Total Leak Detection
 

@@ -1,12 +1,21 @@
 ---
-title: "What is a Post Remediation Verification?"
-date: "2022-12-12"
-excerpt: "A Critical Step in Ensuring Safe, Mold-Free Environments When it comes to mold, water, or chemical contamination, remediation is only part of the solution. The final—and arguably most important—phase is Post Remediation Verification (PRV). At Total Leak Detection, we emphasize the value of PRV as an essential safeguard that confirms your property is truly safe …"
-author: "Tomasz Alemany"
-category: "Uncategorized"
-seo_title: "What is a Post Remediation Verification? [Needed Mold Tests]"
-seo_description: "This introduction to Post Remediation Verification (PRV) explains the process of making sure a remediation project was successful. You will learn about the history of PRV, how it is used, the advantages, and the difficulties of the process."
-keywords: ["remediation", "verification", "testing", "results", "sampling", "water", "contamination", "moisture", "whether", "final"]
+title: What is a Post Remediation Verification?
+date: '2022-12-12'
+excerpt: >-
+  A Critical Step in Ensuring Safe, Mold-Free Environments When it comes to
+  mold, water, or chemical contamination, remediation is only part of the
+  solution. The final—and arguably most important—phase is Post Remediation
+  Verification (PRV). At Total Leak Detection, we emphasize the value of PRV as
+  an essential safeguard that confirms your property is truly safe …
+author: Tomasz Alemany
+category: Uncategorized
+seo_title: 'What is a Post Remediation Verification? [Needed Mold Tests]'
+seo_description: >-
+  This introduction to Post Remediation Verification (PRV) explains the process
+  of making sure a remediation project was successful. You will learn about the
+  history of PRV, how it is used, the advantages, and the difficulties of the
+  process.
+keywords: ["Post Remediation Verification"]
 ---
 
 ## A Critical Step in Ensuring Safe, Mold-Free Environments

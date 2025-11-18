@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-slug: "contact"
-template: "views/template-contact.blade.php"
+title: Contact
+slug: contact
+template: views/template-contact.blade.php
 menu_order: 0
-seo_title: "Contact - Total Leak Detection"
-seo_description: "Contact Total Leak Detection: Reach out to our team for any questions or inquiries regarding our leak detection services."
-keywords: ["contact", "schedule", "estimate", "today", "touch", "service", "receive", "information", "comfort"]
+seo_title: Contact - Total Leak Detection
+seo_description: >-
+  Contact Total Leak Detection: Reach out to our team for any questions or
+  inquiries regarding our leak detection services.
+keywords: ["contact total leak detection"]
 ---
 
 ## Schedule an estimate today

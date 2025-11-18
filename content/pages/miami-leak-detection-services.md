@@ -1,10 +1,13 @@
 ---
-title: "Miami Leak Detection Services"
-slug: "miami-leak-detection-services"
+title: Miami Leak Detection Services
+slug: miami-leak-detection-services
 menu_order: 0
-seo_title: "Miami Leak Detection | Professional Water & Sewer Leak Detection Services"
-seo_description: "Need expert leak detection in Miami, FL? Total Leak Detection offers fast, non-invasive water and sewer leak detection for homes and businesses. Call now for 24/7 service!"
-keywords: ["detection", "miami", "services", "total", "water", "leaks", "sewer", "areas", "damage", "drain"]
+seo_title: Miami Leak Detection | Professional Water & Sewer Leak Detection Services
+seo_description: >-
+  Need expert leak detection in Miami, FL? Total Leak Detection offers fast,
+  non-invasive water and sewer leak detection for homes and businesses. Call now
+  for 24/7 service!
+keywords: ["Miami Leak Detection Services"]
 ---
 
 **Miami Leak Detection Services – Total Leak Detection**
