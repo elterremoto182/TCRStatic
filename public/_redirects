@@ -1,0 +1,6 @@
+# Redirects for static site
+# Format: from_path to_path status_code
+
+/services/leak-detection-services/ /services/leak-detection/ 301
+/services/mold-detectionl-and-remediation/ /services/mold-testing/ 301
+
