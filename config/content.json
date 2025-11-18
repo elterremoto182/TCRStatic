@@ -165,25 +165,25 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "John Smith",
-      "role": "Business Owner",
-      "content": "Excellent service and professional results. Highly recommend!",
+      "name": "Hector Rodriguez",
+      "role": "Oct 25, 2024",
+      "content": "I had several technicians come in my property before and charge big money and could not find the leak, these guys in one day found it, and fixed it the same day. If you want your problems solved call them",
       "rating": 5,
       "image": "/images/testimonials/testimonial-1.jpeg"
     },
     {
       "id": 2,
-      "name": "Sarah Johnson",
-      "role": "Homeowner",
-      "content": "Outstanding quality and attention to detail. Very satisfied!",
+      "name": "Gabrielle Shirek",
+      "role": "Feb 19, 2024",
+      "content": "Luis and Richard were awesome and extremely helpful in helping me evaluate a potential mold problem at my house. Hugely professional. Arrived right on time. I highly recommend working with total leak detection.",
       "rating": 5,
       "image": "/images/testimonials/testimonial-2.jpeg"
     },
     {
       "id": 3,
-      "name": "Michael Brown",
-      "role": "Property Manager",
-      "content": "Professional team, great communication, and excellent work!",
+      "name": "WhoIsMBM",
+      "role": "Oct 31, 2023",
+      "content": "Luis is the man. In and out. Very professional and informative.",
       "rating": 5,
       "image": "/images/testimonials/testimonial-3.jpeg"
     }
