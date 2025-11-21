@@ -20,7 +20,7 @@ When it comes to your plumbing system, you don't often think about it until you 
 **Total Leak Detection provides expert drain and sewer repair services using advanced techniques including video inspection, hydro jetting, and trenchless pipe replacement. Available 24/7 for emergencies.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Get Your Clogged Drain Fixed Today**](/contact/) - No Obligation, Insurance Accepted
@@ -45,7 +45,7 @@ Clogged drains are more than just annoying—they're warning signs of serious pr
 **Don't let a simple clog become a major problem. Get professional help today.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Emergency Service Now - Available 24/7**](/contact/)
@@ -173,7 +173,7 @@ Fix damaged pipes from the inside using advanced relining technology.
 **Join hundreds of satisfied customers who chose Total Leak Detection for fast, effective solutions.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Call Now for Immediate Service - Available 24/7**](/contact/)
@@ -196,7 +196,7 @@ Fix damaged pipes from the inside using advanced relining technology.
 **We serve all of Florida including Miami, Ft. Lauderdale, Doral, Coral Gables, and surrounding areas.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Your Drain Service Today**](/contact/)
@@ -244,7 +244,7 @@ Snaking only clears the immediate blockage. Hydro jetting uses high-pressure wat
 **A clogged drain is more than an inconvenience—it's a warning sign. Don't let it turn into a costly sewer backup or pipe damage.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Your Service Now**](/contact/) - Available 24/7 | Insurance Accepted | No Obligation

@@ -171,4 +171,20 @@
     animation-name: scale-in;
     animation-timing-function: ease-out;
   }
+
+  .call-now-button {
+    display: inline-block;
+    background-color: #FF6200;
+    color: white;
+    padding: 1rem 2rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.2s;
+  }
+
+  .call-now-button:hover {
+    background-color: #E55A00;
+  }
 }

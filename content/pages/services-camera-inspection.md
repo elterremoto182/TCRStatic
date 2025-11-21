@@ -21,7 +21,7 @@ Persistent clogs, slow drains, and sewer backups are frustrating, but they're al
 **Total Leak Detection uses advanced HD video camera technology to diagnose your sewer problems accurately. Fast, reliable, and affordable sewer camera inspection services in Miami, FL. Available 24/7.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Your Sewer Camera Inspection Today**](/contact/) - No Obligation, Insurance Accepted
@@ -45,7 +45,7 @@ Determining the cause of a clogged drain or examining the condition of your plum
 **Don't waste money guessing. See inside your pipes with our HD camera inspection.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Emergency Inspection Now - Available 24/7**](/contact/)
@@ -201,7 +201,7 @@ You receive a comprehensive report with HD images, exact locations, and repair r
 **Join hundreds of satisfied customers who chose Total Leak Detection for accurate diagnosis.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Call Now for Immediate Service - Available 24/7**](/contact/)
@@ -224,7 +224,7 @@ You receive a comprehensive report with HD images, exact locations, and repair r
 **We serve all of Florida including Miami, Doral, Ft. Lauderdale, Coral Gables, and surrounding areas.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Your Sewer Camera Inspection Today**](/contact/)
@@ -272,7 +272,7 @@ Most inspections take between 30 minutes to 1 hour, depending on the complexity 
 **Stop guessing what's wrong with your pipes. Our HD camera inspection shows you exactly what needs to be fixed, saving you thousands in unnecessary repairs.**
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="tel:(855)385-5325" style="display: inline-block; background-color: #FF6200; color: white; padding: 1rem 2rem; font-weight: 600; text-decoration: none; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#E55A00'" onmouseout="this.style.backgroundColor='#FF6200'">📞 Call Now – (855) 385-5325</a>
+<a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
 
 [**Schedule Your Inspection Now**](/contact/) - Available 24/7 | Insurance Accepted | No Obligation
