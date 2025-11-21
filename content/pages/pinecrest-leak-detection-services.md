@@ -86,9 +86,10 @@ Total Leak Detection proudly serves Pinecrest and surrounding areas in Miami-Dad
 
 ✅ **[Miami Leak Detection Services](/miami-leak-detection-services/)**  
 ✅ **[Doral Leak Detection Services](/doral-leak-detection-expert-water-sewer-leak-detection-services/)**  
-✅ **Hialeah Leak Detection Services**  
+✅ **[Hialeah Leak Detection Services](/hialeah-leak-detection-services/)**  
 ✅ **[Kendall Leak Detection Services](/kendall-leak-detection-services/)**  
-✅ **Homestead Leak Detection Services**
+✅ **[Pinecrest Leak Detection Services](/pinecrest-leak-detection-services/)**  
+✅ **[Homestead Leak Detection Services](/homestead-leak-detection-services/)**
 
 #### Expanding Service Areas in Miami-Dade County
 
