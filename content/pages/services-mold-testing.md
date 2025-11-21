@@ -19,9 +19,11 @@ Mold exposure can cause serious health problems including respiratory issues, al
 
 **Total Leak Detection provides reliable and accurate mold testing services to identify hidden mold growth and protect your property from health risks. Available 24/7 for emergency testing.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Get Your Free Mold Testing Consultation Today**](/contact/) - No Obligation, Insurance Accepted
 
@@ -43,9 +45,11 @@ Mold is a serious problem that can cause a range of health issues, especially fo
 
 **Don't let hidden mold threaten your family's health. Schedule your mold test today.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Emergency Testing Now - Available 24/7**](/contact/)
 
@@ -170,9 +174,11 @@ Our comprehensive reports provide everything you need:
 
 **Join hundreds of satisfied customers who chose Total Leak Detection for peace of mind.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Call Now for Immediate Service - Available 24/7**](/contact/)
 
@@ -193,9 +199,11 @@ Our comprehensive reports provide everything you need:
 
 **We serve all of Florida including Miami, Ft. Lauderdale, Doral, Coral Gables, Broward, and Palm Beach counties.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Get Your Free Mold Testing Consultation Today**](/contact/)
 
@@ -241,9 +249,11 @@ We provide a detailed report with remediation recommendations. We can connect yo
 
 **Every day mold goes undetected increases your family's health risk and property damage. Don't let hidden mold threaten your wellbeing.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Free Consultation Now**](/contact/) - Available 24/7 | Insurance Accepted | No Obligation
 

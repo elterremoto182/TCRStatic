@@ -1,5 +1,6 @@
 'use client';
 
+import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -31,9 +32,36 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
               {children}
             </h3>
           ),
-          p: ({ children }) => (
-            <p className="text-gray-600 leading-relaxed mb-4">{children}</p>
-          ),
+          p: ({ children, ...props }: any) => {
+            // Check if children contains block-level HTML elements (div, etc.)
+            // If so, render without p wrapper to avoid hydration errors
+            const childrenArray = React.Children.toArray(children);
+            const hasBlockElement = childrenArray.some((child: any) => {
+              if (typeof child === 'object' && child !== null) {
+                // Check if it's a div element
+                if (child.type === 'div' || child.props?.nodeName === 'div') {
+                  return true;
+                }
+                // Check nested children
+                if (child.props?.children) {
+                  const nested = React.Children.toArray(child.props.children);
+                  return nested.some((n: any) => 
+                    n?.type === 'div' || n?.props?.nodeName === 'div'
+                  );
+                }
+              }
+              return false;
+            });
+            
+            if (hasBlockElement) {
+              return <>{children}</>;
+            }
+            
+            return <p className="text-gray-600 leading-relaxed mb-4" {...props}>{children}</p>;
+          },
+          div: ({ children, className, style, ...props }: any) => {
+            return <div className={className} style={style} {...props}>{children}</div>;
+          },
           ul: ({ children }) => (
             <ul className="list-disc list-inside space-y-2 mb-4 text-gray-600">
               {children}

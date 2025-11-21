@@ -19,9 +19,11 @@ Every day we continuously use our home's faucets and toilets, leading to repetit
 
 **Total Leak Detection has the experience and equipment to handle all of your leaking plumbing fixture needs. Fast repairs, professional installation, and prevention strategies. Available 24/7 for emergencies.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Get Your Leak Fixed Today**](/contact/) - No Obligation, Insurance Accepted
 
@@ -44,9 +46,11 @@ Leaking toilets and faucets cause more problems than you might think:
 
 **Don't let a small leak become an expensive problem. Get it fixed today.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Emergency Service Now - Available 24/7**](/contact/)
 
@@ -176,9 +180,11 @@ We ensure everything works properly and provide maintenance tips to prevent futu
 
 **Join hundreds of satisfied customers who chose Total Leak Detection for fast, effective solutions.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Call Now for Immediate Service - Available 24/7**](/contact/)
 
@@ -199,9 +205,11 @@ We ensure everything works properly and provide maintenance tips to prevent futu
 
 **We serve all of Florida including Miami, Ft. Lauderdale, Doral, Coral Gables, and surrounding areas.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Fixture Service Today**](/contact/)
 
@@ -247,9 +255,11 @@ Regular maintenance, prompt repairs, quality fixtures, and proper water pressure
 
 **A leaking toilet or faucet wastes water and money every day. Don't let small leaks become expensive problems.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Service Now**](/contact/) - Available 24/7 | Insurance Accepted | No Obligation
 

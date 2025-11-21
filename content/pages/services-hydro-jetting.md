@@ -19,9 +19,11 @@ Over time, clogs and blockages develop from materials like grease, soap scum, ha
 
 **Total Leak Detection uses the newest, most powerful hydro jetting tools on the market to completely clear your pipes and restore optimal flow. Non-chemical, environmentally safe, and long-lasting results.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Hydro Jetting Service Today**](/contact/) - No Obligation, Insurance Accepted
 
@@ -42,9 +44,11 @@ Traditional drain cleaning methods only clear the immediate blockage, leaving be
 
 **Don't waste money on temporary fixes. Hydro jetting provides a permanent solution.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Emergency Service Now - Available 24/7**](/contact/)
 
@@ -174,9 +178,11 @@ You get clean, flowing pipes that work like new, with long-lasting results.
 
 **Join hundreds of satisfied customers who chose Total Leak Detection for permanent solutions.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Call Now for Immediate Service - Available 24/7**](/contact/)
 
@@ -197,9 +203,11 @@ You get clean, flowing pipes that work like new, with long-lasting results.
 
 **We serve all of Florida including Miami, Ft. Lauderdale, Doral, Coral Gables, and surrounding areas.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Hydro Jetting Service Today**](/contact/)
 
@@ -245,9 +253,11 @@ We recommend a camera inspection first to assess your pipe condition and identif
 
 **Stop wasting money on temporary fixes. Hydro jetting provides a permanent solution that completely cleans your pipes and prevents future clogs.**
 
+
 <div style="text-align: center; margin: 2rem 0;">
 <a href="tel:(855)385-5325" class="call-now-button">📞 Call Now – (855) 385-5325</a>
 </div>
+
 
 [**Schedule Your Service Now**](/contact/) - Available 24/7 | Insurance Accepted | No Obligation
 
