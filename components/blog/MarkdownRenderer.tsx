@@ -33,21 +33,36 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
             </h3>
           ),
           p: ({ children, ...props }: any) => {
-            // Check if children contains block-level HTML elements (div, etc.)
+            // Check if children contains block-level HTML elements (div, iframe, etc.)
             // If so, render without p wrapper to avoid hydration errors
             const childrenArray = React.Children.toArray(children);
             const hasBlockElement = childrenArray.some((child: any) => {
               if (typeof child === 'object' && child !== null) {
-                // Check if it's a div element
-                if (child.type === 'div' || child.props?.nodeName === 'div') {
+                // Check if it's a block element
+                if (child.type === 'div' || 
+                    child.type === 'iframe' || 
+                    child.props?.nodeName === 'div' ||
+                    child.props?.nodeName === 'iframe') {
                   return true;
                 }
-                // Check nested children
+                // Check if it's a component that renders block elements
+                // Check for OptimizedImage wrapper divs
+                if (child.props?.className?.includes('my-6')) {
+                  return true;
+                }
+                // Check nested children recursively
                 if (child.props?.children) {
                   const nested = React.Children.toArray(child.props.children);
-                  return nested.some((n: any) => 
-                    n?.type === 'div' || n?.props?.nodeName === 'div'
-                  );
+                  return nested.some((n: any) => {
+                    if (n?.type === 'div' || n?.type === 'iframe' || 
+                        n?.props?.nodeName === 'div' || n?.props?.nodeName === 'iframe') {
+                      return true;
+                    }
+                    if (n?.props?.className?.includes('my-6')) {
+                      return true;
+                    }
+                    return false;
+                  });
                 }
               }
               return false;
@@ -86,12 +101,13 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
             
             if (isTelLink) {
               // For tel: links, apply button styling directly
-              // Don't wrap in div to avoid breaking paragraph flow
+              // Use inline-block or inline-flex to keep it as an inline element
+              // This prevents hydration errors when inside paragraphs
               return (
                 <a
                   href={href}
                   className={`call-now-button ${className || ''}`}
-                  style={{ display: 'block', textAlign: 'center', margin: '2rem 0' }}
+                  style={{ display: 'inline-block', textAlign: 'center', margin: '2rem 0', width: '100%' }}
                   {...props}
                 >
                   {children}
@@ -115,47 +131,51 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
             const imageSrc = src || '';
             
             // Use OptimizedImage for better performance and optimization
+            // Use span with display: block instead of div to avoid hydration errors when inside paragraphs
             // If width/height are provided, use them; otherwise use fill with flexible container
             if (width && height) {
               const widthNum = typeof width === 'string' ? parseInt(width) : width;
               const heightNum = typeof height === 'string' ? parseInt(height) : height;
               return (
-                <div className="my-6 w-full flex justify-center">
-                  <OptimizedImage
-                    src={imageSrc}
-                    alt={alt || ''}
-                    width={widthNum}
-                    height={heightNum}
-                    className="rounded-lg max-w-full h-auto"
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
-                    loading="lazy"
-                  />
-                </div>
+                <span className="my-6 w-full block" style={{ display: 'block' }}>
+                  <span className="flex justify-center">
+                    <OptimizedImage
+                      src={imageSrc}
+                      alt={alt || ''}
+                      width={widthNum}
+                      height={heightNum}
+                      className="rounded-lg max-w-full h-auto"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+                      loading="lazy"
+                    />
+                  </span>
+                </span>
               );
             }
             
             // For images without explicit dimensions, use fill with a flexible container
-            return (
-              <div className="my-6 w-full relative" style={{ aspectRatio: '16/9', minHeight: '300px' }}>
-                <OptimizedImage
-                  src={imageSrc}
-                  alt={alt || ''}
-                  fill
-                  className="rounded-lg object-contain"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
-                  loading="lazy"
-                />
-              </div>
-            );
+              return (
+                <span className="my-6 w-full block" style={{ display: 'block', aspectRatio: '16/9', minHeight: '300px', position: 'relative' }}>
+                  <OptimizedImage
+                    src={imageSrc}
+                    alt={alt || ''}
+                    fill
+                    className="rounded-lg object-contain"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+                    loading="lazy"
+                  />
+                </span>
+              );
           },
           iframe: ({ src, title, height, width, ...props }: React.IframeHTMLAttributes<HTMLIFrameElement> & { src?: string; title?: string }) => {
             // If height is specified, use it; otherwise use responsive aspect ratio
+            // Use span with display: block instead of div to avoid hydration errors when inside paragraphs
             const containerStyle = height 
-              ? { height: typeof height === 'string' ? height : `${height}px` }
-              : { aspectRatio: '16/9' };
+              ? { display: 'block', height: typeof height === 'string' ? height : `${height}px` }
+              : { display: 'block', aspectRatio: '16/9' };
             
             return (
-              <div className="my-6 w-full" style={containerStyle}>
+              <span className="my-6 w-full block" style={containerStyle}>
                 <iframe
                   src={src}
                   title={title || 'Embedded content'}
@@ -166,7 +186,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
                   width={width}
                   {...props}
                 />
-              </div>
+              </span>
             );
           },
         }}
