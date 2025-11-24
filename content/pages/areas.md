@@ -13,7 +13,7 @@ keywords: ["Miami-Dade County Service Areas", "Leak Detection Service Areas", "M
 
 **Total Leak Detection** proudly provides professional leak detection services across **Miami-Dade County, Florida**. Our expert team is available 24/7 to help homeowners and businesses detect and resolve water leaks, sewer issues, and plumbing problems.
 
-📞 **Call Now:** **(855) 385-5325**
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)
 
 * * *
 
@@ -79,7 +79,7 @@ No matter which area of Miami-Dade County you're in, we offer the same professio
 
 If you're experiencing water leaks, sewer issues, or plumbing problems in any Miami-Dade County area, don't wait! Contact **Total Leak Detection** today for fast, professional service.
 
-📞 **Call Now:** **(855) 385-5325**  
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)  
 📍 **Location:** Servicing All of Miami-Dade County, FL
 
 🚨 **Don't let leaks cause costly damage! Contact us today for expert leak detection services in your area!**

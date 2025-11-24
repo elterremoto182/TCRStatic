@@ -18,7 +18,7 @@ If your home or business in Coral Gables is experiencing water leaks, hidden plu
 
 Our team uses state-of-the-art technology to detect leaks behind walls, under slabs, and within plumbing systems with minimal disruption to your property.
 
-📞 **Call Now:** **(855) 385-5325**
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)
 
 * * *
 
@@ -103,7 +103,7 @@ Total Leak Detection proudly serves Coral Gables and surrounding areas in Miami-
 
 If your Coral Gables home or business has a hidden leak, don't wait! Call us today for fast, professional leak detection services.
 
-📞 **Call Now:** **(855) 385-5325**  
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)  
 📍 **Location:** Servicing Coral Gables & All of Miami-Dade County
 
 🚨 **Prevent serious water damage! Contact Total Leak Detection today for expert leak detection in Coral Gables!**

@@ -18,7 +18,7 @@ If your home or business in Doral is experiencing water leaks, plumbing issues, 
 
 With our state-of-the-art equipment and non-invasive methods, we can detect leaks hidden behind walls, under slabs, or within plumbing systems, ensuring accurate results with minimal disruption.
 
-📞 **Call Now:** **(855) 385-5325**
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)
 
 * * *
 
@@ -106,7 +106,7 @@ Total Leak Detection proudly serves Doral and surrounding areas in Miami-Dade Co
 
 If your Doral home or business has a hidden leak, don’t wait! Call us today for fast, professional leak detection services.
 
-📞 **Call Now:** **(855) 385-5325**  
+[📞 Call Now – (855) 385-5325](tel:(855)385-5325)  
 📍 **Location:** Servicing Doral & All of Miami-Dade County
 
 🚨 **Act now to prevent major water damage! Contact Total Leak Detection today for expert leak detection in Doral!**
