@@ -59,7 +59,7 @@ Shower pan leaks are a common yet often overlooked cause of water damage and mol
 However, improper installation or a defective plastic liner can lead to a shower pan leak sooner than expected. The main piece that can fail in a shower pan’s construction is the thin plastic liner (see image below). To prevent [water damage](https://totalcarerestoration.com/services/water-restoration/) and mold, it is important to inspect your shower pan regularly and make sure it is properly installed and sealed.
 
 ​  
-![Shower Pan Diagram](https://web.archive.org/web/20210802025607im_//wp-content/uploads/2020/08/image-2.png)
+![Shower Pan Diagram](/wp-content/uploads/2020/08/image-2.png)
 
 Shower Pan Diagram
 
@@ -82,7 +82,7 @@ The 3 most common areas a shower pan can leak from :
 1.  Your shower liner having a hole or rip during tile installation
 2.  A general old or faulty shower liner. 
 3.  Around the drain area where the bolts hold the liner down.
-4.  The connection found when the shower is bigger than standard size or a bench / sitting area is placed inside the shower area. These benches might look nice but they are prone to leaks and humidity build up inside the voided areas that cause mold. ( see picture below of an example of a bench in shower pan) ![Shower Pan Installed Correctly](https://web.archive.org/web/20210802025607im_//wp-content/uploads/2020/08/image-3.png)
+4.  The connection found when the shower is bigger than standard size or a bench / sitting area is placed inside the shower area. These benches might look nice but they are prone to leaks and humidity build up inside the voided areas that cause mold. ( see picture below of an example of a bench in shower pan) ![Shower Pan Installed Correctly](/wp-content/uploads/2020/08/image-3.png)
 
 ## Contact Us
 
