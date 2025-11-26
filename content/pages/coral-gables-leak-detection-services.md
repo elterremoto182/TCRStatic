@@ -9,6 +9,7 @@ seo_description: >-
   for 24/7 service!
 keywords: ["Coral Gables Leak Detection Services"]
 ---
+# Coral Gables Leak Detection Services – Total Leak Detection
 
 **Coral Gables Leak Detection Services – Total Leak Detection**
 

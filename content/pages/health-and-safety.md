@@ -8,6 +8,7 @@ seo_description: >-
   customers and employees in all our leak detection services.
 keywords: ["health and safety total leak detection"]
 ---
+# Health & Safety - Total Leak Detection
 
 ### YOUR HEALTH, SAFETY AND WELL-BEING IS OUR TOP PRIORITY
 
