@@ -16,7 +16,7 @@ Here is our proven water damage restoration process:
 
 Our team of highly qualified technicians use the latest tools and technology to determine the best way to carry out the necessary water damage repairs.
 
-![Water restoration](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
+![Water restoration][(Wp Content/uploads/2022/07/drying Floors 1024x576.jpg)](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
 
 ## Common Causes Of Water Damage
 
@@ -34,7 +34,7 @@ Water damage to your property can be caused by a variety of reasons, including:
 We provide a free initial evaluation of your water damage issue. This can be done over the phone if needed.
 To get a better understanding of the water damage, we will ask you to send us pictures and videos of the location. This helps us in planning the water damage cleanup process.
 
-![Water Damage Restoration Evaluation](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
+![Water Damage Restoration Evaluation][(Wp Content/uploads/2022/07/Employee Holding IPAD 1024x772.png)](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
 
 ## How To Avoid Any Future Water Damage Incidents
 
@@ -57,7 +57,7 @@ Water causes serious damage to your property and has a huge impact on your busin
 - Bursting pipes or old pipes
 - Leaking toilets
 
-![Water Damage Restoration](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
+![Water Damage Restoration][(Wp Content/uploads/2022/07/Water_damage Dryout 768x1024.jpg)](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
 
 Let’s take a look at how our water damage cleanup technicians handle these tasks. They follow a 5 step cleaning process under the water damage restoration service.
 
@@ -71,7 +71,7 @@ In cases of extreme damage, we carry out reconstruction of the particular area a
 
 Give your trusted water restoration company a call at (786) 610 6317 to know more about our services and to get a free water damage restoration evaluation.
 
-![water restoration company](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+![water restoration company][(Wp Content/uploads/2022/07/Tech With a Moisture Meter 1024x549.png)](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
 **Frequently Asked Questions (FAQs)**
 
@@ -118,19 +118,19 @@ It is essential to take these precautions to prevent any major disasters from ta
 
 Our professional technicians and staff are ready to help!
 
-[Call (786) 610-6317](tel:(786)%20610-6317) | [Email Us](/contact/)
+[Call (786) 610-6317](tel:(786)%20610-6317) | [Email Us][Contact](/contact/)
 
 ## Water, fire, and mold restoration experts
 
-![Water damage](/wp-content/themes/sk-theme-three/dist/images/services/water-damage_37ccafcc.jpg)
+![Water damage][(Wp Content/themes/sk Theme Three/dist/images/services/water Damage_37ccafcc.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/water-damage_37ccafcc.jpg)
 
-![Fire restoration](/wp-content/themes/sk-theme-three/dist/images/services/fire-restoration_6478c587.jpg)
+![Fire restoration][(Wp Content/themes/sk Theme Three/dist/images/services/fire Restoration_6478c587.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/fire-restoration_6478c587.jpg)
 
-![Mold remediation](/wp-content/themes/sk-theme-three/dist/images/services/mold-remediation_5e0b7e7e.jpg)
+![Mold remediation][(Wp Content/themes/sk Theme Three/dist/images/services/mold Remediation_5e0b7e7e.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/mold-remediation_5e0b7e7e.jpg)
 
-![Commercial](/wp-content/themes/sk-theme-three/dist/images/services/generic-commercial_c11638e7.jpg)
+![Commercial][(Wp Content/themes/sk Theme Three/dist/images/services/generic Commercial_c11638e7.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/generic-commercial_c11638e7.jpg)
 
-![Roof Tarping](/wp-content/themes/sk-theme-three/dist/images/services/roof-tarping_cfdce409.jpg)
+![Roof Tarping][(Wp Content/themes/sk Theme Three/dist/images/services/roof Tarping_cfdce409.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/roof-tarping_cfdce409.jpg)
 
 ## Helping home owners & businesses get back to comfort
 
@@ -138,17 +138,17 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →](/about/)
+[Learn More →][About](/about/)
 
 > Alexander's team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful.
 > 
 > **Abraham M.**
 
-[READ MORE →](//about#customer-reviews)
+[READ MORE →][About#customer Reviews](//about#customer-reviews)
 
-![BBB A+](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
+![BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
 
-![IICRC Certified Firm](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
+![IICRC Certified Firm][(Wp Content/uploads/2021/09/IICRC Certified Firm Gradient Color 687x1024 1.png)](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
 
 [Facebook](https://www.facebook.com/totalcarerestoration)
 

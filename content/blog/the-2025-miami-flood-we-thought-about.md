@@ -101,7 +101,7 @@ In addition, many professionals reported that TPA were demanding more monitoring
 
 For many people in South Florida and coastal areas, dealing with flooding is more and more of a common reality. It’s essential not just to test your home for structural inadequacies, but also take a modern approach to flood restoration to minimize the impact of water damage.
 
-For your flood restoration needs, contact professionals like (/contact). Not only do we believe in doing the most for our customers in the Miami area, but we’re also:
+For your flood restoration needs, contact professionals like [Contact](/contact). Not only do we believe in doing the most for our customers in the Miami area, but we’re also:
 
 -   5-star-rated on Yelp
 -   IICRC-certified
@@ -111,11 +111,11 @@ This means that we have the skills and expertise to provide flood restoration se
 
 We are experts in:
 
--   (/services/water-restoration/)
--   (/services/fire-restoration/)
--   (/services/mold-remediation/)
--   (/services/roof-tarping/)
+-   [Water Restoration](/services/water-restoration/)
+-   [Fire Restoration](/services/fire-restoration/)
+-   [Mold Remediation](/services/mold-remediation/)
+-   [Roof Tarping](/services/roof-tarping/)
 
 Our customers also trust us to diagnose different issues and repair foundation, leaks, mold infestations, and other side effects of flooding.
 
-(/contact-us/) for a free inspection.
+[Contact Us](/contact-us/) for a free inspection.

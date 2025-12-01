@@ -34,7 +34,7 @@ Cleaning fire-damaged concrete is no simple task – it comes with hidden danger
 
 ### Identifying Potential Hazards
 
-(/services/fire-restoration/) can weaken key structural elements like load-bearing walls, roof supports, and foundations, making them vulnerable to collapse \. Beyond structural risks, fires release harmful substances such as carbon monoxide, formaldehyde, and asbestos fibers. Fine soot and ash particles may linger in the air, posing respiratory risks and settling into small cracks, where they can continue to cause problems over time.
+[Fire Restoration](/services/fire-restoration/) can weaken key structural elements like load-bearing walls, roof supports, and foundations, making them vulnerable to collapse \. Beyond structural risks, fires release harmful substances such as carbon monoxide, formaldehyde, and asbestos fibers. Fine soot and ash particles may linger in the air, posing respiratory risks and settling into small cracks, where they can continue to cause problems over time.
 
 Water used to extinguish the fire complicates matters further. Within just 24–48 hours, mold can start growing on fire-damaged concrete, adding another layer of health risks.
 
@@ -208,7 +208,7 @@ The best choice ultimately depends on what matters most to you – whether it’
 
 ## Related posts
 
--   (/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   (/blog/how-to-stop-smoke-damage-after-a-fire/)
--   (/blog/common-air-quality-issues-after-fire-cleanup/)
--   (/blog/fire-damage-inspection-steps/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
+-   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
+-   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)

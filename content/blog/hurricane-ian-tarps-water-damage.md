@@ -17,7 +17,7 @@ We have already helped hundreds of residents in Fort Myers, Cape Coral, Punta Go
   
 At Total Care Restoration, we offer tarp installation services for any property affected by weather-related damage. Our team of highly trained technicians can quickly and efficiently install tarps on roofs, walls, and other areas of your property to protect it from further damage.
 
-We use the (/services/roof-tarping/) that are designed to be durable and long-lasting, ensuring that your property is safe from the elements. With our tarp installation services, you can rest assured that your property is in good hands and will be secure until repairs can be made. Contact us today for more information.
+We use the [Roof Tarping](/services/roof-tarping/) that are designed to be durable and long-lasting, ensuring that your property is safe from the elements. With our tarp installation services, you can rest assured that your property is in good hands and will be secure until repairs can be made. Contact us today for more information.
 
 (tel:12393269961)
 
@@ -64,7 +64,7 @@ What Happens During The Water Damage Process?
 
 Technicians use a variety of sensors and meters to accurately measure and display the moisture content of floors, walls, ceilings, and other materials. This helps them determine the best way to dry these materials out or if they need to be torn out.
 
-Using a fan to blow air across a surface causes the water to evaporate, while a (/restoration-dehumidifiers/) then extracts the moisture from the air and drains it away to prevent any further damage.
+Using a fan to blow air across a surface causes the water to evaporate, while a [Restoration Dehumidifiers](/restoration-dehumidifiers/) then extracts the moisture from the air and drains it away to prevent any further damage.
 
 Deodorization Equipment
 

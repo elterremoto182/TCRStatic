@@ -18,7 +18,7 @@ Historical homes in Miami are particularly vulnerable to water damage due to the
 
 ### **The Importance of Quick Action**
 
-When water damage occurs, time is of the essence. Prompt action can prevent further damage and help in salvaging materials and features unique to your historical home. Learn more about the urgency of addressing water damage through our comprehensive guide on (/services/water-restoration/).
+When water damage occurs, time is of the essence. Prompt action can prevent further damage and help in salvaging materials and features unique to your historical home. Learn more about the urgency of addressing water damage through our comprehensive guide on [Water Restoration](/services/water-restoration/).
 
 ## **The Total Care Restoration Approach**
 
@@ -32,11 +32,11 @@ The first step in managing water damage is a thorough assessment. We evaluate th
 
 ### **Water Removal and Drying Process**
 
-Removing water and drying out your home are critical steps in the restoration process. Historical homes require special attention to prevent damage to their unique features. Our (/water-damage-dry-out-process/) explains how we carefully remove water and moisture, using techniques that protect the integrity of your home.
+Removing water and drying out your home are critical steps in the restoration process. Historical homes require special attention to prevent damage to their unique features. Our [Water Damage Dry Out Process](/water-damage-dry-out-process/) explains how we carefully remove water and moisture, using techniques that protect the integrity of your home.
 
 ### **Mold Detection and Remediation**
 
-Mold can be a significant concern in historical homes following water damage. It not only poses health risks but can also cause irreversible damage to historical materials. At Total Care Restoration, we have expertise in detecting and addressing mold issues, even those hidden behind walls. Discover how we tackle these challenges in our guide on (/tell-mold-behind-walls/).
+Mold can be a significant concern in historical homes following water damage. It not only poses health risks but can also cause irreversible damage to historical materials. At Total Care Restoration, we have expertise in detecting and addressing mold issues, even those hidden behind walls. Discover how we tackle these challenges in our guide on [Tell Mold Behind Walls](/tell-mold-behind-walls/).
 
 ## **Restoring Your Historical Home with Care**
 

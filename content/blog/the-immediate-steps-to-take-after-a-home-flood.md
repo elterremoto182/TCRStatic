@@ -36,13 +36,13 @@ While waiting for Total Care Restoration’s team to arrive, refrain from attemp
 
 Total Care Restoration utilizes advanced equipment and techniques to extract water and moisture from your home in the most efficient manner possible. Our comprehensive water damage dry-out process ensures that all affected areas are thoroughly dried and prevents further damage or mold growth.
 
-Learn more about our water restoration service (/services/water-restoration/).
+Learn more about our water restoration service [Water Restoration](/services/water-restoration/).
 
 ## Step 6: Address Mold Remediation
 
 In some cases, water damage can lead to mold growth if not addressed promptly. If our evaluation reveals the presence of mold, our mold remediation specialists will develop a tailored plan to eliminate the mold and restore your home to a safe and healthy environment.
 
-Find more information on our mold remediation services (/services/mold-remediation/).
+Find more information on our mold remediation services [Mold Remediation](/services/mold-remediation/).
 
 ## Step 7: Take Preventive Measures
 
@@ -50,4 +50,4 @@ After completing the restoration process, it’s important to take preventive me
 
 In conclusion, a prompt response and proper actions are vital when dealing with a home flood. By following these immediate steps and relying on experts like Total Care Restoration, you can minimize the damage caused by water, prevent mold growth, and restore your home to its pre-flood condition.
 
-For more information on the water damage dry-out process, visit (/water-damage-dry-out-process/).
+For more information on the water damage dry-out process, visit [Water Damage Dry Out Process](/water-damage-dry-out-process/).

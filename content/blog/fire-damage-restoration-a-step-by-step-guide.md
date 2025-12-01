@@ -20,7 +20,7 @@ Welcome to Total Care Restoration’s comprehensive guide on fire damage restora
 
 The first step in fire damage restoration is to assess the extent of the damage. Here at Total Care Restoration, our team of experts will perform a thorough inspection of your property to evaluate the affected areas, identify potential hazards, and determine the best course of action.
 
-To learn more about our fire restoration services, click (/services/fire-restoration/).
+To learn more about our fire restoration services, click [Fire Restoration](/services/fire-restoration/).
 
 ## Step 2: Safety First
 
@@ -46,7 +46,7 @@ Smoke and soot residue can permeate surfaces and belongings, leading to unpleasa
 
 Once the cleaning process is complete, our expert technicians will commence the restoration and reconstruction phase. This step may involve replacing damaged materials, repairing structural elements, and restoring your property to its pre-loss condition.
 
-For more details, visit our (/fire-damage-restoration-guide/).
+For more details, visit our [Fire Damage Restoration Guide](/fire-damage-restoration-guide/).
 
 ## Step 7: Prevent Future Fires
 

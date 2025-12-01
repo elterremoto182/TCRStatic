@@ -41,13 +41,13 @@ There are a variety of reasons why you may feel like you need to go that extra m
 
 Perhaps hurricane season is coming and you just want that added layer of security for your home. 
 
-[!(/wp-content/uploads/2021/11/1st-roof-wrap.jpg)](/wp-content/uploads/2021/11/1st-roof-wrap.jpg)
+[!(/wp-content/uploads/2021/11/1st-roof-wrap.jpg)][(Wp Content/uploads/2021/11/1st Roof Wrap.jpg)](/wp-content/uploads/2021/11/1st-roof-wrap.jpg)
 
 Panoramic shot of a shrink wrap
 
 Perhaps your roof is being restored and you want to protect the work while it is being done. Or, in the worst case scenario, your roof is already damaged and you need a temporary hold-over while waiting for repairs.
 
-A lot of people in this situation simply use a (/services/roof-tarping/) to cover their roof, but you have other options.
+A lot of people in this situation simply use a [Roof Tarping](/services/roof-tarping/) to cover their roof, but you have other options.
 
 Here’s how shrink wrapping a roof works and why it may be your ideal choice. 
 
@@ -61,7 +61,7 @@ A shrink wrap is not only important to avoid roof damage, but also to stop damag
 
 The main reason you should consider a shrink wrap is to avoid water damage to your home. The longer you let water into your home, the more damage it can create.
 
-This damage can lead to a very expensive water damage restoration. If you find water damage in your house you should read our (/water-damage-restoration-guide/).
+This damage can lead to a very expensive water damage restoration. If you find water damage in your house you should read our [Water Damage Restoration Guide](/water-damage-restoration-guide/).
 
 In addition, if you are in the South Florida area reach out to us for a free inspection.
 
@@ -81,7 +81,7 @@ Note that this isn’t the type of work that you want to try and do yourself. On
 
 So, with all these added precautions, why go to the trouble of shrink wrapping your roof? One of the major benefits is that when it comes to using a blue tarp over a roof, you basically have to hope your roof is a good fit in order to get proper coverage.
 
-Because of the nature of shrink-wrapping, it’s a lot easier to try and get something that fits tightly around oddly-shaped roofs, which can be essential if you have an older or custom-made home. This perfect seal/shrink wrap is going to be what keeps out rain, (/services/mold-remediation/), and other undesirable things until your roof can be repaired.
+Because of the nature of shrink-wrapping, it’s a lot easier to try and get something that fits tightly around oddly-shaped roofs, which can be essential if you have an older or custom-made home. This perfect seal/shrink wrap is going to be what keeps out rain, [Mold Remediation](/services/mold-remediation/), and other undesirable things until your roof can be repaired.
 
 This is essential when it comes to heavy storm or wind conditions, as contractors don’t have to worry about returning to different parts of the shrink wrapping to reattach things due to damage.
 
@@ -125,9 +125,9 @@ These tarps are thicker than blue tarps, waterproof and UV light protected. The 
 
 If you’re interested in getting your roof shrink-wrapped, or installing a tarp today give us a call.
 
-We have helped hundreds of customers with their roof leaks and their (/services/shrink-wrapping/).
+We have helped hundreds of customers with their roof leaks and their [Shrink Wrapping](/services/shrink-wrapping/).
 
-We can help you with any type of work to avoid or mitigate (/services/water-restoration/), be sure to reach out to (/contact "/contact").
+We can help you with any type of work to avoid or mitigate [Water Restoration](/services/water-restoration/), be sure to reach out to [Contact "/contact"](/contact "/contact").
 
 Not only do we believe in doing the most for our customers in the Miami area, but we’re also IICRC-certified. This means we use the best cleaning and restoration tactics to help protect your home.
 
@@ -136,9 +136,9 @@ We service Miami, Broward and the Palm Beaches.
 In addition, we may be able to bill your insurance company for our services instead of making you pay.
 
 ## Related Links
-- [How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems)
-- [How to Tarp a Roof After Storm Damage](/how-to-tarp-a-roof-after-storm-damage)
-- [How to Stop Smoke Damage After a Fire](/how-to-stop-smoke-damage-after-a-fire)
-- [How to Safely Reenter Fire-Damaged Properties](/how-to-safely-reenter-fire-damaged-properties)
+- [How Water Damage Affects Electrical Systems][How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems)
+- [How to Tarp a Roof After Storm Damage][How to Tarp a Roof After Storm Damage](/how-to-tarp-a-roof-after-storm-damage)
+- [How to Stop Smoke Damage After a Fire][How to Stop Smoke Damage After a Fire](/how-to-stop-smoke-damage-after-a-fire)
+- [How to Safely Reenter Fire-Damaged Properties][How to Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties)
 
-- [How to Prevent Electrical Fires at Home](/how-to-prevent-electrical-fires-at-home)
+- [How to Prevent Electrical Fires at Home][How to Prevent Electrical Fires at Home](/how-to-prevent-electrical-fires-at-home)

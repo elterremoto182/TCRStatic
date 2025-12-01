@@ -15,7 +15,7 @@ keywords: ["systems", "filters", "particles", "quality", "pathogens", "airborne"
 -   **HEPA Filters**: These physically trap airborne particles like dust, pollen, and pathogens. They’re highly effective for allergens and virus-carrying aerosols but don’t kill microorganisms. Regular filter replacement (every 6–12 months) is needed.
 -   **UV Systems**: These destroy pathogens like bacteria and viruses by disrupting their DNA with UV-C light. They’re ideal for neutralizing microorganisms but don’t remove particles or gases. UV bulbs require replacement every 12–15 months.
 
-Both options improve (/services/air-quality-inspections/) but serve different purposes. HEPA filters excel at particle removal, while UV systems focus on pathogen inactivation. Combining the two provides a stronger defense against airborne contaminants.
+Both options improve [Air Quality Inspections](/services/air-quality-inspections/) but serve different purposes. HEPA filters excel at particle removal, while UV systems focus on pathogen inactivation. Combining the two provides a stronger defense against airborne contaminants.
 
 * * *
 
@@ -73,7 +73,7 @@ To ensure HEPA filters perform as intended, regular maintenance is critical. The
 
 > "All air cleaners require periodic cleaning and filter replacement to function properly. Follow manufacturer’s recommendations on maintenance and replacement."
 
-**True HEPA filters typically need replacement every 6 to 12 months**, depending on factors like (/services/indoor-air-quality/), filter size, and usage patterns. Monthly inspections are recommended – **check for dust and debris buildup during periods of heavy use**.
+**True HEPA filters typically need replacement every 6 to 12 months**, depending on factors like [Indoor Air Quality](/services/indoor-air-quality/), filter size, and usage patterns. Monthly inspections are recommended – **check for dust and debris buildup during periods of heavy use**.
 
 Failing to replace filters on time can reduce their efficiency, allowing particles to bypass the filter. Clogged filters also restrict airflow, forcing systems to work harder and consume more energy.
 
@@ -115,7 +115,7 @@ Proper installation and upkeep not only ensure safety but also optimize performa
 
 ## HEPA Filters vs. UV Systems Comparison
 
-HEPA filters and UV systems tackle (/services/indoor-air-quality) in distinct ways. HEPA filters work by physically capturing particles, while UV systems neutralize pathogens by damaging their DNA. Each method has its own strengths and limitations, making the choice dependent on specific needs.
+HEPA filters and UV systems tackle [Indoor Air Quality](/services/indoor-air-quality) in distinct ways. HEPA filters work by physically capturing particles, while UV systems neutralize pathogens by damaging their DNA. Each method has its own strengths and limitations, making the choice dependent on specific needs.
 
 ### Side-by-Side Comparison
 
@@ -229,7 +229,7 @@ Installing UV systems isn’t a DIY job – improper setup can lead to safety ri
 
 ### Comprehensive Restoration Services
 
-Beyond air purification, Total Care Restoration addresses the root causes of air quality issues. Their services include (/water-damage-clean-up/), (/services/mold-remediation/), and fire restoration, ensuring a holistic approach to improving indoor environments.
+Beyond air purification, Total Care Restoration addresses the root causes of air quality issues. Their services include [Water Damage Clean Up](/water-damage-clean-up/), [Mold Remediation](/services/mold-remediation/), and fire restoration, ensuring a holistic approach to improving indoor environments.
 
 **Mold Remediation for Cleaner Air**
 
@@ -282,7 +282,7 @@ UV systems, on the other hand, demand a bit more caution due to the risks associ
 
 ## Related posts
 
--   (/blog/5-steps-for-emergency-mold-mitigation/)
--   (/blog/common-air-quality-issues-after-fire-cleanup/)
--   (/blog/how-negative-pressure-prevents-mold-spread/)
--   (/blog/air-quality-testing-after-fire-damage/)
+-   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
+-   [How Negative Pressure Prevents Mold Spread](/blog/how-negative-pressure-prevents-mold-spread/)
+-   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)

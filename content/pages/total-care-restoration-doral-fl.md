@@ -29,7 +29,7 @@ Water damage can lead to **structural issues, mold growth, and costly repairs** 
 🚰 **Advanced Drying & Dehumidification**  
 🚰 **Leak Detection & Moisture Control**
 
-💡 **Need professional water cleanup? Call us for** [**water damage restoration in Doral, FL!**](/diy-tips-preventing-mold-after-a-leak-or-flood/)
+💡 **Need professional water cleanup? Call us for** [**water damage restoration in Doral, FL!**][DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/)
 
 * * *
 
@@ -53,7 +53,7 @@ Doral’s humid climate makes **mold infestations a common issue** for both home
 🦠 **Safe & Effective Mold Removal**  
 🦠 **Humidity & Moisture Control**
 
-💡 **Suspect mold in your property? Call us for** [**Doral mold remediation and removal!**](/tell-mold-behind-walls/)
+💡 **Suspect mold in your property? Call us for** [**Doral mold remediation and removal!**][Tell Mold Behind Walls](/tell-mold-behind-walls/)
 
 * * *
 
@@ -65,7 +65,7 @@ South Florida is no stranger to **hurricanes and severe storms**, which can lead
 🌪 **Storm Debris Cleanup & Removal**  
 🌪 **Structural Repairs & Restoration**
 
-💡 **Dealing with hurricane damage? Call us now for** [**Doral storm restoration services!**](/)
+💡 **Dealing with hurricane damage? Call us now for** [****](/)
 
 * * *
 
@@ -95,11 +95,11 @@ Total Care Restoration proudly serves **Doral and surrounding areas** in **Miami
 
 ### **Other Miami-Dade County Service Areas:**
 
-✅ **(/miami-restoration-services/)**  
-✅ **(/miami-beach-restoration-services/)**  
-✅ **(/pinecrest-restoration-services/)**  
-✅ **(/miami-lakes-restoration-services/)**  
-✅ **(/kendall-restoration-services/)**  
+✅ [**Miami restoration services**](/miami-restoration-services/)  
+✅ [**Miami Beach restoration services**](/miami-beach-restoration-services/)  
+✅ [**Pinecrest restoration services**](/pinecrest-restoration-services/)  
+✅ [**Miami Lakes restoration services**](/miami-lakes-restoration-services/)  
+✅ [**Kendall restoration services**](/kendall-restoration-services/)  
 ✅ **Homestead Restoration Services**
 
 ### **Upcoming Service Areas in Miami-Dade County**

@@ -34,7 +34,7 @@ Then, you place the tarp over the plywood and secure it with lumber.
 
 Remember, the goal of an emergency roof tarp is not to “fix” a roof leak. It is not a substitute for a proper repair. Your home will still experience some losses in terms of water resistance and energy efficiency until you can fix the roof. The tarp’s role is to slow down the spread of any potential leaks or damage until a professional can repair the roof correctly.
 
-The general lifespan of a (/services/roof-tarping/) is a few months, although some longer-lasting tarps can last a year or two. Make sure to inquire about the type of tarp you are getting when you have your tarp installed.
+The general lifespan of a [Roof Tarping](/services/roof-tarping/) is a few months, although some longer-lasting tarps can last a year or two. Make sure to inquire about the type of tarp you are getting when you have your tarp installed.
 
 ## Why Would You Need One?
 
@@ -47,11 +47,11 @@ You might also be unsure whether you need to replace the entire roof or just a s
 
 Although these are the primary reasons for emergency roof tarping, there are other scenarios as well. For instance, if you’re inspecting your home before selling it and discover a minor leak, it might be a good idea to use an emergency roof tarp. This will prevent any further roof issues until a professional can address it.
 
-However, waiting to (/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/) may cause water damage to your home.
+However, waiting to [Should I Install a Roof Tarp Now Or Wait to Replace My Roof](/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/) may cause water damage to your home.
 
 ## Consider A Shrink-wrap
 
-(/benefits-shrink-wrapping-roof-blue-tarps/) is a vital component of our emergency tarping services, offering an advanced solution to protect your property from further damage after an emergency.
+[Benefits Shrink Wrapping Roof Blue Tarps](/benefits-shrink-wrapping-roof-blue-tarps/) is a vital component of our emergency tarping services, offering an advanced solution to protect your property from further damage after an emergency.
 
 This method securely encases roofs or damaged areas in a tight, durable layer of plastic that is heat-shrunk to form a barrier against moisture, wind, and debris.
 

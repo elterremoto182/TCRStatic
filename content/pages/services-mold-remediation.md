@@ -71,11 +71,11 @@ Act now, Miami! Don’t let mold diminish your quality of life.
 
 Mold removal in Miami review:
 
-[Image: Mold removal review](/wp-content/uploads/2025/07/mold-removal-review-Miami-1024x220.png)
+[Image: Mold removal review][(Wp Content/uploads/2025/07/mold Removal Review Miami 1024x220.png)](/wp-content/uploads/2025/07/mold-removal-review-Miami-1024x220.png)
 
 Mold Remediation in Miami
 
-[Image: Mold remediation review](/wp-content/uploads/2025/07/mold-remediation-review-Miami-1024x224.png)
+[Image: Mold remediation review][(Wp Content/uploads/2025/07/mold Remediation Review Miami 1024x224.png)](/wp-content/uploads/2025/07/mold-remediation-review-Miami-1024x224.png)
 
 *“Mold took over our garage until Total Care Restoration stepped in. Quick, effective, and truly the best Mold Remediation Miami offers.”* – Carlos R., Miami
 
@@ -113,17 +113,17 @@ To prevent mold growth in your home, it is important to address any leaks in the
 
 Our professional technicians and staff are ready to help!
 
-[Call (786) 610-6317](tel:(786) 610-6317) | [Email Us](/contact/)
+[Call (786) 610-6317](tel:(786) 610-6317) | [Email Us][Contact](/contact/)
 
 ## Water, fire, and mold restoration experts
 
-- [Water damage](/services/water-restoration/)
-- [Fire restoration](/services/fire-restoration/)
-- [Mold remediation](/services/mold-remediation/)
-- [Commercial](/services/commercial/)
-- [Roof Tarping](/services/roof-tarping/)
-- [Air Quality Inspections](/services/air-quality-inspections/)
-- [Shrink Wrapping](/services/shrink-wrapping/)
+- [Water damage][Water Restoration](/services/water-restoration/)
+- [Fire restoration][Fire Restoration](/services/fire-restoration/)
+- [Mold remediation][Mold Remediation](/services/mold-remediation/)
+- [Commercial][Commercial](/services/commercial/)
+- [Roof Tarping][Roof Tarping](/services/roof-tarping/)
+- [Air Quality Inspections][Air Quality Inspections](/services/air-quality-inspections/)
+- [Shrink Wrapping][Shrink Wrapping](/services/shrink-wrapping/)
 
 ## Helping home owners & businesses get back to comfort
 
@@ -131,7 +131,7 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →](/about/)
+[Learn More →][About](/about/)
 
 ## Testimonial
 
@@ -139,13 +139,13 @@ We will alleviate the stress associated with these types of situations by provid
 
 — Abraham M.
 
-[READ MORE →](//about#customer-reviews)
+[READ MORE →][About#customer Reviews](//about#customer-reviews)
 
 ## Resources
 
-- [BBB A+](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
-- [IICRC Certified Firm](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
-- [Facebook](/wp-content/uploads/2021/09/facebook-reviews-1.png)
-- [Google Reviews](/wp-content/uploads/2021/09/Group-20.png)
-- [Instagram](/wp-content/uploads/2025/09/Screenshot-2025-09-04-at-10.16.31-AM-116x120.png)
-- [Youtube](/wp-content/uploads/2025/09/Screenshot-2025-09-04-at-10.19.51-AM-270x108.png)
+- [BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
+- [IICRC Certified Firm][(Wp Content/uploads/2021/09/IICRC Certified Firm Gradient Color 687x1024 1.png)](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
+- [Facebook][(Wp Content/uploads/2021/09/facebook Reviews 1.png)](/wp-content/uploads/2021/09/facebook-reviews-1.png)
+- [Google Reviews][(Wp Content/uploads/2021/09/Group 20.png)](/wp-content/uploads/2021/09/Group-20.png)
+- [Instagram][(Wp Content/uploads/2025/09/Screenshot 2025 09 04 at 10.16.31 AM 116x120.png)](/wp-content/uploads/2025/09/Screenshot-2025-09-04-at-10.16.31-AM-116x120.png)
+- [Youtube][(Wp Content/uploads/2025/09/Screenshot 2025 09 04 at 10.19.51 AM 270x108.png)](/wp-content/uploads/2025/09/Screenshot-2025-09-04-at-10.19.51-AM-270x108.png)

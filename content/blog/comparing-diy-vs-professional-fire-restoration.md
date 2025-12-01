@@ -65,10 +65,10 @@ Contact Total Care Restoration today to learn more about their professional fire
 
 More about fire restoration:
 
--   (/services/fire-restoration/) by Total Care Restoration
--    (/understanding-water-damage-the-basics-everyone-should-know/)
+-   [Fire Restoration](/services/fire-restoration/) by Total Care Restoration
+-    [Understanding Water Damage the Basics Everyone Should Know](/understanding-water-damage-the-basics-everyone-should-know/)
 
 ## Related Links
-- [What is an Air scrubber?](/what-is-an-air-scrubber)
+- [What is an Air scrubber?][What Is an Air Scrubber](/what-is-an-air-scrubber)
 
-- [What Is a Post-Restoration Verification Report?](/what-is-a-post-restoration-verification-report)
+- [What Is a Post-Restoration Verification Report?][What Is a Post Restoration Verification Report](/what-is-a-post-restoration-verification-report)

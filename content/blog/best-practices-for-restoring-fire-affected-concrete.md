@@ -32,7 +32,7 @@ Act quickly to minimize costs and risks. For complex damage, consult professiona
 
 ## How to Assess Fire Damage in Concrete
 
-Evaluating (/services/fire-restoration/) in concrete involves more than just a quick glance. Fires can reach temperatures of over **2,000°F**, causing deep, often hidden, chemical changes within the material.
+Evaluating [Fire Restoration](/services/fire-restoration/) in concrete involves more than just a quick glance. Fires can reach temperatures of over **2,000°F**, causing deep, often hidden, chemical changes within the material.
 
 Start by looking for visible signs like spalling, cracks, and discoloration. Concrete exposed to extreme heat may turn pink or red due to iron oxide formation, while temperatures exceeding 1,000°F can result in gray or white coloration.
 
@@ -87,11 +87,11 @@ Remember to collect any runoff water carefully to prevent contaminated liquids f
 
 After cleaning, it’s time to prepare the surface for repairs. Damaged layers of concrete should be removed using mechanical methods like grinding or gentle blasting. This step creates a textured surface, which is essential for repair materials to bond effectively. Smooth surfaces don’t provide enough grip, so processes like scarification or light blasting can help achieve the right texture. Once the surface is prepped, rinse it thoroughly with clean water to remove any remaining dust or debris. Allow the concrete to dry completely before moving on to repairs.
 
-(/combating-smoke-odor-professional-techniques-for-a-fresh-home/) can be particularly stubborn, as odor molecules can penetrate deep into the concrete. For these cases, additional steps such as professional ozone treatments or applying specialized sealers may be necessary to eliminate smells.
+[Combating Smoke Odor Professional Techniques for a Fresh Home](/combating-smoke-odor-professional-techniques-for-a-fresh-home/) can be particularly stubborn, as odor molecules can penetrate deep into the concrete. For these cases, additional steps such as professional ozone treatments or applying specialized sealers may be necessary to eliminate smells.
 
 Finally, apply a new sealer to the cleaned and prepared surface. Fire often destroys existing sealers, leaving the concrete exposed to future damage and contamination. A fresh coat of sealer not only protects the surface but also helps prevent smoke odors from reappearing.
 
-If the contamination is severe or odors persist despite your efforts, consider reaching out to (/services/commercial/) like (/) (). They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
+If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/services/commercial/) like (/) (). They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
 
 ###### sbb-itb-7cc21ef
 
@@ -138,7 +138,7 @@ Once repairs are completed, thorough testing and consistent maintenance are esse
 
 ### Testing Completed Repairs
 
-Just as with initial assessments, proper testing ensures that repairs bring the concrete back to its original strength and meet building code requirements. Engineers use a variety of methods, including (/services/video-inspection/), load tests, thermal imaging, and core sampling, to verify the quality of the restoration.
+Just as with initial assessments, proper testing ensures that repairs bring the concrete back to its original strength and meet building code requirements. Engineers use a variety of methods, including [Video Inspection](/services/video-inspection/), load tests, thermal imaging, and core sampling, to verify the quality of the restoration.
 
 -   **Load Testing**: This process evaluates whether the repaired areas can handle their intended loads. Engineers apply controlled stress to the repaired sections while monitoring for deflection, cracking, or other signs of failure. For commercial properties, these tests often adhere to specific building code protocols, with results documented for compliance purposes.
 -   **Thermal Analysis**: Repaired areas, especially those affected by fire, may respond differently to temperature changes. Infrared thermography can detect variations in heat transfer patterns, revealing potential weak spots or incomplete bonding. This step is particularly important for ensuring that repairs won’t create new stress points due to thermal expansion differences.
@@ -148,7 +148,7 @@ Just as with initial assessments, proper testing ensures that repairs bring the 
 
 After repairs, specialized treatments are often needed to eliminate lingering smoke odors and toxins that can remain trapped in the porous structure of concrete.
 
-(/services/air-quality-inspections/) plays a key role in this process. Tests measure levels of volatile organic compounds (VOCs), particulates, and other airborne contaminants to confirm that the space is safe for use. In some cases, multiple rounds of testing may be necessary, as certain contaminants can take weeks to fully dissipate.
+[Air Quality Inspections](/services/air-quality-inspections/) plays a key role in this process. Tests measure levels of volatile organic compounds (VOCs), particulates, and other airborne contaminants to confirm that the space is safe for use. In some cases, multiple rounds of testing may be necessary, as certain contaminants can take weeks to fully dissipate.
 
 ### Record Keeping and Ongoing Maintenance
 
@@ -164,7 +164,7 @@ Preventive maintenance also extends the lifespan of repaired structures. Regular
 
 Maintaining compliance documentation is equally important, as many jurisdictions require periodic inspections of fire-damaged structures. Up-to-date paperwork simplifies these inspections and ensures adherence to safety regulations. It also facilitates future renovations or property sales by clearly demonstrating the quality of the restoration work.
 
-For complex restoration projects, professional guidance can make all the difference. Total Care Restoration offers a full range of (/fire-damage-restoration-guide/), including post-repair testing and maintenance planning. Their certified technicians can help you establish efficient documentation systems and maintenance protocols to protect your investment. For expert assistance or immediate consultation, reach out to them at (786) 610-6317.
+For complex restoration projects, professional guidance can make all the difference. Total Care Restoration offers a full range of [Fire Damage Restoration Guide](/fire-damage-restoration-guide/), including post-repair testing and maintenance planning. Their certified technicians can help you establish efficient documentation systems and maintenance protocols to protect your investment. For expert assistance or immediate consultation, reach out to them at (786) 610-6317.
 
 ## Conclusion
 
@@ -182,7 +182,7 @@ Attempting a do-it-yourself approach can be dangerous and ineffective, especiall
 
 The choice between repairing or replacing fire-damaged concrete hinges on how badly the material has been affected. **Severe structural problems** – like deep cracks, spalling, or compromised strength – usually call for a full replacement to maintain safety. In contrast, **less serious surface issues**, such as discoloration or shallow cracks, can often be fixed with repairs and proper sealing.
 
-For a reliable evaluation, it’s wise to consult a **structural engineer or fire restoration specialist**. These professionals can assess the extent of the damage and suggest the safest, long-lasting solution. If you’re facing fire damage, companies like *Total Care Restoration* offer (/miramar-restoration-services/) and can help you navigate the process. Their 24/7 emergency line, **(786) 610-6317**, is available to provide immediate assistance.
+For a reliable evaluation, it’s wise to consult a **structural engineer or fire restoration specialist**. These professionals can assess the extent of the damage and suggest the safest, long-lasting solution. If you’re facing fire damage, companies like *Total Care Restoration* offer [Miramar restoration services](/miramar-restoration-services/) and can help you navigate the process. Their 24/7 emergency line, **(786) 610-6317**, is available to provide immediate assistance.
 
 ### What safety measures should I follow when cleaning fire-damaged concrete to protect my health?
 
@@ -199,13 +199,13 @@ To evaluate the condition of fire-damaged concrete, methods like **ultrasonic pu
 Working with certified professionals is key to ensuring precise testing and a thorough assessment. This step is critical for deciding whether the concrete can be repaired or if replacement is necessary.
 
 ## Related posts
-- [Mold Growth Risk Calculator](/mold-growth-risk-calculator)
-- [How To Keep Kids Safe From Mold &#8211; Simple Tips](/keep-kids-safe-from-mold)
-- [Insurance and Roof Tarping: What Gets Covered?](/insurance-and-roof-tarping-what-gets-covered)
-- [Innovations in Dehumidification for Faster Drying](/innovations-in-dehumidification-for-faster-drying)
-- [Hurricane Ian Tarps And Water Damage](/hurricane-ian-tarps-water-damage)
+- [Mold Growth Risk Calculator][Mold Growth Risk Calculator](/mold-growth-risk-calculator)
+- [How To Keep Kids Safe From Mold &#8211; Simple Tips][Keep Kids Safe From Mold](/keep-kids-safe-from-mold)
+- [Insurance and Roof Tarping: What Gets Covered?][Insurance And Roof Tarping What Gets Covered](/insurance-and-roof-tarping-what-gets-covered)
+- [Innovations in Dehumidification for Faster Drying][Innovations in Dehumidification for Faster Drying](/innovations-in-dehumidification-for-faster-drying)
+- [Hurricane Ian Tarps And Water Damage][Hurricane Ian Tarps Water Damage](/hurricane-ian-tarps-water-damage)
 
--   (/blog/how-to-clean-fire-damaged-concrete/)
--   (/blog/air-quality-testing-after-fire-damage/)
--   (/blog/how-to-safely-reenter-fire-damaged-properties/)
--   (/blog/fire-damaged-wood-repair-or-replace/)
+-   [How To Clean Fire Damaged Concrete](/blog/how-to-clean-fire-damaged-concrete/)
+-   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
+-   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
+-   [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/)

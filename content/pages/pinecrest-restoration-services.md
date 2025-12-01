@@ -32,7 +32,7 @@ Water damage can spread **rapidly**, causing **structural problems and mold grow
 ✅ Structural Drying & Dehumidification  
 ✅ Water Damage Repairs & Reconstruction
 
-💡 **Prevent mold after water damage!** (/diy-tips-preventing-mold-after-a-leak-or-flood/)
+💡 **Prevent mold after water damage!** [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/)
 
 * * *
 
@@ -47,7 +47,7 @@ Pinecrest’s **warm and humid environment** makes homes and businesses **highly
 ✅ Air Quality Improvement & Decontamination  
 ✅ Moisture Control to Prevent Future Growth
 
-🚨 **Worried about hidden mold?** (/tell-mold-behind-walls/)
+🚨 **Worried about hidden mold?** [Tell Mold Behind Walls](/tell-mold-behind-walls/)
 
 * * *
 
@@ -92,10 +92,10 @@ Total Care Restoration proudly serves **Pinecrest and surrounding areas** in **M
 
 ### **Other Miami-Dade County Service Areas:**
 
-✅ **(/miami-restoration-services/)**  
-✅ **(/total-care-restoration-doral-fl/)**  
-✅ **(/miami-lakes-restoration-services/)**  
-✅ **(/kendall-restoration-services/)**  
+✅ [**Miami restoration services**](/miami-restoration-services/)  
+✅ [**Total Care Restoration Doral Fl**](/total-care-restoration-doral-fl/)  
+✅ [**Miami Lakes restoration services**](/miami-lakes-restoration-services/)  
+✅ [**Kendall restoration services**](/kendall-restoration-services/)  
 ✅ **Homestead Restoration Services**
 
 ### **Upcoming Service Areas in Miami-Dade County**

@@ -10,7 +10,7 @@ seo_description: "Learn essential tips for cleaning air purifier filters and mai
 keywords: ["filters", "purifier", "filter", "cleaning", "quality", "clean", "water", "months", "maintenance", "carbon"]
 ---
 
-Cleaning your air purifier filters is crucial for maintaining good (/services/air-quality-inspections/) and ensuring your device works efficiently. Dirty filters reduce performance and increase energy use. Here’s a quick guide to keep your air purifier running smoothly:
+Cleaning your air purifier filters is crucial for maintaining good [Air Quality Inspections](/services/air-quality-inspections/) and ensuring your device works efficiently. Dirty filters reduce performance and increase energy use. Here’s a quick guide to keep your air purifier running smoothly:
 
 -   **HEPA Filters**: Vacuum gently to remove dust. Most are not washable – check the manufacturer’s instructions.
 -   **Pre-Filters**: Wash with water (and mild soap if needed). Let them dry completely before reinstalling.
@@ -126,7 +126,7 @@ When routine cleaning isn’t enough, Total Care Restoration steps in to handle 
 
 Attempting to clean contaminated filters on your own can spread harmful spores. Instead, Total Care Restoration’s experts will safely remove damaged components and fix underlying issues like poor ventilation or moisture buildup. If water-damaged filters are harboring bacteria or mold, their team will determine whether repairs are possible or if a full replacement is needed.
 
-Additionally, professional (/services/indoor-air-quality/) can uncover hidden problems affecting your air purifier’s performance. This comprehensive approach evaluates your home’s entire environment, rather than focusing solely on the purifier itself.
+Additionally, professional [Indoor Air Quality](/services/indoor-air-quality/) can uncover hidden problems affecting your air purifier’s performance. This comprehensive approach evaluates your home’s entire environment, rather than focusing solely on the purifier itself.
 
 For emergency help with water, fire, or mold damage impacting your air purifier, reach out to Total Care Restoration at **(786) 610-6317**. Their fast response can stop minor issues from escalating into serious health risks.
 
@@ -164,7 +164,7 @@ For more thorough solutions, professional services such as **Total Care Restorat
 
 ## Related posts
 
--   (/blog/common-air-quality-issues-after-fire-cleanup/)
--   (/blog/air-quality-testing-after-fire-damage/)
--   (/blog/hepa-filters-vs-uv-systems-for-pathogen-control/)
--   (/blog/ozone-air-treatment-for-mold-and-pathogens/)
+-   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
+-   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
+-   [Hepa Filters Vs Uv Systems For Pathogen Control](/blog/hepa-filters-vs-uv-systems-for-pathogen-control/)
+-   [Ozone Air Treatment For Mold And Pathogens](/blog/ozone-air-treatment-for-mold-and-pathogens/)

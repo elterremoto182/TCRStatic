@@ -56,7 +56,7 @@ Total Care Restoration is the one stop shop to fulfill your water, fire, and mol
 
 There is no fixed timeline involved when it comes to our fire damage cleaning services. The whole process highly depends on the level of fire and how much area it has affected. The speed of fire restoration cleaning also depends on the materials that are present within the building.
 
-In such cases, you can [call our expert technicians](/contact/) who will visit the property to examine the damage and give you a free quote and estimate timeline.
+In such cases, you can [call our expert technicians][Contact](/contact/) who will visit the property to examine the damage and give you a free quote and estimate timeline.
 
 ### 2. Will my home insurance policy cover the fire damage restoration?
 
@@ -88,13 +88,13 @@ Our professional technicians and staff are ready to help!
 
 ## Water, fire, and mold restoration experts
 
-- [Water damage](/services/water-restoration/)
-- [Fire restoration](/services/fire-restoration/)
-- [Mold remediation](/services/mold-remediation/)
-- [Commercial](/services/commercial/)
-- [Roof Tarping](/services/roof-tarping/)
-- [Air Quality Inspections](/services/air-quality-inspections/)
-- [Shrink Wrapping](/services/shrink-wrapping/)
+- [Water damage][Water Restoration](/services/water-restoration/)
+- [Fire restoration][Fire Restoration](/services/fire-restoration/)
+- [Mold remediation][Mold Remediation](/services/mold-remediation/)
+- [Commercial][Commercial](/services/commercial/)
+- [Roof Tarping][Roof Tarping](/services/roof-tarping/)
+- [Air Quality Inspections][Air Quality Inspections](/services/air-quality-inspections/)
+- [Shrink Wrapping][Shrink Wrapping](/services/shrink-wrapping/)
 
 ## Helping home owners & businesses get back to comfort
 
@@ -102,10 +102,10 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →](/about/)
+[Learn More →][About](/about/)
 
 > Alexander's team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful.
 > 
 > Abraham M.
 
-[READ MORE →](//about#customer-reviews)
+[READ MORE →][About#customer Reviews](//about#customer-reviews)

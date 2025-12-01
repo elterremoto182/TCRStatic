@@ -47,7 +47,7 @@ Getting an area dry requires removing the moisture not only from the affected ma
 
 **Air Scrubber:** This machine works by removing chemicals, particles, and/or gasses from the air. It draws in air from the surrounding space and pushes it through various filters to remove the contaminants that contribute to odor.
 
-**Foggers:** These machines turn a chemical into a fog to eliminate odors from a room. They can also be used to kill bacteria or as a way to reduce or discourage (/tell-mold-behind-walls/) has occurred.
+**Foggers:** These machines turn a chemical into a fog to eliminate odors from a room. They can also be used to kill bacteria or as a way to reduce or discourage [Tell Mold Behind Walls](/tell-mold-behind-walls/) has occurred.
 
 **Thermal Foggers:** These machines work by using a solvent-based deodorizer that is heated and turned into a dry smoke/fog, which is blown into a room. The vaporized cleaning solution clings to the odor molecules and absorbs them, ridding the area of the smell. When combined with cleaning, this is an effective deodorizing technique.
 
@@ -91,7 +91,7 @@ Having your home damaged by water is an incredibly stressful and emotional exper
     Taking care of water damage needs to be done in a timely fashion. If it sits for too long, there’s a chance that (https://www.angieslist.com/articles/how-fast-can-water-damage-ruin-home.htm) or a Category 1 water damage will turn into a Category 2, which can have impacts on your health. This step may include calling a plumber (if one hasn’t already been called) to discover and stop any leaks. It may also require the removal of affected flooring, walls, and ceiling. Water damage can weaken the integrity of certain structural materials, making them a hazard if they collapse. In some cases, this material may not be able to dry properly, so to prevent water remaining trapped in the area, it will be removed.
 
 4.  **Drying**  
-    After the standing water has been removed and materials that could pose a drying or structural hazard have been removed, (/water-damage-dry-out-process/) will begin. This often involves placing fans and a dehumidifier in the area. In some cases, it might also involve putting up plastic sheeting and using heaters so that the water can evaporate. If walls have been impacted, it may be necessary to remove baseboards or drill holes so that they dry properly. A section of the carpet may also have to be lifted so that the carpet and the pad will dry. If these processes aren’t conducted, the chance of odor and mold growth increases. There’s also a chance of structural damage happening from excessive moisture.
+    After the standing water has been removed and materials that could pose a drying or structural hazard have been removed, [Water Damage Dry Out Process](/water-damage-dry-out-process/) will begin. This often involves placing fans and a dehumidifier in the area. In some cases, it might also involve putting up plastic sheeting and using heaters so that the water can evaporate. If walls have been impacted, it may be necessary to remove baseboards or drill holes so that they dry properly. A section of the carpet may also have to be lifted so that the carpet and the pad will dry. If these processes aren’t conducted, the chance of odor and mold growth increases. There’s also a chance of structural damage happening from excessive moisture.
 
 <iframe src="https://www.youtube.com/embed/_yKmU0NhXjM?feature=oembed" width="500" height="281" frameborder="0" title="Total Care Restoration - Water Damage Process   Part 3" allowfullscreen></iframe>
 
@@ -122,7 +122,7 @@ Once the water has been removed and everything is dry, the restoration company m
 
 ### **Mold Growth**
 
-After any type of water damage, the possibility of mold growth increases. Ensuring that the area was properly dried and then sanitized should reduce this likelihood. However, it’s not always possible to prevent all growth, but a good restoration company will have the skills and expertise to (/services/mold-remediation/) that grows as a result of water damage. 
+After any type of water damage, the possibility of mold growth increases. Ensuring that the area was properly dried and then sanitized should reduce this likelihood. However, it’s not always possible to prevent all growth, but a good restoration company will have the skills and expertise to [Mold Remediation](/services/mold-remediation/) that grows as a result of water damage. 
 
 ### **Reconstruction**
 
@@ -134,7 +134,7 @@ Most insurance companies and restoration companies work well together when it co
 
 ### **Should You Hire an Adjuster**
 
-Deciding whether or not to hire an adjuster for your claim will depend on a variety of things, including if you’re actually going to file a claim and if the damage is covered by your insurance policy. There are benefits from hiring an adjuster, but there could also be downsides as well, and you’ll need to determine if one outweighs the other. At (/contact "/contact"), we have the expertise and certification to help you with your Miami water damage needs. We are available 24/7 and 365 days a year, so give us a call so we can help you get your life and your home or business back to pre-disaster condition.
+Deciding whether or not to hire an adjuster for your claim will depend on a variety of things, including if you’re actually going to file a claim and if the damage is covered by your insurance policy. There are benefits from hiring an adjuster, but there could also be downsides as well, and you’ll need to determine if one outweighs the other. At [Contact "/contact"](/contact "/contact"), we have the expertise and certification to help you with your Miami water damage needs. We are available 24/7 and 365 days a year, so give us a call so we can help you get your life and your home or business back to pre-disaster condition.
 
 ## **Tips, Advice, and Checklist**
 

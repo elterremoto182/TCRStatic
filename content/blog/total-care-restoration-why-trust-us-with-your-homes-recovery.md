@@ -15,7 +15,7 @@ As a homeowner in Miami, Florida, you expect the occasional challenge presented 
 
 ## Proven Expertise and a Comprehensive Approach with Water Damage
 
-Water damage is not to be taken lightly. It can impact the structural integrity of your home and bring health hazards to your family if unattended. Here at Total Care Restoration, we understand the (/water-damage-dry-out-process/) comprehensively. We conduct thorough assessments, minimizing the damage and preventing the potential bloom of mold or mildew. Our techniques include nothing short of the industry’s best standards, ensuring you return to a safe and sound home.
+Water damage is not to be taken lightly. It can impact the structural integrity of your home and bring health hazards to your family if unattended. Here at Total Care Restoration, we understand the [Water Damage Dry Out Process](/water-damage-dry-out-process/) comprehensively. We conduct thorough assessments, minimizing the damage and preventing the potential bloom of mold or mildew. Our techniques include nothing short of the industry’s best standards, ensuring you return to a safe and sound home.
 
 ### From Detection to Complete Dry-out: Our Water Damage Recovery Process
 
@@ -23,7 +23,7 @@ Our process is thorough, and it starts with detecting the source. We control it 
 
 ## Experience and Efficiency in Fire Restoration
 
-Fire can cause horrifying damages to a home, from cosmetic scarring to deeply rooted structural issues. At Total Care Restoration, we are experienced in (/services/fire-restoration/), making us the top choice for homeowners in Miami. We understand the particularity of such damage – unlike mold or water, fire damage also carries an emotional toll. Trust us not just to restore your home to its former glory, but also to handle each step with the utmost care and respect for your peace of mind.
+Fire can cause horrifying damages to a home, from cosmetic scarring to deeply rooted structural issues. At Total Care Restoration, we are experienced in [Fire Restoration](/services/fire-restoration/), making us the top choice for homeowners in Miami. We understand the particularity of such damage – unlike mold or water, fire damage also carries an emotional toll. Trust us not just to restore your home to its former glory, but also to handle each step with the utmost care and respect for your peace of mind.
 
 ### Tackling Fire Damage: A Multi-step Process That Covers Every Corner
 
@@ -31,7 +31,7 @@ We navigate fire restoration firmly and sensitively – from evaluating the dama
 
 ## Trustworthy, Effective Mold Remediation
 
-The humid climate of Miami sometimes makes properties susceptible to mold and mildew. Undeniably, dealing with mold can be a daunting task. Unmitigated mold brings potential health risks for you and your loved ones. Thankfully, our (/services/mold-remediation/) are designed to bring back the health and hygiene of your home in the quickest time frame possible.
+The humid climate of Miami sometimes makes properties susceptible to mold and mildew. Undeniably, dealing with mold can be a daunting task. Unmitigated mold brings potential health risks for you and your loved ones. Thankfully, our [Mold Remediation](/services/mold-remediation/) are designed to bring back the health and hygiene of your home in the quickest time frame possible.
 
 ### Mold Remediation: Restore Health and Safety to Your Home
 

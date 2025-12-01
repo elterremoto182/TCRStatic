@@ -11,7 +11,7 @@ keywords: ["water damage restoration tips"]
 
 As a homeowner, you are always trying to safeguard your valuables and property. Water damage can take many forms, such as the emergence of water stains on furniture or floors if left unchecked for some time due to even small leaks. It is thus essential that every measure be taken immediately in order to prevent any severe damages from occurring.
 
-A leak in the roof can (/tell-mold-behind-walls/). Flood water from outside can bring bacteria into the home. All of these are water damage, but they require different approaches to fix them.
+A leak in the roof can [Tell Mold Behind Walls](/tell-mold-behind-walls/). Flood water from outside can bring bacteria into the home. All of these are water damage, but they require different approaches to fix them.
 
 Are you unsure when a full-scale water damage restoration is necessary, or if it’s enough to allow things to simply dry out? Here’s your guide on how to differentiate between the two scenarios.
 
@@ -31,7 +31,7 @@ Water damage can be caused by a wide variety of sources, from natural disasters 
 
 In addition, water can seep into basements and crawl spaces if there is inadequate waterproofing or poor drainage. Water damage can also occur due to inadequate maintenance of a home’s plumbing system, such as failing to replace worn-out pipes or not properly maintaining water heaters.
 
-For example in Florida a common cause is (/cast-iron-pipes/). This is due to old construction methods that are not being used anymore.
+For example in Florida a common cause is [Cast Iron Pipes](/cast-iron-pipes/). This is due to old construction methods that are not being used anymore.
 
 Finally, faulty construction can also lead to water damage, as poorly sealed windows and doors can allow water to seep into a home.
 
@@ -49,6 +49,6 @@ After this, you can start looking for a provider. Note that when it comes to mak
 
 No one wants to pay for unnecessary services, but it’s tough to tell the difference between a minor water stain and major water damage. If you’re uncertain, it’s best to get a professional opinion from a water damage restoration service.
 
-At (/contact), we not only believe in doing the most for our customers. We work in the Miami Broward, and Palm Beach areas.
+At [Contact](/contact), we not only believe in doing the most for our customers. We work in the Miami Broward, and Palm Beach areas.
 
 Our technitians are IICRC-certified. This means that when it comes to water damage restoration, you’re getting the top options in terms of handling both small and major water damage incidents.

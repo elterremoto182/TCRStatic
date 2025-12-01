@@ -16,7 +16,7 @@ When disaster strikes, whether it’s a natural calamity or due to human error, 
 
 ## What is Roof Tarping?
 
-Roof tarping is an emergency solution provided to protect your home from further damage after an unforeseen incident has occurred, like storms or a fire. When your roof is compromised and in need of immediate repair, a strong, resilient tarp (often blue in color) is used to cover the damaged area to prevent more damage. Roof tarping, provided by (/services/roof-tarping/), aims to provide an immediate protective action until the requisite repairs are done.
+Roof tarping is an emergency solution provided to protect your home from further damage after an unforeseen incident has occurred, like storms or a fire. When your roof is compromised and in need of immediate repair, a strong, resilient tarp (often blue in color) is used to cover the damaged area to prevent more damage. Roof tarping, provided by [Roof Tarping](/services/roof-tarping/), aims to provide an immediate protective action until the requisite repairs are done.
 
 ### Why is it Necessary?
 
@@ -32,7 +32,7 @@ However, Insurance coverage can vary heavily from policy to policy. Therefore, i
 
 A comprehensive policy will often cover the costs associated with necessary repair (or replacement) of the roof, given the damage was resulted by a ‘covered peril.’ It also covers the associated costs to mitigate further damage, which includes roof tarping services.
 
-While temporary fixes such as tarping are often covered, permanent solutions like (/services/shrink-wrapping/) could also be covered by more specialized policies. These measures ensure not just short-term protection, but a longer-term solution until you can fully repair or replace the roof.
+While temporary fixes such as tarping are often covered, permanent solutions like [Shrink Wrapping](/services/shrink-wrapping/) could also be covered by more specialized policies. These measures ensure not just short-term protection, but a longer-term solution until you can fully repair or replace the roof.
 
 ### Tips to Make a Successful Roof Damage Insurance Claim
 

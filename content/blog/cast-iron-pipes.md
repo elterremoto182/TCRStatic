@@ -65,17 +65,17 @@ Water damage due to cast iron problems
 
 ## **Water Damage Caused By Cast Iron Pipes**
 
-(/services/water-restoration/) is the second most common type of insurance claim. Between 20-30% of all property damage is caused by water.
+[Water Restoration](/services/water-restoration/) is the second most common type of insurance claim. Between 20-30% of all property damage is caused by water.
 
 Ignoring a faulty plumbing pipe system is just an accident waiting to happen, and it could only be a matter of time before you are faced with having to deal with an expensive emergency due to compromised cast iron pipes.
 
 There is an ongoing lawsuit in Florida fighting to get insurance companies to replace cast iron pipes with new pipes, and you may have a claim for damages if you have experienced monetary loss or health issues caused by water damage from corroded pipes.
 
-For more information check out our (/water-damage-restoration-guide/).
+For more information check out our [Water Damage Restoration Guide](/water-damage-restoration-guide/).
 
 In addition, if water damage goes un attended, it can lead to dangerous mold in your home. If you suspect of having mold at your home, do not neglect it.
 
-You need to call a mold restoration company immediately, so they can help you (/services/mold-remediation/).
+You need to call a mold restoration company immediately, so they can help you [Mold Remediation](/services/mold-remediation/).
 
 ## **Does Homeowners Insurance Cover Cast Iron Pipes?**
 
@@ -154,7 +154,7 @@ So it pays to find out now, rather than later, if your home has an issue.
 
 **If you have insurance, your policy might cover the replacement of your old plumbing.**
 
-Contact us for a free consultation. We have helped many clients with their (/water-damage-restoration-guide/) in Miami and all over South Florida.
+Contact us for a free consultation. We have helped many clients with their [Water Damage Restoration Guide](/water-damage-restoration-guide/) in Miami and all over South Florida.
 
 ### (#)
 
@@ -181,9 +181,9 @@ Coverage depends on your policy. Sudden damage may be covered, while long-term d
 Most cast iron pipe replacement projects take 2 to 5 days, depending on the size of the property and the scope of work involved
 
 ## Related Links
-- [Recognizing the Early Signs of Mold Allergies.](/recognizing-the-early-signs-of-mold-allergies)
-- [Real-Time Data in Water Damage Restoration](/real-time-data-in-water-damage-restoration)
-- [Property Restoration Checklist Generator](/property-restoration-checklist-generator)
-- [Preventing and Restoring Water Damage in Historical Homes](/preventing-and-restoring-water-damage-in-historical-homes)
+- [Recognizing the Early Signs of Mold Allergies.][Recognizing the Early Signs of Mold Allergies](/recognizing-the-early-signs-of-mold-allergies)
+- [Real-Time Data in Water Damage Restoration][Real Time Data in Water Damage Restoration](/real-time-data-in-water-damage-restoration)
+- [Property Restoration Checklist Generator][Property Restoration Checklist Generator](/property-restoration-checklist-generator)
+- [Preventing and Restoring Water Damage in Historical Homes][Preventing And Restoring Water Damage in Historical Homes](/preventing-and-restoring-water-damage-in-historical-homes)
 
-- [Post-Fire Concrete Repairs: Moisture Effects](/post-fire-concrete-repairs-moisture-effects)
+- [Post-Fire Concrete Repairs: Moisture Effects][Post Fire Concrete Repairs Moisture Effects](/post-fire-concrete-repairs-moisture-effects)

@@ -100,7 +100,7 @@ By taking the time to verify credentials, understand the scope of work, and prio
 
 ## Related Blog Posts
 
--   (/blog/emergency-water-damage-checklist-first-24-hours/)
--   (/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   (/blog/flood-drying-checklist-for-homeowners/)
--   (/blog/how-long-does-property-restoration-take/)
+-   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Flood Drying Checklist For Homeowners](/blog/flood-drying-checklist-for-homeowners/)
+-   [How Long Does Property Restoration Take](/blog/how-long-does-property-restoration-take/)

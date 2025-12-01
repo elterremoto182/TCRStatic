@@ -103,7 +103,7 @@ Whether you’re dealing with a current issue or looking to prevent future probl
 
 ## Related Blog Posts
 
--   (/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   (/blog/5-steps-for-emergency-mold-mitigation/)
--   (/blog/5-steps-for-mold-decontamination/)
--   (/blog/flood-drying-checklist-for-homeowners/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
+-   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
+-   [5 Steps For Mold Decontamination](/blog/5-steps-for-mold-decontamination/)
+-   [Flood Drying Checklist For Homeowners](/blog/flood-drying-checklist-for-homeowners/)

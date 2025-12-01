@@ -55,10 +55,10 @@ Equally important is tracking leaks. In areas like the basement or attic, which 
 
 Unfortunately, despite your best efforts, there’s no guarantee that you will eliminate mold entirely. For example, in some cases, like heavy water damage or a flood, you may not have enough time to react and get help before mold begins to grow. In these situations, it’s essential to section off the affected area and dispose of contaminated items to prevent any spread.
 
-In other cases, mold may develop in an area that’s difficult for you to detect without specialized equipment. (/tell-mold-behind-walls/) or hard to see places.
+In other cases, mold may develop in an area that’s difficult for you to detect without specialized equipment. [Tell Mold Behind Walls](/tell-mold-behind-walls/) or hard to see places.
 
 In these situations, it’s essential that you look into mold remediation as soon as possible. Getting help here can keep the mold from spreading and make your home safe again for the whole family.
 
-If you’re looking for (/services/mold-remediation/) and South Florida, one of your best options is working with Total Care Restoration.
+If you’re looking for [Mold Remediation](/services/mold-remediation/) and South Florida, one of your best options is working with Total Care Restoration.
 
 We are IICRC-certified, have a 5-star rating on Yelp and an A+ rating with the BBB.

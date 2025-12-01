@@ -30,7 +30,7 @@ Water damage can happen suddenly, whether from **leaking pipes, storm flooding, 
 ✅ Structural Drying & Dehumidification  
 ✅ Water Damage Repairs & Reconstruction
 
-💡 **Want to prevent mold after water damage?** (/diy-tips-preventing-mold-after-a-leak-or-flood/)
+💡 **Want to prevent mold after water damage?** [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/)
 
 * * *
 
@@ -45,7 +45,7 @@ Davie’s high humidity makes homes and businesses vulnerable to **mold infestat
 ✅ Air Quality Testing & Decontamination  
 ✅ Moisture Control to Prevent Recurrence
 
-🚨 **Concerned about mold inside your walls?** (/tell-mold-behind-walls/)
+🚨 **Concerned about mold inside your walls?** [Tell Mold Behind Walls](/tell-mold-behind-walls/)
 
 * * *
 
