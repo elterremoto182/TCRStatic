@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { GoogleMap } from '@/components/sections/GoogleMap';
 import { Mail, Phone, MapPin, Send, CheckCircle, AlertCircle, Loader2, Home } from 'lucide-react';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
@@ -96,9 +97,10 @@ export default function ContactPage() {
       <main className="min-h-screen pt-20">
         <div className="max-w-6xl mx-auto px-4 py-12">
           <div className="mb-8">
+            <Breadcrumbs items={[{ label: 'Contact', href: '/contact' }]} className="mb-6" />
             <Link
               href="/"
-              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200 mb-6"
+              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
             >
               <Home className="w-4 h-4 mr-2" />
               Back to Home

@@ -1,112 +1,48 @@
 {
+  "cta": {
+    "headline": "Ready to Get Started?",
+    "description": "Contact us today for a free consultation and quote.",
+    "primaryButton": {
+      "href": "/#contact",
+      "text": "Contact Us"
+    },
+    "backgroundImage": "/wp-content/uploads/2025/11/image_fb03bae6e65125011c8be7bc7688b901.jpeg",
+    "secondaryButton": {
+      "href": "tel:",
+      "text": "Call Now"
+    }
+  },
   "hero": {
-    "headline": "Water Leak Detection Florida – Total Leak Detection",
-    "subheadline": "Expert water leak detection technicians. We work with all insurance companies, Fast plumbing reports, Licensed & Insured",
+    "headline": "Welcome to Our Business",
     "ctaPrimary": {
-      "text": "Get Started",
-      "href": "/#contact"
+      "href": "/#contact",
+      "text": "Get Started"
     },
+    "subheadline": "Professional services you can trust",
     "ctaSecondary": {
-      "text": "Our Services",
-      "href": "/#services"
+      "href": "/#services",
+      "text": "Our Services"
     },
-    "backgroundImage": "/images/hero/hero-background.jpeg",
+    "backgroundImage": "/wp-content/uploads/2021/09/hero-banner.png",
     "backgroundVideo": ""
   },
-  "services": [
-    {
-      "id": "camera-inspection",
-      "icon": "Camera",
-      "title": "Sewer Camera Inspection",
-      "description": "Non-invasive video camera inspections to diagnose blockages, leaks, and structural problems in your pipes. Fast, reliable, and affordable sewer camera inspection services in Miami, FL.",
-      "features": ["HD Video Inspection", "Detailed Reports", "Non-Invasive"],
-      "image": "/images/services/drain-cleaning.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "leak-detection",
-      "icon": "Zap",
-      "title": "Leak Detection",
-      "description": "Expert water leak detection services in Miami, FL. We specialize in quickly and accurately detecting and fixing leaks using advanced non-invasive techniques.",
-      "features": ["Non-Invasive Detection", "24/7 Emergency Service", "Insurance Accepted"],
-      "image": "/images/services/leak-detection.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "mold-testing",
-      "icon": "Shield",
-      "title": "Mold Testing",
-      "description": "Reliable and accurate mold testing services to identify potential mold issues and protect your property from health risks. Detailed reports with remediation recommendations.",
-      "features": ["Accurate Testing", "Detailed Reports", "Health Protection"],
-      "image": "/images/services/mold.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "leaking-toilet",
-      "icon": "Droplet",
-      "title": "Leaking Toilet & Faucets",
-      "description": "Expert repair and replacement services for leaking toilets and faucets. We handle all types of plumbing fixture issues with professional installation and maintenance.",
-      "features": ["Fixture Repair", "Installation", "Preventive Maintenance"],
-      "image": "/wp-content/uploads/2024/06/shutterstock_2240976667.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "damaged-sewer",
-      "icon": "AlertTriangle",
-      "title": "Damaged Sewer Lines",
-      "description": "Advanced methods to detect and repair damaged sewer lines. We use video camera inspections and hydro jetting to locate and fix sewer line issues quickly.",
-      "features": ["Video Inspection", "Advanced Detection", "Quick Repair"],
-      "image": "/wp-content/uploads/2024/08/shutterstock_2390974521.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "hydro-jetting",
-      "icon": "Waves",
-      "title": "Hydro Jetting",
-      "description": "Non-chemical approach to clearing and cleaning your entire piping system using high-pressure water. Removes buildup, bacteria, and restores optimal flow.",
-      "features": ["No Harsh Chemicals", "Complete Cleaning", "Long-Term Results"],
-      "image": "/images/services/clog.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "plumbing-report-writing",
-      "icon": "FileText",
-      "title": "Plumbing Report Writing",
-      "description": "Comprehensive plumbing reports for residential and commercial properties. Detailed documentation with clear images, exact locations, and repair estimates. 48-hour guarantee.",
-      "features": ["48-Hour Guarantee", "Detailed Documentation", "Insurance Ready"],
-      "image": "/images/services/plumbing.jpg",
-      "href": "/services"
-    },
-    {
-      "id": "commercial-services",
-      "icon": "Building",
-      "title": "Commercial Services",
-      "description": "Specialized commercial plumbing services for businesses of all sizes. Installations, maintenance, diagnostics, and emergency repairs to keep your business running smoothly.",
-      "features": ["Commercial Expertise", "24/7 Support", "All Property Types"],
-      "image": "/images/services/clog.jpg",
-      "href": "/services"
-    }
-  ],
   "about": {
-    "headline": "Why Choose Us?",
-    "description": "We provide professional services with expertise and dedication to quality.",
-    "teamImage": "/images/team/team-photo.jpg",
     "stats": [
       {
-        "value": "1000+",
-        "label": "Projects Completed"
+        "label": "Projects Completed",
+        "value": "10+"
       },
       {
-        "value": "10+",
-        "label": "Years Experience"
+        "label": "Years Experience",
+        "value": "10+"
       },
       {
-        "value": "24/7",
-        "label": "Support Available"
+        "label": "Support Available",
+        "value": "24/7"
       },
       {
-        "value": "100%",
-        "label": "Satisfaction Rate"
+        "label": "Satisfaction Rate",
+        "value": "100%"
       }
     ],
     "features": [
@@ -130,100 +66,147 @@
         "title": "Expert Team",
         "description": "Experienced professionals dedicated to quality."
       }
-    ]
+    ],
+    "headline": "Why Choose Us?",
+    "teamImage": "/wp-content/uploads/2023/01/Two-employees.png",
+    "description": "We provide professional services with expertise and dedication to quality."
   },
   "gallery": {
     "headline": "Our Work",
-    "description": "See the quality and professionalism behind every project.",
     "projects": [
       {
         "id": 1,
-        "title": "Leak Detection Service",
-        "category": "Leak Detection",
-        "beforeImage": "/images/gallery/leak-detection-before.jpeg",
-        "afterImage": "/images/gallery/leak-detection-after.jpeg",
-        "description": "Our advanced leak detection technology identifies hidden water leaks before they cause extensive damage. Using non-invasive methods, we locate leaks in walls, floors, and underground pipes, saving you thousands in repair costs and preventing mold growth."
+        "title": "Why Drying Mats Are Essential for Restoration",
+        "category": "Water",
+        "afterImage": "/wp-content/uploads/2025/09/image_dc870b7e294672457cf74afa1039882b.jpeg",
+        "beforeImage": "/wp-content/uploads/2025/11/image_de22794517e6c7c76a579fe8712106c1.jpeg",
+        "description": "Drying mats are crucial for effective water damage restoration, offering rapid moisture removal and preventing mold growth and structural issues."
       },
       {
         "id": 2,
-        "title": "Mold Inspection & Testing",
-        "category": "Mold Inspection",
-        "beforeImage": "/images/gallery/mold-inspection-before.jpeg",
-        "afterImage": "/images/gallery/mold-inspection-after.jpeg",
-        "description": "Comprehensive mold inspection services to protect your health and property. Our certified inspectors use advanced testing methods to detect hidden mold growth, identify moisture sources, and provide detailed reports with remediation recommendations."
+        "title": "Ultimate Guide to Water Extraction and Drying",
+        "category": "Water",
+        "afterImage": "/images/gallery/project-2-after.jpeg",
+        "beforeImage": "/images/gallery/project-2-before.jpeg",
+        "description": "Learn essential steps for effective water extraction and drying to prevent mold and structural damage after water incidents."
       },
       {
         "id": 3,
-        "title": "Sewer Camera Inspection",
-        "category": "Camera Inspection",
-        "beforeImage": "/images/gallery/camera-inspection-before.jpeg",
-        "afterImage": "/images/gallery/camera-inspection-after.jpeg",
-        "description": "Non-invasive sewer camera inspections provide a clear view inside your pipes without excavation. Our HD video technology diagnoses blockages, cracks, root intrusion, and structural damage, helping you make informed decisions about repairs."
+        "title": "How to Choose the Right PPE for Property Restoration",
+        "category": "Water",
+        "afterImage": "/images/gallery/project-3-after.jpeg",
+        "beforeImage": "/images/gallery/project-3-before.jpeg",
+        "description": "Learn how to select the appropriate PPE for property restoration to ensure worker safety against various hazards like mold, chemicals, and debris."
+      },
+      {
+        "id": 4,
+        "title": "How to Fill Out a Standardized Damage Assessment Form",
+        "category": "Water",
+        "afterImage": "/images/gallery/project-4-after.jpeg",
+        "beforeImage": "/images/gallery/project-4-before.jpeg",
+        "description": "Learn how to effectively complete a Standardized Damage Assessment Form for accurate insurance claims and restoration planning."
       }
-    ]
+    ],
+    "description": "See the quality and professionalism behind every project."
   },
+  "services": [
+    {
+      "id": "water",
+      "icon": "Droplet",
+      "image": "/wp-content/uploads/2022/07/drying-floors-1024x576.jpg",
+      "title": "Water Restoration",
+      "features": [
+        "24/7 Emergency Service",
+        "Fast Response",
+        "Complete Restoration"
+      ],
+      "description": "Trust our water restoration company for fast and thorough water damage repair. We offer expert commercial, emergency and flood restoration services. Call now!"
+    },
+    {
+      "id": "air-quality",
+      "icon": "Wind",
+      "image": "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg",
+      "title": "Air Quality Inspections",
+      "features": [
+        "Professional Air Quality Inspections",
+        "Certified Contractors",
+        "Free Estimates"
+      ],
+      "description": "Ensure a healthy environment with air quality inspections in Miami. Protect your health with certified professionals."
+    },
+    {
+      "id": "fire",
+      "icon": "Flame",
+      "image": "/wp-content/uploads/2021/09/Depositphotos_42532403_xl-2015-scaled.jpg",
+      "title": "Fire Damage Restoration",
+      "features": [
+        "Emergency Response",
+        "Insurance Assistance",
+        "Complete Restoration"
+      ],
+      "description": "Trust us for smoke, damage & fire restoration company. We'll secure your property, assist with housing & insurance claims. Clean up services. Free quote!"
+    },
+    {
+      "id": "mold",
+      "icon": "AlertTriangle",
+      "image": "/images/services/mold-remediation.jpg",
+      "title": "Mold Remediation in Miami",
+      "features": [
+        "Expert Inspection",
+        "Effective Containment",
+        "Thorough Cleaning"
+      ],
+      "description": "Choose Total Care Restoration for top-notch Mold Remediation in Miami. Trusted by homeowners & businesses alike, we ensure a mold-free, healthy environment. Contact us today!"
+    },
+    {
+      "id": "commercial",
+      "icon": "Building2",
+      "image": "/wp-content/uploads/2021/09/Depositphotos_42532403_xl-2015-scaled.jpg",
+      "title": "Commercial Damage Restorations",
+      "features": [
+        "Quick Response",
+        "Minimize Downtime",
+        "Expert Crisis Management"
+      ],
+      "description": "Commercial Fire Restoration At Total Care Restoration, we know that your business is very important. While your business is closed, it leaves an open door for your competition."
+    },
+    {
+      "id": "roof-tarping",
+      "icon": "Home",
+      "image": "/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "title": "Roof Tarping",
+      "features": [
+        "Professional Installation",
+        "24/7 Emergency Service",
+        "Insurance Assistance"
+      ],
+      "description": "Professional roof tarp company for installation- Total Care Restoration. Protect your roof from leaks caused by damage/deterioration. 24/7 help. Free estimates!"
+    },
+    {
+      "id": "shrink-wrapping",
+      "icon": "Package",
+      "image": "/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "title": "Shrink Wrapping",
+      "features": [
+        "Expert Installations",
+        "Property Protection",
+        "Insurance Coordination"
+      ],
+      "description": "Protect your property with professional shrink wrapping services from Total Care Restoration. Ideal for roofs, construction sites, and storm-damaged structures across South Florida."
+    }
+  ],
   "testimonials": [
     {
       "id": 1,
-      "name": "Hector Rodriguez",
-      "role": "Oct 25, 2024",
-      "content": "I had several technicians come in my property before and charge big money and could not find the leak, these guys in one day found it, and fixed it the same day. If you want your problems solved call them",
+      "name": "John Smith",
+      "role": "Business Owner",
+      "image": "/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-12.11.09-PM-1.png",
       "rating": 5,
-      "image": "/images/testimonials/testimonial-1.jpeg"
-    },
-    {
-      "id": 2,
-      "name": "Gabrielle Shirek",
-      "role": "Feb 19, 2024",
-      "content": "Luis and Richard were awesome and extremely helpful in helping me evaluate a potential mold problem at my house. Hugely professional. Arrived right on time. I highly recommend working with total leak detection.",
-      "rating": 5,
-      "image": "/images/testimonials/testimonial-2.jpeg"
-    },
-    {
-      "id": 3,
-      "name": "WhoIsMBM",
-      "role": "Oct 31, 2023",
-      "content": "Luis is the man. In and out. Very professional and informative.",
-      "rating": 5,
-      "image": "/images/testimonials/testimonial-3.jpeg"
+      "content": "Excellent service and professional team. Highly recommended!"
     }
   ],
-  "cta": {
-    "headline": "Ready to Get Started?",
-    "description": "Contact us today for a consultation and see how we can help you.",
-    "buttonText": "Contact Us",
-    "buttonHref": "/#contact",
-    "backgroundImage": "/images/cta/cta-background.jpeg"
-  },
   "contact": {
     "headline": "Get in Touch",
-    "description": "Fill out the form below or call us directly. We're here to help!"
-  },
-  "branding": {
-    "companyName": "Total Leak Detection",
-    "tagline": "Professional Leak Detection Services",
-    "licenseNumber": "CFC1430460",
-    "badges": [
-      {
-        "name": "Licensed & Insured",
-        "image": "/images/badges/licensed-insured.jpeg",
-        "description": "Fully licensed and insured for your protection"
-      },
-      {
-        "name": "BBB Accredited",
-        "image": "/images/badges/bbb-accredited.jpeg",
-        "description": "Better Business Bureau accredited business"
-      },
-      {
-        "name": "Certified Professional",
-        "image": "",
-        "description": "Industry certified technicians with years of experience"
-      },
-      {
-        "name": "Satisfaction Guaranteed",
-        "image": "",
-        "description": "100% satisfaction guarantee on all our work"
-      }
-    ]
+    "description": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
   }
 }

@@ -1,15 +1,10 @@
 ---
-title: Financing
-slug: financing
+title: "Financing"
+slug: "financing"
 menu_order: 0
-seo_title: Financing - Total Leak Detection
-seo_description: >-
-  Like a home or car, purchasing a new heating or cooling system is probably one
-  of the biggest investments that you will make as a homeowner. We work with a
-  finance company that offers favorable terms and low payment plans. Get in
-  touch with us today for details. Why Finance With Us? 0% financing, OAC
-  &hellip; Continued
-keywords: ["financing total leak detection"]
+seo_title: "Financing - Total Care Restoration"
+seo_description: "Like a home or car, purchasing a new heating or cooling system is probably one of the biggest investments that you will make as a homeowner. We work with a finance company that offers favorable terms and low payment plans. Get in touch with us today for details. Why Finance With Us? 0% financing, OAC &hellip;  Continued"
+keywords: ["system", "financing", "heating", "cooling", "finance", "payment", "today", "options", "benefits", "purchasing"]
 ---
 
 Like a home or car, purchasing a new heating or cooling system is probably one of the biggest investments that you will make as a homeowner.

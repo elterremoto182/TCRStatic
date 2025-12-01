@@ -9,6 +9,16 @@ import content from '@/config/content.json';
 // Map service IDs to their slugs from markdown files
 // URLs should not have trailing slashes to match Next.js routing
 const serviceSlugMap: Record<string, string> = {
+  // Restoration services
+  'air-quality': '/services/air-quality-inspections',
+  'fire': '/services/fire-restoration',
+  'home': '/services/water-restoration',
+  'mold': '/services/mold-remediation',
+  'water': '/services/water-restoration',
+  'commercial': '/services/commercial',
+  'roof-tarping': '/services/roof-tarping',
+  'shrink-wrapping': '/services/shrink-wrapping',
+  // Legacy plumbing services (if needed)
   'camera-inspection': '/services/camera-inspection',
   'clogged-drains': '/services/clogged-drains',
   'leak-detection': '/services/leak-detection',

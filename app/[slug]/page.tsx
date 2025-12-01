@@ -3,11 +3,14 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
 import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
 import { Home, Calendar, User, ArrowLeft } from 'lucide-react';
 import { generatePageMetadata } from '@/lib/utils';
+import { StructuredData } from '@/lib/structured-data';
+import { generateArticleSchema } from '@/lib/structured-data';
 
 // Routes that have their own handlers and should not be handled by this catch-all
 const reservedRoutes = [
@@ -143,19 +146,44 @@ export default async function DynamicPage({
   // Check for blog post first
   const post = getPostBySlug(slug);
   if (post) {
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+    const url = `${baseUrl}/${post.slug}`;
+    
+    // Generate Article schema
+    const articleSchema = generateArticleSchema({
+      title: post.title,
+      description: post.excerpt || post.title,
+      url,
+      image: post.image,
+      datePublished: post.date,
+      dateModified: post.date,
+      author: post.author,
+      category: post.category,
+    });
+
+    // Generate breadcrumbs
+    const breadcrumbItems = [
+      { label: 'Blog', href: '/blog' },
+      { label: post.title, href: `/${post.slug}` },
+    ];
+
     return (
       <>
+        <StructuredData data={articleSchema} />
         <Header />
         <main className="min-h-screen">
           <article className="pt-32 pb-20">
             <div className="max-w-4xl mx-auto px-4">
-              <Link
-                href="/blog"
-                className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200 mb-8"
-              >
-                <ArrowLeft className="w-4 h-4 mr-2" />
-                Back to Blog
-              </Link>
+              <div className="mb-8">
+                <Breadcrumbs items={breadcrumbItems} className="mb-6" />
+                <Link
+                  href="/blog"
+                  className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
+                >
+                  <ArrowLeft className="w-4 h-4 mr-2" />
+                  Back to Blog
+                </Link>
+              </div>
 
               {post.category && (
                 <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full mb-4">
@@ -222,15 +250,22 @@ export default async function DynamicPage({
     notFound();
   }
 
+  // Generate breadcrumbs for regular pages
+  const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
+  const breadcrumbItems = [
+    { label: page.title, href: `/${normalizedSlug}` },
+  ];
+
   return (
     <>
       <Header />
       <main className="min-h-screen pt-20">
         <article className="max-w-4xl mx-auto px-4 py-12">
           <div className="mb-8">
+            <Breadcrumbs items={breadcrumbItems} className="mb-6" />
             <Link
               href="/"
-              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200 mb-6"
+              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
             >
               <Home className="w-4 h-4 mr-2" />
               Back to Home

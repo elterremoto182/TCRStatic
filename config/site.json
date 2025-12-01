@@ -1,36 +1,31 @@
 {
   "seo": {
-    "title": "Water Meter Leak Detection, Miami Florida | Total Leak De...",
-    "ogImage": "/images/hero/hero-background.jpeg",
-    "keywords": "water leak detection",
-    "description": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!"
+    "title": "Water Damage Mitigation Company - Total Care Restoration",
+    "ogImage": "/wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png",
+    "keywords": "water mitigation company",
+    "description": "Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help."
   },
-  "name": "Total Leak Detection",
-  "logo": "/images/logo.png",
-  "logoAlt": "Total Leak Detection Logo",
-  "logoWidth": 180,
-  "logoHeight": 180,
-  "favicon": "/favicon.ico",
-  "email": "info@totalleakdetection.com",
+  "logo": "/wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png",
+  "name": "Totalcarerestoration",
+  "email": "tomasz.alemany@gmail.com",
   "hours": "Monday - Friday: 9:00 AM - 5:00 PM",
-  "phone": "(855) 385-5325",
+  "phone": "(786) 610-6317",
   "social": {
-    "youtube": "https://youtube.com/@totalleakdetection",
-    "facebook": "https://facebook.com/totalleakdetection",
-    "instagram": "https://instagram.com/totalleakdetection"
+    "tiktok": null,
+    "twitter": "https://twitter.com/totalcarerestoration",
+    "youtube": "https://youtube.com/@totalcarerestoration",
+    "facebook": "https://facebook.com/totalcarerestoration",
+    "linkedin": "https://linkedin.com/company/totalcarerestoration",
+    "instagram": "https://instagram.com/totalcarerestoration",
+    "pinterest": null
   },
-  "address": "7790 NW 55th St, Doral, FL 33166",
-  "map": {
-    "locations": [
-      ["Total Leak Detection", "7790 NW 55th St., Doral, FL 33166"]
-    ],
-    "zoom": 9
-  },
+  "address": "7790 NW 55th St., Doral, FL 33166",
+  "favicon": "/wp-content/themes/sk-theme-three/dist/images/assets/favicon_3b0b47d4.png",
   "reviews": {
     "yelp": {
       "url": "https://www.yelp.com/biz/",
       "rating": 4.9,
-      "reviewCount": "136+"
+      "reviewCount": "75+"
     },
     "google": {
       "url": "https://g.page/r/",
@@ -43,18 +38,14 @@
       "reviewCount": "50+"
     }
   },
-  "tagline": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!",
+  "tagline": "Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help.",
   "navigation": [
     {
-      "href": "/services",
+      "href": "/#services",
       "name": "Services"
     },
     {
-      "href": "/areas",
-      "name": "Areas"
-    },
-    {
-      "href": "/about",
+      "href": "/#about",
       "name": "About"
     },
     {
@@ -66,9 +57,10 @@
       "name": "Blog"
     },
     {
-      "href": "/contact",
+      "href": "/#contact",
       "name": "Contact"
     }
   ],
-  "description": "Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!"
+  "brandColors": null,
+  "description": "Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help."
 }

@@ -32,25 +32,19 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <Link
             href="/"
-            className="flex items-center space-x-2 text-xl font-bold text-gray-900"
+            className="flex items-center space-x-2"
           >
-            {siteConfig.logo && !logoError ? (
-              <div className="relative">
-                <OptimizedImage
-                  src={siteConfig.logo}
-                  alt={siteConfig.logoAlt || siteConfig.name}
-                  width={isScrolled ? siteConfig.logoWidth * 0.85 : siteConfig.logoWidth}
-                  height={isScrolled ? siteConfig.logoHeight * 0.85 : siteConfig.logoHeight}
-                  className={cn(
-                    'transition-all duration-300',
-                    'object-contain'
-                  )}
-                  priority
-                  onError={() => setLogoError(true)}
-                />
-              </div>
+            {!logoError && siteConfig.logo ? (
+              <OptimizedImage
+                src={siteConfig.logo}
+                alt={siteConfig.name}
+                width={180}
+                height={60}
+                className="h-12 w-auto"
+                onError={() => setLogoError(true)}
+              />
             ) : (
-              <span>{siteConfig.name}</span>
+              <span className="text-xl font-bold text-gray-900">{siteConfig.name}</span>
             )}
           </Link>
 

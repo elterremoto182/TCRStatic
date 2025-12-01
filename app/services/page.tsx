@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import content from '@/config/content.json';
@@ -10,6 +11,16 @@ import { generatePageMetadata } from '@/lib/utils';
 // Map service IDs to their slugs from markdown files
 // URLs should not have trailing slashes to match Next.js routing
 const serviceSlugMap: Record<string, string> = {
+  // Restoration services
+  'air-quality': '/services/air-quality-inspections',
+  'fire': '/services/fire-restoration',
+  'home': '/services/water-restoration',
+  'mold': '/services/mold-remediation',
+  'water': '/services/water-restoration',
+  'commercial': '/services/commercial',
+  'roof-tarping': '/services/roof-tarping',
+  'shrink-wrapping': '/services/shrink-wrapping',
+  // Legacy plumbing services (if needed)
   'camera-inspection': '/services/camera-inspection',
   'clogged-drains': '/services/clogged-drains',
   'leak-detection': '/services/leak-detection',
@@ -24,9 +35,9 @@ const serviceSlugMap: Record<string, string> = {
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Our Services - Total Leak Detection',
-    description: 'Comprehensive plumbing and leak detection services in Miami, FL. Water leak detection, sewer camera inspections, mold testing, and more.',
-    keywords: ['plumbing services', 'leak detection services', 'Miami plumbing'],
+    title: 'Our Services - Total Care Restoration',
+    description: 'Comprehensive water, fire, and mold restoration services in Miami, FL. Air quality inspections, roof tarping, shrink wrapping, and commercial restoration.',
+    keywords: ['restoration services', 'water damage restoration', 'fire restoration', 'mold remediation', 'Miami restoration'],
     path: '/services',
   });
 }
@@ -39,15 +50,20 @@ export default function ServicesPage() {
       <Header />
       <main className="min-h-screen">
         <section className="pt-32 pb-20 md:pb-28 bg-gradient-to-br from-primary/10 via-background to-accent/10">
-          <div className="max-w-6xl mx-auto px-4 text-center">
+          <div className="max-w-6xl mx-auto px-4">
+            <div className="mb-8">
+              <Breadcrumbs items={[{ label: 'Services', href: '/services' }]} />
+            </div>
+            <div className="text-center">
             <AnimateOnScroll animation="fade-in-up" duration={600} delay={0}>
               <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">
                 Our Services
               </h1>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                Comprehensive plumbing and leak detection services in Miami, FL
+                Comprehensive restoration services for water, fire, and mold damage in South Florida
               </p>
             </AnimateOnScroll>
+            </div>
           </div>
         </section>
 

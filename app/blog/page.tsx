@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { getAllPosts } from '@/lib/blog/posts';
 import { Calendar, User, ArrowRight } from 'lucide-react';
 import { getPageBySlug } from '@/lib/pages/pages';
@@ -26,13 +27,18 @@ export default function BlogPage() {
       <Header />
       <main className="min-h-screen">
         <section className="pt-32 pb-20 md:pb-28 bg-gradient-to-br from-primary/10 via-background to-accent/10">
-          <div className="max-w-6xl mx-auto px-4 text-center">
+          <div className="max-w-6xl mx-auto px-4">
+            <div className="mb-8">
+              <Breadcrumbs items={[{ label: 'Blog', href: '/blog' }]} />
+            </div>
+            <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">
               Our Blog
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Expert tips, guides, and insights for maintaining your home
             </p>
+            </div>
           </div>
         </section>
 

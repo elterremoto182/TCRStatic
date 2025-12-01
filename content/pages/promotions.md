@@ -1,13 +1,10 @@
 ---
-title: Promotions
-slug: promotions
-template: views/template-promo.blade.php
+title: "Promotions"
+slug: "promotions"
+template: "views/template-promo.blade.php"
 menu_order: 0
-seo_title: Promotions - Total Leak Detection
-seo_description: >-
-  Total Leak Detection Promotions: Take advantage of our ongoing promotions and
-  discounts on leak detection services.
-keywords: ["promotions total leak detection"]
+seo_title: "Promotions - Total Care Restoration"
+seo_description: "Check out our promotions. Get discounts on leak detections, mold inspections and more. Services in Miami, Ft Lauderdale and the Palm Beaches"
+keywords: ["total care restoration promotions"]
 ---
-# Promotions - Total Leak Detection
 

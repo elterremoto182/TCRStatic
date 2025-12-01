@@ -5,7 +5,7 @@ import siteConfig from '@/config/site.json';
 export function GoogleMap() {
   // Generate Google Maps embed URL from address
   // Using the simple embed format that works without API key restrictions
-  const address = siteConfig.address || siteConfig.map?.locations?.[0]?.[1] || '';
+  const address = siteConfig.address || '';
   const encodedAddress = encodeURIComponent(address);
   const mapUrl = `https://www.google.com/maps?q=${encodedAddress}&output=embed`;
 

@@ -1,14 +1,11 @@
 ---
-title: HEALTH &#038; SAFETY
-slug: health-and-safety
+title: "HEALTH &#038; SAFETY"
+slug: "health-and-safety"
 menu_order: 0
-seo_title: HEALTH & SAFETY - Total Leak Detection
-seo_description: >-
-  Health and Safety at Total Leak Detection: We prioritize the well-being of our
-  customers and employees in all our leak detection services.
-keywords: ["health and safety total leak detection"]
+seo_title: "Health & Safety in Restoration Services | Total Care Restoration"
+seo_description: "At Total Care Restoration, your health and safety come first. Discover our commitment to safe, certified restoration practices that protect your home and family during every project."
+keywords: ["Restoration health and safety"]
 ---
-# Health & Safety - Total Leak Detection
 
 ### YOUR HEALTH, SAFETY AND WELL-BEING IS OUR TOP PRIORITY
 
@@ -27,4 +24,4 @@ We encourage our customers to let us know in advance of an appointment if there 
 
 Our customers, communities and team members are why we exist and will always be the primary consideration in all decisions and actions moving forward.
 
-If you have any questions or concerns, please feel free to contact us.
+If you have any questions or concerns, please feel free to (http://skcustomwp3.local/contact/).

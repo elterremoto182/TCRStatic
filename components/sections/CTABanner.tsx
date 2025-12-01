@@ -44,10 +44,10 @@ export function CTABanner() {
 
         <AnimateOnScroll animation="fade-in-up" duration={600} delay={400}>
           <Link
-            href={cta.buttonHref}
+            href={cta.primaryButton.href}
             className="inline-block bg-white text-primary font-semibold px-8 py-4 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5 hover:scale-105 transition-all duration-200"
           >
-            {cta.buttonText}
+            {cta.primaryButton.text}
           </Link>
         </AnimateOnScroll>
       </div>

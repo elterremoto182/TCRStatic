@@ -6,7 +6,7 @@ import { Shield, Award, CheckCircle, BadgeCheck, FileCheck, Users } from 'lucide
 import content from '@/config/content.json';
 
 export function TrustBadges() {
-  const { branding } = content;
+  const branding = (content as any).branding;
 
   // Default badges with icons if not provided in config
   const defaultBadges = [
@@ -45,7 +45,7 @@ export function TrustBadges() {
   ];
 
   const badges = branding?.badges && branding.badges.length > 0 
-    ? branding.badges.map((badge, index) => ({
+    ? branding.badges.map((badge: any, index: number) => ({
         ...defaultBadges[index % defaultBadges.length],
         ...badge, // Config badges override defaults
       }))
@@ -77,7 +77,7 @@ export function TrustBadges() {
         </AnimateOnScroll>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {badges.map((badge, index) => {
+          {badges.map((badge: any, index: number) => {
             const IconComponent = badge.icon || Shield;
             const hasImage = badge.image && badge.image !== '';
 

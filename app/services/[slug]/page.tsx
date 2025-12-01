@@ -1,29 +1,63 @@
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
-import { ArrowLeft } from 'lucide-react';
 import { generatePageMetadata } from '@/lib/utils';
+import { StructuredData } from '@/lib/structured-data';
+import { generateServiceSchema } from '@/lib/structured-data';
+import OptimizedImage from '@/components/OptimizedImage';
+import content from '@/config/content.json';
+
+// Map service slugs to service IDs for image lookup
+const serviceSlugToIdMap: Record<string, string> = {
+  'air-quality-inspections': 'air-quality',
+  'fire-restoration': 'fire',
+  'water-restoration': 'water',
+  'mold-remediation': 'mold',
+  'commercial': 'commercial',
+  'roof-tarping': 'roof-tarping',
+  'shrink-wrapping': 'shrink-wrapping',
+};
+
+// Helper function to get service image from content.json
+function getServiceImageFromContent(slug: string): string | null {
+  const normalizedSlug = slug.replace(/^\/+|\/+$/g, '').replace(/^services\//, '').replace(/\/$/, '');
+  const serviceId = serviceSlugToIdMap[normalizedSlug];
+  
+  if (!serviceId) {
+    return null;
+  }
+  
+  const service = content.services.find((s) => s.id === serviceId);
+  return service?.image || null;
+}
 
 export async function generateStaticParams() {
-  const pages = getAllPages();
-  // Filter only service pages
-  const servicePages = pages.filter((page) => {
-    const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
-    return normalizedSlug.startsWith('services/');
-  });
-  
-  return servicePages.map((page) => {
-    // Extract the slug part after 'services/'
-    // Normalize by removing leading/trailing slashes first
-    const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
-    const slugPart = normalizedSlug.replace(/^services\//, '').replace(/\/$/, '');
-    return {
-      slug: slugPart,
-    };
-  });
+  try {
+    const pages = getAllPages();
+    // Filter only service pages
+    const servicePages = pages.filter((page) => {
+      const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
+      return normalizedSlug.startsWith('services/');
+    });
+    
+    const params = servicePages.map((page) => {
+      // Extract the slug part after 'services/'
+      // Normalize by removing leading/trailing slashes first
+      const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
+      const slugPart = normalizedSlug.replace(/^services\//, '').replace(/\/$/, '');
+      return {
+        slug: slugPart,
+      };
+    });
+    
+    return params;
+  } catch (error) {
+    console.error('Error in generateStaticParams:', error);
+    return [];
+  }
 }
 
 export async function generateMetadata({
@@ -115,20 +149,50 @@ export default async function ServicePage({
     notFound();
   }
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+  const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
+  const url = `${baseUrl}/${normalizedSlug}`;
+  
+  // Generate service schema
+  const serviceSchema = generateServiceSchema({
+    name: page.seo_title || page.title,
+    description: page.seo_description || page.title,
+    url,
+    serviceType: page.title,
+  });
+
+  // Generate breadcrumbs
+  const breadcrumbItems = [
+    { label: 'Services', href: '/services' },
+    { label: page.title, href: `/${normalizedSlug}` },
+  ];
+
+  // Get feature image - use page feature_image if available, otherwise fallback to service card image
+  const featureImage = page.feature_image || getServiceImageFromContent(page.slug);
+
   return (
     <>
+      <StructuredData data={serviceSchema} />
       <Header />
       <main className="min-h-screen pt-20">
         <article className="max-w-4xl mx-auto px-4 py-12">
           <div className="mb-8">
-            <Link
-              href="/services"
-              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200 mb-6"
-            >
-              <ArrowLeft className="w-4 h-4 mr-2" />
-              Back to Services
-            </Link>
+            <Breadcrumbs items={breadcrumbItems} className="mb-6" />
           </div>
+
+          {featureImage && (
+            <div className="mb-8 rounded-lg overflow-hidden">
+              <div className="relative w-full aspect-video">
+                <OptimizedImage
+                  src={featureImage}
+                  alt={page.title}
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 90vw, 896px"
+                />
+              </div>
+            </div>
+          )}
 
           <div className="prose prose-lg max-w-none">
             <MarkdownRenderer content={page.content} />

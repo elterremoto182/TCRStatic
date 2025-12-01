@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { getPageBySlug } from '@/lib/pages/pages';
 import { Home } from 'lucide-react';
@@ -39,9 +40,10 @@ export default function AboutPage() {
       <main className="min-h-screen pt-20">
         <article className="max-w-4xl mx-auto px-4 py-12">
           <div className="mb-8">
+            <Breadcrumbs items={[{ label: 'About', href: '/about' }]} className="mb-6" />
             <Link
               href="/"
-              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200 mb-6"
+              className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
             >
               <Home className="w-4 h-4 mr-2" />
               Back to Home

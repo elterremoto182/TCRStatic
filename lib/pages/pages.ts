@@ -11,6 +11,7 @@ export interface Page {
   seo_description?: string;
   keywords?: string[];
   menu_order?: number;
+  feature_image?: string;
   content: string;
 }
 
@@ -43,6 +44,7 @@ export function getPageBySlug(slug: string): Page | null {
           seo_description: data.seo_description,
           keywords: data.keywords,
           menu_order: data.menu_order,
+          feature_image: data.feature_image,
           content,
         };
       }
@@ -77,6 +79,7 @@ export function getAllPages(): Page[] {
         seo_description: data.seo_description,
         keywords: data.keywords,
         menu_order: data.menu_order || 0,
+        feature_image: data.feature_image,
         content,
       });
     } catch (error) {

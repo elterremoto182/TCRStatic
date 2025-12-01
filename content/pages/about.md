@@ -1,37 +1,22 @@
 ---
-title: About
-slug: about
-template: views/template-about.blade.php
+title: "About"
+slug: "about"
 menu_order: 0
-seo_title: About - Total Leak Detection
-seo_description: >-
-  About Total Leak Detection: Learn about our expertise in leak detection
-  services and our commitment to customer satisfaction.
-keywords: ["About Total Leak Detection"]
+seo_title: "About - Total Care Restoration"
+seo_description: "Learn more about Total Care Restoration—South Florida’s trusted experts in water, fire, mold, and storm damage restoration. Discover our mission, team, and commitment to customer care."
+keywords: ["about total care restoration"]
 ---
-# About Total Leak Detection
 
-## About Total Leak Detection
+We are a local, family business, which focuses on property emergencies. These emergencies can range from water leaks, shower pan failures, and sewage backups in your plumbing systems to other leaks like roof leaks and window leaks.
 
-We decided to build a business around simplifying the plumbing industry with Total Leak Detection. With 3rd generation plumbing knowledge, we look to redefine customer service in three concentrated areas: water leak detection, sewer camera inspections, and plumbing report writing.  
+We also have years of experience in other services that are less common like odor control, vandalism clean up, and restoration after a fire.
 
-From preventing sewer pipe problems to delivering super reliable plumbing reports, we have you covered. If you suspect you have a leak, seek help immediately. Speed is everything in leak detection services. A plumbing leak, even a minor one, can end up becoming a long-term headache. 
+During Hurricane Irma in South Florida and Michael in Panama City, we helped hundreds of households and businesses.
 
-The good news is that the sooner they are corrected, the less chance there is of it causing serious damage to your home or business.
+In addition to experience, we have all the necessary certifications. All of our lead technicians and account managers have the required certifications. They also have “on the job training” for all types of jobs.
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/zAQ-o5fv-wU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We strive to give the highest level of service and leave each home completely sanitized. Also, we make sure to leave each customer with the best possible air quality.
 
+As we care about our customers, we are one of the few companies that will assign a specialized account representative to go out with the technicians to educate you on the process. You will get personalized services to what you really need and hold your hand through every aspect of the job.
 
-### Why choose us? 
-
-We specialize in non-invasive leak detection. This involves the use of advanced techniques inside and outside the house that avoid expensive tear-down of walls, floors, and landscaping. Not only do we have the advanced tools and equipment, but have properly trained professionals to create customized solutions for your exact problem.
-
--   45+ years of experience 
--   Fast camera inspections
--   Our leak find is guaranteed
--   Expert leak detection technicians
--   Trained in advanced detection techniques
--   We work with all insurance companies
--   Fast plumbing reports
--   We create reports for insurance purposes
--   Immediate emergency response
+<iframe src="https://www.youtube.com/embed/aFbrhj_jQgw?feature=oembed" width="500" height="281" frameborder="0" title="About Us - Total Care Restoration" allowfullscreen></iframe>
