@@ -1,0 +1,7 @@
+[build]
+  publish = "out"
+  command = "npm run build:optimized"
+
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+
