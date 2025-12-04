@@ -179,7 +179,7 @@ export function Gallery() {
                     fill
                     className="object-contain"
                     priority
-                    sizes="(max-width: 768px) calc(100vw - 32px), min(90vw, 1024px)"
+                    sizes="(max-width: 768px) calc(100vw - 32px), 800px"
                   />
                   <div className="absolute top-3 left-3 px-3 py-1.5 bg-red-600 text-white text-sm font-bold rounded-lg shadow-lg">
                     BEFORE
@@ -195,8 +195,7 @@ export function Gallery() {
                     alt={`${selectedProject.title} - After`}
                     fill
                     className="object-contain"
-                    priority
-                    sizes="(max-width: 768px) calc(100vw - 32px), min(90vw, 1024px)"
+                    sizes="(max-width: 768px) calc(100vw - 32px), 800px"
                   />
                   <div className="absolute top-3 left-3 px-3 py-1.5 bg-green-600 text-white text-sm font-bold rounded-lg shadow-lg">
                     AFTER
