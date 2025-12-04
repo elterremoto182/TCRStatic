@@ -44,7 +44,7 @@ export function Hero() {
       )}
 
       <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={0}>
+        <AnimateOnScroll animation="fade-in-up" duration={800} delay={0} initiallyVisible>
           <h1
             className={`text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 ${
               hero.backgroundVideo || hero.backgroundImage
@@ -56,7 +56,7 @@ export function Hero() {
           </h1>
         </AnimateOnScroll>
 
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={200}>
+        <AnimateOnScroll animation="fade-in-up" duration={800} delay={200} initiallyVisible>
           <p
             className={`text-xl md:text-2xl mb-8 leading-relaxed ${
               hero.backgroundVideo || hero.backgroundImage
@@ -68,7 +68,7 @@ export function Hero() {
           </p>
         </AnimateOnScroll>
 
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={400}>
+        <AnimateOnScroll animation="fade-in-up" duration={800} delay={400} initiallyVisible>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
               href={hero.ctaPrimary.href}

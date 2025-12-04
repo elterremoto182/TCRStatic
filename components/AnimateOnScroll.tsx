@@ -9,6 +9,8 @@ interface AnimateOnScrollProps {
   delay?: number;
   duration?: number;
   className?: string;
+  /** Set to true for above-the-fold content to improve FCP - content starts visible */
+  initiallyVisible?: boolean;
 }
 
 export function AnimateOnScroll({
@@ -17,6 +19,7 @@ export function AnimateOnScroll({
   delay = 0,
   duration = 600,
   className = '',
+  initiallyVisible = false,
 }: AnimateOnScrollProps) {
   const { ref, isIntersecting } = useIntersectionObserver({
     threshold: 0.1,
@@ -24,12 +27,16 @@ export function AnimateOnScroll({
     triggerOnce: true,
   });
 
-  const animationClass = isIntersecting ? 'animate-visible' : 'animate-hidden';
+  // For above-the-fold content (initiallyVisible=true), start visible to improve FCP
+  // Content is visible immediately, animation plays when IntersectionObserver fires
+  const animationClass = initiallyVisible 
+    ? (isIntersecting ? `animate-visible ${animation}` : '') 
+    : (isIntersecting ? 'animate-visible' : 'animate-hidden');
 
   return (
     <div
       ref={ref}
-      className={`${animationClass} ${animation} ${className}`}
+      className={`${animationClass} ${!initiallyVisible ? animation : ''} ${className}`}
       style={{
         animationDelay: `${delay}ms`,
         animationDuration: `${duration}ms`,
