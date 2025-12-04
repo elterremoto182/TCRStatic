@@ -1,0 +1,45 @@
+# Cache headers for Netlify
+# Static assets with hashed filenames - cache for 1 year
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Optimized images - cache for 1 year
+/nextImageExportOptimizer/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Original images - cache for 1 year
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# WordPress migrated images - cache for 1 year
+/wp-content/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts - cache for 1 year
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.woff
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML pages - always check for fresh content
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Service worker and manifest
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/manifest.json
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Sitemap and robots - short cache, revalidate often
+/sitemap.xml
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=86400
+
