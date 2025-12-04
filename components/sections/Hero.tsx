@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import OptimizedImage from '@/components/OptimizedImage';
-import { VideoPlayer } from '@/components/media/VideoPlayer';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import content from '@/config/content.json';
+import Link from "next/link";
+import OptimizedImage from "@/components/OptimizedImage";
+import { VideoPlayer } from "@/components/media/VideoPlayer";
+import { AnimateOnScroll } from "@/components/AnimateOnScroll";
+import content from "@/config/content.json";
 
 export function Hero() {
   const { hero } = content;
@@ -48,8 +48,8 @@ export function Hero() {
           <h1
             className={`text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 ${
               hero.backgroundVideo || hero.backgroundImage
-                ? 'text-white'
-                : 'text-gray-900'
+                ? "text-white"
+                : "text-gray-900"
             }`}
           >
             {hero.headline}
@@ -60,8 +60,8 @@ export function Hero() {
           <p
             className={`text-xl md:text-2xl mb-8 leading-relaxed ${
               hero.backgroundVideo || hero.backgroundImage
-                ? 'text-gray-100'
-                : 'text-gray-600'
+                ? "text-gray-100"
+                : "text-gray-600"
             }`}
           >
             {hero.subheadline}
@@ -91,8 +91,8 @@ export function Hero() {
         <svg
           className={`w-6 h-6 ${
             hero.backgroundVideo || hero.backgroundImage
-              ? 'text-white'
-              : 'text-gray-400'
+              ? "text-white"
+              : "text-gray-400"
           }`}
           fill="none"
           strokeLinecap="round"

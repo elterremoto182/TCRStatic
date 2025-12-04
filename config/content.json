@@ -13,12 +13,12 @@
     }
   },
   "hero": {
-    "headline": "Welcome to Our Business",
+    "headline": "Your Restoration Experts",
     "ctaPrimary": {
       "href": "/#contact",
-      "text": "Get Started"
+      "text": "Get A Free Estimate"
     },
-    "subheadline": "Professional services you can trust",
+    "subheadline": "Locally owned and operated since 2015. 24/7 emergency services • Licensed, bonded, insured • Direct billing with your insurance.",
     "ctaSecondary": {
       "href": "/#services",
       "text": "Our Services"
@@ -206,7 +206,7 @@
     }
   ],
   "contact": {
-    "headline": "Get in Touch",
+    "headline": "Get A Free Estimate",
     "description": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
   }
 }
