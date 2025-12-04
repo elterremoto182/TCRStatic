@@ -145,7 +145,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
                       width={widthNum}
                       height={heightNum}
                       className="rounded-lg max-w-full h-auto"
-                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+                      sizes="(max-width: 768px) calc(100vw - 32px), 864px"
                       loading="lazy"
                     />
                   </span>
@@ -161,7 +161,7 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
                     alt={alt || ''}
                     fill
                     className="rounded-lg object-contain"
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+                    sizes="(max-width: 768px) calc(100vw - 32px), 864px"
                     loading="lazy"
                   />
                 </span>

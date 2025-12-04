@@ -73,7 +73,7 @@ export function Services() {
                         alt={service.title}
                         fill
                         className="object-cover group-hover:scale-110 transition-transform duration-300"
-                        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                        sizes="(max-width: 768px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 48px), 280px"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                       <div className="absolute bottom-4 left-4 w-12 h-12 bg-white rounded-xl flex items-center justify-center shadow-lg">

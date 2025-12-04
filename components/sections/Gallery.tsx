@@ -103,7 +103,7 @@ export function Gallery() {
                     alt={project.title}
                     fill
                     className="object-cover group-hover:scale-110 transition-transform duration-300 brightness-75 saturate-90"
-                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    sizes="(max-width: 768px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 48px), 400px"
                   />
                   <div className="absolute inset-0 bg-black/40" />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent" />
@@ -179,7 +179,7 @@ export function Gallery() {
                     fill
                     className="object-contain"
                     priority
-                    sizes="(max-width: 768px) 100vw, 90vw"
+                    sizes="(max-width: 768px) calc(100vw - 32px), min(90vw, 1024px)"
                   />
                   <div className="absolute top-3 left-3 px-3 py-1.5 bg-red-600 text-white text-sm font-bold rounded-lg shadow-lg">
                     BEFORE
@@ -196,7 +196,7 @@ export function Gallery() {
                     fill
                     className="object-contain"
                     priority
-                    sizes="(max-width: 768px) 100vw, 90vw"
+                    sizes="(max-width: 768px) calc(100vw - 32px), min(90vw, 1024px)"
                   />
                   <div className="absolute top-3 left-3 px-3 py-1.5 bg-green-600 text-white text-sm font-bold rounded-lg shadow-lg">
                     AFTER

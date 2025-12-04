@@ -31,7 +31,7 @@ export function About() {
                   alt="Our Professional Team"
                   fill
                   className="object-cover"
-                  sizes="(max-width: 768px) 100vw, 1200px"
+                  sizes="(max-width: 768px) calc(100vw - 32px), 1120px"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
               </div>
