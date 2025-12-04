@@ -84,22 +84,6 @@
       },
       {
         "id": 2,
-        "title": "Hardwood Floor Water Extraction",
-        "category": "Water",
-        "beforeImage": "/wp-content/uploads/2025/11/image_fb03bae6e65125011c8be7bc7688b901.jpeg",
-        "afterImage": "/wp-content/uploads/2022/07/drying-floors-scaled.jpg",
-        "description": "Professional water extraction and drying mat installation saved these hardwood floors from permanent damage."
-      },
-      {
-        "id": 3,
-        "title": "Ceiling Water Damage Repair",
-        "category": "Water",
-        "beforeImage": "/wp-content/uploads/2025/09/image_dc870b7e294672457cf74afa1039882b.jpeg",
-        "afterImage": "/wp-content/uploads/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg",
-        "description": "Ceiling water stains and damage from roof leak fully repaired. Our team addressed the source and restored the ceiling to like-new condition."
-      },
-      {
-        "id": 4,
         "title": "Commercial Fire Damage Cleanup",
         "category": "Fire",
         "beforeImage": "/wp-content/uploads/2021/09/Depositphotos_42532403_xl-2015-scaled.jpg",
@@ -107,44 +91,12 @@
         "description": "Complete restoration of a warehouse after severe fire damage. Debris removal, structural cleaning, and full remediation."
       },
       {
-        "id": 5,
-        "title": "Residential Fireplace Soot Removal",
-        "category": "Fire",
-        "beforeImage": "/wp-content/uploads/2021/11/fire-hazard-header-image.jpg",
-        "afterImage": "/wp-content/uploads/2025/07/image_ac4acfc2ec8e9500c99195ee282f65c0.jpeg",
-        "description": "Professional soot and smoke damage cleanup. Our technicians used specialized equipment to remove all traces of fire damage."
-      },
-      {
-        "id": 6,
-        "title": "Office Mold Remediation",
-        "category": "Mold",
-        "beforeImage": "/wp-content/uploads/2025/07/image_0dc2dd42636390ac519a0068e43cd5ef.jpeg",
-        "afterImage": "/wp-content/uploads/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg",
-        "description": "Extensive black mold growth in commercial office fully remediated. Air quality testing confirmed safe environment after treatment."
-      },
-      {
-        "id": 7,
+        "id": 3,
         "title": "Bathroom Mold Removal",
         "category": "Mold",
         "beforeImage": "/wp-content/uploads/2021/11/mold-behind-walls.jpg",
         "afterImage": "/wp-content/uploads/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg",
         "description": "Window corner mold completely removed with antimicrobial treatment. Our certified technicians ensure thorough inspection and remediation."
-      },
-      {
-        "id": 8,
-        "title": "Wall Mold Treatment & Prevention",
-        "category": "Mold",
-        "beforeImage": "/wp-content/uploads/2025/07/image_0dc2dd42636390ac519a0068e43cd5ef.jpeg",
-        "afterImage": "/wp-content/uploads/2025/05/image_0876f85df29e4f7135d028b3f85f8ee1.jpeg",
-        "description": "Complete wall mold treatment including source identification, removal, and preventive coating application."
-      },
-      {
-        "id": 9,
-        "title": "Emergency Water Damage Response",
-        "category": "Water",
-        "beforeImage": "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg",
-        "afterImage": "/wp-content/uploads/2022/07/Water_damage-dryout.jpg",
-        "description": "24/7 emergency response to residential flooding. Quick water extraction and industrial drying equipment deployment."
       }
     ],
     "description": "See the quality and professionalism behind every project."
