@@ -10,7 +10,7 @@
     --card-foreground: 222.2 84% 4.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
-    --primary: 217.2 91.2% 59.8%;
+    --primary: 217.2 91.2% 48%;
     --primary-foreground: 210 40% 98%;
     --secondary: 215.4 16.3% 46.9%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -33,7 +33,7 @@
     --card-foreground: 210 40% 98%;
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
-    --primary: 217.2 91.2% 59.8%;
+    --primary: 217.2 91.2% 48%;
     --primary-foreground: 222.2 47.4% 11.2%;
     --secondary: 217.2 32.6% 17.5%;
     --secondary-foreground: 210 40% 98%;
@@ -174,7 +174,7 @@
 
   .call-now-button {
     display: inline-block;
-    background-color: #FF6200;
+    background-color: #D45500;
     color: white;
     padding: 1rem 2rem;
     font-weight: 600;
@@ -185,6 +185,6 @@
   }
 
   .call-now-button:hover {
-    background-color: #E55A00;
+    background-color: #B84A00;
   }
 }

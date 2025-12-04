@@ -42,7 +42,7 @@ export function Footer() {
   const social = siteConfig.social || {};
 
   return (
-    <footer className="bg-gray-900 text-gray-300 py-12">
+    <footer className="bg-gray-900 text-gray-200 py-12">
       <div className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
@@ -104,7 +104,7 @@ export function Footer() {
                       href={url as string}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-gray-400 hover:text-primary transition-colors duration-300"
+                      className="text-gray-300 hover:text-primary transition-colors duration-300"
                       aria-label={platform.charAt(0).toUpperCase() + platform.slice(1)}
                     >
                       {socialIcons[platform]}
@@ -122,7 +122,7 @@ export function Footer() {
             </p>
             <Link
               href="/privacy-policy"
-              className="text-gray-400 hover:text-white transition-colors duration-200"
+              className="text-gray-300 hover:text-white transition-colors duration-200"
             >
               Privacy Policy
             </Link>
