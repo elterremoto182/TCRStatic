@@ -49,7 +49,7 @@ Although cast iron pipes have been used in many different water systems througho
 
 Because of the salt and moisture-rich environment, Florida homes are especially susceptible to this type of pipe corrosion. 
 
-!(/wp-content/uploads/2019/11/video-inspection.jpg)
+![Video inspection of pipes](/wp-content/uploads/2019/11/video-inspection.jpg)
 
 ### Does Insurance Cover Cast Iron Pipes?
 
@@ -59,7 +59,7 @@ However, many residents are finding that their insurance companies are not cover
 
 A sewer backup into the home can be particularly detrimental to your property as well as to your health because you could potentially be exposed to harsh chemical additives, bacteria, pathogens, and other harmful substances. 
 
-!(/wp-content/uploads/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8-1024x571.jpeg)
+![Water damage due to cast iron problems](/wp-content/uploads/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8-1024x571.jpeg)
 
 Water damage due to cast iron problems
 

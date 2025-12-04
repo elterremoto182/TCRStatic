@@ -24,7 +24,7 @@ When water damage occurs, time is of the essence. Prompt action can prevent furt
 
 At Total Care Restoration, we understand the value of your historical home. Our approach combines modern techniques with a deep respect for the architectural integrity and historical significance of your property.
 
-!(/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+![Technician with a moisture meter](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
 ### **Assessment and Planning**
 

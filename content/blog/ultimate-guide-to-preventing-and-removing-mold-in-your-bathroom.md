@@ -102,7 +102,7 @@ Incorporating these preventive measures into your routine will help maintain a c
 
 ## **Removing Mold from Your Bathroom**
 
-!(/wp-content/uploads/2021/11/mold-behind-walls.jpg)
+![Mold behind walls](/wp-content/uploads/2021/11/mold-behind-walls.jpg)
 
 If despite your best efforts, mold still manages to take hold in your bathroom, it’s important to act fast to remove it. Immediate action prevents it from spreading throughout the bathroom and causing structural damage or health issues.
 

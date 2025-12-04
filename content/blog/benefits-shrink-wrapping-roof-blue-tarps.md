@@ -41,7 +41,7 @@ There are a variety of reasons why you may feel like you need to go that extra m
 
 Perhaps hurricane season is coming and you just want that added layer of security for your home. 
 
-[!(/wp-content/uploads/2021/11/1st-roof-wrap.jpg)][(Wp Content/uploads/2021/11/1st Roof Wrap.jpg)](/wp-content/uploads/2021/11/1st-roof-wrap.jpg)
+![Panoramic shot of a shrink wrap](/wp-content/uploads/2021/11/1st-roof-wrap.jpg)
 
 Panoramic shot of a shrink wrap
 
@@ -51,7 +51,7 @@ A lot of people in this situation simply use a [Roof Tarping](/services/roof-tar
 
 Here’s how shrink wrapping a roof works and why it may be your ideal choice. 
 
-!(/wp-content/uploads/2021/10/roof_tarp-768x246-1.jpeg)
+![Roof tarp installation](/wp-content/uploads/2021/10/roof_tarp-768x246-1.jpeg)
 
 ## **Why Do I Need To Shrink Wrap?**
 

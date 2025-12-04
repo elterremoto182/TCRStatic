@@ -20,7 +20,7 @@ Water damage can escalate quickly, leading to more significant issues such as st
 
 The first 24 hours after water damage occurs are crucial. During this time, taking swift action can significantly reduce the overall impact and cost of restoration. Total Care Restoration is ready to respond at a moment’s notice, ensuring that your emergency doesn’t turn into a disaster.
 
-!(/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg)
+![Water damage on wood floor](/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg)
 
 Water leaking and flooded on wood parquet floor. Room floor will damage after the water flooded.
 

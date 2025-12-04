@@ -47,7 +47,7 @@ Mold in homes is a common issue, especially in climates like Miami’s. However,
 
 At Total Care Restoration, we specialize in identifying and solving mold problems with effective, long-lasting solutions. Whether you’re dealing with a current mold issue or want to prevent future problems, our team is here to help. 
 
-!(/wp-content/uploads/2023/01/Moisture-meter-1-768x1024.jpg)
+![Moisture meter for mold detection](/wp-content/uploads/2023/01/Moisture-meter-1-768x1024.jpg)
 
 ## Related Links
 - [What is a Moisture Meter? The Best Measurement][What Is a Moisture Meter the Best Measurement](/what-is-a-moisture-meter-the-best-measurement)
