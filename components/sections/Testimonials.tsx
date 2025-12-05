@@ -1,8 +1,5 @@
-'use client';
-
 import OptimizedImage from '@/components/OptimizedImage';
 import { Star } from 'lucide-react';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import content from '@/config/content.json';
 
 export function Testimonials() {
@@ -11,26 +8,21 @@ export function Testimonials() {
   return (
     <section id="testimonials" className="py-20 md:py-28 bg-background">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600} delay={0}>
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
-              What Our Clients Say
-            </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Don't just take our word for it - hear from our satisfied customers
-            </p>
-          </div>
-        </AnimateOnScroll>
+        <div className="text-center mb-16">
+          <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
+            What Our Clients Say
+          </h2>
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+            Don't just take our word for it - hear from our satisfied customers
+          </p>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {testimonials.map((testimonial, index) => (
-            <AnimateOnScroll
-              key={testimonial.id}
-              animation="fade-in-up"
-              duration={600}
-              delay={index * 100}
+          {testimonials.map((testimonial) => (
+            <div 
+              key={testimonial.id} 
+              className="bg-white p-8 rounded-xl border border-gray-200 hover:-translate-y-1 hover:shadow-lg transition-all duration-200"
             >
-              <div className="bg-white p-8 rounded-xl border border-gray-200 hover:-translate-y-1 hover:shadow-lg transition-all duration-200">
               <div className="flex items-center mb-4">
                 {[...Array(testimonial.rating)].map((_, i) => (
                   <Star
@@ -70,7 +62,6 @@ export function Testimonials() {
                 </div>
               </div>
             </div>
-            </AnimateOnScroll>
           ))}
         </div>
       </div>
