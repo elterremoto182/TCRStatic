@@ -42,7 +42,7 @@ Water damage clean up professionals have access to more effective tools than you
 
 Note that companies may use different methods for water damage clean up, from vacuums to dehumidifiers to a combination of these and other options.
 
-![Water damage dryout process](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
+![Water damage dryout process](/wp-content/uploads/2022/07/Water_damage-dryout.jpg)
 
 ## The Water Damage Clean Up Process
 

@@ -50,7 +50,7 @@ Early detection of these signs helps mitigate extensive repairs. For a more deta
 
 ## **2\. Causes of Ceiling Water Damage**
 
-![Ceiling water damage](/wp-content/uploads/2024/07/shutterstock_2357173865-2-1024x576.jpg)
+![Ceiling water damage](/wp-content/uploads/2024/07/shutterstock_2357173865-2.jpg)
 
 Identifying the root causes of ceiling water damage is crucial for effective repair and prevention. Several factors can contribute to this problem:
 
@@ -70,7 +70,7 @@ To learn more about related restoration services like [Fire Restoration](/servic
 
 Maintaining vigilance and conducting regular inspections are key strategies in addressing these common causes of ceiling water damage.
 
-![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1-768x1024.jpg)
+![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
 
 ## **3\. Steps for Repairing Ceiling Water Damage**
 

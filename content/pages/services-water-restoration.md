@@ -16,7 +16,7 @@ Here is our proven water damage restoration process:
 
 Our team of highly qualified technicians use the latest tools and technology to determine the best way to carry out the necessary water damage repairs.
 
-![Water restoration][(Wp Content/uploads/2022/07/drying Floors 1024x576.jpg)](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
+![Water restoration](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
 
 ## Common Causes Of Water Damage
 
@@ -34,7 +34,7 @@ Water damage to your property can be caused by a variety of reasons, including:
 We provide a free initial evaluation of your water damage issue. This can be done over the phone if needed.
 To get a better understanding of the water damage, we will ask you to send us pictures and videos of the location. This helps us in planning the water damage cleanup process.
 
-![Water Damage Restoration Evaluation][(Wp Content/uploads/2022/07/Employee Holding IPAD 1024x772.png)](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
+![Water Damage Restoration Evaluation](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
 
 ## How To Avoid Any Future Water Damage Incidents
 
@@ -57,7 +57,7 @@ Water causes serious damage to your property and has a huge impact on your busin
 - Bursting pipes or old pipes
 - Leaking toilets
 
-![Water Damage Restoration][(Wp Content/uploads/2022/07/Water_damage Dryout 768x1024.jpg)](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
+![Water Damage Restoration](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
 
 Let’s take a look at how our water damage cleanup technicians handle these tasks. They follow a 5 step cleaning process under the water damage restoration service.
 

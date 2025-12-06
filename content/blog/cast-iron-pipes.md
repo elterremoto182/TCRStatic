@@ -59,7 +59,7 @@ However, many residents are finding that their insurance companies are not cover
 
 A sewer backup into the home can be particularly detrimental to your property as well as to your health because you could potentially be exposed to harsh chemical additives, bacteria, pathogens, and other harmful substances. 
 
-![Water damage due to cast iron problems](/wp-content/uploads/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8-1024x571.jpeg)
+![Water damage due to cast iron problems](/wp-content/uploads/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8.jpeg)
 
 Water damage due to cast iron problems
 

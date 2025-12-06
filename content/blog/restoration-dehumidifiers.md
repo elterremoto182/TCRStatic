@@ -18,7 +18,7 @@ When it comes to water damage restoration, a restoration dehumidifier is a criti
 
 A restoration dehumidifier is a machine designed to remove excess moisture from the air. It can be used to help mitigate water damage from a flood, leaky roof, or other source of water intrusion. The dehumidifier works by sucking in the moist air, cooling it, and then collecting the condensation. The condensation is then pumped out of the machine, and the now drier air is circulated back into the room.
 
-![Water dryout dehumidifier](/wp-content/uploads/2023/01/Water-dryout-dehumidifier-225x300.jpg)
+![Water dryout dehumidifier](/wp-content/uploads/2023/01/Water-dryout-dehumidifier.jpg)
 
 ## Reasons to Use a Restoration Dehumidifier
 

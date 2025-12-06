@@ -13,7 +13,7 @@ keywords: ["Toilet overflow cleanup"]
 
 Toilet overflow can be a major issue, causing water damage and unsanitary conditions in your home. It’s important to understand the causes and implement effective strategies to handle these situations promptly.
 
-![Toilet overflow water damage](/wp-content/uploads/2024/07/shutterstock_1754549390-1-1024x684.jpg)
+![Toilet overflow water damage](/wp-content/uploads/2024/07/shutterstock_1754549390-1.jpg)
 
 **Why does toilet overflow occur?**
 
@@ -77,7 +77,7 @@ Identifying the exact cause before proceeding with any cleanup is essential. A t
 
 ## **DIY Cleanup and Prevention Techniques for Toilet Overflow**
 
-![Total Care Restoration team](/wp-content/uploads/2024/07/total-2-1024x684.jpg)
+![Total Care Restoration team](/wp-content/uploads/2024/07/total-2.jpg)
 
 Handling a toilet overflow promptly can minimize damage and prevent health hazards. Here’s a step-by-step guide to effectively managing the situation:
 

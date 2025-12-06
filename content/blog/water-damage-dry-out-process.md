@@ -44,7 +44,7 @@ In smaller cases, where only a room is affected, this preparation might not be n
 
 In restoring a space that has suffered water damage, a range of specialized equipment is deployed to efficiently manage moisture and maintain a healthy environment. Here we outline the vital tools professionals use during the **water damage restoration steps**:
 
-![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1-768x1024.jpg)
+![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
 
 1.  **Detection Tools**:
     

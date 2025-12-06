@@ -8,7 +8,7 @@ seo_description: "When a blockage is deep into your pipe system or hard to locat
 
 # Video Inspection
 
-![banner](/wp-content/uploads/2019/11/video-inspection-820x300.jpg)
+![banner](/wp-content/uploads/2019/11/video-inspection.jpg)
 
 When a blockage is deep into your pipe system or hard to locate, our video inspection equipment can help pinpoint the location and source of the blockage.
 

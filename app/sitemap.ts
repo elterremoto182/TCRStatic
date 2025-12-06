@@ -8,15 +8,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
   const pages = getAllPages();
 
-  // Blog routes
+  // Blog routes - add trailing slash to match Next.js trailingSlash: true config
   const blogRoutes = posts.map((post) => ({
-    url: `${baseUrl}/${post.slug}`,
+    url: `${baseUrl}/${post.slug}/`,
     lastModified: new Date(post.date),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
 
-  // Static main routes
+  // Static main routes - add trailing slash except for base URL
   const staticRoutes = [
     {
       url: baseUrl,
@@ -25,38 +25,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: `${baseUrl}/blog`,
+      url: `${baseUrl}/blog/`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/services`,
+      url: `${baseUrl}/services/`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/about`,
+      url: `${baseUrl}/about/`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/contact`,
+      url: `${baseUrl}/contact/`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/privacy-policy`,
+      url: `${baseUrl}/privacy-policy/`,
       lastModified: new Date(),
       changeFrequency: 'yearly' as const,
       priority: 0.3,
     },
   ];
 
-  // Service pages
+  // Service pages - add trailing slash
   const servicePages = pages
     .filter((page) => {
       const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
@@ -65,7 +65,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .map((page) => {
       const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
       return {
-        url: `${baseUrl}/${normalizedSlug}`,
+        url: `${baseUrl}/${normalizedSlug}/`,
         lastModified: new Date(),
         changeFrequency: 'monthly' as const,
         priority: 0.8,
@@ -73,6 +73,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
 
   // Location pages and other static pages (excluding services which are handled above)
+  // Add trailing slash to match Next.js config
   const otherPages = pages
     .filter((page) => {
       const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
@@ -101,7 +102,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }
 
       return {
-        url: `${baseUrl}/${normalizedSlug}`,
+        url: `${baseUrl}/${normalizedSlug}/`,
         lastModified: new Date(),
         changeFrequency,
         priority,
