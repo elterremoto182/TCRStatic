@@ -285,7 +285,7 @@ When [Ultimate Guide to Preventing And Removing Mold in Your Bathroom](/ultimate
 - [Comprehensive Guide to Identifying and Repairing Ceiling Water Damage][Comprehensive Guide to Identifying And Repairing Ceiling Water Damage](/comprehensive-guide-to-identifying-and-repairing-ceiling-water-damage)
 - [Comparing DIY vs. Professional Fire Restoration.][Comparing DIY Vs Professional Fire Restoration](/comparing-diy-vs-professional-fire-restoration)
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

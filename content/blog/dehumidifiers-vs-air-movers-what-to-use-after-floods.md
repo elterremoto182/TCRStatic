@@ -235,7 +235,7 @@ When tackling [Emergency Water Damage Repair Services in Miami](/emergency-water
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)

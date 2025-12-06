@@ -192,7 +192,7 @@ Beyond that, unresolved claims can create financial and legal headaches. You cou
 - [Ultimate Guide to Preventing and Removing Mold in Your Bathroom][Ultimate Guide to Preventing And Removing Mold in Your Bathroom](/ultimate-guide-to-preventing-and-removing-mold-in-your-bathroom)
 - [Total Care Restoration: Why Trust Us with Your Home’s Recovery.][Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery)
 
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Fire Damage Inspection Standards Explained](/blog/fire-damage-inspection-standards-explained/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Fire Damage Inspection Standards Explained](/fire-damage-inspection-standards-explained/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

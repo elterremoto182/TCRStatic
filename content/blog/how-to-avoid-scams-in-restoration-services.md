@@ -215,7 +215,7 @@ To avoid this, consider breaking payments into stages tied to progress. A typica
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [Post Disaster Assessment For Commercial Properties](/blog/post-disaster-assessment-for-commercial-properties/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)

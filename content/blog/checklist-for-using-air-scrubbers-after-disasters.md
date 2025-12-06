@@ -188,7 +188,7 @@ It’s also important to check the **electrical components** for any issues, ver
 - [Roof Tarping Completely Explained][Roof Tarping Completely Explained](/roof-tarping-completely-explained)
 - [Restoration Dehumidifiers: What You Should Know][Restoration Dehumidifiers](/restoration-dehumidifiers)
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)

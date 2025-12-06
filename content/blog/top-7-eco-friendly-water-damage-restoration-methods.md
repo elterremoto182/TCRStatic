@@ -244,7 +244,7 @@ Although the initial expense may seem steep, solar-powered equipment is typicall
 
 ## Related Blog Posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [Innovations In Dehumidification For Faster Drying](/blog/innovations-in-dehumidification-for-faster-drying/)
--   [Real Time Data In Water Damage Restoration](/blog/real-time-data-in-water-damage-restoration/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Innovations In Dehumidification For Faster Drying](/innovations-in-dehumidification-for-faster-drying/)
+-   [Real Time Data In Water Damage Restoration](/real-time-data-in-water-damage-restoration/)

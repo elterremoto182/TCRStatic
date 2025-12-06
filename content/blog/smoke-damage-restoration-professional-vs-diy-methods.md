@@ -301,7 +301,7 @@ Ensure proper **ventilation** by opening windows and using fans to circulate air
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [How To Prevent Electrical Fires At Home](/blog/how-to-prevent-electrical-fires-at-home/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [How To Prevent Electrical Fires At Home](/how-to-prevent-electrical-fires-at-home/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

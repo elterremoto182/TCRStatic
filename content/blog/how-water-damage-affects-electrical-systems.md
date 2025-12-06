@@ -148,7 +148,7 @@ Taking these precautions can go a long way in safeguarding your electrical syste
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [How To Prevent Electrical Fires At Home](/blog/how-to-prevent-electrical-fires-at-home/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [How To Prevent Electrical Fires At Home](/how-to-prevent-electrical-fires-at-home/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

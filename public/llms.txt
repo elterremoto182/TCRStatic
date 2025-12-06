@@ -1,0 +1,117 @@
+# Total Care Restoration - LLM Context File
+
+> This file provides context about Total Care Restoration for AI assistants and large language models.
+
+## Company Overview
+
+Total Care Restoration is a water damage mitigation and restoration company serving South Florida. We are locally owned and operated since 2015, providing 24/7 emergency services for residential and commercial properties.
+
+- **Company Name**: Total Care Restoration
+- **Location**: 7790 NW 55th St., Doral, FL 33166
+- **Phone**: (786) 610-6317
+- **Email**: clientcare@totalcarerestoration.com
+- **Hours**: 24/7 Emergency Service Available
+- **Service Areas**: Miami, Doral, Kendall, Pinecrest, Miami Lakes, Deerfield Beach, Miramar, and all of South Florida
+
+## Core Services
+
+### Water Restoration
+24/7 emergency water damage repair including water extraction, structural drying, and complete restoration for residential and commercial properties.
+
+### Fire Damage Restoration
+Comprehensive fire and smoke damage cleanup, property securing, temporary housing assistance, and insurance claim coordination.
+
+### Mold Remediation
+Professional mold inspection, containment, removal, and antimicrobial treatment. Certified technicians ensure thorough remediation for healthy indoor environments.
+
+### Air Quality Inspections
+Indoor air quality testing and inspection services to identify mold, allergens, and other airborne contaminants.
+
+### Commercial Damage Restoration
+Quick-response restoration for businesses to minimize downtime. Expert crisis management for commercial properties.
+
+### Roof Tarping
+Emergency roof protection services with professional tarp installation to prevent further water damage from roof leaks.
+
+### Shrink Wrapping
+Professional shrink wrap services for roofs, construction sites, and storm-damaged structures.
+
+### Additional Services
+- Leak detection (water and sewer)
+- Sewer camera inspections
+- Hydro jetting
+- Clogged drain services
+- Slab leak repair
+- Plumbing report writing
+
+## Key Features
+
+- Licensed, bonded, and insured
+- 24/7 emergency response
+- Direct billing with insurance companies
+- Free estimates
+- 10+ years of experience
+- 100% satisfaction guarantee
+- Certified technicians
+
+## Website Structure
+
+### Main Pages
+- `/` - Homepage with services overview
+- `/about` - Company information and team
+- `/services` - Complete list of services
+- `/testimonials` - Customer reviews
+- `/blog` - Educational articles and tips
+- `/contact` - Contact form and information
+- `/privacy-policy` - Privacy policy
+
+### Service Pages
+- `/services/water` - Water restoration
+- `/services/fire` - Fire damage restoration
+- `/services/mold` - Mold remediation
+- `/services/air-quality` - Air quality inspections
+- `/services/commercial` - Commercial restoration
+- `/services/roof-tarping` - Roof tarping services
+- `/services/shrink-wrapping` - Shrink wrap services
+- `/services/leak-detection` - Leak detection
+- `/services/camera-inspection` - Sewer camera inspection
+- `/services/hydro-jetting` - Hydro jetting
+- `/services/clogged-drains` - Drain cleaning
+- `/services/slab-leaks` - Slab leak repair
+- `/services/mold-testing` - Mold testing
+
+### Location Pages
+- `/miami-leak-detection-services`
+- `/doral-leak-detection-expert-water-sewer-leak-detection-services`
+- `/kendall-leak-detection-services`
+- `/pinecrest-leak-detection-services`
+- `/miami-lakes-leak-detection-services`
+- `/total-leak-detection-deerfield-beach`
+
+## Common Questions This Website Can Answer
+
+1. How do I know if I have water damage?
+2. What should I do after a flood or water leak?
+3. How long does water damage restoration take?
+4. Does insurance cover water damage restoration?
+5. What are signs of mold in my home?
+6. How much does mold remediation cost?
+7. What causes fire damage beyond flames (smoke, soot)?
+8. How quickly can you respond to emergencies?
+9. Do you work with insurance companies?
+10. What areas in South Florida do you service?
+
+## Contact Information
+
+For emergency services or to schedule a free estimate:
+- **Call**: (786) 610-6317 (24/7)
+- **Email**: clientcare@totalcarerestoration.com
+- **Visit**: 7790 NW 55th St., Doral, FL 33166
+
+## Social Media
+- Facebook: https://facebook.com/totalcarerestoration
+- Instagram: https://instagram.com/totalcarerestoration
+- YouTube: https://youtube.com/@totalcarerestoration8042
+- LinkedIn: https://linkedin.com/company/totalcarerestoration
+- Twitter: https://twitter.com/totalcarerestoration
+

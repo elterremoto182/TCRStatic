@@ -24,7 +24,7 @@ When fire damages your property, [Plantation restoration services](/plantation-r
 -   Look for providers with 24/7 availability, certified technicians, and direct insurance billing support.
 -   Total Care Restoration offers reliable temporary power services alongside fire restoration, with a focus on safety and fast deployment.
 
-For immediate assistance, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317][Contact Us](/contact-us/)**.
+For immediate assistance, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317][Contact Us](/contact)**.
 
 ## How to Choose a Temporary Power Provider
 
@@ -188,7 +188,7 @@ There’s also the **logistical challenge** of deploying temporary power in area
 - [Mold Risk Assessment Tool][Mold Risk Assessment Tool](/mold-risk-assessment-tool)
 - [Mold in Commercial Spaces: Causes and Solutions][Mold in Commercial Spaces Causes And Solutions](/mold-in-commercial-spaces-causes-and-solutions)
 
--   [Post Disaster Assessment For Commercial Properties](/blog/post-disaster-assessment-for-commercial-properties/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
--   [How Water Damage Affects Electrical Systems](/blog/how-water-damage-affects-electrical-systems/)
+-   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems/)

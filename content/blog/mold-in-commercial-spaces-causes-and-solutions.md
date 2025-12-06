@@ -185,7 +185,7 @@ Companies like **Total Care Restoration** have the right tools and expertise to 
 
 ## Related posts
 
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [5 Steps For Mold Decontamination](/blog/5-steps-for-mold-decontamination/)
--   [How Negative Pressure Prevents Mold Spread](/blog/how-negative-pressure-prevents-mold-spread/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [5 Steps For Mold Decontamination](/5-steps-for-mold-decontamination/)
+-   [How Negative Pressure Prevents Mold Spread](/how-negative-pressure-prevents-mold-spread/)

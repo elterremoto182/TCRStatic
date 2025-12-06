@@ -164,7 +164,7 @@ For more thorough solutions, professional services such as **Total Care Restorat
 
 ## Related posts
 
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
--   [Hepa Filters Vs Uv Systems For Pathogen Control](/blog/hepa-filters-vs-uv-systems-for-pathogen-control/)
--   [Ozone Air Treatment For Mold And Pathogens](/blog/ozone-air-treatment-for-mold-and-pathogens/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
+-   [Hepa Filters Vs Uv Systems For Pathogen Control](/hepa-filters-vs-uv-systems-for-pathogen-control/)
+-   [Ozone Air Treatment For Mold And Pathogens](/ozone-air-treatment-for-mold-and-pathogens/)

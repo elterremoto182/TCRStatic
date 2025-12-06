@@ -145,7 +145,7 @@ Not sure how bad the damage is or worried there might be hidden problems? A lice
 
 ## Related posts
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)

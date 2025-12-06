@@ -159,7 +159,7 @@ Incorporating these advanced tools into fire damage inspections doesn’t just s
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)

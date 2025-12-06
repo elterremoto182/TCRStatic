@@ -150,7 +150,7 @@ These systems shine in large-scale projects where maintaining low humidity over 
 
 ## Related Blog Posts
 
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Dehumidifiers Vs Air Movers What To Use After Floods](/blog/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
--   [How Long Does Property Restoration Take](/blog/how-long-does-property-restoration-take/)
--   [5 Steps To Dry Wet Insulation Safely](/blog/5-steps-to-dry-wet-insulation-safely/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [How Long Does Property Restoration Take](/how-long-does-property-restoration-take/)
+-   [5 Steps To Dry Wet Insulation Safely](/5-steps-to-dry-wet-insulation-safely/)

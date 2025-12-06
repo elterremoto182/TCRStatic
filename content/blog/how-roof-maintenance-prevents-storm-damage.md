@@ -199,7 +199,7 @@ For more serious issues, like leaks or sagging areas, it’s wise to call in the
 
 ## Related Blog Posts
 
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [Post Disaster Assessment For Commercial Properties](/blog/post-disaster-assessment-for-commercial-properties/)
--   [How To Tarp A Roof After Storm Damage](/blog/how-to-tarp-a-roof-after-storm-damage/)
--   [How Routine Inspections Prevent Water Damage](/blog/how-routine-inspections-prevent-water-damage/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+-   [How To Tarp A Roof After Storm Damage](/how-to-tarp-a-roof-after-storm-damage/)
+-   [How Routine Inspections Prevent Water Damage](/how-routine-inspections-prevent-water-damage/)

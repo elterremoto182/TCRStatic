@@ -159,7 +159,7 @@ Professional help is often necessary for hidden mold. Certified technicians, lik
 - [How to Choose the Right PPE for Property Restoration][Choose Right Ppe Property Restoration](/choose-right-ppe-property-restoration)
 - [10 Plumbing Maintenance Tips to Prevent Leaks][10 Plumbing Maintenance Tips to Prevent Leaks](/10-plumbing-maintenance-tips-to-prevent-leaks)
 
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

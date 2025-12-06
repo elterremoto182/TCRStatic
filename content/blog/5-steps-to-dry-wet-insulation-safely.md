@@ -20,7 +20,7 @@ Wet insulation can lead to mold, health risks, and structural damage if not addr
 1.  **Stop the Water Source**: Identify and fix leaks or water entry points like [Comprehensive Guide to Identifying And Repairing Ceiling Water Damage](/comprehensive-guide-to-identifying-and-repairing-ceiling-water-damage/), burst pipes, or foundation cracks. Document damage for insurance claims.
 2.  **Remove Wet Insulation**: Discard soaked materials like fiberglass or cellulose insulation, which lose effectiveness and promote mold growth.
 3.  **Dry the Area**: Use fans, dehumidifiers, and ventilation to eliminate moisture. Monitor progress with moisture meters.
-4.  [**Beat Miamis Humidity Top Tips for a Mold Free Home**](/beat-miamis-humidity-top-tips-for-a-mold-free-home/): Inspect for mold growth in walls, ceilings, and framing. If mold covers over 10 sq. ft. or causes health symptoms, [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/).
+4.  [**Beat Miamis Humidity Top Tips for a Mold Free Home**](/beat-miamis-humidity-top-tips-for-a-mold-free-home/): Inspect for mold growth in walls, ceilings, and framing. If mold covers over 10 sq. ft. or causes health symptoms, [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/).
 5.  **Replace Insulation**: Install new, moisture-resistant insulation after ensuring all surfaces are dry.
 
 **Key Tip**: Mold can grow in 24–48 hours, so act fast. For extensive damage or contaminated water, professional services ensure thorough remediation and safety.
@@ -228,7 +228,7 @@ If a large area of insulation is wet, has been soaked for over 24-48 hours, or s
 - [Effective Strategies for Handling Toilet Overflow and Preventing Future Incidents][Effective Strategies for Handling Toilet Overflow And Preventing Future Incidents](/effective-strategies-for-handling-toilet-overflow-and-preventing-future-incidents)
 - [Why Drying Mats Are Essential for Restoration][Drying Mats Essential Restoration](/drying-mats-essential-restoration)
 
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [5 Steps For Mold Decontamination](/blog/5-steps-for-mold-decontamination/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [5 Steps For Mold Decontamination](/5-steps-for-mold-decontamination/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

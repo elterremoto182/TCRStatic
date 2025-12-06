@@ -205,7 +205,7 @@ If you need expert help, Total Care Restoration provides certified technicians a
 - [How Professionals Assess Smoke Odor in Properties][How Professionals Assess Smoke Odor in Properties](/how-professionals-assess-smoke-odor-in-properties)
 - [How Negative Pressure Prevents Mold Spread][How Negative Pressure Prevents Mold Spread](/how-negative-pressure-prevents-mold-spread)
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [7 Steps To Clean Smoke Damaged Items](/blog/7-steps-to-clean-smoke-damaged-items/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [7 Steps To Clean Smoke Damaged Items](/7-steps-to-clean-smoke-damaged-items/)

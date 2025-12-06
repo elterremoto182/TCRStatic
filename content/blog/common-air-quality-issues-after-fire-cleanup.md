@@ -177,7 +177,7 @@ Taking these steps quickly and effectively can greatly lower the chances of mold
 - [Top 5 Soot Cleaning Services][Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services)
 - [The Role of Air Movers in Drying Out a Flooded Space.][The Role of Air Movers in Drying Out a Flooded Space](/the-role-of-air-movers-in-drying-out-a-flooded-space)
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [7 Steps To Clean Smoke Damaged Items](/blog/7-steps-to-clean-smoke-damaged-items/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [7 Steps To Clean Smoke Damaged Items](/7-steps-to-clean-smoke-damaged-items/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

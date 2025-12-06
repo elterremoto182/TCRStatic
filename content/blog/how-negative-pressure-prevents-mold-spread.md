@@ -173,7 +173,7 @@ These experts adhere to established industry guidelines like (https://iicrc.org/
 
 ## Related posts
 
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [5 Steps For Mold Decontamination](/blog/5-steps-for-mold-decontamination/)
--   [Dehumidifiers Vs Air Movers What To Use After Floods](/blog/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [5 Steps For Mold Decontamination](/5-steps-for-mold-decontamination/)
+-   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)

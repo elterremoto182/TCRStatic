@@ -282,7 +282,7 @@ UV systems, on the other hand, demand a bit more caution due to the risks associ
 
 ## Related posts
 
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [How Negative Pressure Prevents Mold Spread](/blog/how-negative-pressure-prevents-mold-spread/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [How Negative Pressure Prevents Mold Spread](/how-negative-pressure-prevents-mold-spread/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)

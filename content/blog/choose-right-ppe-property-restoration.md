@@ -218,7 +218,7 @@ Take respirators, for instance. They protect against airborne contaminants, ensu
 - [Smoke Damage Restoration: Professional vs DIY Methods][Smoke Damage Restoration Professional Vs DIY Methods](/smoke-damage-restoration-professional-vs-diy-methods)
 - [Smoke Damage: Long-Term Effects and Restoration Techniques.][Smoke Damage Long Term Effects And Restoration Techniques](/smoke-damage-long-term-effects-and-restoration-techniques)
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
--   [Air Quality Tests During Mold Removal](/blog/air-quality-tests-during-mold-removal/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [Air Quality Tests During Mold Removal](/air-quality-tests-during-mold-removal/)

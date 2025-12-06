@@ -174,7 +174,7 @@ Speed is everything when it comes to water damage restoration. Delays can lead t
 
 ## Related Blog Posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [How Long Does Property Restoration Take](/blog/how-long-does-property-restoration-take/)
--   [How Routine Inspections Prevent Water Damage](/blog/how-routine-inspections-prevent-water-damage/)
--   [Innovations In Dehumidification For Faster Drying](/blog/innovations-in-dehumidification-for-faster-drying/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [How Long Does Property Restoration Take](/how-long-does-property-restoration-take/)
+-   [How Routine Inspections Prevent Water Damage](/how-routine-inspections-prevent-water-damage/)
+-   [Innovations In Dehumidification For Faster Drying](/innovations-in-dehumidification-for-faster-drying/)

@@ -146,7 +146,7 @@ export default async function DynamicPage({
   // Check for blog post first
   const post = getPostBySlug(slug);
   if (post) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
     const url = `${baseUrl}/${post.slug}`;
     
     // Generate Article schema

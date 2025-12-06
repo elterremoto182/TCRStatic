@@ -227,7 +227,7 @@ By ensuring proper ventilation, you can effectively push humid air outside, whic
 - [Understanding The Basics of A Fire Damage Restoration Services Company][Fire Damage Restoration Guide](/fire-damage-restoration-guide)
 - [Fire Damage Restoration: A Step-by-Step Guide.][Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide)
 
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [5 Steps For Mold Decontamination](/blog/5-steps-for-mold-decontamination/)
--   [Dehumidifiers Vs Air Movers What To Use After Floods](/blog/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
--   [Mold In Commercial Spaces Causes And Solutions](/blog/mold-in-commercial-spaces-causes-and-solutions/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [5 Steps For Mold Decontamination](/5-steps-for-mold-decontamination/)
+-   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [Mold In Commercial Spaces Causes And Solutions](/mold-in-commercial-spaces-causes-and-solutions/)

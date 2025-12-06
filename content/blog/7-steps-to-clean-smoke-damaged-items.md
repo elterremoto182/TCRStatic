@@ -285,7 +285,7 @@ Another advantage of working with professional restoration teams is their abilit
 - [Health Risks Associated with Mold in Your Home.][Health Risks Associated With Mold in Your Home](/health-risks-associated-with-mold-in-your-home)
 - [Flood Drying Checklist for Homeowners][Flood Drying Checklist for Homeowners](/flood-drying-checklist-for-homeowners)
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)

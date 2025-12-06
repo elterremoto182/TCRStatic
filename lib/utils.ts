@@ -20,7 +20,7 @@ export function generatePageMetadata({
   path?: string;
   ogImage?: string;
 }): Metadata {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   const url = `${baseUrl}${path}`;
   const finalDescription = description || siteConfig.seo.description;
   const finalOgImage = ogImage || siteConfig.seo.ogImage;

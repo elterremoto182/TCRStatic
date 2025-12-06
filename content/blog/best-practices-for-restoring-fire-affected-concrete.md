@@ -205,7 +205,7 @@ Working with certified professionals is key to ensuring precise testing and a th
 - [Innovations in Dehumidification for Faster Drying][Innovations in Dehumidification for Faster Drying](/innovations-in-dehumidification-for-faster-drying)
 - [Hurricane Ian Tarps And Water Damage][Hurricane Ian Tarps Water Damage](/hurricane-ian-tarps-water-damage)
 
--   [How To Clean Fire Damaged Concrete](/blog/how-to-clean-fire-damaged-concrete/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
--   [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/)
+-   [How To Clean Fire Damaged Concrete](/how-to-clean-fire-damaged-concrete/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [Fire Damaged Wood Repair Or Replace](/fire-damaged-wood-repair-or-replace/)

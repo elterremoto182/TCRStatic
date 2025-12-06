@@ -210,7 +210,7 @@ These professionals adhere to **industry standards** and local codes, ensuring t
 
 ## Related Blog Posts
 
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
--   [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/)
--   [Best Practices For Restoring Fire Affected Concrete](/blog/best-practices-for-restoring-fire-affected-concrete/)
--   [Signs Of Structural Damage After A Fire](/blog/signs-of-structural-damage-after-a-fire/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [Fire Damaged Wood Repair Or Replace](/fire-damaged-wood-repair-or-replace/)
+-   [Best Practices For Restoring Fire Affected Concrete](/best-practices-for-restoring-fire-affected-concrete/)
+-   [Signs Of Structural Damage After A Fire](/signs-of-structural-damage-after-a-fire/)

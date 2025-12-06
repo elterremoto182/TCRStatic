@@ -231,7 +231,7 @@ With their expertise, professionals can quickly evaluate the extent of the damag
 
 ## Related posts
 
--   [Smoke Damage Restoration Professional Vs Diy Methods](/blog/smoke-damage-restoration-professional-vs-diy-methods/)
--   [How To Stop Smoke Damage After A Fire](/blog/how-to-stop-smoke-damage-after-a-fire/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
+-   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+-   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)

@@ -214,7 +214,7 @@ Other factors, like extreme temperatures or being positioned too far from the ar
 - [Exploring Advanced Venting Solutions for Plumbing Drains: What You Need to Know][Exploring Advanced Venting Solutions for Plumbing Drains What You Need to Know](/exploring-advanced-venting-solutions-for-plumbing-drains-what-you-need-to-know)
 - [Emergency Water Damage Repair Services in Miami][Emergency Water Damage Repair Services in Miami](/emergency-water-damage-repair-services-in-miami)
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [Dehumidifiers Vs Air Movers What To Use After Floods](/blog/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)

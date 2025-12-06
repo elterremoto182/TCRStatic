@@ -10,7 +10,7 @@ seo_description: "Moisture plays a critical role in the deterioration of fire-da
 keywords: ["moisture", "concrete", "damage", "repairs", "repair", "structural", "damaged", "restoration", "cracks", "surface"]
 ---
 
-When fire damages concrete, it’s not just the heat that weakens it – moisture plays a major role in its deterioration and complicates repairs. High temperatures cause cracks, spalling, and permanent chemical changes, while firefighting water and altered pore structures lead to unpredictable moisture movement, salt buildup, and long-term damage. [Best Practices For Restoring Fire Affected Concrete](/blog/best-practices-for-restoring-fire-affected-concrete/) requires careful moisture control to prevent further deterioration and ensure durable repairs.
+When fire damages concrete, it’s not just the heat that weakens it – moisture plays a major role in its deterioration and complicates repairs. High temperatures cause cracks, spalling, and permanent chemical changes, while firefighting water and altered pore structures lead to unpredictable moisture movement, salt buildup, and long-term damage. [Best Practices For Restoring Fire Affected Concrete](/best-practices-for-restoring-fire-affected-concrete/) requires careful moisture control to prevent further deterioration and ensure durable repairs.
 
 Key takeaways:
 
@@ -187,7 +187,7 @@ Using advanced repair techniques, professionals stabilize the concrete and addre
 
 ## Related Blog Posts
 
--   [How To Clean Fire Damaged Concrete](/blog/how-to-clean-fire-damaged-concrete/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/)
--   [Best Practices For Restoring Fire Affected Concrete](/blog/best-practices-for-restoring-fire-affected-concrete/)
+-   [How To Clean Fire Damaged Concrete](/how-to-clean-fire-damaged-concrete/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [Fire Damaged Wood Repair Or Replace](/fire-damaged-wood-repair-or-replace/)
+-   [Best Practices For Restoring Fire Affected Concrete](/best-practices-for-restoring-fire-affected-concrete/)

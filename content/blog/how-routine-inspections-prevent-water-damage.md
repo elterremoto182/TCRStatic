@@ -212,7 +212,7 @@ To make the most of these inspections, it’s essential to keep thorough records
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Top 6 Most Common Causes Of Indoor Water Damage](/blog/top-6-most-common-causes-of-indoor-water-damage/)
--   [Flood Drying Checklist For Homeowners](/blog/flood-drying-checklist-for-homeowners/)
--   [How Water Damage Affects Electrical Systems](/blog/how-water-damage-affects-electrical-systems/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
+-   [Flood Drying Checklist For Homeowners](/flood-drying-checklist-for-homeowners/)
+-   [How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems/)

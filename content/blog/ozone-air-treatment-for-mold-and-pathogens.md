@@ -171,7 +171,7 @@ To avoid damage and ensure effective results, it’s crucial to evaluate the mat
 
 ## Related posts
 
--   [5 Steps For Emergency Mold Mitigation](/blog/5-steps-for-emergency-mold-mitigation/)
--   [How Negative Pressure Prevents Mold Spread](/blog/how-negative-pressure-prevents-mold-spread/)
--   [Mold In Commercial Spaces Causes And Solutions](/blog/mold-in-commercial-spaces-causes-and-solutions/)
--   [Hepa Filters Vs Uv Systems For Pathogen Control](/blog/hepa-filters-vs-uv-systems-for-pathogen-control/)
+-   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
+-   [How Negative Pressure Prevents Mold Spread](/how-negative-pressure-prevents-mold-spread/)
+-   [Mold In Commercial Spaces Causes And Solutions](/mold-in-commercial-spaces-causes-and-solutions/)
+-   [Hepa Filters Vs Uv Systems For Pathogen Control](/hepa-filters-vs-uv-systems-for-pathogen-control/)

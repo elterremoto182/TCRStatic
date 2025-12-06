@@ -16,9 +16,9 @@ After a fire, the damage goes far beyond what’s visible. Cracks, warped materi
 -   **Warped Materials**: Heat can bend steel beams, twist wood, and distort floors or walls, causing misalignment and instability.
 -   **Load-Bearing Damage**: Charring, spalling, or sagging in beams, columns, or walls can lead to sudden failure.
 -   **Smoke and Soot**: Residues weaken materials over time and pose health risks due to toxic compounds.
--   **Water Damage**: Firefighting water can [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/), weaken drywall, and create conditions for mold growth.
+-   **Water Damage**: Firefighting water can [Fire Damaged Wood Repair Or Replace](/fire-damaged-wood-repair-or-replace/), weaken drywall, and create conditions for mold growth.
 
-**Act fast**: Professional inspection and restoration are critical to address hidden damage and ensure safety. Don’t attempt DIY fixes – trained experts use advanced tools to detect and repair these issues effectively. For [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/), contact restoration services equipped to handle fire, water, and structural damage.
+**Act fast**: Professional inspection and restoration are critical to address hidden damage and ensure safety. Don’t attempt DIY fixes – trained experts use advanced tools to detect and repair these issues effectively. For [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/), contact restoration services equipped to handle fire, water, and structural damage.
 
 ## 1\. Cracks in Walls, Ceilings, and Foundations
 
@@ -246,7 +246,7 @@ If ignored, this damage can spiral into bigger problems – poor air quality, co
 
 ## Related Blog Posts
 
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
--   [Fire Damaged Wood Repair Or Replace](/blog/fire-damaged-wood-repair-or-replace/)
--   [Best Practices For Restoring Fire Affected Concrete](/blog/best-practices-for-restoring-fire-affected-concrete/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [Fire Damaged Wood Repair Or Replace](/fire-damaged-wood-repair-or-replace/)
+-   [Best Practices For Restoring Fire Affected Concrete](/best-practices-for-restoring-fire-affected-concrete/)

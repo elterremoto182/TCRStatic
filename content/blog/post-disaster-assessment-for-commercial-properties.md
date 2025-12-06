@@ -273,7 +273,7 @@ If you need expert help with restoration or navigating insurance claims, **Total
 
 ## Related posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Fire Damage Inspection Standards Explained](/blog/fire-damage-inspection-standards-explained/)
--   [Fire Damage Inspection Steps](/blog/fire-damage-inspection-steps/)
--   [Common Fire Damage Reporting Mistakes To Avoid](/blog/common-fire-damage-reporting-mistakes-to-avoid/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Fire Damage Inspection Standards Explained](/fire-damage-inspection-standards-explained/)
+-   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [Common Fire Damage Reporting Mistakes To Avoid](/common-fire-damage-reporting-mistakes-to-avoid/)

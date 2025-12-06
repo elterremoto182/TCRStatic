@@ -3,7 +3,7 @@ import { getAllPosts } from '@/lib/blog/posts';
 import { getAllPages } from '@/lib/pages/pages';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
   const posts = getAllPosts();
   const pages = getAllPages();

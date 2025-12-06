@@ -119,7 +119,7 @@ At Total Care Restoration, these reports are crafted with precision, thanks to s
 
 ## Related posts
 
--   [Fire Damage Inspection Standards Explained](/blog/fire-damage-inspection-standards-explained/)
--   [Post Disaster Assessment For Commercial Properties](/blog/post-disaster-assessment-for-commercial-properties/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
--   [How To Safely Reenter Fire Damaged Properties](/blog/how-to-safely-reenter-fire-damaged-properties/)
+-   [Fire Damage Inspection Standards Explained](/fire-damage-inspection-standards-explained/)
+-   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
+-   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)

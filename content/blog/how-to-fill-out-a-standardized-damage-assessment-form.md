@@ -237,7 +237,7 @@ Total Care Restoration provides round-the-clock emergency services. Their certif
 
 ## Related Blog Posts
 
--   [Emergency Water Damage Checklist First 24 Hours](/blog/emergency-water-damage-checklist-first-24-hours/)
--   [Common Fire Damage Reporting Mistakes To Avoid](/blog/common-fire-damage-reporting-mistakes-to-avoid/)
--   [Post Disaster Assessment For Commercial Properties](/blog/post-disaster-assessment-for-commercial-properties/)
--   [Fire Damaged Structures Material Standards Explained](/blog/fire-damaged-structures-material-standards-explained/)
+-   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
+-   [Common Fire Damage Reporting Mistakes To Avoid](/common-fire-damage-reporting-mistakes-to-avoid/)
+-   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+-   [Fire Damaged Structures Material Standards Explained](/fire-damaged-structures-material-standards-explained/)

@@ -160,7 +160,7 @@ When you turn to experts like Total Care Restoration, you’re choosing a team e
 
 ## Related Blog Posts
 
--   [Dehumidifiers Vs Air Movers What To Use After Floods](/blog/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
--   [Innovations In Dehumidification For Faster Drying](/blog/innovations-in-dehumidification-for-faster-drying/)
--   [Real Time Data In Water Damage Restoration](/blog/real-time-data-in-water-damage-restoration/)
--   [Water Extraction Drying Guide](/blog/water-extraction-drying-guide/)
+-   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [Innovations In Dehumidification For Faster Drying](/innovations-in-dehumidification-for-faster-drying/)
+-   [Real Time Data In Water Damage Restoration](/real-time-data-in-water-damage-restoration/)
+-   [Water Extraction Drying Guide](/water-extraction-drying-guide/)

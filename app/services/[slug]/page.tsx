@@ -149,7 +149,7 @@ export default async function ServicePage({
     notFound();
   }
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
   const url = `${baseUrl}/${normalizedSlug}`;
   

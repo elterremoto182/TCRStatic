@@ -118,4 +118,4 @@ We are experts in:
 
 Our customers also trust us to diagnose different issues and repair foundation, leaks, mold infestations, and other side effects of flooding.
 
-[Contact Us](/contact-us/) for a free inspection.
+[Contact Us](/contact) for a free inspection.

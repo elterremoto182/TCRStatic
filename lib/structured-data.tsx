@@ -1,6 +1,6 @@
 import siteConfig from '@/config/site.json';
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
 export interface StructuredDataOptions {
   type: 'Organization' | 'LocalBusiness' | 'WebSite' | 'Article' | 'Service' | 'BreadcrumbList' | 'Review' | 'AggregateRating';
@@ -231,17 +231,25 @@ export function generateServiceSchema({
 
 /**
  * Generate BreadcrumbList schema
+ * Note: The last item (current page) should not have the 'item' property per Google's guidelines
  */
 export function generateBreadcrumbSchema(items: Array<{ label: string; href: string }>) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: items.map((item, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: item.label,
-      item: `${baseUrl}${item.href}`,
-    })),
+    itemListElement: items.map((item, index) => {
+      const isLast = index === items.length - 1;
+      const listItem: Record<string, any> = {
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.label,
+      };
+      // Only add 'item' for non-last items (current page shouldn't have item URL)
+      if (!isLast) {
+        listItem.item = `${baseUrl}${item.href}`;
+      }
+      return listItem;
+    }),
   };
 }
 

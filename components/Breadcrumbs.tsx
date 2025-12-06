@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { ChevronRight, Home } from 'lucide-react';
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalleakdetection.com';
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
 export interface BreadcrumbItem {
   label: string;
@@ -20,16 +20,24 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
     ...items,
   ];
 
-  // Generate structured data for breadcrumbs
+  // Generate structured data for breadcrumbs (JSON-LD format)
+  // Note: For the last item (current page), we omit the 'item' property as per Google's guidelines
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: allItems.map((item, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: item.label,
-      item: `${baseUrl}${item.href}`,
-    })),
+    itemListElement: allItems.map((item, index) => {
+      const isLast = index === allItems.length - 1;
+      const listItem: Record<string, any> = {
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.label,
+      };
+      // Only add 'item' for non-last items (current page shouldn't have item URL)
+      if (!isLast) {
+        listItem.item = `${baseUrl}${item.href}`;
+      }
+      return listItem;
+    }),
   };
 
   return (
@@ -42,25 +50,25 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
         aria-label="Breadcrumb"
         className={`flex items-center space-x-2 text-sm ${className}`}
       >
-        <ol className="flex items-center space-x-2" itemScope itemType="https://schema.org/BreadcrumbList">
+        <ol className="flex items-center space-x-2">
           {allItems.map((item, index) => {
             const isLast = index === allItems.length - 1;
+            const isHome = index === 0;
             return (
               <li
                 key={item.href}
                 className="flex items-center"
-                itemProp="itemListElement"
-                itemScope
-                itemType="https://schema.org/ListItem"
               >
                 {isLast ? (
                   <span
-                    className="text-gray-600 font-medium"
-                    itemProp="name"
+                    className="text-gray-600 font-medium flex items-center"
                     aria-current="page"
                   >
-                    {index === 0 ? (
-                      <Home className="w-4 h-4" />
+                    {isHome ? (
+                      <>
+                        <Home className="w-4 h-4" aria-hidden="true" />
+                        <span className="sr-only">Home</span>
+                      </>
                     ) : (
                       item.label
                     )}
@@ -69,16 +77,17 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
                   <Link
                     href={item.href}
                     className="text-primary hover:text-primary/80 transition-colors duration-200 flex items-center"
-                    itemProp="item"
                   >
-                    {index === 0 ? (
-                      <Home className="w-4 h-4" />
+                    {isHome ? (
+                      <>
+                        <Home className="w-4 h-4" aria-hidden="true" />
+                        <span className="sr-only">Home</span>
+                      </>
                     ) : (
-                      <span itemProp="name">{item.label}</span>
+                      item.label
                     )}
                   </Link>
                 )}
-                <meta itemProp="position" content={String(index + 1)} />
                 {!isLast && (
                   <ChevronRight className="w-4 h-4 mx-2 text-gray-400" aria-hidden="true" />
                 )}

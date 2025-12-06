@@ -179,7 +179,7 @@ For stubborn fire-related odors, **professional cleaning and restoration service
 
 ## Related posts
 
--   [Common Air Quality Issues After Fire Cleanup](/blog/common-air-quality-issues-after-fire-cleanup/)
--   [Top 7 Fire Odor Neutralization Techniques](/blog/top-7-fire-odor-neutralization-techniques/)
--   [Air Quality Testing After Fire Damage](/blog/air-quality-testing-after-fire-damage/)
--   [Ozone Air Treatment For Mold And Pathogens](/blog/ozone-air-treatment-for-mold-and-pathogens/)
+-   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Top 7 Fire Odor Neutralization Techniques](/top-7-fire-odor-neutralization-techniques/)
+-   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
+-   [Ozone Air Treatment For Mold And Pathogens](/ozone-air-treatment-for-mold-and-pathogens/)
