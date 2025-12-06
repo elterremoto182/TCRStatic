@@ -1,9 +1,12 @@
+import Link from 'next/link';
 import OptimizedImage from '@/components/OptimizedImage';
-import { Star } from 'lucide-react';
+import { Star, ArrowRight } from 'lucide-react';
 import content from '@/config/content.json';
 
 export function Testimonials() {
   const { testimonials } = content;
+  // Show only first 3 testimonials on homepage
+  const displayedTestimonials = testimonials.slice(0, 3);
 
   return (
     <section id="testimonials" className="py-20 md:py-28 bg-background">
@@ -18,7 +21,7 @@ export function Testimonials() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {testimonials.map((testimonial) => (
+          {displayedTestimonials.map((testimonial) => (
             <div 
               key={testimonial.id} 
               className="bg-white p-8 rounded-xl border border-gray-200 hover:-translate-y-1 hover:shadow-lg transition-all duration-200"
@@ -32,7 +35,7 @@ export function Testimonials() {
                 ))}
               </div>
 
-              <p className="text-gray-600 mb-6 leading-relaxed">
+              <p className="text-gray-600 mb-6 leading-relaxed line-clamp-5">
                 "{testimonial.content}"
               </p>
 
@@ -63,6 +66,17 @@ export function Testimonials() {
               </div>
             </div>
           ))}
+        </div>
+
+        {/* View All Link */}
+        <div className="text-center mt-12">
+          <Link
+            href="/testimonials"
+            className="inline-flex items-center gap-2 text-primary font-semibold text-lg hover:text-primary/80 transition-colors duration-200 group"
+          >
+            Read All Reviews
+            <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" />
+          </Link>
         </div>
       </div>
     </section>

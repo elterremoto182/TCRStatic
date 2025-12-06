@@ -29,6 +29,8 @@ const nextConfig = {
     nextImageExportOptimizer_exportFolderName: 'nextImageExportOptimizer',
     nextImageExportOptimizer_generateAndUseBlurImages: 'true',
     nextImageExportOptimizer_remoteImageCacheTTL: '0',
+    nextImageExportOptimizer_imageSizes: '[16, 32, 64, 96, 128, 256]',
+    nextImageExportOptimizer_deviceSizes: '[480, 640, 828, 1080, 1200, 1920]',
   },
 };
 

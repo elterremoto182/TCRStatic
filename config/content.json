@@ -190,11 +190,43 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "John Smith",
-      "role": "Business Owner",
-      "image": "/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-12.11.09-PM-1.png",
+      "name": "Brittany Q. Marti",
+      "role": "Property Owner",
+      "image": "",
       "rating": 5,
-      "content": "Excellent service and professional team. Highly recommended!"
+      "content": "Jesus and Alexander were amazing dried up the property best possible after a plumbing loss at my property."
+    },
+    {
+      "id": 2,
+      "name": "Karen Rogers",
+      "role": "Homeowner",
+      "image": "",
+      "rating": 5,
+      "content": "Timing is impeccable! Chris Valdes with his crew, Jesus, Alexander are courteous, quick, efficient, professionals with emotional intelligence is above excellence. Call this company."
+    },
+    {
+      "id": 3,
+      "name": "Rod B",
+      "role": "Homeowner",
+      "image": "",
+      "rating": 5,
+      "content": "I had an excellent experience with Total Care Restoration, and I highly recommend their services! Hector and Junior came to our home and were incredibly professional, neat, and courteous. They took great care to protect our floors with extra coverings and padded protection, ensuring no mud or mess was tracked through the house. They efficiently set up three machines in my kitchen to address moisture issues, and their attention to detail was impressive. Both Hector and Junior were spectacular to work with, and their professionalism made the process stress-free. Thank you, Total Care Restoration, for a job well done!"
+    },
+    {
+      "id": 4,
+      "name": "Adriana Armas",
+      "role": "Property Owner",
+      "image": "",
+      "rating": 5,
+      "content": "Luis and Junior helped with a leak I had in my property where my mom resides. They did an excellent job. My mom was beyond happy and grateful for their service and kindness. We absolutely recommend this company and will use in the future (hopefully no more leaks)."
+    },
+    {
+      "id": 5,
+      "name": "April Johnson",
+      "role": "Homeowner",
+      "image": "",
+      "rating": 5,
+      "content": "Had a major leak from the unit above, and the initial team brought in wasn't proactive. I called Zack at Total Care, and they showed up immediately. It's a large unit with water damage in nearly every room, but they worked late into the night and handled everything with care. Over the next week, Zack, Luis, and Yunior checked in almost daily. They were professional, knowledgeable, and genuinely cared. The unit dried out fully, and mold testing later came back clean. I was so impressed, I called them again for a separate issue at another property. Highly recommend."
     }
   ],
   "contact": {
