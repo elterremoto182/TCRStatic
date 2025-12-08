@@ -5,7 +5,7 @@ excerpt: "Learn expert strategies to handle mold, prevent water damage, and impr
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/09/image_b90eb04b1c37fdef7a4bc3e15107c128.jpeg"
-seo_title: "How to Handle Mold, Water Damage, and Odors - Total Care Restoration"
+seo_title: "How to Handle Mold, Water Damage, and Odors"
 seo_description: "Learn expert strategies to handle mold, prevent water damage, and improve indoor air quality. Essential tips for homeowners in humid climates like Florida."
 keywords: ["humidity", "moisture", "damage", "water", "issues", "remediation", "issue", "prevent", "cause", "levels"]
 ---

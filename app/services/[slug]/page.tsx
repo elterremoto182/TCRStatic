@@ -180,6 +180,10 @@ export default async function ServicePage({
             <Breadcrumbs items={breadcrumbItems} className="mb-6" />
           </div>
 
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-6">
+            {page.title}
+          </h1>
+
           {featureImage && (
             <div className="mb-8 rounded-lg overflow-hidden">
               <div className="relative w-full aspect-video">

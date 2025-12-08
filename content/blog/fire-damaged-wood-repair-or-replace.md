@@ -5,7 +5,7 @@ excerpt: "Learn how to assess fire-damaged wood in your home and decide whether 
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/08/image_b2d66cc96f0f38f211cbe4144b998360.jpeg"
-seo_title: "Fire-Damaged Wood: Repair or Replace? - Total Care Restoration"
+seo_title: "Fire-Damaged Wood: Repair or Replace?"
 seo_description: "Learn how to assess fire-damaged wood in your home and decide whether to repair or replace it based on safety and cost considerations."
 keywords: ["damage", "damaged", "structural", "repair", "smoke", "restoration", "replacement", "safety", "often", "professional"]
 ---

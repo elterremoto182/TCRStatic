@@ -87,7 +87,7 @@ export async function generateMetadata({
   const post = getPostBySlug(slug);
   if (post) {
     return generatePageMetadata({
-      title: `${post.title} | Total Leak Detection`,
+      title: post.seo_title || post.title,
       description: post.excerpt || post.title,
       keywords: post.category ? [post.category, 'blog'] : ['blog'],
       path: `/${post.slug}`,
@@ -174,16 +174,7 @@ export default async function DynamicPage({
         <main className="min-h-screen">
           <article className="pt-32 pb-20">
             <div className="max-w-4xl mx-auto px-4">
-              <div className="mb-8">
-                <Breadcrumbs items={breadcrumbItems} className="mb-6" />
-                <Link
-                  href="/blog"
-                  className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
-                >
-                  <ArrowLeft className="w-4 h-4 mr-2" />
-                  Back to Blog
-                </Link>
-              </div>
+              <Breadcrumbs items={breadcrumbItems} className="mb-8" />
 
               {post.category && (
                 <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full mb-4">

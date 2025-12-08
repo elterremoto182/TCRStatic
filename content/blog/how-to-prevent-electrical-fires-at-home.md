@@ -5,7 +5,7 @@ excerpt: "Learn essential tips to prevent electrical fires at home and ensure sa
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/05/image_c5b16cd30b6d988320fa5a4dc3275c2a.jpeg"
-seo_title: "How to Prevent Electrical Fires at Home - Total Care Restoration"
+seo_title: "How to Prevent Electrical Fires at Home"
 seo_description: "Learn essential tips to prevent electrical fires at home and ensure safety with effective maintenance and emergency planning."
 keywords: ["electrical", "appliances", "fires", "safety", "circuit", "damage", "wiring", "outlets", "cords", "power"]
 ---

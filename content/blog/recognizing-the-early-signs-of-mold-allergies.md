@@ -5,7 +5,7 @@ excerpt: "Recognizing the Early Signs of Mold Allergies Introduction The vitalit
 author: "Tomasz Alemany"
 category: "Mold"
 image: "/wp-content/uploads/2021/09/AF1QipMc3DgrvsEcQ7bGlrAJcvoPbcW4UCuqnpc2J5OJs1024-2.jpg"
-seo_title: "Recognizing Early Signs of Mold Allergies | Total Care Restoration"
+seo_title: "Recognizing Early Signs of Mold Allergies"
 seo_description: "Are you sensitive to mold? Learn how to recognize the early signs of mold allergies, from sneezing and coughing to fatigue and skin irritation—plus what to do next."
 keywords: ["Signs of mold allergies"]
 ---

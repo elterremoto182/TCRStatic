@@ -5,7 +5,7 @@ excerpt: "Uh-Oh, Mold! How to Make Sure Your New Home Isn’t Hiding Unwanted Gu
 author: "sk admin"
 category: "Mold"
 image: "/wp-content/uploads/2021/10/admin-ajax.png"
-seo_title: "Uh-Oh, Mold! How to Make Sure Your New Home Isn't Hiding Unwanted Guests - Total Care Restoration"
+seo_title: "Uh-Oh, Mold! Make Sure Your New Home Isn't Hiding It"
 seo_description: "Ensure your new Florida home isn't hiding moldy secrets with our comprehensive guide. Learn why professional inspections are vital, how to understand different molds, and ways to safeguard your investment and health before sealing the deal. Navigate mold issues successfully and step into a healthy, secure home with our easy-to-understand tips and insights!"
 keywords: ["mold inspection"]
 ---

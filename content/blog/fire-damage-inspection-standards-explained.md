@@ -5,7 +5,7 @@ excerpt: "Fire damage inspection standards are crucial for safety, compliance, a
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/06/image_a50b3f812c2de2316cd6e16e6c61152e.jpeg"
-seo_title: "Fire Damage Inspection Standards Explained - Total Care Restoration"
+seo_title: "Fire Damage Inspection Standards Explained"
 seo_description: "Fire damage inspection standards are crucial for safety, compliance, and effective restoration, guiding professionals in assessing damage and ensuring thorough documentation."
 keywords: ["damage", "restoration", "standards", "safety", "inspections", "insurance", "systems", "property", "smoke", "inspection"]
 ---

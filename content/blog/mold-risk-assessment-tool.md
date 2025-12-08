@@ -5,7 +5,7 @@ excerpt: "Worried about mold after water damage? Use our free Mold Risk Assessme
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/09/image_3b41ba11ef52d79df18ac25af565f5be.jpeg"
-seo_title: "Mold Risk Assessment Tool - Total Care Restoration"
+seo_title: "Mold Risk Assessment Tool"
 seo_description: "Worried about mold after water damage? Use our free Mold Risk Assessment Tool to evaluate your home’s risk and get practical tips to prevent growth!"
 keywords: ["water", "humidity", "score", "leaks", "issues", "areas", "ventilation", "assessment", "risks", "damage"]
 ---

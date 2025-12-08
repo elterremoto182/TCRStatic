@@ -5,7 +5,7 @@ excerpt: "Step 1: Damage Assessment and Safety Preparations Before the tarp goes
 author: "sk admin"
 category: "Tarp"
 image: "/wp-content/uploads/2021/10/installing-a-roof-tarp-e1595882236151-1-e1635367691497.jpeg"
-seo_title: "Emergency Roof Tarping in Miami | Total Care Restoration"
+seo_title: "Emergency Roof Tarping in Miami"
 seo_description: "Secure your roof with expert tarp installation. Total Care Restoration provides 24/7 emergency roof tarping, leak containment, and insurance assistance in Miami. Safeguard your home today!"
 keywords: ["emergency roof tarping"]
 ---

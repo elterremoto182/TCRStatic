@@ -50,6 +50,10 @@ export default function AboutPage() {
             </Link>
           </div>
 
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-6">
+            {page.title}
+          </h1>
+
           <div className="prose prose-lg max-w-none">
             <MarkdownRenderer content={page.content} />
           </div>

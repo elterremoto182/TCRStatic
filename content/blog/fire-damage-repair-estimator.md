@@ -5,7 +5,7 @@ excerpt: "Estimate fire damage repair costs fast with our free tool. Input area 
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/09/image_a0ca70aab6a0277e04ff1c67d388957d.jpeg"
-seo_title: "Fire Damage Repair Estimator - Total Care Restoration"
+seo_title: "Fire Damage Repair Estimator"
 seo_description: "Estimate fire damage repair costs fast with our free tool. Input area size and damage extent for a detailed breakdown. Try it now!"
 keywords: ["damage", "costs", "repair", "smoke", "estimator", "restoration", "factors", "surface", "structural", "total"]
 ---

@@ -4,7 +4,7 @@ date: "2023-11-26"
 excerpt: "The Future of Restoration: Innovations in Water, Fire, and Mold Remediation Welcome to Total Care Restoration, your trusted partner in water, fire, and mold damage restoration in Miami, Florida! As a homeowner, it’s important to understand the evolving technologies and techniques used in the restoration industry. In this article, we will explore some of the … Continued"
 author: "Tomasz Alemany"
 category: "Water"
-seo_title: "Understanding Water Damage: The Basics Everyone Should Know. - Total Care Restoration"
+seo_title: "Understanding Water Damage: The Basics Everyone Should Know."
 seo_description: "Understanding Water Damage is crucial for homeowners. Discover effective solutions and advanced technologies in this article."
 keywords: ["Understanding Water Damage"]
 ---

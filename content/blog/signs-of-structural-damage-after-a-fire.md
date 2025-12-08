@@ -5,7 +5,7 @@ excerpt: "Learn how to identify signs of structural damage after a fire, includi
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/09/image_0412b3cee149c53a85b9eff244e99139.jpeg"
-seo_title: "Signs of Structural Damage After a Fire - Total Care Restoration"
+seo_title: "Signs of Structural Damage After a Fire"
 seo_description: "Learn how to identify signs of structural damage after a fire, including cracks, warping, and water damage, to ensure your property's safety."
 keywords: ["damage", "cracks", "structural", "restoration", "water", "often", "smoke", "building", "bearing", "walls"]
 ---

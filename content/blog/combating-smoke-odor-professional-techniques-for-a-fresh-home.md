@@ -5,7 +5,7 @@ excerpt: "Combating Smoke Odor: Professional Techniques for a Fresh Home Dealing
 author: "Tomasz Alemany"
 category: "Fire"
 image: "/wp-content/uploads/2024/02/Fire-in-WareHose-1-scaled.jpg"
-seo_title: "Expert Techniques for Eliminating Smoke Odor: Your Guide to a Fresh Home"
+seo_title: "Expert Smoke Odor Removal Techniques for a Fresh Home"
 seo_description: "Learn about smoke odor restoration techniques to eliminate lingering odors and restore freshness to your home effectively."
 keywords: ["smoke odor restoration"]
 ---

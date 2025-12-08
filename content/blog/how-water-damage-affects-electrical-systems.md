@@ -5,7 +5,7 @@ excerpt: "Learn how water damage can jeopardize electrical systems, leading to s
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/08/image_b111bc1371f4da974445613a8d968a33.jpeg"
-seo_title: "How Water Damage Affects Electrical Systems - Total Care Restoration"
+seo_title: "How Water Damage Affects Electrical Systems"
 seo_description: "Learn how water damage can jeopardize electrical systems, leading to serious risks like fires and electrocution, and discover prevention strategies."
 keywords: ["electrical", "water", "damage", "systems", "safety", "system", "restoration", "risks", "power", "components"]
 ---

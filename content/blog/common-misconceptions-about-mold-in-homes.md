@@ -5,7 +5,7 @@ excerpt: "Discovering mold in your home can be a concerning experience. With Mia
 author: "Tomasz Alemany"
 category: "Mold"
 image: "/wp-content/uploads/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg"
-seo_title: "Common Misconceptions About Mold in Homes - Total Care Restoration"
+seo_title: "Common Misconceptions About Mold in Homes"
 seo_description: "Struggling with mold in your Miami home? Discover the truth behind common mold misconceptions and learn why professional mold remediation is essential. Total Care Restoration provides expert insights and solutions to safeguard your home and health."
 keywords: ["Mold in Miami homes"]
 ---
