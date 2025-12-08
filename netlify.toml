@@ -5,3 +5,6 @@
 [[plugins]]
   package = "netlify-plugin-inline-critical-css"
 
+  [plugins.inputs.penthouse]
+  timeout = 300000  # allow up to 5 minutes per page (milliseconds)
+
