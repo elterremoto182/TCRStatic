@@ -10,7 +10,7 @@ seo_description: "Are you sensitive to mold? Learn how to recognize the early si
 keywords: ["Signs of mold allergies"]
 ---
 
-# Recognizing the Early Signs of Mold Allergies
+## Recognizing the Early Signs of Mold Allergies
 
 ## Introduction
 

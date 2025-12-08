@@ -5,7 +5,7 @@ excerpt: "Regular roof maintenance is essential for preventing costly storm dama
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/10/image_d87bb67f25060e309001ed8580efbd65.jpeg"
-seo_title: "How Roof Maintenance Prevents Storm Damage"
+seo_title: "How Roof Maintenance Prevents Storm Damage | Total Care Restoration"
 seo_description: "Regular roof maintenance is essential for preventing costly storm damage, extending roof life, and saving on insurance premiums."
 keywords: ["damage", "storm", "maintenance", "shingles", "inspections", "water", "repairs", "storms", "insurance", "gutters"]
 ---

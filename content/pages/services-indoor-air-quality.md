@@ -6,7 +6,7 @@ seo_title: "Indoor Air Quality - Total Care Restoration"
 seo_description: "A person can spend 90% of a day indoors which is especially true during the hot and cold seasons. In addition to spending a large amount of time indoors, modern construction is more tightly sealed and insulated which means indoor pollutants can remain inside, creating an environment where the indoor air is up to five … Continued"
 ---
 
-# Indoor Air Quality
+## Indoor Air Quality
 
 A person can spend 90% of a day indoors which is especially true during the hot and cold seasons. In addition to spending a large amount of time indoors, modern construction is more tightly sealed and insulated which means indoor pollutants can remain inside, creating an environment where the indoor air is up to five times more contaminated than the air outside.
 

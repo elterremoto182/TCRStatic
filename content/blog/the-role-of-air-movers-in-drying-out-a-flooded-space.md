@@ -9,7 +9,7 @@ seo_description: "Discover how air movers make a difference when dealing with wa
 keywords: ["air movers"]
 ---
 
-# The Role of Air Movers in Drying Out a Flooded Space
+## The Role of Air Movers in Drying Out a Flooded Space
 
 ## The Importance of Effective Drying Techniques for Water Damage Restoration
 

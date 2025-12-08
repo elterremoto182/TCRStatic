@@ -5,7 +5,7 @@ excerpt: "Learn how to protect yourself from scams in restoration services by ve
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/08/image_90588529950ff37d2f79fdcf53bc82a0.jpeg"
-seo_title: "How to Avoid Scams in Restoration Services"
+seo_title: "How to Avoid Scams in Restoration Services | Total Care Restoration"
 seo_description: "Learn how to protect yourself from scams in restoration services by verifying credentials, avoiding high-pressure tactics, and securing clear contracts."
 keywords: ["restoration", "insurance", "payment", "contractors", "company", "project", "contractor", "contract", "scams", "property"]
 ---

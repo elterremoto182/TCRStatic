@@ -7,7 +7,7 @@ seo_description: "Choose Total Care Restoration for top-notch Mold Remediation i
 feature_image: "/images/services/mold-remediation.jpg"
 ---
 
-# Mold Remediation in Miami
+## Mold Remediation in Miami
 
 **Total Care Restoration: Leading Mold Remediation Miami Trusts**
 

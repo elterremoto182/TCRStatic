@@ -12,7 +12,7 @@ keywords: ["Protect furniture from humidity"]
 
 \*\*\*
 
-# Protect Your Furniture and Floors from Florida’s Damp Days
+## Protect Your Furniture and Floors from Florida’s Damp Days
 
 Our beautiful city of Miami is no stranger to unpredictable weather events – often marked by humidity and rain. But that doesn’t mean our floors or treasured furniture pieces have to fall victim to damp days. Safeguarding your precious home items from Florida’s notoriously soggy environment is a lot easier than you might think.
 

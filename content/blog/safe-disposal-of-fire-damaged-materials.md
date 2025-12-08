@@ -5,7 +5,7 @@ excerpt: "Learn about safe disposal methods for fire-damaged materials, includin
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/07/image_6f16663b340d2632e6f4ce703b85971b.jpeg"
-seo_title: "Safe Disposal of Fire-Damaged Materials"
+seo_title: "Safe Disposal of Fire-Damaged Materials | Total Care Restoration"
 seo_description: "Learn about safe disposal methods for fire-damaged materials, including health risks, legal compliance, and when to call professionals."
 keywords: ["materials", "hazardous", "damaged", "disposal", "asbestos", "health", "risks", "items", "safety", "debris"]
 ---

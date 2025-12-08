@@ -37,7 +37,7 @@ Our Location MIAMI-FORT LAUDERDALE, FL
     -   [Davie/ "Davie Restoration Services" restoration services](/davie-restoration-services/ "Davie Restoration Services")
     -   [Deerfield Beach/ "Deerfield Beach Restoration Services" restoration services](/deerfield-beach-restoration-services/ "Deerfield Beach Restoration Services")
 
-# Water Damage Mitigation Company - Total Care Restoration
+## Water Damage Mitigation Company - Total Care Restoration
 
 ## Water, fire, and mold restoration experts
 

@@ -4,12 +4,12 @@ date: "2024-12-01"
 excerpt: "Step-by-Step Guide to Tarping a Roof After a Storm In the ever-sunny city of Miami, storms are more the exception than they are a norm, and when they do occur, they often leave a trail of destruction in their wake. If you are amongst those homeowners who face damage to their house’s roofing, don’t fret; … Continued"
 author: "Tomasz Alemany"
 category: "Tarp"
-seo_title: "Step-by-Step Guide to Tarping a Roof After a Storm"
+seo_title: "Step-by-Step Guide to Tarping a Roof After a Storm | Total Care Restoration"
 seo_description: "Step-by-Step Guide to Tarping a Roof After a Storm In the ever-sunny city of Miami, storms are more the exception than they are a norm, and when they do occur, they often leave a trail of destruction in their wake. If you are amongst those homeowners who face damage to their house&#8217;s roofing, don&#8217;t fret; &hellip;  Continued"
 keywords: ["tarping", "damage", "professional", "shrink", "wrapping", "guide", "storm", "miami", "protect", "secure"]
 ---
 
-# Step-by-Step Guide to Tarping a Roof After a Storm
+## Step-by-Step Guide to Tarping a Roof After a Storm
 
 In the ever-sunny city of Miami, storms are more the exception than they are a norm, and when they do occur, they often leave a trail of destruction in their wake. If you are amongst those homeowners who face damage to their house’s roofing, don’t fret; I’ve got you covered.
 

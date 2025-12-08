@@ -5,7 +5,7 @@ excerpt: "Facing a water damage emergency in your Miami home can be overwhelming
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2024/03/South-Beach-Miami-scaled.jpg"
-seo_title: "Emergency Water Damage Repair Services in Miami"
+seo_title: "Emergency Water Damage Repair Services in Miami | Total Care Restoration"
 seo_description: "Facing water damage in Miami? Total Care Restoration offers expert emergency repair services to restore your home quickly."
 keywords: ["Emergency Water Damage Repair Services in Miami"]
 ---

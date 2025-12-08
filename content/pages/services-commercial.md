@@ -6,7 +6,7 @@ seo_title: "Commercial Damage Restorations - Total Care Restoration"
 seo_description: "Commercial Fire Restoration At Total Care Restoration, we know that your business is very important. While your business is closed, it leaves an open door for your competition. That’s why our commercial fire restoration team is ready to tackle your emergency with quick response and dependable service. Commercial Fire & Smoke Damage Repair Services in Miami Florida … Continued"
 ---
 
-# Commercial Damage Restorations
+## Commercial Damage Restorations
 
 ## Commercial Fire Restoration
 

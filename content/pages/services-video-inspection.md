@@ -6,7 +6,7 @@ seo_title: "Video Inspection - Total Care Restoration"
 seo_description: "When a blockage is deep into your pipe system or hard to locate, our video inspection equipment can help pinpoint the location and source of the blockage. WHY CHOOSE VIDEO INSPECTION? It is a non-invasive way to accurately identify the issue Quickly identifies the source and spot where the blockage is occurring Saves time, money, &hellip;  Continued"
 ---
 
-# Video Inspection
+## Video Inspection
 
 ![banner](/wp-content/uploads/2019/11/video-inspection.jpg)
 

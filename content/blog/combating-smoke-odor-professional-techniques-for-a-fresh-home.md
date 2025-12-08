@@ -15,7 +15,7 @@ keywords: ["smoke odor restoration"]
 
 
 
-# Combating Smoke Odor: Professional Techniques for a Fresh Home
+## Combating Smoke Odor: Professional Techniques for a Fresh Home
 
 Dealing with smoke damage after a fire can be a difficult task. Unattended, the lingering smell can have a lasting, unappealing impact on your home. Fortunately, at Total Care Restoration, our team of water, fire, and mold damage experts is here to provide some insight on professional techniques used to combat smoke odor, leading to a fresher, cleaner home in no time.
 

@@ -5,7 +5,7 @@ excerpt: "Learn how to safely clean and restore fire-damaged concrete with essen
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/06/image_8acd1927324fdf5d06f6b4269d83182a.jpeg"
-seo_title: "How to Clean Fire-Damaged Concrete"
+seo_title: "How to Clean Fire-Damaged Concrete | Total Care Restoration"
 seo_description: "Learn how to safely clean and restore fire-damaged concrete with essential tools, methods, and safety precautions for effective results."
 keywords: ["concrete", "cleaning", "damage", "damaged", "surface", "stains", "sealers", "safety", "chemical", "water"]
 ---

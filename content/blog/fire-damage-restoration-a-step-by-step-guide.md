@@ -12,7 +12,7 @@ keywords: ["Step-by-Step Fire Damage Repair in Miami"]
 Fire Damage Restoration: A Step-by-Step Guide  
   
 
-# Fire Damage Restoration: A Step-by-Step Guide
+## Fire Damage Restoration: A Step-by-Step Guide
 
 Welcome to Total Care Restoration’s comprehensive guide on fire damage restoration. As a homeowner in Miami, this step-by-step guide will provide you with the necessary information to navigate the restoration process effectively.
 

@@ -5,7 +5,7 @@ excerpt: "Introduction When it comes to water damage restoration, a restoration 
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2023/01/Two-employees.png"
-seo_title: "Restoration Dehumidifiers: What You Should Know"
+seo_title: "Restoration Dehumidifiers: What You Should Know | Total Care Restoration"
 seo_description: "We’ll explain what a restoration dehumidifier is, why it’s used, the types of dehumidifiers available, and how to use them. Learn more about the benefits of using a restoration dehumidifier and how to use it properly."
 keywords: ["restoration dehumidifier"]
 ---

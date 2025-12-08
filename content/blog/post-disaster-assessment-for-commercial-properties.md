@@ -5,7 +5,7 @@ excerpt: "Learn the essential steps for post-disaster assessments of commercial 
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/07/image_202541a71bb8b83a1facde90826bb9b0.jpeg"
-seo_title: "Post-Disaster Assessment for Commercial Properties"
+seo_title: "Post-Disaster Assessment for Commercial Properties | Total Care Restoration"
 seo_description: "Learn the essential steps for post-disaster assessments of commercial properties, ensuring safety, thorough documentation, and effective recovery planning."
 keywords: ["damage", "restoration", "insurance", "safety", "recovery", "equipment", "disaster", "property", "assessment", "water"]
 ---

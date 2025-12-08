@@ -11,7 +11,7 @@ keywords: ["innovations in restoration"]
 
 The Future of Restoration: Innovations in Water, Fire, and Mold Remediation  
 
-# The Future of Restoration: Innovations in Water, Fire, and Mold Remediation
+## The Future of Restoration: Innovations in Water, Fire, and Mold Remediation
 
 Welcome to Total Care Restoration, your trusted partner in water, fire, and mold damage restoration in Miami, Florida!  
 As a homeowner, it’s important to understand the evolving technologies and techniques used in the restoration  

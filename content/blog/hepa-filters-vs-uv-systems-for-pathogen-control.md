@@ -5,7 +5,7 @@ excerpt: "Explore the differences between HEPA filters and UV systems for improv
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/07/image_62c40eb8ae9cae17d054785af8215733.jpeg"
-seo_title: "HEPA Filters vs. UV Systems for Pathogen Control"
+seo_title: "HEPA Filters vs. UV Systems for Pathogen Control | Total Care Restoration"
 seo_description: "Explore the differences between HEPA filters and UV systems for improving indoor air quality, including their effectiveness and maintenance needs."
 keywords: ["systems", "filters", "particles", "quality", "pathogens", "airborne", "filter", "restoration", "light", "system"]
 ---

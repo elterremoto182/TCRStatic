@@ -6,7 +6,7 @@ seo_title: "Smoke & Fire Restoration Company - Get a Free Quote Now!"
 seo_description: "Trust us for smoke, damage & fire restoration company. We'll secure your property, assist with housing & insurance claims. Clean up services. Free quote!"
 ---
 
-# Fire Damage Restoration
+## Fire Damage Restoration
 
 Whether you’ve had a small kitchen fire or your home has been ravaged with flames, it is important to have professional fire restoration services take a look at the situation. They can give you a better damage assessment & plan further actions.
 

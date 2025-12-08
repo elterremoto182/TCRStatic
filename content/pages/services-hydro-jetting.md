@@ -6,7 +6,7 @@ seo_title: "Hydro Jetting - Total Care Restoration"
 seo_description: "Over time, clogs and blockages can develop as a result of materials like grease, soap scum, hair, as well as invasive tree roots. If traditional methods of fixing these issues are not working or the problem keeps coming back, it may be time for a more powerful solution. THE BENEFITS OF HYDRO JETTING Hydro jetting …  Continued"
 ---
 
-# Hydro Jetting
+## Hydro Jetting
 
 Over time, clogs and blockages can develop as a result of materials like grease, soap scum, hair, as well as invasive tree roots.
 

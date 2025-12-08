@@ -5,7 +5,7 @@ excerpt: "Learn how thermal fogging effectively eliminates smoke odors and impro
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/10/image_1b583eddddc17687638e89ae0f7a8cb6.jpeg"
-seo_title: "How Thermal Fogging Restores Indoor Air Quality"
+seo_title: "How Thermal Fogging Restores Indoor Air Quality | Total Care Restoration"
 seo_description: "Learn how thermal fogging effectively eliminates smoke odors and improves indoor air quality after fire damage, ensuring a healthier living environment."
 keywords: ["fogging", "thermal", "smoke", "odors", "particles", "restoration", "quality", "cleaning", "process", "methods"]
 ---

@@ -6,7 +6,7 @@ seo_title: "Roof Tarp Company | Find Cost of Roof Tarp Installation"
 seo_description: "Professional roof tarp company for installation- Total Care Restoration. Protect your roof from leaks caused by damage/deterioration. 24/7 help. Free estimates!"
 ---
 
-# Roof Tarping
+## Roof Tarping
 
 If you are experiencing a leak in your roof but aren’t able to get it replaced right away, a roof tarp may be the right solution for you. Roof tarps can help protect your roof and house from rain, snow, and wind and offer a temporary way to prevent leaks from occurring.
 

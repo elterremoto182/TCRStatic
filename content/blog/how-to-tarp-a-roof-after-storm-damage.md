@@ -5,7 +5,7 @@ excerpt: "Learn how to tarp a roof after storm damage effectively to prevent fur
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/07/image_bc85aeb7120784204e2861c3179e06ef.jpeg"
-seo_title: "How to Tarp a Roof After Storm Damage"
+seo_title: "How to Tarp a Roof After Storm Damage | Total Care Restoration"
 seo_description: "Learn how to tarp a roof after storm damage effectively to prevent further issues and protect your home from costly repairs."
 keywords: ["damage", "tarping", "safety", "water", "storm", "repairs", "damaged", "professional", "structural", "insurance"]
 ---

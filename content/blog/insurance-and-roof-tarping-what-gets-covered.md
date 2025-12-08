@@ -10,7 +10,7 @@ seo_description: "Wondering if roof tarping is covered by insurance? Learn what 
 keywords: ["Roof tarping insurance coverage"]
 ---
 
-# Insurance and Roof Tarping: What Gets Covered?
+## Insurance and Roof Tarping: What Gets Covered?
 
 When disaster strikes, whether it’s a natural calamity or due to human error, it leaves your home at risk of harm, especially your roof. Fortunately, roof tarping services are designed to offer immediate protection. As a homeowner in Miami, Florida, one question that might constantly worry you is – Does my insurance policy cover roof tarping? Well, let’s delve into it deep to find the answer.
 

@@ -5,7 +5,7 @@ excerpt: "Learn essential steps for effective water extraction and drying to pre
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/11/image_fb03bae6e65125011c8be7bc7688b901.jpeg"
-seo_title: "Ultimate Guide to Water Extraction and Drying"
+seo_title: "Ultimate Guide to Water Extraction and Drying | Total Care Restoration"
 seo_description: "Learn essential steps for effective water extraction and drying to prevent mold and structural damage after water incidents."
 keywords: ["water", "damage", "restoration", "moisture", "drying", "extraction", "process", "materials", "equipment", "property"]
 ---

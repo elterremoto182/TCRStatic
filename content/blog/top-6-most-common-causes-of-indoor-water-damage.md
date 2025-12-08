@@ -5,7 +5,7 @@ excerpt: "Learn about the top causes of indoor water damage and how to prevent c
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/05/image_344d241ba7b91c0474f5b59473e7d3ec.jpeg"
-seo_title: "Top 6 Most Common Causes of Indoor Water Damage"
+seo_title: "Top 6 Most Common Causes of Indoor Water Damage | Total Care Restoration"
 seo_description: "Learn about the top causes of indoor water damage and how to prevent costly repairs with simple maintenance tips."
 keywords: ["water", "damage", "leaks", "appliances", "plumbing", "signs", "prevent", "pipes", "issues", "smart"]
 ---

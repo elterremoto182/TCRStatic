@@ -5,7 +5,7 @@ excerpt: "Moisture plays a critical role in the deterioration of fire-damaged co
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/09/image_6d64390117121b2f7040a1f519b57ba1.jpeg"
-seo_title: "Post-Fire Concrete Repairs: Moisture Effects"
+seo_title: "Post-Fire Concrete Repairs: Moisture Effects | Total Care Restoration"
 seo_description: "Moisture plays a critical role in the deterioration of fire-damaged concrete, complicating repairs and necessitating effective moisture management."
 keywords: ["moisture", "concrete", "damage", "repairs", "repair", "structural", "damaged", "restoration", "cracks", "surface"]
 ---

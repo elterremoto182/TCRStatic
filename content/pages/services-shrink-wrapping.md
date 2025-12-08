@@ -6,7 +6,7 @@ seo_title: "Shrink Wrapping Services for Roofs | Total Care Restoration"
 seo_description: "Protect your property with professional shrink wrapping services from Total Care Restoration. Ideal for roofs, construction sites, and storm-damaged structures across South Florida."
 ---
 
-# Shrink wrapping
+## Shrink wrapping
 
 Shrink wrapping serves as a layer of protection for roofs that are already damaged or at risk of being damaged from severe weather or other factors. Our professionals will work with you to determine if shrink wrapping is the best option for your needs.
 

@@ -5,7 +5,7 @@ excerpt: "What Does a Moisture Meter Measure? Moisture meters are an essential t
 author: "Tomasz Alemany"
 category: "Mold"
 image: "/wp-content/uploads/2023/01/Moisture-meter-1-scaled.jpg"
-seo_title: "What is a Moisture Meter? The Best Measurement"
+seo_title: "What is a Moisture Meter? The Best Measurement | Total Care Restoration"
 seo_description: "Learn what a moisture meter is and how it is used to detect and prevent water damage in the home. Discover the benefits and types of moisture meters, and find out when to use a moisture meter."
 keywords: ["moisture meter"]
 ---

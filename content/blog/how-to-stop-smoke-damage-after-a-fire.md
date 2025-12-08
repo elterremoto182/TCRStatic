@@ -5,7 +5,7 @@ excerpt: "Learn essential steps to mitigate smoke damage after a fire, ensuring 
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/05/image_ecd893f86d0d60c22e7ff47a8d277858.jpeg"
-seo_title: "How to Stop Smoke Damage After a Fire"
+seo_title: "How to Stop Smoke Damage After a Fire | Total Care Restoration"
 seo_description: "Learn essential steps to mitigate smoke damage after a fire, ensuring safety, effective cleaning, and when to call for professional help."
 keywords: ["damage", "smoke", "restoration", "surfaces", "cleaning", "professional", "odors", "safety", "property", "clean"]
 ---
