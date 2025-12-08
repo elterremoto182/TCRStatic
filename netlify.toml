@@ -2,7 +2,10 @@
   publish = "out"
   command = "npm run build:optimized"
 
-# Critical CSS plugin disabled due to Penthouse timeout issues
-# [[plugins]]
-#   package = "netlify-plugin-inline-critical-css"
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+
+  [plugins.inputs]
+  # Only process key pages to avoid timeout (skip 100+ blog posts)
+  directoryFilter = ["!blog"]
 
