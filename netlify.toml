@@ -2,9 +2,7 @@
   publish = "out"
   command = "npm run build:optimized"
 
-[[plugins]]
-  package = "netlify-plugin-inline-critical-css"
-
-  [plugins.inputs.penthouse]
-  timeout = 300000  # allow up to 5 minutes per page (milliseconds)
+# Critical CSS plugin disabled due to Penthouse timeout issues
+# [[plugins]]
+#   package = "netlify-plugin-inline-critical-css"
 
