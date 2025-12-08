@@ -18,7 +18,7 @@ If you are planning to install a roof tarp to your house, it is important to hir
 
 Roof tarping is a large project that can be dangerous if not completed properly. Our contractors are experienced with roofs of all sizes and will complete the job accurately.
 
-![Roof Tarp Installations][(Wp Content/uploads/2022/07/860f7a1b 5c64 49e8 A2f1 876be14d24bb.jpg)](/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg)
+![Roof Tarp Installations](/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg)
 
 ## Roof Tarps Offer A Temporary Solution For:
 
@@ -32,7 +32,7 @@ Roof tarping is a large project that can be dangerous if not completed properly.
 
 It is important to know that a roof tarp is a temporary fix for leaks caused by rain and storms. As soon as you are able to, it is a good idea to have your roof repaired or replaced in order to limit the amount of water damage and mold growth.
 
-![roof tarp][(Wp Content/uploads/2022/07/952feee9 9a39 4874 8232 67840455b8dd.jpg)](/wp-content/uploads/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg)
+![roof tarp](/wp-content/uploads/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg)
 
 ## Free Inspections
 
@@ -40,7 +40,7 @@ Have a leak and are considering if a roof tarp is the right solution for your pr
 
 At Total Care Restoration – a roof tarp company – we provide roof tarp installations after free inspections and estimates on our services.
 
-![Free roof tarp Inspections][(Wp Content/uploads/2022/07/8caaf616 D7f3 4707 8f98 Cd110baae2c5.jpg)](/wp-content/uploads/2022/07/8caaf616-d7f3-4707-8f98-cd110baae2c5.jpg)
+![Free roof tarp Inspections](/wp-content/uploads/2022/07/8caaf616-d7f3-4707-8f98-cd110baae2c5.jpg)
 
 **Steps Involved In Roof Tarp Installation**
 
@@ -59,7 +59,7 @@ In case of heavy roof damage, the debris is removed from the area & we measure t
 
 We also offer 24/7 emergency service to ensure that our services are available as soon as a mishap occurs at your property. You can contact our experts for a free assessment and they can give you a quote.
 
-![damage control and remediation][(Wp Content/uploads/2022/07/b3623cc0 7035 40e8 9112 34179f756290 1.jpg)](/wp-content/uploads/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg)
+![damage control and remediation](/wp-content/uploads/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg)
 
 **Frequently Asked Questions (FAQs)**
 
@@ -81,7 +81,7 @@ Any roof tarp installation that we offer, we let our clients know that roof tarp
 
 Tarping saves your house from any water damage & mold damage. However, you can save your house from this damage by giving us a call.
 
-Reach out to us and our professionals will be available to [help you 24x7][Contact](/contact/) for your [water damage][Water Restoration](/services/water-restoration/) & [fire damage repair][Fire Restoration](/services/fire-restoration/) solutions.
+Reach out to us and our professionals will be available to [help you 24x7](/contact/) for your [water damage](/services/water-restoration/) & [fire damage repair](/services/fire-restoration/) solutions.
 
 ### 4. Are the tarps provided by you fireproof?
 
@@ -101,17 +101,17 @@ Give us a call at (786)686-3380 to get the benefits of the offer.
 
 Our professional technicians and staff are ready to help!
 
-[Call (786) 610-6317](tel:(786) 610-6317) | [Email Us][Contact](/contact/)
+[Call (786) 610-6317](tel:(786) 610-6317) | [Email Us](/contact/)
 
 ## Water, fire, and mold restoration experts
 
-- [Water damage][Water Restoration](/services/water-restoration/)
-- [Fire restoration][Fire Restoration](/services/fire-restoration/)
-- [Mold remediation][Mold Remediation](/services/mold-remediation/)
-- [Commercial][Commercial](/services/commercial/)
-- [Roof Tarping][Roof Tarping](/services/roof-tarping/)
-- [Air Quality Inspections][Air Quality Inspections](/services/air-quality-inspections/)
-- [Shrink Wrapping][Shrink Wrapping](/services/shrink-wrapping/)
+- [Water damage](/services/water-restoration/)
+- [Fire restoration](/services/fire-restoration/)
+- [Mold remediation](/services/mold-remediation/)
+- [Commercial](/services/commercial/)
+- [Roof Tarping](/services/roof-tarping/)
+- [Air Quality Inspections](/services/air-quality-inspections/)
+- [Shrink Wrapping](/services/shrink-wrapping/)
 
 ## Helping home owners & businesses get back to comfort
 
@@ -119,7 +119,7 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →][About](/about/)
+[Learn More →](/about/)
 
 > Alexander's team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful.
 > 
@@ -127,4 +127,4 @@ We will alleviate the stress associated with these types of situations by provid
 
 [READ MORE →](/about#customer-reviews)
 
-![BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png) ![IICRC Certified Firm][(Wp Content/uploads/2021/09/IICRC Certified Firm Gradient Color 687x1024 1.png)](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png) [Facebook](https://www.facebook.com/totalcarerestoration) [Google Reviews](https://share.google/VDRo3vdycLL83YFAm) [Instagram](https://www.instagram.com/totalcarerestoration/) [Youtube](https://www.youtube.com/@totalcarerestoration8042/)
+![BBB A+](/wp-content/uploads/2021/02/bbb-a-plus-v.png) ![IICRC Certified Firm](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png) [Facebook](https://www.facebook.com/totalcarerestoration) [Google Reviews](https://share.google/VDRo3vdycLL83YFAm) [Instagram](https://www.instagram.com/totalcarerestoration/) [Youtube](https://www.youtube.com/@totalcarerestoration8042/)

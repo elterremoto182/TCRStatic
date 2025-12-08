@@ -136,9 +136,9 @@ We service Miami, Broward and the Palm Beaches.
 In addition, we may be able to bill your insurance company for our services instead of making you pay.
 
 ## Related Links
-- [How Water Damage Affects Electrical Systems][How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems)
-- [How to Tarp a Roof After Storm Damage][How to Tarp a Roof After Storm Damage](/how-to-tarp-a-roof-after-storm-damage)
-- [How to Stop Smoke Damage After a Fire][How to Stop Smoke Damage After a Fire](/how-to-stop-smoke-damage-after-a-fire)
-- [How to Safely Reenter Fire-Damaged Properties][How to Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties)
+- [How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems)
+- [How to Tarp a Roof After Storm Damage](/how-to-tarp-a-roof-after-storm-damage)
+- [How to Stop Smoke Damage After a Fire](/how-to-stop-smoke-damage-after-a-fire)
+- [How to Safely Reenter Fire-Damaged Properties](/how-to-safely-reenter-fire-damaged-properties)
 
-- [How to Prevent Electrical Fires at Home][How to Prevent Electrical Fires at Home](/how-to-prevent-electrical-fires-at-home)
+- [How to Prevent Electrical Fires at Home](/how-to-prevent-electrical-fires-at-home)

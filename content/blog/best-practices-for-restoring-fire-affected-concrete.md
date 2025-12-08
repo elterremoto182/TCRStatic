@@ -199,11 +199,11 @@ To evaluate the condition of fire-damaged concrete, methods like **ultrasonic pu
 Working with certified professionals is key to ensuring precise testing and a thorough assessment. This step is critical for deciding whether the concrete can be repaired or if replacement is necessary.
 
 ## Related posts
-- [Mold Growth Risk Calculator][Mold Growth Risk Calculator](/mold-growth-risk-calculator)
-- [How To Keep Kids Safe From Mold &#8211; Simple Tips][Keep Kids Safe From Mold](/keep-kids-safe-from-mold)
-- [Insurance and Roof Tarping: What Gets Covered?][Insurance And Roof Tarping What Gets Covered](/insurance-and-roof-tarping-what-gets-covered)
-- [Innovations in Dehumidification for Faster Drying][Innovations in Dehumidification for Faster Drying](/innovations-in-dehumidification-for-faster-drying)
-- [Hurricane Ian Tarps And Water Damage][Hurricane Ian Tarps Water Damage](/hurricane-ian-tarps-water-damage)
+- [Mold Growth Risk Calculator](/mold-growth-risk-calculator)
+- [How To Keep Kids Safe From Mold &#8211; Simple Tips](/keep-kids-safe-from-mold)
+- [Insurance and Roof Tarping: What Gets Covered?](/insurance-and-roof-tarping-what-gets-covered)
+- [Innovations in Dehumidification for Faster Drying](/innovations-in-dehumidification-for-faster-drying)
+- [Hurricane Ian Tarps And Water Damage](/hurricane-ian-tarps-water-damage)
 
 -   [How To Clean Fire Damaged Concrete](/how-to-clean-fire-damaged-concrete/)
 -   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)

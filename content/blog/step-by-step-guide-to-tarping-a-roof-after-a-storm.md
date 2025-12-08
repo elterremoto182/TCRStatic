@@ -15,7 +15,7 @@ In the ever-sunny city of Miami, storms are more the exception than they are a n
 
 ## Why Tarping Is Essential
 
-Roof damage after storms may appear minimal but can escalate quickly, thanks to Florida’s unpredictable weather. Roof tarping is a temporary solution to protect your home from further harm such as leaks and water damage until professional help arrives. It’s also your first line of defense against mold outbreaks, which can be challenging to detect and eradicate, especially when they occur behind walls. You’ll find more details about this troublesome issue on our blog post, [“How to Tell if There’s Mold Behind Your Walls”][Tell Mold Behind Walls](/tell-mold-behind-walls/).
+Roof damage after storms may appear minimal but can escalate quickly, thanks to Florida’s unpredictable weather. Roof tarping is a temporary solution to protect your home from further harm such as leaks and water damage until professional help arrives. It’s also your first line of defense against mold outbreaks, which can be challenging to detect and eradicate, especially when they occur behind walls. You’ll find more details about this troublesome issue on our blog post, [“How to Tell if There’s Mold Behind Your Walls”](/tell-mold-behind-walls/).
 
 ## Roof Tarping: A Step-by-Step Guide
 

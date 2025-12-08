@@ -29,7 +29,7 @@ Water damage can lead to **structural issues, mold growth, and costly repairs** 
 🚰 **Advanced Drying & Dehumidification**  
 🚰 **Leak Detection & Moisture Control**
 
-💡 **Need professional water cleanup? Call us for** [**water damage restoration in Doral, FL!**][DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/)
+💡 **Need professional water cleanup? Call us for** [**water damage restoration in Doral, FL!**](/diy-tips-preventing-mold-after-a-leak-or-flood/)
 
 * * *
 
@@ -53,7 +53,7 @@ Doral’s humid climate makes **mold infestations a common issue** for both home
 🦠 **Safe & Effective Mold Removal**  
 🦠 **Humidity & Moisture Control**
 
-💡 **Suspect mold in your property? Call us for** [**Doral mold remediation and removal!**][Tell Mold Behind Walls](/tell-mold-behind-walls/)
+💡 **Suspect mold in your property? Call us for** [**Doral mold remediation and removal!**](/tell-mold-behind-walls/)
 
 * * *
 

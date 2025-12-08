@@ -69,6 +69,6 @@ More about fire restoration:
 -    [Understanding Water Damage the Basics Everyone Should Know](/understanding-water-damage-the-basics-everyone-should-know/)
 
 ## Related Links
-- [What is an Air scrubber?][What Is an Air Scrubber](/what-is-an-air-scrubber)
+- [What is an Air scrubber?](/what-is-an-air-scrubber)
 
-- [What Is a Post-Restoration Verification Report?][What Is a Post Restoration Verification Report](/what-is-a-post-restoration-verification-report)
+- [What Is a Post-Restoration Verification Report?](/what-is-a-post-restoration-verification-report)

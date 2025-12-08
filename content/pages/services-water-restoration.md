@@ -71,7 +71,7 @@ In cases of extreme damage, we carry out reconstruction of the particular area a
 
 Give your trusted water restoration company a call at (786) 610 6317 to know more about our services and to get a free water damage restoration evaluation.
 
-![water restoration company][(Wp Content/uploads/2022/07/Tech With a Moisture Meter 1024x549.png)](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+![water restoration company](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
 **Frequently Asked Questions (FAQs)**
 
@@ -118,19 +118,19 @@ It is essential to take these precautions to prevent any major disasters from ta
 
 Our professional technicians and staff are ready to help!
 
-[Call (786) 610-6317](tel:(786)%20610-6317) | [Email Us][Contact](/contact/)
+[Call (786) 610-6317](tel:(786)%20610-6317) | [Email Us](/contact/)
 
 ## Water, fire, and mold restoration experts
 
-![Water damage][(Wp Content/themes/sk Theme Three/dist/images/services/water Damage_37ccafcc.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/water-damage_37ccafcc.jpg)
+![Water damage](/wp-content/themes/sk-theme-three/dist/images/services/water-damage_37ccafcc.jpg)
 
-![Fire restoration][(Wp Content/themes/sk Theme Three/dist/images/services/fire Restoration_6478c587.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/fire-restoration_6478c587.jpg)
+![Fire restoration](/wp-content/themes/sk-theme-three/dist/images/services/fire-restoration_6478c587.jpg)
 
-![Mold remediation][(Wp Content/themes/sk Theme Three/dist/images/services/mold Remediation_5e0b7e7e.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/mold-remediation_5e0b7e7e.jpg)
+![Mold remediation](/wp-content/themes/sk-theme-three/dist/images/services/mold-remediation_5e0b7e7e.jpg)
 
-![Commercial][(Wp Content/themes/sk Theme Three/dist/images/services/generic Commercial_c11638e7.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/generic-commercial_c11638e7.jpg)
+![Commercial](/wp-content/themes/sk-theme-three/dist/images/services/generic-commercial_c11638e7.jpg)
 
-![Roof Tarping][(Wp Content/themes/sk Theme Three/dist/images/services/roof Tarping_cfdce409.jpg)](/wp-content/themes/sk-theme-three/dist/images/services/roof-tarping_cfdce409.jpg)
+![Roof Tarping](/wp-content/themes/sk-theme-three/dist/images/services/roof-tarping_cfdce409.jpg)
 
 ## Helping home owners & businesses get back to comfort
 
@@ -138,7 +138,7 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →][About](/about/)
+[Learn More →](/about/)
 
 > Alexander's team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful.
 > 
@@ -146,9 +146,9 @@ We will alleviate the stress associated with these types of situations by provid
 
 [READ MORE →](/about#customer-reviews)
 
-![BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
+![BBB A+](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
 
-![IICRC Certified Firm][(Wp Content/uploads/2021/09/IICRC Certified Firm Gradient Color 687x1024 1.png)](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
+![IICRC Certified Firm](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png)
 
 [Facebook](https://www.facebook.com/totalcarerestoration)
 

@@ -7,7 +7,7 @@ menu_order: 0
 Water Damage Mitigation Company - Total Care Restoration                         
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KSK4Q7" width="0" height="0" frameborder="0"></iframe>
 
-[](/)
+[Home](/)
 
 MENU
 

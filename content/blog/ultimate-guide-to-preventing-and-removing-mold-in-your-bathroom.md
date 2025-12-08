@@ -39,7 +39,7 @@ Addressing these causes is crucial for preventing mold from taking hold in your 
 
 Several types of mold commonly appear in bathrooms:
 
-#### [**Black Mold**][Thanks](/thanks)
+#### [**Black Mold**](/thanks)
 
 -   **Description:** Black mold, or *Stachybotrys chartarum*, is infamous for its dark black or greenish-black appearance.
 -   **Health Risks:** Exposure to black mold can cause severe respiratory issues, allergic reactions, and other health problems.

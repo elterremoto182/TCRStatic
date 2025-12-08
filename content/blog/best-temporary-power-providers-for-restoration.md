@@ -24,7 +24,7 @@ When fire damages your property, [Plantation restoration services](/plantation-r
 -   Look for providers with 24/7 availability, certified technicians, and direct insurance billing support.
 -   Total Care Restoration offers reliable temporary power services alongside fire restoration, with a focus on safety and fast deployment.
 
-For immediate assistance, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317][Contact Us](/contact)**.
+For immediate assistance, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317](/contact)**.
 
 ## How to Choose a Temporary Power Provider
 
@@ -182,11 +182,11 @@ Using temporary power systems during fire restoration comes with its own set of 
 There’s also the **logistical challenge** of deploying temporary power in areas where the infrastructure has been compromised. Making sure the setup works seamlessly with existing systems while adhering to safety standards can demand additional time, effort, and resources. To tackle these obstacles more efficiently, partnering with an experienced service provider, such as Total Care Restoration, can simplify the process and help keep costs in check.
 
 ## Related Blog Posts
-- [Post-Disaster Assessment for Commercial Properties][Post Disaster Assessment for Commercial Properties](/post-disaster-assessment-for-commercial-properties)
-- [Ozone Air Treatment for Mold and Pathogens][Ozone Air Treatment for Mold And Pathogens](/ozone-air-treatment-for-mold-and-pathogens)
-- [Mold Sanitization vs. Mold Remediation &#8211; The Better Choice][Mold Sanitization Vs Mold Remediation](/mold-sanitization-vs-mold-remediation)
-- [Mold Risk Assessment Tool][Mold Risk Assessment Tool](/mold-risk-assessment-tool)
-- [Mold in Commercial Spaces: Causes and Solutions][Mold in Commercial Spaces Causes And Solutions](/mold-in-commercial-spaces-causes-and-solutions)
+- [Post-Disaster Assessment for Commercial Properties](/post-disaster-assessment-for-commercial-properties)
+- [Ozone Air Treatment for Mold and Pathogens](/ozone-air-treatment-for-mold-and-pathogens)
+- [Mold Sanitization vs. Mold Remediation &#8211; The Better Choice](/mold-sanitization-vs-mold-remediation)
+- [Mold Risk Assessment Tool](/mold-risk-assessment-tool)
+- [Mold in Commercial Spaces: Causes and Solutions](/mold-in-commercial-spaces-causes-and-solutions)
 
 -   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
 -   [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)
