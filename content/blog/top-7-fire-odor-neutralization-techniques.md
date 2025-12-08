@@ -54,7 +54,7 @@ This method shines in situations where smoke has deeply infiltrated porous mater
 
 ### Safety Considerations
 
-Ozone is highly reactive and can pose health risks if not handled correctly. It should only be used in unoccupied areas with proper ventilation to ensure safety. (https://www.osha.gov/) sets strict exposure limits: no more than 0.10 ppm over an 8-hour period and 0.30 ppm for shorter durations. Exceeding these levels can lead to irritation of the eyes and respiratory system. Professionals use respiratory protection and conduct post-treatment air sampling to confirm safe ozone levels before reentry .
+Ozone is highly reactive and can pose health risks if not handled correctly. It should only be used in unoccupied areas with proper ventilation to ensure safety. [OSHA](https://www.osha.gov/) sets strict exposure limits: no more than 0.10 ppm over an 8-hour period and 0.30 ppm for shorter durations. Exceeding these levels can lead to irritation of the eyes and respiratory system. Professionals use respiratory protection and conduct post-treatment air sampling to confirm safe ozone levels before reentry .
 
 ### Professional Implementation
 
@@ -311,3 +311,5 @@ HEPA air filters do an excellent job of trapping tiny particles like soot and sm
 -   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
 -   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
 -   [7 Steps To Clean Smoke Damaged Items](/7-steps-to-clean-smoke-damaged-items/)
+-   [How Thermal Fogging Restores Indoor Air Quality](/how-thermal-fogging-restores-indoor-air-quality/)
+-   [Do Ozone Generators Work for Fire Damage Odors](/do-ozone-generators-work-for-fire-damage-odors/)

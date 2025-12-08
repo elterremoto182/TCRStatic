@@ -175,7 +175,7 @@ With round-the-clock availability at **(786) 610-6317**, Total Care Restoration 
 
 ### Certified Technicians and Advanced Technology
 
-The team at Total Care Restoration includes certified professionals accredited by organizations like (https://iicrc.org/) and (https://www.iaqa.org/). These technicians use proven methods to minimize errors and speed up restoration. Advanced tools like 3D cameras, moisture meters, thermal imaging devices, air scrubbers, and LiDAR provide precise damage assessments and thorough documentation. Unlike manual methods, this technology ensures quicker, more accurate results, enabling a detailed and effective restoration plan.
+The team at Total Care Restoration includes certified professionals accredited by organizations like [IICRC](https://iicrc.org/) and [IAQA](https://www.iaqa.org/). These technicians use proven methods to minimize errors and speed up restoration. Advanced tools like 3D cameras, moisture meters, thermal imaging devices, air scrubbers, and LiDAR provide precise damage assessments and thorough documentation. Unlike manual methods, this technology ensures quicker, more accurate results, enabling a detailed and effective restoration plan.
 
 ### Direct Insurance Billing
 
@@ -223,3 +223,5 @@ One smart move is to pick a restoration company that provides **direct insurance
 -   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
 -   [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
 -   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
+-   [What is a Post-Restoration Verification Report](/what-is-a-post-restoration-verification-report/)
+-   [Property Restoration Checklist Generator](/property-restoration-checklist-generator/)

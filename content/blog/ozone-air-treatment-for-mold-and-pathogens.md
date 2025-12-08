@@ -49,7 +49,7 @@ Organic matter, such as dust or debris, can interfere with ozone’s effectivene
 
 The type of ozone generator used also matters. UV ozone generators maintain consistent output even in high humidity, while corona discharge generators may lose efficiency under similar conditions.
 
-Professionals carefully adjust ozone concentration, exposure time, and environmental factors to ensure effective treatment. Safety is paramount, with regulatory limits in place: the (https://www.osha.gov/) (OSHA) allows a maximum of 0.1 ppm over an 8-hour workday, while the (https://www.epa.gov/home) (EPA) caps exposure at 0.05 ppm.
+Professionals carefully adjust ozone concentration, exposure time, and environmental factors to ensure effective treatment. Safety is paramount, with regulatory limits in place: the [OSHA](https://www.osha.gov/) (OSHA) allows a maximum of 0.1 ppm over an 8-hour workday, while the [EPA](https://www.epa.gov/home) (EPA) caps exposure at 0.05 ppm.
 
 ## Pros and Cons of Ozone Treatment
 
@@ -95,7 +95,7 @@ Ozone treatment shines in situations that demand thorough remediation:
 
 **Property Management**: For landlords or property managers, ozone treatment is an excellent way to reset spaces between tenants. It effectively neutralizes odors from previous occupants, pets, or other sources, leaving the property fresh for new residents.
 
-**Commercial and Healthcare Facilities**: These environments often use ozone treatment as part of deep-cleaning protocols or after contamination events. According to the (https://www.who.int/), ozone is one of the most effective disinfectants for microorganisms. This makes it valuable in medical facilities, restaurants, and other commercial spaces where thorough disinfection is critical.
+**Commercial and Healthcare Facilities**: These environments often use ozone treatment as part of deep-cleaning protocols or after contamination events. According to the [World Health Organization](https://www.who.int/), ozone is one of the most effective disinfectants for microorganisms. This makes it valuable in medical facilities, restaurants, and other commercial spaces where thorough disinfection is critical.
 
 **Vehicle Detailing and Hospitality**: Ozone treatment is a go-to method for [Combating Smoke Odor Professional Techniques for a Fresh Home](/combating-smoke-odor-professional-techniques-for-a-fresh-home/) in cars, boats, RVs, and hotel rooms. Unlike air fresheners that only mask smells, ozone works at the molecular level to remove pollutants. Research shows that ozone can kill mold, bacteria, and viruses at concentrations as low as 3–4 ppm.
 

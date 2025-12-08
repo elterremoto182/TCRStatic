@@ -45,7 +45,7 @@ Delaying the notification of fire damage to your insurance company can be a cost
 
 ### Overlooking Hidden Damage
 
-Fire damage isn’t always obvious. Beyond the visible destruction, structural components, walls, and insulation often hide damage that can compromise safety. Smoke and soot can seep into surfaces, creating ongoing health risks and causing further deterioration if not addressed. As (https://aaastandardservices.com/) points out, the collateral damage from smoke, soot, and firefighting water can often surpass the immediate effects of the fire.
+Fire damage isn’t always obvious. Beyond the visible destruction, structural components, walls, and insulation often hide damage that can compromise safety. Smoke and soot can seep into surfaces, creating ongoing health risks and causing further deterioration if not addressed. As [AAA Standard Services](https://aaastandardservices.com/) points out, the collateral damage from smoke, soot, and firefighting water can often surpass the immediate effects of the fire.
 
 Water from firefighting efforts can lead to moisture buildup, which may weaken structural elements and create conditions for mold growth. Additionally, corrosive compounds from burnt materials can damage metal fixtures, electrical wiring, and other components long after the fire is extinguished. Ignoring these hidden issues can result in incomplete settlements and long-term risks.
 
@@ -99,13 +99,13 @@ After inspections, take extra care to verify the credentials of any contractors 
 
 Before hiring a contractor, confirm they are properly licensed and certified for fire restoration work. Ask for their license or registration number and verify it with the appropriate authority.
 
-Make sure the contractor carries **liability insurance and worker’s compensation coverage**. Request proof of their insurance to ensure they’re adequately covered. Certifications from organizations like the (https://iicrc.org/) (IICRC) are also a good sign of expertise.
+Make sure the contractor carries **liability insurance and worker’s compensation coverage**. Request proof of their insurance to ensure they’re adequately covered. Certifications from organizations like the [IICRC](https://iicrc.org/) (IICRC) are also a good sign of expertise.
 
-Thomas Nixa, Owner/Founder of (https://www.facebook.com/p/NICAR-Construction-100083203337140/), advises:
+Thomas Nixa, Owner/Founder of [Facebook](https://www.facebook.com/p/NICAR-Construction-100083203337140/), advises:
 
 > "Any business or business person with a good reputation will be ready to boast about their work. If there is any hesitation when you ask for references, be suspicious!"
 
-Additionally, check **online reviews, testimonials, and ratings** on platforms like Google, (https://www.yelp.com/), or the (https://www.bbb.org/) (BBB). You can also contact your local building department for insights on a contractor’s track record. Don’t hesitate to ask for examples of similar projects they’ve completed.
+Additionally, check **online reviews, testimonials, and ratings** on platforms like Google, [Yelp](https://www.yelp.com/), or the [Better Business Bureau](https://www.bbb.org/) (BBB). You can also contact your local building department for insights on a contractor’s track record. Don’t hesitate to ask for examples of similar projects they’ve completed.
 
 ### Keep Clear Communication Records
 

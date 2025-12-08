@@ -18,14 +18,14 @@ keywords: ["filters", "scrubbers", "restoration", "scrubber", "quality", "equipm
 [What Is an Air Scrubber](/what-is-an-air-scrubber/) are critical for cleaning [Indoor Air Quality](/services/indoor-air-quality/) after disasters like floods, fires, or mold outbreaks. They remove harmful particles, pollutants, and odors, ensuring safer conditions for workers and property owners. Here’s what you need to know:
 
 -   **Why They’re Important**: Disasters create airborne hazards such as mold spores, smoke particles, and VOCs, which can lead to health issues. Air scrubbers filter out these contaminants, improving [Air Quality Inspections](/services/air-quality-inspections/) and preventing further damage.
--   **How They Work**: Using (https://en.wikipedia.org/wiki/HEPA) filters, air scrubbers remove 99.97% of particles 0.3 microns or larger. Many also include activated carbon filters to tackle odors and chemicals.
+-   **How They Work**: Using [HEPA](https://en.wikipedia.org/wiki/HEPA) filters, air scrubbers remove 99.97% of particles 0.3 microns or larger. Many also include activated carbon filters to tackle odors and chemicals.
 -   **Safety First**: Always wear PPE, inspect the site for hazards, and ensure electrical systems are safe before use.
 -   **Setup Tips**: Place scrubbers near contamination sources, create containment zones, and monitor air quality throughout the process.
 -   **Maintenance**: Check filters daily, replace HEPA and carbon filters as needed, and disinfect equipment when dealing with mold or sewage.
 
 If air scrubbers aren’t enough for severe damage or lingering air quality issues, [Commercial](/services/commercial/) may be required.
 
-## How Many Air Scrubbers Do I Need? (https://en.wikipedia.org/wiki/HEPA) Air Scrubbers for Restoration Explained!
+## How Many Air Scrubbers Do I Need? [HEPA](https://en.wikipedia.org/wiki/HEPA) Air Scrubbers for Restoration Explained!
 
 <iframe src="https://www.youtube.com/embed/xlvu3W3ZtwY" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ Wearing the right protective gear is non-negotiable in contaminated environments
 -   **N-95 respirator masks**: These masks filter out at least 95% of airborne particles, including mold and dust. For areas with severe contamination, **P-100 respirators** are a better option, offering 99.97% filtration efficiency and enhanced protection against fine particles.
 -   **Nitrile gloves**: These gloves are resistant to punctures and chemicals, making them ideal for handling contaminated equipment or filters. Opt for full-coverage nitrile gloves to ensure no skin contact.
 -   **Safety goggles with side shields**: These protect your eyes from debris and keep contaminants out of your tear ducts. Regular glasses or sunglasses won’t cut it since they don’t provide full coverage.
--   **Disposable coveralls or protective clothing**: A barrier between your skin and contaminated surfaces is critical. (https://www.dupont.com/personal-protection/tyvek-industrial-ppe.html) suits work well for most situations, but chemical-resistant suits are necessary in areas with chemical hazards. Always wear long sleeves and pants, even in hot weather, to reduce skin exposure.
+-   **Disposable coveralls or protective clothing**: A barrier between your skin and contaminated surfaces is critical. [DuPont](https://www.dupont.com/personal-protection/tyvek-industrial-ppe.html) suits work well for most situations, but chemical-resistant suits are necessary in areas with chemical hazards. Always wear long sleeves and pants, even in hot weather, to reduce skin exposure.
 -   **Non-slip work boots**: Closed-toe boots with rubber soles protect against debris, wet surfaces, and electrical hazards. Rubber soles also improve traction and provide insulation when working near power sources.
 
 ### Site Inspection and Hazard Assessment
@@ -125,7 +125,7 @@ Once you’ve ensured your air scrubber is functioning properly and its filters 
 
 ### Signs You Need Professional Help
 
-Air scrubbers are excellent tools for improving (https://uscleaningtools.com) after disasters, but there are situations where professional expertise is essential. Spotting these warning signs early can help prevent further damage to your property and safeguard your health.
+Air scrubbers are excellent tools for improving [indoor air quality](https://uscleaningtools.com) after disasters, but there are situations where professional expertise is essential. Spotting these warning signs early can help prevent further damage to your property and safeguard your health.
 
 If the damage is widespread – whether caused by extensive flooding, fire, hazardous materials, or severe mold contamination – standard air scrubbers may not be enough. In these cases, professionals equipped with advanced tools, like negative air machines that create controlled pressure environments, are essential to handle the restoration process effectively.
 

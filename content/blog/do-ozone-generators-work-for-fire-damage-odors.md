@@ -54,7 +54,7 @@ Ozone generators are often touted as a solution for removing fire damage odors, 
 
 One of the key advantages of ozone is its ability to penetrate deeply into porous materials, neutralizing odor-causing molecules effectively without leaving behind harmful residues. Once ozone has done its job, it reverts back to regular oxygen, making it a *chemical-free* option that avoids the environmental concerns associated with traditional cleaning agents.
 
-Another benefit is ozone’s disinfecting power. It works on a molecular level to alter and neutralize substances responsible for unpleasant smells. As (https://www.gwsavage.com/) explains:
+Another benefit is ozone’s disinfecting power. It works on a molecular level to alter and neutralize substances responsible for unpleasant smells. As [G.W. Savage](https://www.gwsavage.com/) explains:
 
 > "Ozone works to remove odors by chemically changing the structure of the molecules in the smoke that are creating the smell".
 
@@ -62,7 +62,7 @@ Another benefit is ozone’s disinfecting power. It works on a molecular level t
 
 However, the use of ozone generators isn’t without its downsides. Even at very low concentrations, ozone can cause health issues such as coughing, chest tightness, throat irritation, and shortness of breath. Prolonged exposure or higher concentrations can lead to lung damage and pose serious risks, particularly for vulnerable individuals.
 
-Commercial ozone generators often release over 5,000 mg of ozone per hour, creating indoor ozone levels far above outdoor health standards – 90 parts per billion (ppb) for a 1-hour exposure and 70 ppb for an 8-hour exposure. The (https://www.ccohs.ca/) warns:
+Commercial ozone generators often release over 5,000 mg of ozone per hour, creating indoor ozone levels far above outdoor health standards – 90 parts per billion (ppb) for a 1-hour exposure and 70 ppb for an 8-hour exposure. The [CCOHS](https://www.ccohs.ca/) warns:
 
 > "Even very low concentrations of ozone can be harmful to the upper respiratory tract and the lungs. The severity of injury depends on both the concentration of ozone and the duration of exposure. Severe and permanent lung injury or death could result from even a very short-term exposure to relatively low concentrations".
 
@@ -76,7 +76,7 @@ Another limitation is that ozone is ineffective against certain harmful substanc
 | Neutralizes odors at the molecular level | Risk of creating toxic byproducts like formaldehyde |
 | Eco-friendly alternative to chemical cleaners | Requires evacuation; may damage sensitive materials |
 
-Ozone can also harm certain materials, such as rubber, wire coatings, fabrics, and artwork with delicate dyes. Another concern is that ozone exposure can dull the sense of smell, making it harder to detect dangerously high levels of the gas. As the (https://www.epa.gov/home) notes:
+Ozone can also harm certain materials, such as rubber, wire coatings, fabrics, and artwork with delicate dyes. Another concern is that ozone exposure can dull the sense of smell, making it harder to detect dangerously high levels of the gas. As the [EPA](https://www.epa.gov/home) notes:
 
 > "Available scientific evidence shows that at concentrations that do not exceed public health standards, ozone has little potential to remove indoor air contaminants".
 
@@ -90,13 +90,13 @@ Using ozone generators to remove fire damage odors comes with serious health ris
 
 ### Health Risks of Ozone Exposure
 
-Exposure to ozone can lead to respiratory problems, lung inflammation, and even permanent damage to lung tissue. The (https://ww2.arb.ca.gov/homepage) explains the effects:
+Exposure to ozone can lead to respiratory problems, lung inflammation, and even permanent damage to lung tissue. The [California Air Resources Board](https://ww2.arb.ca.gov/homepage) explains the effects:
 
 > "People who buy ozone generators may not be aware that ozone can harm the cells in the lungs and respiratory airways. Exposure to ozone irritates and inflames the lining of the respiratory system. This causes symptoms including coughing, chest tightness, shortness of breath, and impaired breathing. Ozone can worsen asthma symptoms, and may contribute to the development of asthma".
 
 Certain groups, such as children, the elderly, and individuals with asthma or chronic respiratory conditions, are particularly vulnerable. Even minimal exposure can cause severe reactions or worsen existing health issues.
 
-To highlight the dangers, regulatory bodies have set strict limits. For instance, the (https://www.fda.gov/) requires that indoor medical devices emit no more than 0.05 parts per million (ppm) of ozone. (https://www.osha.gov/) limits worker exposure to 0.10 ppm over an 8-hour period, and (https://www.cdc.gov/niosh/index.html) recommends that ozone levels never exceed this threshold. However, many commercial ozone generators can produce levels far exceeding these limits – up to several times higher than the health standards of 90 parts per billion (ppb) for a 1-hour exposure and 70 ppb for an 8-hour exposure. Repeated exposure to such high ozone concentrations can increase the risk of permanent lung damage and, in some cases, even raise mortality rates for vulnerable individuals.
+To highlight the dangers, regulatory bodies have set strict limits. For instance, the [FDA](https://www.fda.gov/) requires that indoor medical devices emit no more than 0.05 parts per million (ppm) of ozone. [OSHA](https://www.osha.gov/) limits worker exposure to 0.10 ppm over an 8-hour period, and [CDC](https://www.cdc.gov/niosh/index.html) recommends that ozone levels never exceed this threshold. However, many commercial ozone generators can produce levels far exceeding these limits – up to several times higher than the health standards of 90 parts per billion (ppb) for a 1-hour exposure and 70 ppb for an 8-hour exposure. Repeated exposure to such high ozone concentrations can increase the risk of permanent lung damage and, in some cases, even raise mortality rates for vulnerable individuals.
 
 Given these risks, it’s essential to follow strict safety measures when using ozone generators.
 

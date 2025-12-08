@@ -64,7 +64,7 @@ You’ll also need a **structural expert** to assess the foundation, walls, and 
 
 A **business operations expert** is essential for identifying priority areas, especially spaces that house vital equipment or generate revenue. Their insights will help you focus on what’s most critical for getting your business back on track.
 
-Safety is another priority. Include a **safety specialist** who understands (https://www.osha.gov/) requirements and can ensure the team operates within safety guidelines. Training programs like the (https://www.aia.org/resource-center/safety-assessment-program) (SAP) provide architects, engineers, and building officials with the skills to assess buildings post-disaster. Pair this with (https://en.wikipedia.org/wiki/Incident_Command_System) (ICS) courses to familiarize your team with mission control protocols.
+Safety is another priority. Include a **safety specialist** who understands [OSHA](https://www.osha.gov/) requirements and can ensure the team operates within safety guidelines. Training programs like the [American Institute of Architects](https://www.aia.org/resource-center/safety-assessment-program) (SAP) provide architects, engineers, and building officials with the skills to assess buildings post-disaster. Pair this with [Incident Command System](https://en.wikipedia.org/wiki/Incident_Command_System) (ICS) courses to familiarize your team with mission control protocols.
 
 > "Plan education, training, and exercises should comprise the largest part of the preparedness effort." – Croker Risk Management
 
@@ -80,7 +80,7 @@ Make sure your team has access to **building documentation** like floor plans, u
 
 Reliable **communication equipment** is critical, especially in areas where cell service may be disrupted. Two-way radios can keep the team connected, and establishing regular check-in procedures ensures everyone stays safe. Use a simple code system to quickly communicate urgent safety concerns.
 
-Provide **assessment forms and checklists** tailored to your property type. Tools like (https://safetyculture.com/) templates incorporate industry best practices and help ensure consistent documentation. Standardized forms also make it easier to file accurate insurance claims.
+Provide **assessment forms and checklists** tailored to your property type. Tools like [SafetyCulture](https://safetyculture.com/) templates incorporate industry best practices and help ensure consistent documentation. Standardized forms also make it easier to file accurate insurance claims.
 
 Additional equipment like flashlights, moisture meters, and basic hand tools can help your team uncover hidden damage. Set up a mobile command station with essentials like tables, chairs, weather protection, first aid supplies, water, and emergency contact information.
 
@@ -193,11 +193,11 @@ When disaster strikes your commercial property, teaming up with [Sunrise restora
 
 ### Choosing Qualified Restoration Professionals
 
-Start by confirming that the restoration company is licensed, bonded, and IICRC-certified. The **(https://iicrc.org/) (IICRC)** ensures that technicians are trained in essential areas like [Water Damage Clean Up](/water-damage-clean-up/), [Fire Restoration](/services/fire-restoration/), and [Mold Remediation](/services/mold-remediation/). This certification is a strong indicator of their expertise and professionalism.
+Start by confirming that the restoration company is licensed, bonded, and IICRC-certified. The **[IICRC](https://iicrc.org/) (IICRC)** ensures that technicians are trained in essential areas like [Water Damage Clean Up](/water-damage-clean-up/), [Fire Restoration](/services/fire-restoration/), and [Mold Remediation](/services/mold-remediation/). This certification is a strong indicator of their expertise and professionalism.
 
 Availability is another key factor. Disasters don’t stick to a schedule, so it’s crucial to choose a company that offers **24/7 emergency services**. Quick action can prevent further damage – like mold growth, which can start within 24–48 hours if water damage isn’t addressed promptly.
 
-Before committing, ask for **references from past commercial clients**. Focus on projects similar to yours in terms of size and type of damage. Online reviews on platforms like Google, Yelp, and the (https://www.bbb.org/) can also provide valuable insights into a company’s reputation.
+Before committing, ask for **references from past commercial clients**. Focus on projects similar to yours in terms of size and type of damage. Online reviews on platforms like Google, Yelp, and the [Better Business Bureau](https://www.bbb.org/) can also provide valuable insights into a company’s reputation.
 
 Make sure to get a **detailed written estimate** outlining costs and timelines for every stage of the restoration process, including inspection, cleanup, repairs, and additional services like temporary storage or content restoration. Knowing these details upfront helps you avoid unpleasant surprises and plan your recovery effectively.
 

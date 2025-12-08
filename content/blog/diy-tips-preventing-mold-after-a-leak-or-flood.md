@@ -51,7 +51,7 @@ They will assess the extent of the mold damage and provide expert advice and ass
   
 1\. Fix the Underlying Issue: Identify and fix the source of the leak or flood to prevent future incidents. Whether it’s a faulty plumbing system, roof, or windows, addressing the root cause will help avoid reoccurring water damage.
 
-2\. Maintain Proper Ventilation: Ensure proper airflow throughout your home by opening windows, using exhaust fans in bathrooms and kitchens, and utilizing air conditioning systems. Good ventilation helps control humidity levels and discourages mold growth.
+2\. Maintain Proper Ventilation: Ensure proper airflow throughout your home by opening windows, using exhaust fans in bathrooms and kitchens, and utilizing air conditioning systems. Good ventilation helps control humidity levels and discourages mold growth. For detailed guidance, check out our [5 Ventilation Tips to Prevent Mold Growth](/5-ventilation-tips-to-prevent-mold-growth/).
 
 3\. Monitor Humidity Levels: Invest in a hygrometer to monitor the humidity levels in your home. Ideally, keep the humidity below 50 percent to inhibit mold growth. If necessary, use dehumidifiers to maintain optimal humidity.
 

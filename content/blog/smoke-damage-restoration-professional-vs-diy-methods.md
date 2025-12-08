@@ -66,7 +66,7 @@ Smoke damage isn’t just about stains and odors – it can have serious health 
 
 > "Smoke particles put your health and that of your family at risk because they are toxic."
 > 
-> -   (https://www.advantaclean.com/)
+> -   [AdvantaClean](https://www.advantaclean.com/)
 
 Here’s how smoke damage can affect your health and home:
 
@@ -305,3 +305,5 @@ Ensure proper **ventilation** by opening windows and using fans to circulate air
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
 -   [How To Prevent Electrical Fires At Home](/how-to-prevent-electrical-fires-at-home/)
 -   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
+-   [Fire Damage Repair Estimator](/fire-damage-repair-estimator/)
+-   [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services/)

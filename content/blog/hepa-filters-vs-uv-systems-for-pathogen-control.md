@@ -41,7 +41,7 @@ HEPA (High-Efficiency Particulate Air) filters are widely regarded as the gold s
 
 ### How HEPA Filters Work
 
-HEPA filters rely on a combination of physical processes to capture particles in the air. According to the (https://www.epa.gov/home):
+HEPA filters rely on a combination of physical processes to capture particles in the air. According to the [EPA](https://www.epa.gov/home):
 
 > "HEPA is a type of pleated mechanical air filter… This type of air filter can theoretically remove at least 99.97% of dust, pollen, mold, bacteria, and any airborne particles with a size of 0.3 microns (µm)."
 
@@ -87,7 +87,7 @@ Unlike HEPA filters, which physically trap particles, UV systems neutralize path
 
 ### UV-C Light Pathogen Destruction
 
-UV-C light works by targeting the DNA and RNA of pathogens. According to (https://www.uv-smart.com/):
+UV-C light works by targeting the DNA and RNA of pathogens. According to [UV Smart](https://www.uv-smart.com/):
 
 > "UV-C light kills germs by damaging the nucleic acids in their DNA. This process, known as dimerization, prevents microorganisms from multiplying and causing infections."
 
@@ -119,7 +119,7 @@ HEPA filters and UV systems tackle [Indoor Air Quality](/services/indoor-air-qua
 
 ### Side-by-Side Comparison
 
-When deciding between these technologies, performance, cost, and the environment in which they’ll be used play a key role. As (https://farlitesolutions.com/) explains:
+When deciding between these technologies, performance, cost, and the environment in which they’ll be used play a key role. As [Far Lite Solutions](https://farlitesolutions.com/) explains:
 
 > "HEPA filters trap particles like dust and virus-carrying aerosols, whereas UV light – and particularly UVC – actually destroys bacteria, viruses, and fungi directly."
 
@@ -190,10 +190,10 @@ HEPA filters are excellent at trapping particles, while UV systems inactivate mi
 > "UVGI is a supplemental form of ventilation intervention and does not replace code requirements for outdoor air delivery or filtration." – CDC
 
 **Example of Combined Systems in Action:**  
-In early 2020, (https://www.iso-aire.com/) collaborated with a Minnesota healthcare facility to develop a system that integrated HEPA filtration, UVC sterilization, and ozone-free bipolar ionization. This solution was tailored to meet strict hospital isolation room standards, protecting both patients and staff.
+In early 2020, [ISO-Aire](https://www.iso-aire.com/) collaborated with a Minnesota healthcare facility to develop a system that integrated HEPA filtration, UVC sterilization, and ozone-free bipolar ionization. This solution was tailored to meet strict hospital isolation room standards, protecting both patients and staff.
 
 **Airflow Design for Combined Systems:**  
-When using HEPA and UV systems together, optimizing airflow becomes even more critical. Testing by the EPA and the U.S. Department of Homeland Security showed that the (https://www.sterileair.com.au/) UVC Emitter destroyed 99.96% of airborne bacteria, eliminated 99% of viruses, and neutralized 96% of spores in a single pass. Proper installation ensures that airflow directs contaminants out efficiently.
+When using HEPA and UV systems together, optimizing airflow becomes even more critical. Testing by the EPA and the U.S. Department of Homeland Security showed that the [Sterile Air](https://www.sterileair.com.au/) UVC Emitter destroyed 99.96% of airborne bacteria, eliminated 99% of viruses, and neutralized 96% of spores in a single pass. Proper installation ensures that airflow directs contaminants out efficiently.
 
 **Boosting Air Movement:**  
 Using fans or HVAC systems to increase air circulation can enhance UV system performance by ensuring airborne microorganisms get adequate exposure to UV light. When adding fans, keep speeds low and direct airflow above occupied areas to avoid disturbing occupants.

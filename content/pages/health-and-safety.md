@@ -24,4 +24,4 @@ We encourage our customers to let us know in advance of an appointment if there 
 
 Our customers, communities and team members are why we exist and will always be the primary consideration in all decisions and actions moving forward.
 
-If you have any questions or concerns, please feel free to (http://skcustomwp3.local/contact/).
+If you have any questions or concerns, please feel free to [contact us](/contact).

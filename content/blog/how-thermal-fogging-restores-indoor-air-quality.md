@@ -82,7 +82,7 @@ Here’s how thermal fogging compares to other methods:
 | Air Fresheners | Limited to air and surfaces | Masking with fragrances | Very temporary |
 | Thermal Fogging | Deep penetration into materials | Chemical neutralization | Long-lasting |
 
-While air scrubbing with (https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter) filters can trap particles as small as 0.3 microns, thermal fogging goes a step further. It penetrates materials directly, addressing embedded smoke particles that air filtration alone can’t reach.
+While air scrubbing with [EPA](https://www.epa.gov/indoor-air-quality-iaq/what-hepa-filter) filters can trap particles as small as 0.3 microns, thermal fogging goes a step further. It penetrates materials directly, addressing embedded smoke particles that air filtration alone can’t reach.
 
 Some thermal fogging solutions also include disinfectants, which eliminate bacteria, viruses, and other pathogens. This added feature not only improves air quality but also ensures a cleaner, safer environment, making thermal fogging an excellent choice for thorough restoration.
 

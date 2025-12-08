@@ -24,7 +24,7 @@ Cleaning your air purifier filters is crucial for maintaining good [Air Quality 
 
 Proper care not only extends filter lifespan but also keeps your air purifier working effectively. If issues persist, consult a professional for deeper problems like mold or severe contamination.
 
-## How to Clean an Air Purifier | (https://www.consumerreports.org/cro/a-to-z-index/products/index.htm?srsltid=AfmBOoqjWGnenak4hR5bHqvDkZGJlxU40nHLSrSwdAlkXf_niOUqJ5AS)
+## How to Clean an Air Purifier | [Consumer Reports](https://www.consumerreports.org/cro/a-to-z-index/products/index.htm?srsltid=AfmBOoqjWGnenak4hR5bHqvDkZGJlxU40nHLSrSwdAlkXf_niOUqJ5AS)
 
 <iframe src="https://www.youtube.com/embed/veUCzDlp6fw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 

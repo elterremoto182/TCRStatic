@@ -40,7 +40,7 @@ Here’s the gear you should use to stay safe:
 
 | Equipment Type | Specifications | Purpose |
 | --- | --- | --- |
-| Respirator | (https://en.wikipedia.org/wiki/N95_respirator) or higher | Blocks mold spores from being inhaled |
+| Respirator | [N95 respirator](https://en.wikipedia.org/wiki/N95_respirator) or higher | Blocks mold spores from being inhaled |
 | Gloves | Heavy-duty rubber | Shields your skin from direct contact |
 | Eye Protection | Sealed goggles | Protects eyes from irritation |
 | Protective Clothing | Long sleeves, pants | Reduces skin exposure |
@@ -158,6 +158,8 @@ Professional help is often necessary for hidden mold. Certified technicians, lik
 - [Combating Smoke Odor: Professional Techniques for a Fresh Home.](/combating-smoke-odor-professional-techniques-for-a-fresh-home)
 - [How to Choose the Right PPE for Property Restoration](/choose-right-ppe-property-restoration)
 - [10 Plumbing Maintenance Tips to Prevent Leaks](/10-plumbing-maintenance-tips-to-prevent-leaks)
+- [5 Ventilation Tips to Prevent Mold Growth](/5-ventilation-tips-to-prevent-mold-growth/)
+- [Checklist for Using Air Scrubbers After Disasters](/checklist-for-using-air-scrubbers-after-disasters/)
 
 -   [Top 6 Most Common Causes Of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
 -   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)

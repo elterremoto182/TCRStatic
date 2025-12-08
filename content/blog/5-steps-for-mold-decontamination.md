@@ -49,7 +49,7 @@ Preparation is everything when tackling [Mold Remediation](/services/mold-remedi
 
 ### Inspect the Affected Area
 
-Start by inspecting all surfaces for visible mold growth and any musty smells that might signal hidden mold. Tools like moisture meters or infrared cameras can help pinpoint areas where moisture is fueling mold growth. The (https://www.epa.gov/home) advises keeping indoor humidity between 30–50% (and never exceeding 60%) to prevent mold from thriving.
+Start by inspecting all surfaces for visible mold growth and any musty smells that might signal hidden mold. Tools like moisture meters or infrared cameras can help pinpoint areas where moisture is fueling mold growth. The [EPA](https://www.epa.gov/home) advises keeping indoor humidity between 30–50% (and never exceeding 60%) to prevent mold from thriving.
 
 During your inspection, make sure to wear the right personal protective equipment (PPE), such as N95 respirators, gloves, and goggles. Once you’ve identified the problem areas, it’s time to gather the rest of your safety gear.
 
@@ -238,7 +238,7 @@ During inspections, look for leaks in plumbing or other sources of dampness. Che
 
 **Protecting Your Property**
 
-Regular inspections not only help maintain a healthy living space but also protect your property’s value. Mold issues can deter potential buyers or renters, as seen in California, where visible mold can render housing unfit for habitation under the (https://www.hcd.ca.gov/building-standards-hcd). Between professional inspections, keep air circulating by opening doors, windows, or using fans. Clean regularly – especially in damp areas like kitchens and bathrooms – and address leaks immediately to maintain proper ventilation.
+Regular inspections not only help maintain a healthy living space but also protect your property’s value. Mold issues can deter potential buyers or renters, as seen in California, where visible mold can render housing unfit for habitation under the [California HCD](https://www.hcd.ca.gov/building-standards-hcd). Between professional inspections, keep air circulating by opening doors, windows, or using fans. Clean regularly – especially in damp areas like kitchens and bathrooms – and address leaks immediately to maintain proper ventilation.
 
 By scheduling regular inspections and staying proactive, you can preserve the results of your restoration efforts and keep your property mold-free.
 

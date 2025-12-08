@@ -58,3 +58,5 @@ It is also important to consider the additional features offered by the air scru
 Air scrubbers are air purifiers that are designed to reduce levels of indoor air pollutants and allergens. They are becoming increasingly popular in homes and businesses as people become more aware of the potential health risks associated with poor indoor air quality. Air scrubbers can help to reduce levels of dust, dander, smoke, and odors in the air, as well as allergens and VOCs.
 
 They can also help to improve the efficiency of heating and cooling systems and reduce energy costs. When choosing an air scrubber, it is important to consider the size of the space that needs to be treated, the type of air filter that is used, and the additional features offered by the air scrubber.
+
+For a step-by-step guide on deploying air scrubbers after emergencies, see our [Checklist for Using Air Scrubbers After Disasters](/checklist-for-using-air-scrubbers-after-disasters/).

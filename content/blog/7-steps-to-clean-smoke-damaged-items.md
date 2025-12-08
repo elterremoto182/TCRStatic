@@ -90,9 +90,9 @@ Some items are simply beyond saving. Smoke particles are toxic and can contain s
 
 Porous materials – like mattresses, pillows, upholstered furniture, carpets, and rugs – absorb smoke, soot, and odors deeply, making them nearly impossible to clean. Food, medicine, and personal care products that have been exposed to heat, smoke, or firefighting chemicals should also be discarded immediately. Additionally, items like children’s clothing and toys that may have absorbed harmful chemicals should not be kept.
 
-Objects with visible charring, melting, or heavy staining are usually unsalvageable. Plastics and fiberglass, for example, can deteriorate quickly when exposed to smoke, often turning yellow or becoming brittle. Melted or heavily stained plastics, along with drywall or painted surfaces that are deeply damaged, typically need to be replaced rather than cleaned.
+Objects with visible charring, melting, or heavy staining are usually unsalvageable. Plastics and fiberglass, for example, can deteriorate quickly when exposed to smoke, often turning yellow or becoming brittle. Melted or heavily stained plastics, along with drywall or painted surfaces that are deeply damaged, typically need to be replaced rather than cleaned. For guidance on proper disposal, see our article on [Safe Disposal of Fire Damaged Materials](/safe-disposal-of-fire-damaged-materials/).
 
-For items with sentimental value or complex construction, consult a [Commercial](/services/commercial/) to see if specialized techniques can save them.
+For items with sentimental value or complex construction, consult a [Commercial](/services/commercial/) to see if specialized techniques can save them. You may also want to explore [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services/) for specialized assistance.
 
 ## Step 3: Get Your Cleaning Supplies Ready
 
@@ -144,7 +144,7 @@ Now, let’s look at how to handle soot on hard surfaces.
 
 Cleaning hard surfaces requires a two-step process: dry cleaning first, followed by wet cleaning. Start by vacuuming loose soot and ash from the surface. After that, use a dry-cleaning sponge to gently lift any remaining residue. This step is essential to avoid turning the dry soot into a messy sludge when water is introduced.
 
-For the wet cleaning phase, choose a solution designed to break down smoke residue. Products like (https://www.legendbrands.com/products/unsmoke-degrease-all/) or (https://benefect.com/ca/products/atomic-degreaser/) work well. If you prefer a DIY solution, a mix of salt and warm water can help with stubborn stains, while a sprinkle of baking soda can assist with any residual grime.
+For the wet cleaning phase, choose a solution designed to break down smoke residue. Products like [Legend Brands](https://www.legendbrands.com/products/unsmoke-degrease-all/) or [Benefect](https://benefect.com/ca/products/atomic-degreaser/) work well. If you prefer a DIY solution, a mix of salt and warm water can help with stubborn stains, while a sprinkle of baking soda can assist with any residual grime.
 
 When cleaning walls, work from the bottom up to prevent dirty water from dripping onto areas you’ve already cleaned. After applying your cleaning solution, rinse thoroughly with hot water. For wood furniture, follow up vacuuming and dry sponging by wiping the surface with a damp cloth, then finish with a high-quality wood polish to restore its shine. Latex-painted walls generally respond well to cleaning, but oil-based paints may darken, so test a small area first.
 
@@ -204,7 +204,7 @@ Once the initial cleaning is complete, it’s time to dig deeper. Smoke damage h
 
 ### Look for Leftover Stains and Smells
 
-A persistent smoky smell is one of the biggest clues that some residue remains. As (https://www.facebook.com/puroclean/) by Osborn explains:
+A persistent smoky smell is one of the biggest clues that some residue remains. As [Facebook](https://www.facebook.com/puroclean/) by Osborn explains:
 
 > "One of the most obvious signs of smoke damage is a lingering smoky or burnt smell that doesn’t go away, even after airing out the space. Smoke particles can embed themselves into walls, carpets, furniture, and other porous materials, making the odor hard to remove."
 
@@ -234,7 +234,7 @@ Your family’s health is another key indicator. If anyone experiences persisten
 
 When these issues arise, [The Future of Restoration Innovations in Water Fire And Mold Remediation](/the-future-of-restoration-innovations-in-water-fire-and-mold-remediation/) becomes critical. Total Care Restoration offers certified expertise, using advanced tools like HEPA filtration systems and infrared detection to remove soot and identify hidden damage effectively.
 
-Their 24/7 emergency services ensure quick response times, helping to prevent further damage. With a 5-star Yelp rating, (https://iicrc.org/) certification, and an A+ rating from the (https://www.bbb.org/), Total Care Restoration has built a reputation for delivering top-notch service. They handle every aspect of the restoration process, including insurance documentation and claims assistance.
+Their 24/7 emergency services ensure quick response times, helping to prevent further damage. With a 5-star Yelp rating, [IICRC](https://iicrc.org/) certification, and an A+ rating from the [Better Business Bureau](https://www.bbb.org/), Total Care Restoration has built a reputation for delivering top-notch service. They handle every aspect of the restoration process, including insurance documentation and claims assistance.
 
 > "We will alleviate the stress associated with these types of situations by providing fast and transparent services from initial consultation through completion." – Total Care Restoration
 

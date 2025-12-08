@@ -136,7 +136,7 @@ So as you can see fixing a cast iron problem completely can cost you anywhere fr
 
 ### **Plumbing Repairs**
 
-Our friends at Hernandez Plumbing can do an inspection to find out if you have a (https://plumbinginmiamifl.com/services/cast-iron-pipe-replacement/) that is corroding.
+Our friends at Hernandez Plumbing can do an inspection to find out if you have a [cast iron pipe](https://plumbinginmiamifl.com/services/cast-iron-pipe-replacement/) that is corroding.
 
 With this type of work it is extremely important that you use a license plumber with experience. This is not a simple job and it requires very technical knowledge.
 

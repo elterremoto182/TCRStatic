@@ -140,7 +140,7 @@ Green waterproofing solutions serve as the final safeguard in environmentally co
 
 ### Impact on the Environment
 
-Conventional waterproofing often releases petroleum-based chemicals that can contaminate soil and waterways. Green waterproofing, on the other hand, uses biodegradable materials that naturally decompose without leaving behind harmful toxins. Techniques like permeable pavers and green roofs not only prevent water intrusion but also help manage stormwater runoff and promote local biodiversity. Additionally, water-based sealants and plant-derived membranes provide extra protection for waterways, a critical advantage in flood-prone regions. According to the (https://www.usgbc.org/), incorporating green building practices, including eco-friendly waterproofing, can cut maintenance costs by up to 20% over the lifespan of a building.
+Conventional waterproofing often releases petroleum-based chemicals that can contaminate soil and waterways. Green waterproofing, on the other hand, uses biodegradable materials that naturally decompose without leaving behind harmful toxins. Techniques like permeable pavers and green roofs not only prevent water intrusion but also help manage stormwater runoff and promote local biodiversity. Additionally, water-based sealants and plant-derived membranes provide extra protection for waterways, a critical advantage in flood-prone regions. According to the [U.S. Green Building Council](https://www.usgbc.org/), incorporating green building practices, including eco-friendly waterproofing, can cut maintenance costs by up to 20% over the lifespan of a building.
 
 ### Energy Efficiency
 

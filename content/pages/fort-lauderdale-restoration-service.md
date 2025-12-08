@@ -93,20 +93,21 @@ Total Care Restoration proudly serves **Fort Lauderdale and surrounding areas** 
 ### **Other Broward County Service Areas:**
 
 ✅ [**Miramar restoration services**](/miramar-restoration-services/)  
-✅ **Pembroke Pines Restoration Services**  
-✅ **Weston Restoration Services**  
-✅ **Davie Restoration Services**  
-✅ **Pompano Beach Restoration Services**  
-✅ **Plantation Restoration Services**
+✅ [**Pembroke Pines Restoration Services**](/pembroke-pines-restoration-services/)  
+✅ [**Weston Restoration Services**](/weston-restoration-services/)  
+✅ [**Davie Restoration Services**](/davie-restoration-services/)  
+✅ [**Pompano Beach Restoration Services**](/pompano-beach-restoration-services/)  
+✅ [**Plantation Restoration Services**](/plantation-restoration-services/)  
+✅ [**Coral Springs Restoration Services**](/coral-springs-restoration-services/)  
+✅ [**Deerfield Beach Restoration Services**](/deerfield-beach-restoration-services/)  
+✅ [**Parkland Restoration Services**](/parkland-restoration-services/)
 
 ### **Upcoming Service Areas in Broward County**
 
 We are expanding our **top-rated restoration services** to more cities, including:  
-✔️ Coral Springs  
 ✔️ Hollywood  
 ✔️ Sunrise  
-✔️ Cooper City  
-✔️ Parkland
+✔️ Cooper City
 
 If you live in **any of these areas** and need **water, fire, or mold restoration services**, **contact Total Care Restoration today!**
 

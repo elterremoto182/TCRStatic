@@ -13,7 +13,7 @@ keywords: ["damage", "restoration", "standards", "safety", "inspections", "insur
 [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) are essential for ensuring safety, regulatory compliance, and effective [Commercial](/services/commercial/). These guidelines help professionals assess structural damage, fire residue, and critical systems after a fire. Here’s what you need to know:
 
 -   **Why They Matter**: Proper inspections save lives, reduce property damage, and simplify insurance claims. Failing to follow standards can lead to safety risks, legal issues, and financial losses.
--   **Key Standards**: The **(https://iicrc.org/) S700** focuses on fire damage assessment, while the **IICRC S760** addresses [Fire Restoration](/services/fire-restoration/). The **(https://www.nfpa.org/en) 25** standard ensures fire protection systems like sprinklers are inspected and maintained.
+-   **Key Standards**: The **[IICRC](https://iicrc.org/) S700** focuses on fire damage assessment, while the **IICRC S760** addresses [Fire Restoration](/services/fire-restoration/). The **[NFPA](https://www.nfpa.org/en) 25** standard ensures fire protection systems like sprinklers are inspected and maintained.
 -   **Inspection Process**: Inspections include safety checks, structural evaluations, and system assessments (electrical, HVAC, plumbing). Proper documentation, including photos and reports, is critical for insurance claims.
 -   **Organizations Involved**: The **NFPA** and **IICRC** set the protocols that professionals follow to ensure consistency and safety.
 
@@ -49,7 +49,7 @@ Bringing in experienced professionals for these inspections ensures that all sys
 
 Fire damage inspections must adhere to specific regulations and local codes. Familiarity with these rules ensures inspections meet legal standards and that restoration efforts are approved without unnecessary delays.
 
-### (https://www.nfpa.org/en) Rules and Requirements
+### [NFPA](https://www.nfpa.org/en) Rules and Requirements
 
 The **NFPA 25** standard sets the baseline for inspecting, testing, and maintaining water-based fire protection systems, including sprinklers, standpipes, fire pumps, and water storage systems. These guidelines aim to protect lives and property by establishing strict schedules for Inspection, Testing, and Maintenance (ITM) tasks, which must be carried out by qualified professionals.
 
@@ -57,7 +57,7 @@ Compliance with NFPA standards significantly improves [Home Safety Tips Preventi
 
 These NFPA guidelines provide the foundation for the advanced practices discussed in the next section.
 
-### (https://iicrc.org/) Professional Standards
+### [IICRC](https://iicrc.org/) Professional Standards
 
 In addition to NFPA standards, the **IICRC** offers specialized protocols for [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/). The **ANSI/IICRC S700 Standard**, introduced in January 2025, outlines modern procedures for assessing fire damage, contractor qualifications, documentation, and compliance with Authorities Having Jurisdiction (AHJ).
 
@@ -69,9 +69,9 @@ Drawing on over 60 years of restoration experience and countless successful proj
 
 ### Local Building Code Rules
 
-Local building codes complement national standards by addressing specific inspection and restoration requirements. These codes ensure structures meet both local and national fire safety regulations \. For example, fire alarm and system requirements are enforced at the municipal level, and some flexibility is allowed during emergencies. In California, building codes are updated every three years in alignment with the (https://www.iccsafe.org/) (IBC). During emergencies, executive orders like **California’s N-4-25** may temporarily ease regulations to speed up rebuilding efforts.
+Local building codes complement national standards by addressing specific inspection and restoration requirements. These codes ensure structures meet both local and national fire safety regulations \. For example, fire alarm and system requirements are enforced at the municipal level, and some flexibility is allowed during emergencies. In California, building codes are updated every three years in alignment with the [ICC](https://www.iccsafe.org/) (IBC). During emergencies, executive orders like **California’s N-4-25** may temporarily ease regulations to speed up rebuilding efforts.
 
-However, local authorities may restrict reconstruction if it poses risks to public health or safety. Non-compliance with fire alarm codes can result in severe legal and financial consequences. Property owners and managers must act promptly to address violations identified by agencies like the (https://lafd.org/) (LAFD) to avoid penalties and ensure compliance.
+However, local authorities may restrict reconstruction if it poses risks to public health or safety. Non-compliance with fire alarm codes can result in severe legal and financial consequences. Property owners and managers must act promptly to address violations identified by agencies like the [Los Angeles Fire Department](https://lafd.org/) (LAFD) to avoid penalties and ensure compliance.
 
 ###### sbb-itb-7cc21ef
 
@@ -83,7 +83,7 @@ Accurate documentation is crucial for planning restoration efforts and supportin
 
 Visual records are essential for capturing the full scope of fire damage. Use high-resolution cameras to take photos and videos from multiple angles, ensuring each file is timestamped. Wide shots help show overall damage, while close-ups highlight specific issues like charred surfaces or smoke stains. Make sure to document every affected area.
 
-In February 2025, (https://www.firecashbuyer.com/) suggested homeowners organize their visual documentation by creating separate folders for each room or area. They recommended using clear, consistent naming systems and storing backups in cloud services, with additional copies on external hard drives. This method not only keeps records safe but also simplifies sharing them with insurance representatives, speeding up the claims process.
+In February 2025, [Fire Cash Buyer](https://www.firecashbuyer.com/) suggested homeowners organize their visual documentation by creating separate folders for each room or area. They recommended using clear, consistent naming systems and storing backups in cloud services, with additional copies on external hard drives. This method not only keeps records safe but also simplifies sharing them with insurance representatives, speeding up the claims process.
 
 Add brief descriptions to each image and note the time it was taken. If possible, collect samples of damaged materials – particularly when the damage might not be fully visible in the photos.
 

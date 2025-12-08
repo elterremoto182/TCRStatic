@@ -52,7 +52,7 @@ Dealing with insurance claims can be daunting, especially during a crisis. Total
 
 ## **Preparedness and Prevention Tips**
 
-While immediate response is crucial, being prepared can significantly impact your ability to handle water damage emergencies. Total Care Restoration offers expert advice and services to help Miami homeowners prepare for and prevent future water damage incidents.
+While immediate response is crucial, being prepared can significantly impact your ability to handle water damage emergencies. Total Care Restoration offers expert advice and services to help Miami homeowners prepare for and prevent future water damage incidents. Use our [Flood Damage Recovery Planner](/flood-damage-recovery-planner/) and [Property Restoration Checklist Generator](/property-restoration-checklist-generator/) to stay organized during the restoration process.
 
 ## **Total Care Restoration: Your Trusted Partner in Emergency Situations**
 

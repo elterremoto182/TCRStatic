@@ -89,10 +89,10 @@ Here’s a quick comparison of air purifiers to help you choose:
 
 | Air Purifier | Activated Carbon Amount | Time to Clear Room | Max Room Size | Price |
 | --- | --- | --- | --- | --- |
-| (https://austinair.com/shop/healthmate/?srsltid=AfmBOopkC_ilXEwPngvDTft5SM3OhP2KvnpC2dkBEGAdLxeCXu1-VKGL) | 15 lbs | 52 minutes | 234 sq. ft. | $765.00 |
-| (https://www.iqair.com/us/products/air-purifiers/healthpro-plus?srsltid=AfmBOorGzkkE5wb2GLdDeGok4GaV53nK-rNDNZKKT0MaEzrPRa70uWV9) | 5 lbs | 28 minutes | 319 sq. ft. | $1,199.99 |
-| (https://levoit.com/products/core-400s-smart-true-hepa-air-purifier?srsltid=AfmBOori2JrrPpNk1ejPFrZMShvOMU2c5Ut4E7nUmo7eQECsloK6sMUg) | 0.99 lbs | 24 minutes | 319 sq. ft. | $219.99 |
-| (https://www.smarterhepa.com/products/smart-air-blast-mini) | 1.56 lbs | 15 minutes | 600 sq. ft. | $649.00 |
+| [Austin Air](https://austinair.com/shop/healthmate/?srsltid=AfmBOopkC_ilXEwPngvDTft5SM3OhP2KvnpC2dkBEGAdLxeCXu1-VKGL) | 15 lbs | 52 minutes | 234 sq. ft. | $765.00 |
+| [IQAir](https://www.iqair.com/us/products/air-purifiers/healthpro-plus?srsltid=AfmBOorGzkkE5wb2GLdDeGok4GaV53nK-rNDNZKKT0MaEzrPRa70uWV9) | 5 lbs | 28 minutes | 319 sq. ft. | $1,199.99 |
+| [Levoit](https://levoit.com/products/core-400s-smart-true-hepa-air-purifier?srsltid=AfmBOori2JrrPpNk1ejPFrZMShvOMU2c5Ut4E7nUmo7eQECsloK6sMUg) | 0.99 lbs | 24 minutes | 319 sq. ft. | $219.99 |
+| [Smart Air Blast Mini](https://www.smarterhepa.com/products/smart-air-blast-mini) | 1.56 lbs | 15 minutes | 600 sq. ft. | $649.00 |
 
 ### 3\. Stop Mold Growth by Controlling Moisture
 
@@ -102,9 +102,9 @@ Once moisture is under control, you can focus on addressing lingering smoke odor
 
 ### 4\. Get Rid of Smoke Odors with Professional Methods
 
-Smoke odors often linger because contaminants have embedded themselves deep into surfaces. Standard cleaning methods won’t cut it. Professional techniques like thermal fogging, hydroxyl generators, and HVAC system cleaning are highly effective at removing these odors. Ozone treatment can also work but should only be used as a last resort due to health risks and the need for evacuation during the process.
+Smoke odors often linger because contaminants have embedded themselves deep into surfaces. Standard cleaning methods won't cut it. Professional techniques like thermal fogging, hydroxyl generators, and HVAC system cleaning are highly effective at removing these odors. Learn more about [How Thermal Fogging Restores Indoor Air Quality](/how-thermal-fogging-restores-indoor-air-quality/). Ozone treatment can also work but should only be used as a last resort due to health risks and the need for evacuation during the process. For more information, see [Do Ozone Generators Work for Fire Damage Odors](/do-ozone-generators-work-for-fire-damage-odors/).
 
-A thorough property assessment is critical before starting odor removal. For example, (https://www.homedepot.com/) highlighted in August 2024 that professional cleaners typically begin by identifying the main odor sources, evaluating affected areas, and determining the best treatment methods.
+A thorough property assessment is critical before starting odor removal. For example, [Home Depot](https://www.homedepot.com/) highlighted in August 2024 that professional cleaners typically begin by identifying the main odor sources, evaluating affected areas, and determining the best treatment methods.
 
 ###### sbb-itb-7cc21ef
 
@@ -142,7 +142,7 @@ Restoring indoor air quality after a fire isn’t just about comfort – it’s 
 
 Studies highlight the urgency of acting fast. Even short-term exposure to fire-related pollutants can significantly increase health risks. For instance, children exposed to wildfire smoke for just five days face a doubled risk of developing asthma. Fine particulate matter (PM2.5) is especially hazardous because it can penetrate deep into the lungs and even enter the bloodstream. If left untreated, these pollutants can cause ongoing symptoms like coughing, chest tightness, fatigue, and headaches – clear signs that your indoor air may still be unsafe.
 
-Professional intervention is key to resolving these issues. Contaminants can settle into your HVAC system, spreading harmful particles throughout your home. Without specialized tools like HEPA-filtered air scrubbers and advanced cleaning techniques, these toxins are nearly impossible to remove completely. Total Care Restoration’s certified technicians use cutting-edge methods to eliminate these pollutants, ensuring your indoor air meets safety standards before you return. As (https://goagi.com/) explains:
+Professional intervention is key to resolving these issues. Contaminants can settle into your HVAC system, spreading harmful particles throughout your home. Without specialized tools like HEPA-filtered air scrubbers and advanced cleaning techniques, these toxins are nearly impossible to remove completely. Total Care Restoration’s certified technicians use cutting-edge methods to eliminate these pollutants, ensuring your indoor air meets safety standards before you return. As [AGI](https://goagi.com/) explains:
 
 > "Yes, if air quality is not properly restored, lingering soot and smoke particles can continue to pose health risks. Professional restoration addresses these issues to ensure your home is safe." – Anderson Group International
 

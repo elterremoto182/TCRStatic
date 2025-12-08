@@ -34,7 +34,7 @@ Testing air quality after [Fire Restoration](/services/fire-restoration/) requir
 
 ### Initial Assessment and Property Inspection
 
-The first step in [Air Quality Inspections](/services/air-quality-inspections/) is a detailed inspection of the property. Corey Myers, Technical Director at (https://www.partneresi.com/services/environmental-consulting/), highlights its importance:
+The first step in [Air Quality Inspections](/services/air-quality-inspections/) is a detailed inspection of the property. Corey Myers, Technical Director at [Partner Engineering and Science](https://www.partneresi.com/services/environmental-consulting/), highlights its importance:
 
 > "The first step in indoor air quality testing is conducting an initial assessment. This involves a visual inspection of the property to identify areas with visible soot, smoke damage, and potential sources of contamination."
 
@@ -48,7 +48,7 @@ Additionally, specialists address immediate hazards by securing the site. This i
 
 Air sampling plays a vital role in detecting airborne contaminants. Specialists use **air sampling pumps** to draw a controlled amount of air through filters, capturing particles and chemicals for detailed analysis in a lab.
 
-To maintain accuracy, many professionals rely on **preloaded cassettes** that meet (https://www.cdc.gov/niosh/index.html) and (http://www.osha.gov/) standards. These cassettes minimize contamination during setup and help ensure reliable sample quality.
+To maintain accuracy, many professionals rely on **preloaded cassettes** that meet [CDC](https://www.cdc.gov/niosh/index.html) and [OSHA](http://www.osha.gov/) standards. These cassettes minimize contamination during setup and help ensure reliable sample quality.
 
 Proper calibration of air sampling pumps is essential for accurate flow rates, and technicians use appropriate personal protective equipment (PPE) throughout the process. Samples are taken from multiple locations, including visibly damaged areas and spots that appear unaffected, to detect hidden sources of pollution.
 
@@ -144,7 +144,7 @@ Even after cleaning and improving ventilation, ongoing monitoring is essential t
 
 > "Improving IAQ after fire damage is important for: Health and safety…Comfort…Preventing long-term damage." – Steadfast Construction Services, Inc.
 
-Educating occupants about air quality maintenance is equally vital. Setting up protocols for quick responses to pollution issues, scheduling regular HVAC maintenance, and using real-time air quality monitors can help maintain a healthy indoor environment. Keep in mind that local regulations may vary, with some states or tribes enforcing stricter air quality standards than federal (https://www.epa.gov/home) guidelines.
+Educating occupants about air quality maintenance is equally vital. Setting up protocols for quick responses to pollution issues, scheduling regular HVAC maintenance, and using real-time air quality monitors can help maintain a healthy indoor environment. Keep in mind that local regulations may vary, with some states or tribes enforcing stricter air quality standards than federal [EPA](https://www.epa.gov/home) guidelines.
 
 The restoration process is complete when air quality tests confirm that pollutant levels are within safe limits. This ensures the safety of occupants while protecting the long-term value of the property.
 
@@ -184,7 +184,7 @@ To mitigate these risks, it’s essential to perform **air quality testing** to 
 
 ### How can homeowners ensure accurate air quality testing after fire damage, and what should they look for in a qualified professional?
 
-To get accurate air quality testing after fire damage, it’s important to hire **certified professionals** who specialize in indoor air quality (IAQ) testing. Look for experts with certifications from reputable organizations like the EPA or the (https://www.acac.org/) (ACAC). These credentials indicate they have the necessary training and expertise.
+To get accurate air quality testing after fire damage, it’s important to hire **certified professionals** who specialize in indoor air quality (IAQ) testing. Look for experts with certifications from reputable organizations like the EPA or the [ACAC](https://www.acac.org/) (ACAC). These credentials indicate they have the necessary training and expertise.
 
 Professionals in this field use advanced tools such as air pumps, filters, and canisters to collect samples. These samples are then analyzed for harmful substances like soot, volatile organic compounds (VOCs), and other dangerous pollutants. Before making a decision, take the time to confirm their certifications, experience, and familiarity with the latest testing techniques to ensure you receive accurate and thorough results.
 

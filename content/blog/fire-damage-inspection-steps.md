@@ -27,7 +27,7 @@ keywords: ["damage", "water", "restoration", "moisture", "structural", "hidden",
 
 ## Step 1: Check Safety Before Entering
 
-When dealing with fire-damaged properties, safety should always come first. These areas often hide dangers that can lead to serious injuries. Enter the property ONLY after receiving clearance from local authorities. As (https://recovery.lacounty.gov/) advises:
+When dealing with fire-damaged properties, safety should always come first. These areas often hide dangers that can lead to serious injuries. Enter the property ONLY after receiving clearance from local authorities. As [LA County Recovery](https://recovery.lacounty.gov/) advises:
 
 > "Before entering any area that has been severely damaged or destroyed by a wildfire, ensure that local authorities have cleared the area for entry. Once you receive clearance to enter a burned area, take appropriate precautions to protect your health and safety."
 
@@ -35,7 +35,7 @@ If you come across a color-coded sign posted by a building inspector, stop and g
 
 ### Look for Outside Dangers
 
-Start by walking around the perimeter of the property, keeping a safe distance from the structure. Fire damage often affects more than just the building itself. Watch for signs of instability, like crumbling walls, visible cracks, or missing support beams, which could indicate structural risks. As Gina Peek, Assistant Director at (https://extension.okstate.edu/), explains:
+Start by walking around the perimeter of the property, keeping a safe distance from the structure. Fire damage often affects more than just the building itself. Watch for signs of instability, like crumbling walls, visible cracks, or missing support beams, which could indicate structural risks. As Gina Peek, Assistant Director at [Oklahoma State University Extension](https://extension.okstate.edu/), explains:
 
 > "There could be structural damage, as well as damage to utilities and electrical, plumbing and heating and cooling systems."
 
@@ -77,7 +77,7 @@ Take detailed photos and videos of all damage, making sure to note dates and con
 
 After completing your initial visual inspection, it’s time to dig deeper and assess the structure for any hidden damage. Fires can compromise the integrity of beams, walls, and foundations, even if the damage isn’t immediately visible.
 
-According to the (https://www.nfpa.org/en), structural fires caused an estimated $10.9 billion in property damage between 2015 and 2019, with 491,298 structural fires reported during that time. This highlights how crucial a detailed structural evaluation is for ensuring safety and planning repairs. Pay particular attention to load-bearing components to identify areas of concern.
+According to the [NFPA](https://www.nfpa.org/en), structural fires caused an estimated $10.9 billion in property damage between 2015 and 2019, with 491,298 structural fires reported during that time. This highlights how crucial a detailed structural evaluation is for ensuring safety and planning repairs. Pay particular attention to load-bearing components to identify areas of concern.
 
 ### Inspect Load-Bearing Parts
 
@@ -133,7 +133,7 @@ Be sure to document everything – take photos and write detailed notes about th
 
 After a fire, water used in suppression efforts can leave behind moisture, creating the perfect environment for mold to thrive and potentially weakening the structure. Mold can start forming within just 24 to 48 hours of water exposure, and unchecked moisture can lead to further damage over time.
 
-As the (https://www.epa.gov/home) advises:
+As the [EPA](https://www.epa.gov/home) advises:
 
 > "The key to [Beat Miamis Humidity Top Tips for a Mold Free Home](/beat-miamis-humidity-top-tips-for-a-mold-free-home/) is moisture control. If mold is a problem in your home, you should clean up the mold promptly and fix the water problem. Mold damages what it grows on. The longer it grows, the more damage it can cause".
 
@@ -149,7 +149,7 @@ Other tools can provide precise measurements:
 -   **Hygrometers**: These measure relative humidity to ensure indoor levels remain between 30% and 50%.
 -   **Borescope cameras**: These allow you to inspect inside walls and hard-to-reach spaces.
 
-(https://www.chemmasterrestoration.com/) emphasizes the importance of thorough detection:
+[Chemmaster Restoration](https://www.chemmasterrestoration.com/) emphasizes the importance of thorough detection:
 
 > "Thermal imaging technology allows us to provide a comprehensive assessment, ensuring that no area is left untreated. This thoroughness is essential for a safe and complete restoration."
 

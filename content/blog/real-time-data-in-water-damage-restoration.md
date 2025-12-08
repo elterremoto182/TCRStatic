@@ -67,7 +67,7 @@ For instance, a noticeable drop in airborne particulates after using HEPA filtra
 
 ### Documentation Standards
 
-Precise data collection feeds into automated systems that adhere to (https://iicrc.org/s700/) standards. These systems log critical information like air quality, temperature, humidity, and equipment performance. This automated documentation is essential for proving that air quality meets safety standards before a property is re-occupied. It also simplifies insurance claims by providing clear, reliable evidence, reducing disputes and speeding up the claims process.
+Precise data collection feeds into automated systems that adhere to [IICRC](https://iicrc.org/s700/) standards. These systems log critical information like air quality, temperature, humidity, and equipment performance. This automated documentation is essential for proving that air quality meets safety standards before a property is re-occupied. It also simplifies insurance claims by providing clear, reliable evidence, reducing disputes and speeding up the claims process.
 
 ### Technology Integration
 
@@ -94,7 +94,7 @@ These metrics are essential for acting quickly to stop mold growth and maintain 
 
 ### Documentation Standards
 
-Industry guidelines, such as the (https://iicrc.org/s520/) standard, emphasize the importance of detailed documentation during mold remediation. This includes tracking environmental conditions, recording remediation efforts, and verifying mold removal. Real-time data collection tools automatically log metrics like temperature, humidity, and moisture levels, creating accurate, time-stamped digital records. These records are invaluable for insurance claims, regulatory requirements, and client communication. By moving away from manual, paper-based logs, digital systems not only reduce errors but also speed up the claims process.
+Industry guidelines, such as the [IICRC](https://iicrc.org/s520/) standard, emphasize the importance of detailed documentation during mold remediation. This includes tracking environmental conditions, recording remediation efforts, and verifying mold removal. Real-time data collection tools automatically log metrics like temperature, humidity, and moisture levels, creating accurate, time-stamped digital records. These records are invaluable for insurance claims, regulatory requirements, and client communication. By moving away from manual, paper-based logs, digital systems not only reduce errors but also speed up the claims process.
 
 The integration of digital documentation tools with modern technology has revolutionized how remediation projects are managed, ensuring efficiency and transparency.
 

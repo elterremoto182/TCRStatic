@@ -68,7 +68,7 @@ For example, a restoration project showed that drying mats could lower moisture 
 
 ### Preventing Uneven Drying and Floor Damage
 
-Beyond direct moisture extraction, drying mats promote even drying across surfaces. Uneven drying is a major concern for hardwood floors, as it can cause the wood to expand or contract at different rates, leading to problems like cupping or warping. By applying uniform pressure and ensuring consistent moisture removal, drying mats help maintain both the structure and appearance of (https://elephantfloors.shop).
+Beyond direct moisture extraction, drying mats promote even drying across surfaces. Uneven drying is a major concern for hardwood floors, as it can cause the wood to expand or contract at different rates, leading to problems like cupping or warping. By applying uniform pressure and ensuring consistent moisture removal, drying mats help maintain both the structure and appearance of [hardwood floors](https://elephantfloors.shop).
 
 In fact, drying mats can cut drying times significantly. While conventional methods might take 3–5 days to dry a moderately water-damaged hardwood floor, drying mats can often restore it in just 12–24 hours. This faster, controlled drying process minimizes risks and preserves the floor’s integrity.
 
@@ -116,7 +116,7 @@ This is why professional restoration companies offering 24/7 emergency services 
 
 ### Skills in Advanced Restoration Technology
 
-Restoration is about much more than setting up a few fans and hoping for the best. Professionals use advanced tools like drying mats, (https://www.injectidry.com/) systems, infrared cameras, and moisture meters to detect and eliminate both visible and hidden moisture. They know how to strategically position drying mats for optimal efficiency, continuously monitor moisture levels, and adjust equipment based on real-time conditions.
+Restoration is about much more than setting up a few fans and hoping for the best. Professionals use advanced tools like drying mats, [Injectidry](https://www.injectidry.com/) systems, infrared cameras, and moisture meters to detect and eliminate both visible and hidden moisture. They know how to strategically position drying mats for optimal efficiency, continuously monitor moisture levels, and adjust equipment based on real-time conditions.
 
 These advanced systems can reduce drying times dramatically – sometimes from days to just hours – helping to protect hardwood floors and other materials from warping, cracking, or adhesive failure. Fast, precise drying is key to preventing long-term damage and ensuring a smooth restoration process.
 

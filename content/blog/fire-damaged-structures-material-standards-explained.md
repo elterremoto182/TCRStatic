@@ -12,8 +12,8 @@ keywords: ["restoration", "damaged", "damage", "safety", "standards", "repairs",
 
 When a building is damaged by fire, its structural safety is often compromised. Materials like **concrete, steel, wood, and masonry** react differently to extreme heat, and proper restoration requires strict adherence to safety standards and building codes. Here’s what you need to know:
 
--   **Material Standards Matter**: Guidelines ensure repairs restore safety and prevent future failures. Standards like (https://www.astm.org/e0119-20.html) and (https://www.intertek.com/building/standards/ul-263/) test fire resistance and structural performance.
--   **Building Codes Guide Repairs**: Codes like the (https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) require that repairs meet modern safety requirements, often stricter than when the building was originally constructed.
+-   **Material Standards Matter**: Guidelines ensure repairs restore safety and prevent future failures. Standards like [ASTM](https://www.astm.org/e0119-20.html) and [Intertek](https://www.intertek.com/building/standards/ul-263/) test fire resistance and structural performance.
+-   **Building Codes Guide Repairs**: Codes like the [ICC](https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) require that repairs meet modern safety requirements, often stricter than when the building was originally constructed.
 -   **Material-Specific Repairs**:
     -   **Concrete**: Noncombustible but prone to spalling and cracking. Damage is assessed using load tests and ultrasonic methods.
     -   **Steel**: Loses strength in high heat; repairs often involve re-coating or replacement.
@@ -56,7 +56,7 @@ Wood, being inherently combustible, poses complex challenges in [Fire Restoratio
 
 To assess fire-damaged wood, professionals measure the depth of the char and calculate the remaining material’s load-carrying ability. If the damage is limited, the charred layer can be removed, and the remaining wood can be reinforced to meet safety codes.
 
-Building codes often require that replacement wood meet updated standards. Fire-retardant-treated wood, approved as a Class B roof covering in structural applications, offers improved fire resistance while maintaining the usability of standard lumber. (https://www.astm.org/Standards/E84.htm) testing is commonly used to determine flame spread ratings for wood products, which are referenced in the IBC to ensure compliance during repairs.
+Building codes often require that replacement wood meet updated standards. Fire-retardant-treated wood, approved as a Class B roof covering in structural applications, offers improved fire resistance while maintaining the usability of standard lumber. [ASTM](https://www.astm.org/Standards/E84.htm) testing is commonly used to determine flame spread ratings for wood products, which are referenced in the IBC to ensure compliance during repairs.
 
 ### Masonry: Fire Resistance and Repair
 
@@ -81,7 +81,7 @@ For expert assistance, (/)‘s certified technicians are available 24/7 to evalu
 
 Restoration efforts for fire-damaged structures must adhere to strict building codes and safety standards to ensure the safety and well-being of occupants. These standards provide a clear roadmap for property owners and contractors to navigate the restoration process while meeting current safety requirements. By aligning repairs with modern codes, buildings can be restored to meet today’s safety benchmarks.
 
-### (https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) Requirements
+### [ICC](https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) Requirements
 
 The International Building Code (IBC) serves as the foundation for [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/), with Chapter 7 addressing fire-resistance-rated construction. This section outlines the requirements for structural elements, walls, partitions, and horizontal assemblies to ensure they meet updated safety standards.
 
@@ -91,7 +91,7 @@ Building codes are updated every three years, and restoration work must comply w
 
 For instance, the IBC allows unprotected roof framing or coverage with an incombustible ceiling for roof structures more than 20 feet above floors with low combustible loads (less than 6 pounds per square foot). However, areas with higher combustible loads require proportionally greater fire-resistance ratings. These guidelines ensure that restored structures are both safe and reliable.
 
-### (https://www.astm.org/e0119-20.html) and (https://www.intertek.com/building/standards/ul-263/): Fire Testing Standards
+### [ASTM](https://www.astm.org/e0119-20.html) and [Intertek](https://www.intertek.com/building/standards/ul-263/): Fire Testing Standards
 
 In the United States, ASTM E119 and UL 263 are the primary standards for fire resistance testing. These protocols establish consistent methods to evaluate how long materials and assemblies can endure standard fire exposure without failing.
 
@@ -101,7 +101,7 @@ When choosing replacement materials, contractors must ensure they are tested and
 
 Documentation such as test reports, certifications, and installation specifications is crucial for confirming compliance. A practical example is Type X gypsum board, which undergoes chemical treatment and rigorous testing to achieve enhanced fire resistance compared to standard drywall. This makes it a common choice for fire-resistant wall and ceiling assemblies.
 
-### (https://www.nfpa.org/codes-and-standards/nfpa-241-standard-development/241): Safety During Restoration Work
+### [NFPA](https://www.nfpa.org/codes-and-standards/nfpa-241-standard-development/241): Safety During Restoration Work
 
 Beyond material standards, safety protocols during restoration are equally critical. NFPA 241 outlines safety measures for construction, demolition, and restoration projects involving fire-damaged structures. This standard addresses the unique hazards these projects pose, such as structural instability, hidden fire damage, hazardous materials, and potential environmental risks.
 

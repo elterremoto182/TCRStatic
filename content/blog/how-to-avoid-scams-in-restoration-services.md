@@ -72,11 +72,11 @@ Request insurance certificates directly from the company’s carrier. These docu
 
 ### Reading Online Reviews and Ratings
 
-Online reviews can provide a clearer picture of a company’s performance, but it’s important to analyze them carefully. Start with the (https://www.bbb.org/) (BBB) to check for complaint records and how the company responds to issues. This can help you identify potential red flags.
+Online reviews can provide a clearer picture of a company’s performance, but it’s important to analyze them carefully. Start with the [Better Business Bureau](https://www.bbb.org/) (BBB) to check for complaint records and how the company responds to issues. This can help you identify potential red flags.
 
 Don’t just skim star ratings – dig into the actual reviews. Look for patterns, especially recurring complaints about communication, delays, or unexpected charges. Focus on recent reviews, as they reflect the company’s current practices.
 
-Use multiple platforms like (https://support.google.com/business/answer/3474122?hl=en), (https://www.yelp.com/), and industry-specific sites to get a broader perspective. Be wary of companies with only perfect five-star ratings or a surge of similar reviews posted in a short time frame, as these could be fake. Pay attention to how the company responds to negative feedback – a professional and solution-oriented reply is a good sign of strong customer service.
+Use multiple platforms like [Google Reviews](https://support.google.com/business/answer/3474122?hl=en), [Yelp](https://www.yelp.com/), and industry-specific sites to get a broader perspective. Be wary of companies with only perfect five-star ratings or a surge of similar reviews posted in a short time frame, as these could be fake. Pay attention to how the company responds to negative feedback – a professional and solution-oriented reply is a good sign of strong customer service.
 
 ### Getting and Contacting References
 
@@ -86,7 +86,7 @@ When speaking with references, ask detailed questions about their experience. Di
 
 If a company hesitates to provide references or claims privacy concerns, that’s a red flag. Satisfied customers are usually happy to share their experiences, and established companies often have systems in place to connect you with past clients.
 
-Certifications can also serve as a strong indicator of quality. Organizations like the (https://iicrc.org/) (IICRC) and the (http://www.restorationindustry.org/) (RIA) require members to meet industry standards and maintain proper insurance.
+Certifications can also serve as a strong indicator of quality. Organizations like the [IICRC](https://iicrc.org/) (IICRC) and the [Restoration Industry Association](http://www.restorationindustry.org/) (RIA) require members to meet industry standards and maintain proper insurance.
 
 > "All certified firms must demonstrate proof of insurance and maintain a written customer complaint policy." – Restoration & Remediation Magazine
 

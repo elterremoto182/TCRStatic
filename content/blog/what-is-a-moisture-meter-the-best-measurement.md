@@ -43,7 +43,7 @@ Here are some of the benefits of using a moisture meter:
 
 There are two main types of moisture meters: pin-type meters and non-invasive meters. Pin-type meters use two electrodes that penetrate the material being tested. Non-invasive meters measure the surface of the material without penetrating it.
 
-Pin-type meters are the more accurate of the two types, as they measure the moisture content of the material from the inside out. Non-invasive meters are less accurate, but they are much faster and easier to use.
+Pin-type meters are the more accurate of the two types, as they measure the moisture content of the material from the inside out. Non-invasive meters are less accurate, but they are much faster and easier to use. For a more detailed comparison of different moisture detection technologies, see our guide on [5 Types of Moisture Meters for Water Damage](/5-types-of-moisture-meters-for-water-damage/).
 
 ## When to Use a Moisture Meter
 

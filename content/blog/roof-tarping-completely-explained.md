@@ -176,4 +176,6 @@ Don’t let roof damage turn into a major disaster. Whether you’re dealing wit
 📝 **Request a free estimate** online  
 🔧 **Ask about our full suite of water, fire, and mold restoration services**
 
+For more tips on keeping your roof in top condition year-round, read our guide on [How Roof Maintenance Prevents Storm Damage](/how-roof-maintenance-prevents-storm-damage/).
+
 **Total Care Restoration** — Protecting your home. Restoring your peace of mind.

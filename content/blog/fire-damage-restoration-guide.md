@@ -10,7 +10,7 @@ seo_description: "This blog post provides an in-depth guide to fire damage resto
 keywords: ["fire damage restoration"]
 ---
 
-Now and then, you may hear about a particularly deadly house fire in your local news, but the frightening truth is that these are more common than you think. Statistics from the (https://www.nfpa.org/) said that roughly 375,000 homes catch fire each year. Nearly 2,600 lives are lost each year due to these fires, and even if no one is harmed, there is still a massive price tag, with an $8 billion annual cost. While you can’t predict a fire, you can make the recovery process easier by understanding how to use fire damage restoration services.
+Now and then, you may hear about a particularly deadly house fire in your local news, but the frightening truth is that these are more common than you think. Statistics from the [NFPA](https://www.nfpa.org/) said that roughly 375,000 homes catch fire each year. Nearly 2,600 lives are lost each year due to these fires, and even if no one is harmed, there is still a massive price tag, with an $8 billion annual cost. While you can’t predict a fire, you can make the recovery process easier by understanding how to use fire damage restoration services.
 
 ## **When Fire Strikes**
 
@@ -33,7 +33,7 @@ Here are some of the more [common reasons](https://www.nfpa.org/education-and-re
 -    ***Smoking/Candles:*** It is very common to find fire damage caused by smoking. Candle fire and smoking are very similar causes. A single ash or contact with the candle can light things like a curtain on fire.
 -    ***Chemicals:*** Certain household chemicals like motor oil or cleaning liquids have the potential to ignite under certain conditions.
 
-In general, a lot of (https://www.travelers.com/resources/home/fire-safety/how-to-prevent-house-fires) is being thorough and attentive, making sure that you monitor fire hazards at all times. However, there are situations where a fire breaks out that you can’t contain or while you aren’t present. These are why it’s important to know the ins and outs of fire damage restoration.
+In general, a lot of [fire prevention](https://www.travelers.com/resources/home/fire-safety/how-to-prevent-house-fires) is being thorough and attentive, making sure that you monitor fire hazards at all times. However, there are situations where a fire breaks out that you can’t contain or while you aren’t present. These are why it’s important to know the ins and outs of fire damage restoration.
 
 ## **Your Home** And Fire Damage
 
@@ -53,7 +53,7 @@ We mentioned earlier how the act of putting out a fire leads to a variety of dif
 
 Smoke damage is important to talk about when it comes to fire damage because there are different tiers of damage, including some of the most subtle types. The most obvious types of smoke damage that you will see shortly after a fire are discoloration and smoke odor. For example, a few days after the fire, you may see yellowing or peeling off walls and flooring. Rust and corrosion can also appear on metal hardware if they are exposed to smoke. The odor and the smoke smell are caused by several different components, from tiny particles of carbon to other components coming off materials in the home that are burned.
 
-The reason that smoke smell can be so difficult to get rid of is that these particles tend to get stuck in the carpet or on other surfaces. This requires a thorough cleaning or removal and replacement. Simply letting this go and trying to live with it to save money isn’t a viable option, either. Byproducts of the smoke and soot can easily lead to respiratory issues as well as irritation of the skin and eyes. The main reason for this is that (http://www.conservation-us.org/docs/default-source/periodicals/2010-09-sept-aicnews.pdf?sfvrsn=6), caused by different materials like plastics, fabrics, and carpet burning, are dangerous when exposed to the body.
+The reason that smoke smell can be so difficult to get rid of is that these particles tend to get stuck in the carpet or on other surfaces. This requires a thorough cleaning or removal and replacement. Simply letting this go and trying to live with it to save money isn’t a viable option, either. Byproducts of the smoke and soot can easily lead to respiratory issues as well as irritation of the skin and eyes. The main reason for this is that [American Institute for Conservation](http://www.conservation-us.org/docs/default-source/periodicals/2010-09-sept-aicnews.pdf?sfvrsn=6), caused by different materials like plastics, fabrics, and carpet burning, are dangerous when exposed to the body.
 
 ## **The Fire Damage Restoration Process**
 
@@ -69,7 +69,7 @@ Once you’ve agreed to the price and the proper fire damage restoration begins.
 
 ### **Step 3: Cleaning**
 
-When the work of isolating the work area starts, fire restoration professionals will begin by removing all the indicators of smoke damage, as well as soot and ash. In some cases, if certain areas are too damaged, the work of cleaning may also include disposing of certain items. Other parts of this process include clearing out any leftover standing water from putting the fire out. This may involve cleaning carpets in the affected and adjacent rooms to remove the smoke smell.
+When the work of isolating the work area starts, fire restoration professionals will begin by removing all the indicators of smoke damage, as well as soot and ash. In some cases, if certain areas are too damaged, the work of cleaning may also include disposing of certain items. For guidance on proper removal methods, see our article on [Safe Disposal of Fire Damaged Materials](/safe-disposal-of-fire-damaged-materials/). Other parts of this process include clearing out any leftover standing water from putting the fire out. This may involve cleaning carpets in the affected and adjacent rooms to remove the smoke smell. You can also learn about [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services/) available for thorough restoration.
 
 ### **Step 4: Restoration**
 
@@ -102,7 +102,7 @@ You want to go with a company that can get started the fastest or provides the l
 
 Fire damage restoration is an expensive process. It involves repairing the structural damage from the fire, removing smoke and soot from walls and surfaces, and restoring furniture and other belongings.
 
-The cost of fire damage restoration depends on the extent of the damage, the size of the fire, and the materials and labor needed to complete the work. It can be expensive, but is necessary to ensure your safety and the safety of your home.
+The cost of fire damage restoration depends on the extent of the damage, the size of the fire, and the materials and labor needed to complete the work. It can be expensive, but is necessary to ensure your safety and the safety of your home. Use our [Fire Damage Repair Estimator](/fire-damage-repair-estimator/) to get a preliminary idea of costs for your specific situation.
 
 The following table gives you an estimate of costs for a fire damage. We used these from our experience dealing with [Fire Restoration](/services/fire-restoration/).
 

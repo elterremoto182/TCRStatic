@@ -46,7 +46,7 @@ Smoke and soot residue can permeate surfaces and belongings, leading to unpleasa
 
 Once the cleaning process is complete, our expert technicians will commence the restoration and reconstruction phase. This step may involve replacing damaged materials, repairing structural elements, and restoring your property to its pre-loss condition.
 
-For more details, visit our [Fire Damage Restoration Guide](/fire-damage-restoration-guide/).
+For more details, visit our [Fire Damage Restoration Guide](/fire-damage-restoration-guide/). You can also use our [Fire Damage Repair Estimator](/fire-damage-repair-estimator/) to get a preliminary cost estimate for your restoration project.
 
 ## Step 7: Prevent Future Fires
 

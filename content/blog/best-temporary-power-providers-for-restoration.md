@@ -74,7 +74,7 @@ With over nine years of professional service, the company holds an **A+ rating f
 
 Restoring power is a vital part of the recovery process. Total Care Restoration provides **temporary power solutions** to support critical equipment like drying systems, air scrubbers, and lighting during restoration.
 
-Their team follows strict safety protocols, using GFCI protection and adhering to (https://www.osha.gov/) and local codes to ensure safe installations. For businesses, temporary power setups are customized to reduce disruptions, whether it’s maintaining essential operations or powering restoration equipment. These solutions ensure a smooth and efficient recovery process.
+Their team follows strict safety protocols, using GFCI protection and adhering to [OSHA](https://www.osha.gov/) and local codes to ensure safe installations. For businesses, temporary power setups are customized to reduce disruptions, whether it’s maintaining essential operations or powering restoration equipment. These solutions ensure a smooth and efficient recovery process.
 
 ### Emergency Contact Information
 
@@ -121,7 +121,7 @@ Before setting up temporary power, it’s important to evaluate the site for pot
 
 Always rely on certified professionals for the installation process. These experts will assess the site, determine the best placement for equipment, and handle the necessary permits. During the setup phase, technicians should evaluate the power load requirements and select suitable equipment like generators, power poles, and distribution panels. Connections should be double-checked, safety signage posted, and the system thoroughly tested before use.
 
-To reduce the risk of electrical shock, particularly in areas affected by moisture, use (https://safeelectricity.org/ground-fault-circuit-interrupters-gfcis/) (GFCIs). Additionally, make sure all temporary wiring is shielded from physical damage and kept away from zones with heavy equipment activity.
+To reduce the risk of electrical shock, particularly in areas affected by moisture, use [Ground Fault Circuit Interrupters](https://safeelectricity.org/ground-fault-circuit-interrupters-gfcis/) (GFCIs). Additionally, make sure all temporary wiring is shielded from physical damage and kept away from zones with heavy equipment activity.
 
 ### Regular Monitoring and Maintenance
 

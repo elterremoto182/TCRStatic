@@ -63,7 +63,7 @@ Stepping into a fire-damaged property without the right protective gear can put 
 
 ### Essential Protective Equipment
 
-The (http://publichealth.lacounty.gov/) emphasizes the importance of equipping yourself with the following gear before entering any fire-damaged property:
+The [LA County Public Health](http://publichealth.lacounty.gov/) emphasizes the importance of equipping yourself with the following gear before entering any fire-damaged property:
 
 -   **Respiratory Protection**: A well-fitted N-95 respirator (or a higher-rated model) is essential. If smoke or fumes remain, opt for a half-face or full-face respirator. Protecting your lungs from toxic soot and chemicals is critical.
 -   **Eye Protection**: Safety goggles are a must, especially when using strong chemical cleaners. Unlike standard safety glasses, goggles provide full coverage, preventing particles from entering from the sides.
@@ -165,11 +165,11 @@ While safety checks are a must, the intricate process of fire damage restoration
 
 [Sunrise restoration services](/sunrise-restoration-services/) bring more to the table than basic cleanup. They can identify and address hidden damage, such as mold or smoke particles lurking in hard-to-reach places. This is critical because smoke can seep deep into materials, posing long-term health risks if not properly treated.
 
-The **(https://iicrc.org/) (IICRC)** sets the industry benchmark for restoration services. With over 6,500 certified firms and 49,000 technicians globally, these standards ensure top-quality service. The IICRC reviews and updates its guidelines every five years to align with advancements in technology and science. Before hiring, you can confirm a company’s certification via the IICRC Global Locator or by contacting the organization directly.
+The **[IICRC](https://iicrc.org/) (IICRC)** sets the industry benchmark for restoration services. With over 6,500 certified firms and 49,000 technicians globally, these standards ensure top-quality service. The IICRC reviews and updates its guidelines every five years to align with advancements in technology and science. Before hiring, you can confirm a company’s certification via the IICRC Global Locator or by contacting the organization directly.
 
 Professional restoration teams also use advanced tools to get the job done right. From industrial-grade air scrubbers and thermal foggers for odor removal to [What Is a Moisture Meter the Best Measurement](/what-is-a-moisture-meter-the-best-measurement/) for uncovering hidden water damage, these tools ensure thorough restoration.
 
-The financial advantages are equally compelling. Acting quickly with professional help can prevent additional damage, saving money in the long run. Smoke damage, for example, worsens over time, becoming more costly and difficult to fix. Considering that fire-related property damage reached $15.9 billion in 2021, according to the (https://www.nfpa.org/), professional intervention can mean the difference between manageable repair costs and a complete loss.
+The financial advantages are equally compelling. Acting quickly with professional help can prevent additional damage, saving money in the long run. Smoke damage, for example, worsens over time, becoming more costly and difficult to fix. Considering that fire-related property damage reached $15.9 billion in 2021, according to the [NFPA](https://www.nfpa.org/), professional intervention can mean the difference between manageable repair costs and a complete loss.
 
 Handling hazardous materials is another area where professionals excel. Fire-damaged properties often contain toxic substances that require specialized removal techniques. Certified experts ensure these materials are dealt with safely, protecting both workers and future occupants.
 

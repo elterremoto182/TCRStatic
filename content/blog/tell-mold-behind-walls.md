@@ -31,7 +31,7 @@ It is crucial to deal with water damage early to ensure that the leak doesn’t 
 
 Also, water is one of the most common causes of mold in the home. Water brings moisture that creates a perfect environment for mold to grow. Some types of mold, particularly black mold in drywall, can become health hazards if they are left unchecked.
 
-Many people tend to have (https://www.aafa.org/mold-allergy/) to even non-toxic mold. These tend to manifest with the following symptoms:
+Many people tend to have [mold allergies](https://www.aafa.org/mold-allergy/) to even non-toxic mold. These tend to manifest with the following symptoms:
 
 -   Runny noses
 -   Skin rashes
@@ -47,7 +47,7 @@ Mold flourishes in damp conditions, so most causes of mold growth involve unwant
 
 -   Leaky pipes or air-conditioning ducts
 -   Wet clothes
--   (https://plumbinginmiamifl.com/7-tips-to-prevent-clogged-drains-at-home/)
+-   [Clogged drains](https://plumbinginmiamifl.com/7-tips-to-prevent-clogged-drains-at-home/)
 -   Heavy rain or flooding
 -   Excess condensation on cold metallic, glass, or concrete surfaces.
 
@@ -117,7 +117,7 @@ Additionally, it is recommended to conduct home inspections during humid or rain
 
 ### Wallpaper is Peeling
 
-Other visual indicators of moisture include (https://molekule.com/blog/11-common-places-check-mold-home/) or condensation on the wall or ceiling.
+Other visual indicators of moisture include [peeling wallpaper](https://molekule.com/blog/11-common-places-check-mold-home/) or condensation on the wall or ceiling.
 
 > **Be careful if you think there’s mold under your wallpaper, though. Peeling it off yourself to see may end up exposing you to a cloud of spores!**
 
@@ -183,14 +183,14 @@ After the dry out is complete, the house will be tested for mold. If mold is pre
 
 ## Mold Testing vs Mold Remediation
 
-If you do not find a water source, then the first step to determine if you have mold is to do a (https://totalleakdetection.com/7-simple-steps-to-do-a-mold-test/).
+If you do not find a water source, then the first step to determine if you have mold is to do a [mold test](https://totalleakdetection.com/7-simple-steps-to-do-a-mold-test/).
 
 Florida and many states require two different licenses:
 
 -   Mold testing license
 -   Mold remediation license
 
-You will need two different companies. One to perform the (https://totalleakdetection.com/services/mold-testing/), and the other to do the [Mold Remediation](/services/mold-remediation/).
+You will need two different companies. One to perform the [Mold Testing](https://totalleakdetection.com/services/mold-testing/), and the other to do the [Mold Remediation](/services/mold-remediation/).
 
 The following video will give you an idea of what the complete mold process looks like:
 
@@ -209,7 +209,7 @@ After all traces of mold on surfaces have been removed, the air itself is cleane
 
 ### Post Remediation Verification
 
-Once the cleaning process is complete a final mold test will be conducted to ensure that the house is safe. This is referred to as a (https://totalleakdetection.com/what-is-a-post-remediation-verification/) or PRV.
+Once the cleaning process is complete a final mold test will be conducted to ensure that the house is safe. This is referred to as a [Post-Remediation Verification](https://totalleakdetection.com/what-is-a-post-remediation-verification/) or PRV.
 
 A certificate of completion will be issued and your water damage or mold problem is officially solved!
 

@@ -112,7 +112,7 @@ Start with dry cleaning methods before moving on to wet cleaning:
 | --- | --- | --- |
 | **Walls** | Use a dry cleaning sponge in overlapping strokes | Chemical sponge, TSP-PF |
 | **Wood Furniture** | Wipe with a water-vinegar solution | Wood restoration cleaner |
-| **Metal Surfaces** | Rinse with cold water, then scrub | (https://barkeepersfriend.com/) |
+| **Metal Surfaces** | Rinse with cold water, then scrub | [Bar Keepers Friend](https://barkeepersfriend.com/) |
 | **Fabrics/Carpet** | Dry vacuum first, then spot clean | Dry cleaning fluid |
 | **Brick** | Apply a vinegar solution and scrub with baking soda | White vinegar and baking soda |
 
@@ -180,7 +180,7 @@ Your heating and cooling system can harbor smoke particles, so don’t overlook 
 -   Have your air ducts professionally cleaned.
 -   Set your system to recirculate mode while treating odors.
 
-For a DIY approach, you can build a (https://www.webmd.com/allergies/corsi-rosenthal-box) using four MERV 13 filters. This setup offers a Clean Air Delivery Rate (CADR) of about 400. However, for extensive smoke damage, [Miramar restoration services](/miramar-restoration-services/) are often the best way to ensure complete odor removal. These services use specialized equipment and techniques to restore the air quality in your home.
+For a DIY approach, you can build a [WebMD](https://www.webmd.com/allergies/corsi-rosenthal-box) using four MERV 13 filters. This setup offers a Clean Air Delivery Rate (CADR) of about 400. However, for extensive smoke damage, [Miramar restoration services](/miramar-restoration-services/) are often the best way to ensure complete odor removal. These services use specialized equipment and techniques to restore the air quality in your home.
 
 Total Care Restoration provides thorough smoke odor removal, using industrial-grade tools to bring your indoor air back to pre-fire conditions.
 
@@ -224,7 +224,7 @@ Total Care Restoration offers a full range of [Combating Smoke Odor Professional
 
 [**The Future of Restoration Innovations in Water Fire And Mold Remediation**](/the-future-of-restoration-innovations-in-water-fire-and-mold-remediation/)
 
--   Certified technicians trained by the (https://iicrc.org/).
+-   Certified technicians trained by the [IICRC](https://iicrc.org/).
 -   Advanced tools for smoke removal.
 -   Specialized cleaning techniques tailored to the damage.
 -   Direct handling of insurance billing to simplify the process.
@@ -302,3 +302,5 @@ When you bring in restoration professionals, they’ll start by assessing the da
 -   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
 -   [5 Steps For Mold Decontamination](/5-steps-for-mold-decontamination/)
 -   [Dehumidifiers Vs Air Movers What To Use After Floods](/dehumidifiers-vs-air-movers-what-to-use-after-floods/)
+-   [Safe Disposal of Fire Damaged Materials](/safe-disposal-of-fire-damaged-materials/)
+-   [Post-Fire Concrete Repairs Moisture Effects](/post-fire-concrete-repairs-moisture-effects/)

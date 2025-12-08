@@ -39,7 +39,9 @@ While temporary fixes such as tarping are often covered, permanent solutions lik
 1\. **Documentation:** Document the damage as soon as it occurs. Photographs and video recordings of the damage can make your claim stronger.  
 2\. **Proof of Maintenance:** Keep all maintenance records as insurance firms often reject claims if periodic maintenance is not done.  
 3\. **Contact Pros:** Get a professional damage assessment. Companies like Total Care Restoration can guide you through the process.  
-4\. **Early Claims:** Don’t delay in filing the claim. The sooner you start the process, the earlier your house can be repaired and restored.
+4\. **Early Claims:** Don't delay in filing the claim. The sooner you start the process, the earlier your house can be repaired and restored.
+
+If your claim is denied, don't give up. Check out our guide on [Steps After Insurance Claim Denial](/steps-after-insurance-claim-denial/) to understand your options. We also offer [Financing](/financing/) options to help you cover restoration costs while navigating the insurance process.
 
 ## Choose Professional Help
 

@@ -195,7 +195,7 @@ Each year, over 500,000 ladder-related injuries are reported, and falls remain t
 
 Mistakes are common in DIY tarping. Missteps like using the wrong securing methods, poor overlapping, or ignoring structural damage can lead to problems such as water pooling, mold, and wood rot. Even the materials you choose matter – deck screws or nails, for example, can create new water entry points, while an improperly secured tarp might tear or blow away in strong winds.
 
-A poorly installed tarp can fail under heavy rain or wind, leading to even more damage and higher repair costs. Kevin Mills of (https://www.roof-crafters.com/) highlights the risks:
+A poorly installed tarp can fail under heavy rain or wind, leading to even more damage and higher repair costs. Kevin Mills of [Roof Crafters](https://www.roof-crafters.com/) highlights the risks:
 
 > "Most roofing companies don’t recommend DIY fixes. But in an emergency, sometimes you’ve got to take matters into your own hands. Done correctly, DIY tarping can save you money. Done incorrectly? It could lead to more damage (and higher costs) down the line."
 
@@ -217,7 +217,7 @@ Reputable firms like Total Care Restoration understand how to navigate insurance
 
 ### Key Points to Remember
 
-**Safety should always come first when dealing with storm-damaged roofs.** As (https://protectpreserveroofing.com/) puts it:
+**Safety should always come first when dealing with storm-damaged roofs.** As [Protect Preserve Roofing](https://protectpreserveroofing.com/) puts it:
 
 > "A well-installed tarp slows the clock, blocks the rain and gives you control over what happens next".
 

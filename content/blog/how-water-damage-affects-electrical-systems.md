@@ -36,7 +36,7 @@ Floodwater makes this situation even worse. Unlike clean water, floodwater often
 
 ### Risk of Electrocution
 
-While fire hazards are alarming, the risk of electric shock is just as dangerous. In the United States, electric shock is responsible for about 1,000 deaths and 30,000 nonfatal injuries annually, with the risks escalating in the presence of moisture. As (https://thompsonpowersystems.com/) points out:
+While fire hazards are alarming, the risk of electric shock is just as dangerous. In the United States, electric shock is responsible for about 1,000 deaths and 30,000 nonfatal injuries annually, with the risks escalating in the presence of moisture. As [Thompson Power Systems](https://thompsonpowersystems.com/) points out:
 
 > Electric shock accounts for around 1,000 fatalities and 30,000 nonfatal injuries every year in the United States – and its risks increase when exposed to moisture.
 
@@ -48,7 +48,7 @@ Another deadly risk is Electric Shock Drowning (ESD). ESD occurs when electrical
 
 ### Problems with Contaminated Water
 
-Floodwater leaves more than just moisture behind – it deposits contaminants that can create ongoing electrical hazards. These residues increase conductivity, forming unintended electrical pathways that may cause circuit failures or other safety problems weeks or even months after the initial exposure. This hidden damage makes professional evaluation critical. The (https://www.esfi.org/) (ESFI) warns:
+Floodwater leaves more than just moisture behind – it deposits contaminants that can create ongoing electrical hazards. These residues increase conductivity, forming unintended electrical pathways that may cause circuit failures or other safety problems weeks or even months after the initial exposure. This hidden damage makes professional evaluation critical. The [Electrical Safety Foundation International](https://www.esfi.org/) (ESFI) warns:
 
 > Returning power to water-damaged electrical devices or equipment without a proper evaluation could result in an electrical fire, shock, electrocution, or further damage to your device.
 
@@ -74,7 +74,7 @@ Protecting your electrical systems from water damage isn’t just about avoiding
 
 Ground Fault Circuit Interrupters (GFCIs) are essential safety devices that can save lives. They work by monitoring the flow of electricity and shutting off power immediately when they detect irregularities caused by ground faults. If water comes into contact with electrical parts, GFCIs act almost instantly to cut the power, reducing the risk of electrocution and [Home Safety Tips Preventing Electrical Fires](/home-safety-tips-preventing-electrical-fires/).
 
-These devices are especially critical in areas where water and electricity are likely to meet. Install GFCIs in bathrooms, kitchens, basements, garages, and outdoor spaces. For newer homes, the (https://en.wikipedia.org/wiki/National_Electrical_Code) mandates GFCI protection in these zones, but older homes should also be upgraded to meet these safety standards. By stopping current flow during a fault, GFCIs provide a crucial layer of protection.
+These devices are especially critical in areas where water and electricity are likely to meet. Install GFCIs in bathrooms, kitchens, basements, garages, and outdoor spaces. For newer homes, the [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code) mandates GFCI protection in these zones, but older homes should also be upgraded to meet these safety standards. By stopping current flow during a fault, GFCIs provide a crucial layer of protection.
 
 ### Using Waterproof Electrical Parts
 

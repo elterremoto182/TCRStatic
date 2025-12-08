@@ -199,7 +199,7 @@ When choosing a soot cleaning service, weigh your needs against these factors. W
 
 Customer reviews often shine a spotlight on service quality and dependability, especially in soot and smoke restoration. These insights underline how crucial timely and expert intervention is in this field.
 
-**Professionalism and expertise** are consistently highlighted as top priorities by customers. For instance, (https://sootsolutions.com/), LLC boasts a perfect 5.0/5 rating on Angi, based on four reviews. Many reviewers specifically praise Dominick for his professionalism, in-depth knowledge, and meticulous attention to detail. Such feedback underscores the high standards the company maintains.
+**Professionalism and expertise** are consistently highlighted as top priorities by customers. For instance, [Soot Solutions](https://sootsolutions.com/), LLC boasts a perfect 5.0/5 rating on Angi, based on four reviews. Many reviewers specifically praise Dominick for his professionalism, in-depth knowledge, and meticulous attention to detail. Such feedback underscores the high standards the company maintains.
 
 Going above and beyond customer expectations is what sets the best providers apart. Reviews for [The Soot Slayer](https://www.thesootslayer.com/) frequently commend Bryan for his thorough work and attention to detail. Customers also appreciate the timely completion of projects and professional cleanup efforts .
 

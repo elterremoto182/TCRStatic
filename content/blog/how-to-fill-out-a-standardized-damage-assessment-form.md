@@ -82,7 +82,7 @@ You’ll also need a **tape measure or laser measurer** to record dimensions in 
 
 Other helpful supplies include a **notepad or tablet** for jotting down observations that don’t fit neatly into the form, and any **reference materials** like property blueprints, past inspection reports, or insurance policies that might provide context for the evaluation.
 
-If you’re using digital forms, you’re in luck – these can save significant time. A study by (https://sitemate.com/) found that digital forms can reduce assessment and reporting time by up to 40% compared to paper-based methods. Plus, many digital tools allow offline use, which is invaluable if internet access is disrupted.
+If you’re using digital forms, you’re in luck – these can save significant time. A study by [Sitemate](https://sitemate.com/) found that digital forms can reduce assessment and reporting time by up to 40% compared to paper-based methods. Plus, many digital tools allow offline use, which is invaluable if internet access is disrupted.
 
 ### Conducting the Initial Site Evaluation
 

@@ -15,11 +15,11 @@ Dealing with water damage in a home or business can be confusing and frustrating
 
 ## **Categories of Water Damage**
 
-!(https://lh3.googleusercontent.com/37tbhfKJz9L-sOVOs-zZpXK2CKAf_7ZySNzA8J1Rhs8E097yPxsnAdNw5kwBGX86OIEl4Mq6dBapcqrGj0YZN4ykt8h9PpP8D4wEIwNNAV6rqJSESbFNHlS8C2X_kjujOrgvb-5P)
+![Image](https://lh3.googleusercontent.com/37tbhfKJz9L-sOVOs-zZpXK2CKAf_7ZySNzA8J1Rhs8E097yPxsnAdNw5kwBGX86OIEl4Mq6dBapcqrGj0YZN4ykt8h9PpP8D4wEIwNNAV6rqJSESbFNHlS8C2X_kjujOrgvb-5P)
 
 ## **Classes of Water Damage**
 
-!(https://lh3.googleusercontent.com/Uvo2aHdpwmQzqONQ17uInGbXoI4l3yBAWo_D4WLcXjtbfkmipDY-t4p5WHV0YnCH03m_hgz_eHKJEHBnBFVoP0g0iPtTEV4-XgJbWCz56p9J4TP97Y38VN5-UfXwqBZe2WmbF3mA)
+![Image](https://lh3.googleusercontent.com/Uvo2aHdpwmQzqONQ17uInGbXoI4l3yBAWo_D4WLcXjtbfkmipDY-t4p5WHV0YnCH03m_hgz_eHKJEHBnBFVoP0g0iPtTEV4-XgJbWCz56p9J4TP97Y38VN5-UfXwqBZe2WmbF3mA)
 
 ## **Causes of Water Damage**
 
@@ -37,7 +37,7 @@ There are some common and expected types of equipment carried by water restorati
 
 ### **Detection Equipment: Moisture Sensors and Meters**
 
-These are used by technicians to discover how wet an area is so they know exactly what will need to be done to remediate the situation. These sensors and meters display the moisture content of floors, ceilings, walls, and other materials so a plan can be developed to get them dry or tear them out—whichever is needed most for the situation. 
+These are used by technicians to discover how wet an area is so they know exactly what will need to be done to remediate the situation. These sensors and meters display the moisture content of floors, ceilings, walls, and other materials so a plan can be developed to get them dry or tear them out—whichever is needed most for the situation. Learn more about the [5 Types of Moisture Meters for Water Damage](/5-types-of-moisture-meters-for-water-damage/) that professionals use. 
 
 ### **Air Moving Equipment: Fans and Dehumidifiers**
 
@@ -67,10 +67,10 @@ Having your home damaged by water is an incredibly stressful and emotional exper
     Finding a company that works locally in the Miami area will mean that they’ll be able to get to your house or business as soon as possible to assess the damage and get started on the restoration process.
 
 2.  **Check Credentials**  
-    Restoring a home or office after water damage is accomplished by following industry standards. A good company will send their technicians to training to get them certified. The business itself should also be certified. When looking for a restoration professional, look for one that has been (https://www.iicrc.org/) and has the skill and expertise to deal with water damage in ways that are nationally recognized and approved. This will also ensure that the technicians are trained in the proper use of all water restoration equipment and can employ advanced water restoration methodologies. Since no two water restoration jobs are the same, you need someone who can think on their feet and complete the job satisfactorily and within industry standards.
+    Restoring a home or office after water damage is accomplished by following industry standards. A good company will send their technicians to training to get them certified. The business itself should also be certified. When looking for a restoration professional, look for one that has been [IICRC](https://www.iicrc.org/) and has the skill and expertise to deal with water damage in ways that are nationally recognized and approved. This will also ensure that the technicians are trained in the proper use of all water restoration equipment and can employ advanced water restoration methodologies. Since no two water restoration jobs are the same, you need someone who can think on their feet and complete the job satisfactorily and within industry standards.
 
 3.  **Works with Insurance**  
-    When a major disaster like water damage strikes, the (https://howmuch.net/costs/home-water-damage-repair-restore). Very few people will be able to pay for the damage out of their pocket, so they’ll rely on their insurance to help cover the bill. A good restoration company will work with insurance to get your home or office back together. If they don’t, you need to keep looking. In addition, you may also consider contacting your insurance agent to see if they have a restoration company that they recommend. This will ensure that you are getting a reputable company that you know will work with your insurance to get the job completed.
+    When a major disaster like water damage strikes, the [HowMuch](https://howmuch.net/costs/home-water-damage-repair-restore). Very few people will be able to pay for the damage out of their pocket, so they’ll rely on their insurance to help cover the bill. A good restoration company will work with insurance to get your home or office back together. If they don’t, you need to keep looking. In addition, you may also consider contacting your insurance agent to see if they have a restoration company that they recommend. This will ensure that you are getting a reputable company that you know will work with your insurance to get the job completed.
 
 4.  **Check References**  
     It’s easier than ever to check reviews and references online. Finding these for a restoration company shouldn’t be difficult. While no company will ever have all positive reviews, make sure the company you’re looking to hire has more positive than negative reviews. 
@@ -88,7 +88,7 @@ Having your home damaged by water is an incredibly stressful and emotional exper
     If there is standing water in the area, this will be removed. No other work will be able to continue if the water remains in the area. This will also allow the technicians to find the source of the issue (if it’s coming from a broken pipe or backed up drain) so that the issue can be taken care of.
 
 3.  **Prevent Further Damage**  
-    Taking care of water damage needs to be done in a timely fashion. If it sits for too long, there’s a chance that (https://www.angieslist.com/articles/how-fast-can-water-damage-ruin-home.htm) or a Category 1 water damage will turn into a Category 2, which can have impacts on your health. This step may include calling a plumber (if one hasn’t already been called) to discover and stop any leaks. It may also require the removal of affected flooring, walls, and ceiling. Water damage can weaken the integrity of certain structural materials, making them a hazard if they collapse. In some cases, this material may not be able to dry properly, so to prevent water remaining trapped in the area, it will be removed.
+    Taking care of water damage needs to be done in a timely fashion. If it sits for too long, there’s a chance that [Angie's List](https://www.angieslist.com/articles/how-fast-can-water-damage-ruin-home.htm) or a Category 1 water damage will turn into a Category 2, which can have impacts on your health. This step may include calling a plumber (if one hasn’t already been called) to discover and stop any leaks. It may also require the removal of affected flooring, walls, and ceiling. Water damage can weaken the integrity of certain structural materials, making them a hazard if they collapse. In some cases, this material may not be able to dry properly, so to prevent water remaining trapped in the area, it will be removed.
 
 4.  **Drying**  
     After the standing water has been removed and materials that could pose a drying or structural hazard have been removed, [Water Damage Dry Out Process](/water-damage-dry-out-process/) will begin. This often involves placing fans and a dehumidifier in the area. In some cases, it might also involve putting up plastic sheeting and using heaters so that the water can evaporate. If walls have been impacted, it may be necessary to remove baseboards or drill holes so that they dry properly. A section of the carpet may also have to be lifted so that the carpet and the pad will dry. If these processes aren’t conducted, the chance of odor and mold growth increases. There’s also a chance of structural damage happening from excessive moisture.
@@ -108,9 +108,9 @@ Having your home damaged by water is an incredibly stressful and emotional exper
 
 Ways to keep yourself safe in the event of water damage.
 
-!(https://lh6.googleusercontent.com/lJDKJCVu_YSjMjaS96ff9vzlgQmKefZUtM69DSVWEjrGgHZ4pyfLR6qwLyE7rQqLHezU9aJr9cebRk5kQY4eChZzjBHvcqMVk7iExs9MpVoXlsR0CPlES6ZR2dYX9oMVgM4wVDMR)
+![Image](https://lh6.googleusercontent.com/lJDKJCVu_YSjMjaS96ff9vzlgQmKefZUtM69DSVWEjrGgHZ4pyfLR6qwLyE7rQqLHezU9aJr9cebRk5kQY4eChZzjBHvcqMVk7iExs9MpVoXlsR0CPlES6ZR2dYX9oMVgM4wVDMR)
 
-!(https://lh4.googleusercontent.com/cK975y2VJRGJp4x1WW00D4wtpUOpSpMeAvBs__DlKHBsPmf4Owl9V2CA10TP-XVcb1A_E8XXItbaCf73h743kZziAReenMLEwBeKWBdQaGo5gcMqSiy0dHpPNt6RjjgdRUv_a4vh)
+![Image](https://lh4.googleusercontent.com/cK975y2VJRGJp4x1WW00D4wtpUOpSpMeAvBs__DlKHBsPmf4Owl9V2CA10TP-XVcb1A_E8XXItbaCf73h743kZziAReenMLEwBeKWBdQaGo5gcMqSiy0dHpPNt6RjjgdRUv_a4vh)
 
 ## **What to Expect After the Cleanup Process**
 
@@ -138,6 +138,8 @@ Deciding whether or not to hire an adjuster for your claim will depend on a vari
 
 ## **Tips, Advice, and Checklist**
 
-!(https://lh3.googleusercontent.com/Jdx95vN5va9Z06CK0tHhWpB_vcBSV_PmKGNq8_qvi9BNuyv0S_gtOedvqM37OjWJKCyBxgzRNsmsnMBYLLZQdHERgjyd-6ZIVvwPq70EogGQMd-pIr99Ip_zczgqL279KfDc3e04)
+For comprehensive planning, use our [Flood Damage Recovery Planner](/flood-damage-recovery-planner/) to organize your restoration timeline and tasks. If you're interested in sustainable approaches, check out our guide on [Top 7 Eco-Friendly Water Damage Restoration Methods](/top-7-eco-friendly-water-damage-restoration-methods/).
 
-!(https://lh6.googleusercontent.com/MHlFbPJy6_lDosCiDc67kLVuMWryn5UyuVjpQq7jQTkit0QHMUBexXN4HE_AfJ1aEBKOFBEiChxsms-onc6syWrNAVy9uaLEO0x1xlhqF8J-DM4khxUiqs9WrplKmOTe2ro_eQ_m)
+![Image](https://lh3.googleusercontent.com/Jdx95vN5va9Z06CK0tHhWpB_vcBSV_PmKGNq8_qvi9BNuyv0S_gtOedvqM37OjWJKCyBxgzRNsmsnMBYLLZQdHERgjyd-6ZIVvwPq70EogGQMd-pIr99Ip_zczgqL279KfDc3e04)
+
+![Image](https://lh6.googleusercontent.com/MHlFbPJy6_lDosCiDc67kLVuMWryn5UyuVjpQq7jQTkit0QHMUBexXN4HE_AfJ1aEBKOFBEiChxsms-onc6syWrNAVy9uaLEO0x1xlhqF8J-DM4khxUiqs9WrplKmOTe2ro_eQ_m)

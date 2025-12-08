@@ -50,4 +50,4 @@ After completing the restoration process, it’s important to take preventive me
 
 In conclusion, a prompt response and proper actions are vital when dealing with a home flood. By following these immediate steps and relying on experts like Total Care Restoration, you can minimize the damage caused by water, prevent mold growth, and restore your home to its pre-flood condition.
 
-For more information on the water damage dry-out process, visit [Water Damage Dry Out Process](/water-damage-dry-out-process/).
+For more information on the water damage dry-out process, visit [Water Damage Dry Out Process](/water-damage-dry-out-process/). You can also use our [Flood Damage Recovery Planner](/flood-damage-recovery-planner/) to help organize your restoration timeline and next steps.

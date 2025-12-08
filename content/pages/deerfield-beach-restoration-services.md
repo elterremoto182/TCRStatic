@@ -68,7 +68,7 @@ Total Care Restoration is not just about restoring properties; it’s about rebu
 Ready to get started or need emergency assistance? Contact us today!
 
 -   **Phone:**  [(305) 239-3730](tel:  \(305\) 239-3730)
--   **Email:** (https://dash-ngs.net/NextGear/Enterprise/Module/EmailClient/EmailHome.aspx?EmailId=clientcare@totalcarerestoration.com)
+-   **Email:** [clientcare@totalcarerestoration.com](mailto:clientcare@totalcarerestoration.com)
 -   **Location:** Deerfield Beach, FL
 
 For non-emergency inquiries, feel free to fill out our online form, and a member of our team will get back to you as soon as possible.

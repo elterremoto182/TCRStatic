@@ -172,3 +172,5 @@ Taking quick action is key to minimizing damage and getting things back to norma
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
 -   [How To Prevent Electrical Fires At Home](/how-to-prevent-electrical-fires-at-home/)
 -   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)
+-   [Best Temporary Power Providers for Restoration](/best-temporary-power-providers-for-restoration/)
+-   [Flood Damage Recovery Planner](/flood-damage-recovery-planner/)
