@@ -112,7 +112,7 @@ From here, you can assess the cost and benefits of these prevention strategies.
 
 Consider upfront costs alongside potential savings from avoiding expensive repairs to decide on the best prevention measures for your home.
 
--   **Smart Water Monitor (e.g., (https://flumewater.com/product/))**: $249 → Potential savings up to $15,000
+-   **Smart Water Monitor (e.g., [Flume](https://flumewater.com/product/))**: $249 → Potential savings up to $15,000
 -   **Professional Plumbing Inspection**: $100–$200 → Potential savings up to $7,500
 -   **Video Pipe Inspection**: $300–$1,100 → Potential savings up to $15,000
 -   **Comprehensive Inspection Package**: $350–$1,375 → Potential savings up to $100,000

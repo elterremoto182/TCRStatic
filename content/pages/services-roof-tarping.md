@@ -125,6 +125,6 @@ We will alleviate the stress associated with these types of situations by provid
 > 
 > **Abraham M.**
 
-[READ MORE →][About#customer Reviews](//about#customer-reviews)
+[READ MORE →](/about#customer-reviews)
 
 ![BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png) ![IICRC Certified Firm][(Wp Content/uploads/2021/09/IICRC Certified Firm Gradient Color 687x1024 1.png)](/wp-content/uploads/2021/09/IICRC-Certified-Firm-Gradient-Color-687x1024-1.png) [Facebook](https://www.facebook.com/totalcarerestoration) [Google Reviews](https://share.google/VDRo3vdycLL83YFAm) [Instagram](https://www.instagram.com/totalcarerestoration/) [Youtube](https://www.youtube.com/@totalcarerestoration8042/)

@@ -36,7 +36,7 @@ Storms can wreak havoc on your roof, leaving behind damage that can escalate qui
 
 > "When shingles are missing or damaged, the material beneath them is at risk of premature deterioration without the benefit of the shingle’s protection." – Mark Soto, Author
 
-**(https://oldworldroofing.com)** is another significant concern. Hailstones can dent, bruise, or strip protective granules from asphalt shingles. Across the United States, hailstorms cause around **$1 billion in damage every year**, with parts of eastern Colorado being particularly prone to these storms.
+**[Hail damage](https://oldworldroofing.com)** is another significant concern. Hailstones can dent, bruise, or strip protective granules from asphalt shingles. Across the United States, hailstorms cause around **$1 billion in damage every year**, with parts of eastern Colorado being particularly prone to these storms.
 
 **Heavy rain** can weaken shingle adhesion and interfere with proper drainage. Prolonged exposure to moisture speeds up the deterioration of roofing materials and can lead to leaks or even structural issues if water seeps into your home.
 

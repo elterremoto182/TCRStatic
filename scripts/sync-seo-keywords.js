@@ -143,7 +143,7 @@ function updateSeoJson(seoEntries, unmatchedFiles) {
       ? file.keywords[0] 
       : file.title;
     
-    const permalink = `https://totalleakdetection.com/${file.slug}/`;
+    const permalink = `https://totalcarerestoration.com/${file.slug}/`;
     
     return {
       ID: `NEW-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,

@@ -68,7 +68,7 @@ Every technician is locally certified, licensed, bonded, and insured. They bring
 
 > "Our mission is to help homeowners and business owners restore their damaged properties to a pristine condition with the highest level of service, care, and integrity." – Total Care Restoration
 
-With over nine years of professional service, the company holds an **A+ rating from the (https://www.bbb.org/)**, reflecting their commitment to quality and customer satisfaction.
+With over nine years of professional service, the company holds an **A+ rating from the [Better Business Bureau](https://www.bbb.org/)**, reflecting their commitment to quality and customer satisfaction.
 
 ### Temporary Power Solutions for Recovery
 

@@ -151,7 +151,7 @@ Once the area has been thoroughly dried and inspected, it’s time to install ne
 
 The type of insulation you need depends on where it will be installed and the specific conditions of that space. For attics, **fiberglass batts** are a popular choice because they’re easy to handle and install. When it comes to walls, **foam board insulation** or **closed-cell spray foam** are excellent options, offering both moisture resistance and effective air sealing.
 
-In areas like basements or spaces prone to water damage, materials such as **closed-cell phenolic insulation** or **(https://www.rockwool.com/north-america/)** provide added protection. These materials are designed to resist minor moisture exposure without losing their insulating properties, making them ideal for damp environments.
+In areas like basements or spaces prone to water damage, materials such as **closed-cell phenolic insulation** or **[Rockwool](https://www.rockwool.com/north-america/)** provide added protection. These materials are designed to resist minor moisture exposure without losing their insulating properties, making them ideal for damp environments.
 
 | Insulation Type | Best Use Case | Water Damage Response | Cost (per sq. ft.) |
 | --- | --- | --- | --- |

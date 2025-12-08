@@ -144,7 +144,7 @@ We will alleviate the stress associated with these types of situations by provid
 > 
 > **Abraham M.**
 
-[READ MORE →][About#customer Reviews](//about#customer-reviews)
+[READ MORE →](/about#customer-reviews)
 
 ![BBB A+][(Wp Content/uploads/2021/02/bbb a Plus V.png)](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
 

@@ -45,7 +45,7 @@ Be vigilant for downed power lines, damaged electrical equipment, or sparking wi
 
 Protecting yourself is just as important as inspecting the property. Fire-damaged areas can expose you to toxic substances, unstable debris, and harmful airborne particles. Equip yourself with the right gear: a properly fitted N95 or P100 respirator (or a full-face respirator if necessary), disposable flame-resistant coveralls, layered gloves (nitrile under cut-resistant), sturdy closed-toe boots with puncture-resistant soles, and safety goggles with a tight seal. Depending on the situation, you may also need a hard hat, flashlight, first-aid kit, and hearing protection for noisy environments.
 
-Make sure you know how to properly put on, take off, and maintain your protective equipment. As Ami Acheson from (https://adjusterpro.com/)® reminds us:
+Make sure you know how to properly put on, take off, and maintain your protective equipment. As Ami Acheson from [AdjusterPro](https://adjusterpro.com/)® reminds us:
 
 > "Fire claims aren’t just about checking out damage and snapping some photos. Well…they are, but let’s do it safely."
 
@@ -91,7 +91,7 @@ Don’t overlook flooring – signs like charring, buckling, or soft spots could
 
 ### Use Special Tools for Structure Assessment
 
-Once you’ve visually inspected the load-bearing elements, use specialized tools to uncover hidden damage. Thermal imaging cameras are particularly effective for detecting temperature anomalies that could signal concealed heat pockets or structural weaknesses. As the *(https://www.latimes.com/)* puts it:
+Once you've visually inspected the load-bearing elements, use specialized tools to uncover hidden damage. Thermal imaging cameras are particularly effective for detecting temperature anomalies that could signal concealed heat pockets or structural weaknesses. As the *[Los Angeles Times](https://www.latimes.com/)* puts it:
 
 > "Perhaps the best advance in fire equipment in the last 25 years – and the most expensive".
 

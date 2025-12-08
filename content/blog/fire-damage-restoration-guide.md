@@ -26,9 +26,9 @@ Part of the reason why you may see a lot of this variance going on is that there
 
 ## Causes Of Fire
 
-Here are some of the more (https://www.nfpa.org/Public-Education/By-topic/Top-causes-of-fire) that a house fire is likely to break out:
+Here are some of the more [common reasons](https://www.nfpa.org/education-and-research/home-safety/cooking) that a house fire is likely to break out:
 
--   ***Cooking equipment:*** Cooking equipment is the (https://www.thespruce.com/causes-of-house-fires-1835107) cause of house fires. Part of this is due to flustered homeowners not knowing how to properly handle grease fires, but other issues can include a burning stove or leaving an oven unattended.
+-   ***Cooking equipment:*** Cooking equipment is the [leading](https://www.nfpa.org/education-and-research/home-safety/cooking) cause of house fires. Part of this is due to flustered homeowners not knowing how to properly handle grease fires, but other issues can include a burning stove or leaving an oven unattended.
 -    ***Home heaters***: These are common during the winter to keep warm, but faulty wiring in electrical ones can lead to a fire hazard. It’s also important to mention that proximity to fabrics and other flammable materials may lead to house fires.
 -    ***Smoking/Candles:*** It is very common to find fire damage caused by smoking. Candle fire and smoking are very similar causes. A single ash or contact with the candle can light things like a curtain on fire.
 -    ***Chemicals:*** Certain household chemicals like motor oil or cleaning liquids have the potential to ignite under certain conditions.

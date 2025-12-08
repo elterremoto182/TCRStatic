@@ -95,7 +95,7 @@ Mold, water damage, and odors are challenges that can feel daunting, but they’
 
 Whether you’re dealing with a current issue or looking to prevent future problems, staying informed and proactive is your best defense. Remember: it’s not just about fixing the damage, but about creating a home or workspace you can feel safe and comfortable in.
 
-**Source: "Mold Removal, Water Damage Restoration, Odor Removal, Disaster Clean-up, and more!" – (https://www.youtube.com/channel/UCnkh0zCSFRzXlx5HNPs9Z3w), YouTube, Aug 27, 2025 – (https://www.youtube.com/watch?v=PqCyFgSVWZQ)**
+**Source: "Mold Removal, Water Damage Restoration, Odor Removal, Disaster Clean-up, and more!" – [Total Care Restoration YouTube](https://www.youtube.com/channel/UCnkh0zCSFRzXlx5HNPs9Z3w), YouTube, Aug 27, 2025 – [Watch Video](https://www.youtube.com/watch?v=PqCyFgSVWZQ)**
 
 *Use: Embedded for reference. Brief quotes used for commentary/review.*
 

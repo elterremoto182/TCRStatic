@@ -95,7 +95,7 @@ HEPA filters are designed to capture 99.97% of particles as small as 0.3 microns
 It’s important to note that HEPA air filtration works best when integrated into a larger fire recovery strategy, rather than being used as a standalone solution. Portable HEPA air purifiers are particularly useful during the initial cleanup phase, as they can quickly improve air quality. Research also shows that well-constructed DIY air purifiers, when used with proper ventilation, can significantly reduce smoke particles.
 
 > "Portable air cleaners, including DIY air cleaners, are only part of a [Indoor Air Quality](/services/indoor-air-quality/) strategy. They do not replace the need for ventilation and should be used in conjunction with other appropriate health measures."  
-> – (https://www.epa.gov/home)
+> – [EPA](https://www.epa.gov/)
 
 From a safety perspective, HEPA air filtration is one of the safest methods for addressing fire odors, provided maintenance guidelines are followed. For example, DIY air purifiers should use box fans made after 2012, as these include safety features like fused plugs and thermal cutoffs. Additionally, it’s crucial to avoid air purifiers that produce unhealthy levels of ozone.
 
@@ -195,7 +195,7 @@ These products contain bacteria and enzymes that target organic fire residues, p
 
 Enzymatic cleaners are particularly effective at neutralizing odors caused by protein fires, breaking down deeply embedded organic residues on surfaces and fabrics. Unlike HEPA filtration, which removes airborne particles, or ozone treatments, which neutralize odors by generating ozone, enzymatic cleaners work directly on the source of the smell. However, they are less effective at addressing airborne smoke particles. For this reason, they are best used as part of a broader odor removal strategy.
 
-One example of an enzymatic cleaner is (https://www.hillyard.com/)‘s Liquid Enzyme II, which contains at least 200 billion active bacteria per gallon. This product is designed to break down grease, fats, proteins, and carbohydrates while eliminating the odors they produce.
+One example of an enzymatic cleaner is [Hillyard](https://www.hillyard.com/)'s Liquid Enzyme II, which contains at least 200 billion active bacteria per gallon. This product is designed to break down grease, fats, proteins, and carbohydrates while eliminating the odors they produce.
 
 ### Best-Use Scenarios
 

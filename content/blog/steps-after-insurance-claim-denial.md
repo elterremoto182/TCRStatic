@@ -115,7 +115,7 @@ Relying solely on your insurer’s assessment can leave gaps in your claim. Inde
 
 Hiring independent contractors, engineers, or restoration specialists ensures you receive an **objective evaluation** of your property damage. Unlike insurance adjusters, who work for the insurer, these professionals are focused on your best interests and are not influenced by the need to minimize costs.
 
-When selecting experts, check for credentials such as **(https://iicrc.org/)** (Institute of Inspection Cleaning and Restoration Certification) and **(https://restorationindustry.org/)** (Restoration Industry Association) certifications. For specific issues like mold, look for specialists with **Certified Microbial Investigator (CMI)** or **Council-Certified Microbial Remediator (CMR)** credentials. Safety certifications, such as those from the Occupational Safety and Health Administration ((https://www.osha.gov/)), are also key indicators of expertise.
+When selecting experts, check for credentials such as **[IICRC](https://iicrc.org/)** (Institute of Inspection Cleaning and Restoration Certification) and **[RIA](https://restorationindustry.org/)** (Restoration Industry Association) certifications. For specific issues like mold, look for specialists with **Certified Microbial Investigator (CMI)** or **Council-Certified Microbial Remediator (CMR)** credentials. Safety certifications, such as those from the Occupational Safety and Health Administration ([OSHA](https://www.osha.gov/)), are also key indicators of expertise.
 
 If hazardous materials are involved, ensure the expert holds an environmental remediation license.
 

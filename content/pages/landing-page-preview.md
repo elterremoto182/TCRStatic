@@ -51,4 +51,4 @@ We will alleviate the stress associated with these types of situations by provid
 
 > Alexander's team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful.
 
-[About#customer Reviews](//about#customer-reviews)
+[About](/about#customer-reviews)

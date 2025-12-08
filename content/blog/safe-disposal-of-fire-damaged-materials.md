@@ -69,7 +69,7 @@ Once potential hazards have been identified, the next crucial step is safely han
 
 ### Safe Handling Methods
 
-Proper personal protective equipment (PPE) is essential for working with fire-damaged materials. For minor cleanup tasks, long sleeves, pants, and gloves might suffice. But in more hazardous conditions, full protective gear – ranging from Level A to Level C suits – is often necessary. Respiratory protection is also critical; always use (https://www.cdc.gov/niosh/index.html)\-approved respirators, and let the [Air Quality Inspections](/services/air-quality-inspections/) (AQI) guide your choice.
+Proper personal protective equipment (PPE) is essential for working with fire-damaged materials. For minor cleanup tasks, long sleeves, pants, and gloves might suffice. But in more hazardous conditions, full protective gear – ranging from Level A to Level C suits – is often necessary. Respiratory protection is also critical; always use [NIOSH](https://www.cdc.gov/niosh/index.html)-approved respirators, and let the [Air Quality Inspections](/services/air-quality-inspections/) (AQI) guide your choice.
 
 A complete PPE kit should include safety shoes, hard hats, goggles, and chemical-resistant gloves. Ventilation is equally important – adequate airflow in confined spaces helps minimize toxic gas buildup. Portable air scrubbers with HEPA filters can be a valuable tool in maintaining air quality \.
 
@@ -83,7 +83,7 @@ Hazardous materials, such as compressed gas cylinders, gasoline cans, bulk chemi
 
 ### Temporary Storage Rules
 
-Proper temporary storage is vital to keep fire-damaged materials from becoming additional hazards while awaiting disposal. Flammable items should be stored in (https://en.wikipedia.org/wiki/FM_Global)\-certified containers and kept away from heat sources, direct sunlight, and anything that could ignite them, such as open flames or sparking tools. Choose storage areas with good ventilation and avoid excessive clutter that could lead to trips, fires, or explosions.
+Proper temporary storage is vital to keep fire-damaged materials from becoming additional hazards while awaiting disposal. Flammable items should be stored in [FM Global](https://en.wikipedia.org/wiki/FM_Global)-certified containers and kept away from heat sources, direct sunlight, and anything that could ignite them, such as open flames or sparking tools. Choose storage areas with good ventilation and avoid excessive clutter that could lead to trips, fires, or explosions.
 
 Secure storage units with locks or guardrails, and ensure materials are out of reach of children and pets \. If a spill occurs, clean the area immediately and move containers to a well-ventilated space. Clearly label all storage areas and containers, and seal them to contain hazardous substances. (https://www.osha.gov/) standards require proper labeling, ventilation, and spill control measures for flammable and combustible liquids.
 

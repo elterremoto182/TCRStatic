@@ -54,7 +54,7 @@ We will alleviate the stress associated with these types of situations by provid
 > 
 > Abraham M.
 
-[READ MORE →][About#customer Reviews](//about#customer-reviews)
+[READ MORE →](/about#customer-reviews)
 
 ### Resources
 

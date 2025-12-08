@@ -59,10 +59,10 @@ Wearing proper PPE is essential to limit exposure to mold spores. According to t
 
 Here’s what you’ll need:
 
--   **Respirators**: Use (https://www.cdc.gov/niosh/index.html)\-approved N95 respirators, which filter out 95% of airborne particles. For larger jobs or areas with heavy mold, consider upgrading to a powered air-purifying respirator (PAPR). Make sure the respirator fits snugly and discard it after use.
+-   **Respirators**: Use [NIOSH](https://www.cdc.gov/niosh/index.html)-approved N95 respirators, which filter out 95% of airborne particles. For larger jobs or areas with heavy mold, consider upgrading to a powered air-purifying respirator (PAPR). Make sure the respirator fits snugly and discard it after use.
 -   **Gloves**: Opt for nitrile or heavy-duty latex gloves with extended cuffs. For extra protection, double-layer disposable gloves when handling contaminated surfaces or strong cleaners.
 -   **Eye Protection**: Choose sealed, non-vented goggles, and add a face shield to protect against chemical splashes. Clean these thoroughly after each use with detergent and disinfectant.
--   **Coveralls**: Disposable (https://www.dupont.com/personal-protection/tyvek-for-ppe.html)® coveralls with a hood and booties are ideal for keeping spores off your clothing. Ensure all closures are tight to block contamination.
+-   **Coveralls**: Disposable [Tyvek](https://www.dupont.com/personal-protection/tyvek-for-ppe.html)® coveralls with a hood and booties are ideal for keeping spores off your clothing. Ensure all closures are tight to block contamination.
 -   **Boots**: Waterproof, slip-resistant boots made of rubber or PVC will keep your feet dry and prevent slips on wet surfaces.
 
 | PPE Item | Minimum Standard | Why It Matters |
@@ -99,7 +99,7 @@ For the containment to work effectively, it must be airtight. Check for any draf
 
 To take your containment to the next level, create negative air pressure inside the affected area. Negative air pressure ensures that air flows inward through any gaps rather than outward, [Beat Miamis Humidity Top Tips for a Mold Free Home](/beat-miamis-humidity-top-tips-for-a-mold-free-home/) spores from escaping. This is achieved with a negative air machine (NAM), which filters and exhausts air to create a vacuum effect.
 
-As Wei Sun, P.E., explains in the *(https://www.ashrae.org/technical-resources/ashrae-journal)*, the higher pressure outside the containment area forces air inward, while the filtered air is expelled safely. For mold remediation, these machines use HEPA filters that trap at least 99.7% of particles as small as 0.3 micrometers – an effective solution since mold spores typically range from 4 to 20 micrometers.
+As Wei Sun, P.E., explains in the *[ASHRAE Journal](https://www.ashrae.org/technical-resources/ashrae-journal)*, the higher pressure outside the containment area forces air inward, while the filtered air is expelled safely. For mold remediation, these machines use HEPA filters that trap at least 99.7% of particles as small as 0.3 micrometers – an effective solution since mold spores typically range from 4 to 20 micrometers.
 
 To ensure the system works efficiently, maintain 12 air changes per hour (ACH) with a negative air machine equipped with a HEPA filter and an antimicrobial-treated primary filter. Use pressure gauges to monitor and confirm that the negative pressure is functioning as intended.
 

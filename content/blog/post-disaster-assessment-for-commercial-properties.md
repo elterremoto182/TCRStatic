@@ -86,7 +86,7 @@ Additional equipment like flashlights, moisture meters, and basic hand tools can
 
 ### Training: The Foundation of Preparedness
 
-Training your team before a disaster strikes is an investment that pays off when time is of the essence. (https://www.fema.gov/home)’s (https://www.firstrespondertraining.gov/frts/npcc) offers a range of training options from CDP, EMI, and NTED, which you can search by topic. The (https://ndpc.us/) (NDPC) also provides resources to enhance emergency responder readiness.
+Training your team before a disaster strikes is an investment that pays off when time is of the essence. [FEMA](https://www.fema.gov/home)'s [National Preparedness Course Catalog](https://www.firstrespondertraining.gov/frts/npcc) offers a range of training options from CDP, EMI, and NTED, which you can search by topic. The [National Domestic Preparedness Consortium](https://ndpc.us/) (NDPC) also provides resources to enhance emergency responder readiness.
 
 With a well-trained team and the right tools, you’ll be prepared to document damage systematically and take the first steps toward recovery.
 

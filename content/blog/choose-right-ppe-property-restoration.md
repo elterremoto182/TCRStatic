@@ -21,7 +21,7 @@ Choosing the right personal protective equipment (PPE) is critical for staying s
 
 -   **Respiratory Protection**: N95 masks, full-face respirators, or PAPRs for airborne hazards.
 -   **Body Protection**: Waterproof suits, disposable coveralls, or flame-resistant clothing.
--   **Hand, Eye, and Foot Safety**: Nitrile gloves, (https://www.ansi.org/)\-approved goggles, and steel-toed boots.
+-   **Hand, Eye, and Foot Safety**: Nitrile gloves, [ANSI](https://www.ansi.org/)-approved goggles, and steel-toed boots.
 
 **How to Choose the Right PPE**:
 

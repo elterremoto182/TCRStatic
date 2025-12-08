@@ -97,7 +97,7 @@ Creating good airflow is essential:
 -   **Position Fans Strategically**: Place fans in corners, directing airflow toward doors or windows. Remove window screens to improve air circulation.
 
 > "Good airflow helps combat the odor of smoke after a fire. If the weather allows, open your windows and use fans to keep fresh air moving throughout your home. Ventilation helps dissipate odors and dry out moisture caused by the fire-extinguishing process."  
-> – (https://atirestoration.com/)
+> – [ATI Restoration](https://atirestoration.com/)
 
 ### Remove Soot Safely
 
@@ -117,7 +117,7 @@ Start with dry cleaning methods before moving on to wet cleaning:
 | **Brick** | Apply a vinegar solution and scrub with baking soda | White vinegar and baking soda |
 
 > "The most common way to remove fire soot damage is to clean soot stains thoroughly with a gentle solution."  
-> – (https://jenkinsrestorations.com/fire-damage-restoration/)
+> – [Jenkins Restorations](https://jenkinsrestorations.com/fire-damage-restoration/)
 
 ###### sbb-itb-7cc21ef
 

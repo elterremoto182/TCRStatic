@@ -1,7 +1,7 @@
 ---
 title: "Home Maintenance Checklist: Preventing Water, Fire, and Mold Damage"
 date: "2024-02-01"
-excerpt: "\*\*Title:\*\* Home Maintenance Checklist: Preventing Water, Fire, and Mold Damage Introduction Owning a home in Miami, Florida, is truly a dream come true, with its gorgeous beaches, sunlit skies, and vibrant lifestyle. However, it also means staying on top of potential water, fire, and mold damage issues. This guide provides a comprehensive home maintenance checklist … Continued"
+excerpt: "Owning a home in Miami, Florida, is truly a dream come true, with its gorgeous beaches, sunlit skies, and vibrant lifestyle. However, it also means staying on top of potential water, fire, and mold damage issues. This guide provides a comprehensive home maintenance checklist to help prevent these common household issues."
 author: "Tomasz Alemany"
 category: "Uncategorized"
 image: "/wp-content/uploads/2025/05/image_c5b16cd30b6d988320fa5a4dc3275c2a.jpeg"

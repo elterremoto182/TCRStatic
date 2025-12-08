@@ -67,7 +67,7 @@ We will alleviate the stress associated with these types of situations by provid
 > 
 > — Abraham M.
 
-[READ MORE →](//about#customer-reviews)
+[READ MORE →](/about#customer-reviews)
 
 ![BBB A+](/wp-content/uploads/2021/02/bbb-a-plus-v.png)
 

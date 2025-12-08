@@ -18,7 +18,7 @@ When floodwater enters your home, acting quickly can save you thousands in repai
 -   **Document Damage:** Take photos/videos before cleanup for insurance claims.
 -   **Remove Water:** Stop the source, use wet/dry vacuums, and avoid removing more than 1 foot of water per day in basements to prevent structural issues.
 -   **Dry Thoroughly:** Use fans, dehumidifiers, and remove wet items like carpets and insulation. Monitor hidden spaces for moisture.
--   **Clean and Disinfect:** Use soap, water, and (https://www.epa.gov/home)\-approved disinfectants to remove contaminants. Never mix bleach with other cleaners.
+-   **Clean and Disinfect:** Use soap, water, and [EPA](https://www.epa.gov/)-approved disinfectants to remove contaminants. Never mix bleach with other cleaners.
 -   **Prevent Mold:** Control moisture, check for signs like musty odors, and call specialists for widespread mold.
 
 **When to Call Professionals:**
@@ -143,7 +143,7 @@ Once your home is dry, it’s time to clean and disinfect all surfaces to remove
 
 > "Floodwater may carry silt, raw sewage, oil or chemical wastes that can cause a whole range of bacterial, viral and/or parasitic diseases. That’s why proper clean-up methods are critical, requiring disinfecting, not just cleaning."
 > 
-> -   (https://www.cleaninginstitute.org/) (ACI)
+> -   [American Cleaning Institute](https://www.cleaninginstitute.org/) (ACI)
 
 ### Clean and Disinfect All Surfaces
 

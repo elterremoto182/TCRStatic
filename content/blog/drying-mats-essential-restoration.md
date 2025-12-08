@@ -20,7 +20,7 @@ keywords: ["drying", "moisture", "restoration", "damage", "water", "floors", "st
 
 When dealing with water damage, [Commercial](/services/commercial/) equipped with drying mats can save time, money, and stress. Proper tools and quick action are key to protecting your property and health.
 
-## (https://drieazz.com/) In-Wall and Hardwood Floor Drying Systems Setup
+## [Dri-Eaz](https://drieazz.com/) In-Wall and Hardwood Floor Drying Systems Setup
 
 <iframe src="https://www.youtube.com/embed/7sjMewv3wJg" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Furniture and Floors from Florida’s Damp Days"
 date: "2024-12-10"
-excerpt: "\*\*\* Protect Your Furniture and Floors from Florida’s Damp Days Our beautiful city of Miami is no stranger to unpredictable weather events – often marked by humidity and rain. But that doesn’t mean our floors or treasured furniture pieces have to fall victim to damp days. Safeguarding your precious home items from Florida’s notoriously soggy … Continued"
+excerpt: "Our beautiful city of Miami is no stranger to unpredictable weather events – often marked by humidity and rain. But that doesn't mean our floors or treasured furniture pieces have to fall victim to damp days. Safeguarding your precious home items from Florida's notoriously soggy environment is easier than you think."
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg"

@@ -92,7 +92,7 @@ Dealing with water damage is never easy, but knowing how to choose the right con
 
 By taking the time to verify credentials, understand the scope of work, and prioritize quality over speed, you can avoid the pitfalls of subpar restoration and restore your property – with peace of mind intact.
 
-**Source: "Who You Hire After Water Damage Matters" – (https://www.youtube.com/channel/UCF0okADyaC5EoHMUBpHTZMg), YouTube, Aug 21, 2025 – (https://www.youtube.com/watch?v=Cc_kBwdOm8k)**
+**Source: "Who You Hire After Water Damage Matters" – [YouTube Channel](https://www.youtube.com/channel/UCF0okADyaC5EoHMUBpHTZMg), YouTube, Aug 21, 2025 – [Watch Video](https://www.youtube.com/watch?v=Cc_kBwdOm8k)**
 
 *Use: Embedded for reference. Brief quotes used for commentary/review.*
 

@@ -20,7 +20,7 @@ Water and electricity don’t mix – literally. Even small amounts of water can
 
 Quick action is critical – delays can worsen damage and increase repair costs. If water has affected your electrical system, prioritize safety and seek professional help.
 
-## (https://www.nema.org/) Evaluating Water-Damaged Electrical Equipment | Hurricane Helene
+## [NEMA](https://www.nema.org/) Evaluating Water-Damaged Electrical Equipment | Hurricane Helene
 
 <iframe src="https://www.youtube.com/embed/pkwIxmfLMAw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 

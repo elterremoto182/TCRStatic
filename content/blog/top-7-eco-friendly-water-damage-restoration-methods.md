@@ -48,7 +48,7 @@ This approach lays the groundwork for other sustainable restoration methods expl
 
 ## 2\. Energy-Efficient Water Extraction
 
-Energy-efficient water extraction offers a smarter alternative to traditional high-powered pumps that typically consume large amounts of electricity. These systems rely on advanced vacuum-assisted technology and high-efficiency pumps to remove water quickly while using far less energy. Many of these setups also include **(https://www.energystar.gov/)\-certified dehumidifiers**, which consume about 15% less energy compared to standard models. In some instances, restoration companies are even turning to solar-powered pumps and generators – a particularly practical option for remote areas or during power outages. These advancements are paving the way for restoration practices that are not only effective but also environmentally conscious.
+Energy-efficient water extraction offers a smarter alternative to traditional high-powered pumps that typically consume large amounts of electricity. These systems rely on advanced vacuum-assisted technology and high-efficiency pumps to remove water quickly while using far less energy. Many of these setups also include **[Energy Star](https://www.energystar.gov/)-certified dehumidifiers**, which consume about 15% less energy compared to standard models. In some instances, restoration companies are even turning to solar-powered pumps and generators – a particularly practical option for remote areas or during power outages. These advancements are paving the way for restoration practices that are not only effective but also environmentally conscious.
 
 ### Energy Efficiency
 
