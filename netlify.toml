@@ -6,6 +6,12 @@
   package = "netlify-plugin-inline-critical-css"
 
   [plugins.inputs]
-  # Only process key pages to avoid timeout (skip 100+ blog posts)
-  directoryFilter = ["!blog"]
+  # Only process key landing pages to avoid timeout
+  fileFilter = [
+    "index.html",
+    "about/**/index.html",
+    "contact/**/index.html",
+    "services/**/index.html",
+    "services-*/**/index.html"
+  ]
 
