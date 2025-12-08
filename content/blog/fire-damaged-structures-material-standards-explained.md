@@ -5,7 +5,7 @@ excerpt: "Learn how fire damage affects various building materials and the stand
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/11/image_489ae455b2b226b1905d67cc81ac3304.jpeg"
-seo_title: "Fire-Damaged Structures: Material Standards Explained | Total Care Restoration"
+seo_title: "Fire-Damaged Structures: Material Standards Explained"
 seo_description: "Learn how fire damage affects various building materials and the standards for safe restoration to ensure structural integrity and compliance."
 keywords: ["restoration", "damaged", "damage", "safety", "standards", "repairs", "building", "materials", "codes", "material"]
 ---

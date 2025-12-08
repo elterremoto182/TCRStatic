@@ -19,7 +19,7 @@ Both options improve [Air Quality Inspections](/services/air-quality-inspections
 
 * * *
 
-### Quick Comparison
+## Quick Comparison
 
 | Feature | HEPA Filters | UV Systems |
 | --- | --- | --- |

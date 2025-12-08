@@ -4,7 +4,7 @@ date: "2023-11-01"
 excerpt: "Smoke Damage: Long-Term Effects and Restoration Techniques Welcome to Total Care Restoration, Miami’s premier water, fire, and mold restoration company. As experts in the field, we understand the devastating effects that smoke damage can have on your home. In this article, we will explore the long-term effects of smoke damage and provide you with restoration … Continued"
 author: "Tomasz Alemany"
 category: "Fire"
-seo_title: "Smoke Damage: Long-Term Effects and Restoration Techniques. | Total Care Restoration"
+seo_title: "Smoke Damage: Long-Term Effects and Restoration Techniques"
 seo_description: "In this article, we will explore the long-term effects of smoke damage and provide you with restoration techniques to help bring your home back to its pre-damaged condition."
 keywords: ["Smoke Damage Miami"]
 ---

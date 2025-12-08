@@ -20,7 +20,7 @@ Fire odors can linger long after the flames are gone, embedding themselves into 
 6.  **Enzymatic Cleaners**: Break down organic compounds, especially effective for protein-based [Combating Smoke Odor Professional Techniques for a Fresh Home](/combating-smoke-odor-professional-techniques-for-a-fresh-home/).
 7.  **Improved Ventilation**: A simple first step to flush out smoke-filled air and reduce odors.
 
-### Quick Comparison
+## Quick Comparison
 
 | Method | Best For | Key Considerations |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Fire odors can linger long after the flames are gone, embedding themselves into 
 | **Enzymatic Cleaners** | Protein-based smoke residues | Slower results; works best on organic odors |
 | **Improved Ventilation** | Initial odor reduction | Limited effectiveness for severe damage |
 
-### Key Takeaway
+## Key Takeaway
 
 For persistent fire odors, combining these methods often works best. Start with ventilation and HEPA filtration for immediate relief, then move to deep cleaning, ozone, or thermal fogging for thorough odor removal. Professional help is recommended for severe cases.
 

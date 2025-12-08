@@ -15,14 +15,16 @@ keywords: ["quality", "testing", "sampling", "damage", "property", "restoration"
 
 
 
-When a fire damages your property, the risks go beyond visible destruction. Toxic particles like soot, ash, and volatile organic compounds (VOCs) can linger in the air and surfaces, threatening your health. [Indoor Air Quality](/services/indoor-air-quality) after a fire is a critical step to ensure safety before re-entering your home. Here’s what you need to know:
+Fire damage goes beyond what you can see. Toxic particles like soot, ash, and volatile organic compounds (VOCs) remain in the air and on surfaces. These hidden dangers threaten your health long after the flames are out.
 
--   **Why It Matters**: Fires release harmful pollutants that can cause respiratory issues, heart problems, and even long-term health conditions like cancer. These contaminants spread through HVAC systems and settle on surfaces, making professional testing essential.
+Testing your [Indoor Air Quality](/services/indoor-air-quality) after a fire is critical. You need to confirm the space is safe before moving back in. Here's what you should know:
+
+-   **Why It Matters**: Fires release harmful pollutants. These can cause breathing problems, heart issues, and even cancer. The contaminants spread through HVAC systems and settle on surfaces. Professional testing catches what you can't see.
 -   **What Pollutants Are Present**: Common hazards include soot, VOCs (like benzene and formaldehyde), particulate matter (PM2.5), and gases like carbon monoxide.
 -   **How Testing Works**: Professionals inspect the property, take air and surface samples, and analyze them in labs to identify pollutants and gauge their levels.
 -   **Remediation Steps**: After testing, experts clean affected areas, replace contaminated materials, and improve air quality using HEPA filters, air purifiers, and better ventilation.
 
-Testing ensures your property is safe for living, protects your health, and prevents costly mistakes during restoration. Always rely on certified professionals for accurate results and effective cleanup.
+Testing confirms your property is safe to live in. It protects your health and prevents costly restoration mistakes. Always hire certified professionals for accurate results and effective cleanup.
 
 ## Ask Annissa: How Do You Test for Soot Contamination?
 

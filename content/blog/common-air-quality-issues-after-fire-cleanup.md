@@ -17,14 +17,14 @@ keywords: ["smoke", "particles", "quality", "health", "professional", "water", "
 
 After a fire, the visible damage may be cleaned up, but the air in your home can still be filled with harmful toxins that are dangerous to your health. Fires release smoke particles, toxic chemical vapors, and even create conditions for mold growth. These contaminants can linger for weeks or months, affecting your lungs, causing odors, or even increasing long-term health risks like cancer.
 
-### Key Air Quality Problems After a Fire:
+## Key Air Quality Problems After a Fire
 
 -   **Smoke & Soot Particles**: Tiny particles (PM2.5) that can enter your lungs and bloodstream.
 -   **Toxic Vapors (VOCs)**: Chemicals like benzene and formaldehyde that linger in furniture, walls, and air.
 -   **Mold Growth**: Caused by [Water Damage Clean Up](/water-damage-clean-up/) from firefighting efforts, mold can grow in just 24–48 hours.
 -   [**Combating Smoke Odor Professional Techniques for a Fresh Home**](/combating-smoke-odor-professional-techniques-for-a-fresh-home/): Persistent smells indicate lingering contaminants trapped in surfaces.
 
-### Quick Solutions:
+## Quick Solutions
 
 -   Use **HEPA air filters** to remove fine particles.
 -   Install air purifiers with **activated carbon** to eliminate toxic vapors.

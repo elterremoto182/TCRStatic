@@ -12,7 +12,7 @@ keywords: ["ozone", "treatment", "effective", "safety", "restoration", "bacteria
 
 Ozone air treatment is a powerful method to eliminate mold, bacteria, and viruses at a molecular level. By using ozone gas (O₃), this process breaks down harmful microorganisms and odors without leaving behind residues. It’s widely used in homes, commercial spaces, and industries like healthcare and hospitality for deep cleaning and [Indoor Air Quality](/services/indoor-air-quality).
 
-### Key Takeaways:
+## Key Takeaways
 
 -   **How It Works**: Ozone oxidizes and destroys cells of mold, bacteria, and viruses, preventing their spread.
 -   **Applications**: Effective for post-disaster restoration, odor removal, and disinfecting areas like hospitals, vehicles, and rental properties.

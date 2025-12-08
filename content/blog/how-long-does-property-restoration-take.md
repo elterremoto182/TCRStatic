@@ -17,7 +17,7 @@ When property damage occurs, one of the first things you want to know is: **how 
 -   **Storm Damage**: Typically 3 to 8 weeks, but larger disasters may take longer.
 -   [**Mold Remediation**](/services/mold-remediation/): Usually 1 to 2 weeks, but extensive infestations can take longer.
 
-### Key Factors Affecting Timelines:
+## Key Factors Affecting Timelines
 
 1.  **Severity of Damage**: Larger or more complicated issues take longer.
 2.  **Insurance Processing**: Delays in claim approvals can stall work.
