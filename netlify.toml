@@ -2,16 +2,9 @@
   publish = "out"
   command = "npm run build:optimized"
 
-[[plugins]]
-  package = "netlify-plugin-inline-critical-css"
-
-  [plugins.inputs]
-  # Only process key landing pages to avoid timeout
-  fileFilter = [
-    "index.html",
-    "about/**/index.html",
-    "contact/**/index.html",
-    "services/**/index.html",
-    "services-*/**/index.html"
-  ]
+# Critical CSS plugin disabled - causes Penthouse timeout on large sites
+# [[plugins]]
+#   package = "netlify-plugin-inline-critical-css"
+#   [plugins.inputs]
+#   fileFilter = ["index.html"]
 
