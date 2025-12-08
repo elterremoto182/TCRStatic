@@ -9,7 +9,7 @@ seo_description: "We’ll explain the steps for water damage restoration and the
 keywords: ["water dry out"]
 ---
 
-![Image](https://lh4.googleusercontent.com/dRefvTo_Q-Pg-ZwGMK3hrrxSM8FwK60GjVNhFWE8uKVAbku5CUFQAsQXKEAigjHWl9KLzYMQJ_qAbCJAHQNu0OnbTJzb9A7LHPLdNebVnt24B8aHXAn4nP7rWYmxTtCBkxwC-fdG)
+![Water damage dry out process](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
 
 ### **Introduction**
 

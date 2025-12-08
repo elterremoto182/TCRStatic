@@ -15,11 +15,11 @@ Dealing with water damage in a home or business can be confusing and frustrating
 
 ## **Categories of Water Damage**
 
-![Image](https://lh3.googleusercontent.com/37tbhfKJz9L-sOVOs-zZpXK2CKAf_7ZySNzA8J1Rhs8E097yPxsnAdNw5kwBGX86OIEl4Mq6dBapcqrGj0YZN4ykt8h9PpP8D4wEIwNNAV6rqJSESbFNHlS8C2X_kjujOrgvb-5P)
+![Categories of water damage](/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg)
 
 ## **Classes of Water Damage**
 
-![Image](https://lh3.googleusercontent.com/Uvo2aHdpwmQzqONQ17uInGbXoI4l3yBAWo_D4WLcXjtbfkmipDY-t4p5WHV0YnCH03m_hgz_eHKJEHBnBFVoP0g0iPtTEV4-XgJbWCz56p9J4TP97Y38VN5-UfXwqBZe2WmbF3mA)
+![Classes of water damage](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
 
 ## **Causes of Water Damage**
 
@@ -108,9 +108,9 @@ Having your home damaged by water is an incredibly stressful and emotional exper
 
 Ways to keep yourself safe in the event of water damage.
 
-![Image](https://lh6.googleusercontent.com/lJDKJCVu_YSjMjaS96ff9vzlgQmKefZUtM69DSVWEjrGgHZ4pyfLR6qwLyE7rQqLHezU9aJr9cebRk5kQY4eChZzjBHvcqMVk7iExs9MpVoXlsR0CPlES6ZR2dYX9oMVgM4wVDMR)
+![Water damage safety equipment](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
-![Image](https://lh4.googleusercontent.com/cK975y2VJRGJp4x1WW00D4wtpUOpSpMeAvBs__DlKHBsPmf4Owl9V2CA10TP-XVcb1A_E8XXItbaCf73h743kZziAReenMLEwBeKWBdQaGo5gcMqSiy0dHpPNt6RjjgdRUv_a4vh)
+![Water damage restoration process](/wp-content/uploads/2022/07/drying-floors-scaled.jpg)
 
 ## **What to Expect After the Cleanup Process**
 
@@ -140,6 +140,6 @@ Deciding whether or not to hire an adjuster for your claim will depend on a vari
 
 For comprehensive planning, use our [Flood Damage Recovery Planner](/flood-damage-recovery-planner/) to organize your restoration timeline and tasks. If you're interested in sustainable approaches, check out our guide on [Top 7 Eco-Friendly Water Damage Restoration Methods](/top-7-eco-friendly-water-damage-restoration-methods/).
 
-![Image](https://lh3.googleusercontent.com/Jdx95vN5va9Z06CK0tHhWpB_vcBSV_PmKGNq8_qvi9BNuyv0S_gtOedvqM37OjWJKCyBxgzRNsmsnMBYLLZQdHERgjyd-6ZIVvwPq70EogGQMd-pIr99Ip_zczgqL279KfDc3e04)
+![Water damage restoration checklist](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
 
-![Image](https://lh6.googleusercontent.com/MHlFbPJy6_lDosCiDc67kLVuMWryn5UyuVjpQq7jQTkit0QHMUBexXN4HE_AfJ1aEBKOFBEiChxsms-onc6syWrNAVy9uaLEO0x1xlhqF8J-DM4khxUiqs9WrplKmOTe2ro_eQ_m)
+![Water restoration tips](/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg)
