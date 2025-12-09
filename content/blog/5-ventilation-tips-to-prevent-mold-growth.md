@@ -129,7 +129,7 @@ High humidity provides the perfect environment for mold to thrive. Warm, damp ai
 
 A hygrometer is a handy tool for keeping tabs on indoor moisture levels. These devices measure the amount of moisture in the air, and digital models often provide both humidity readings and temperature data.
 
-Place hygrometers in areas where humidity tends to spike, such as basements, bathrooms, kitchens, and laundry rooms. Check the readings daily, especially after activities like cooking or showering, which can raise humidity levels. If the humidity consistently climbs above 50% or stays above 60% for extended periods, it’s time to take action. Many digital hygrometers even have alerts to notify you when humidity exceeds a preset level.
+Place hygrometers in areas where humidity tends to spike, such as basements, bathrooms, kitchens, and laundry rooms. Check the readings daily, especially after activities like cooking or showering, which can raise humidity levels. If the humidity consistently climbs above 50% or stays above 60% for extended periods, it's time to take action. Many digital hygrometers even have alerts to notify you when humidity exceeds a preset level. Want to know your exact risk level? Try our [Mold Growth Risk Calculator](/mold-growth-risk-calculator/) to assess the conditions in your home.
 
 ### Use Dehumidifiers and Air Conditioners
 

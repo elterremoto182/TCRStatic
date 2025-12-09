@@ -45,6 +45,8 @@ Clogged drains cause water backups that stress your plumbing. Prevent clogs by:
 - Using mesh strainers to catch food scraps
 - Flushing drains monthly with baking soda and vinegar
 
+Proper drain venting is also essential for preventing clogs and ensuring efficient drainage. Learn more about [advanced venting solutions for plumbing drains](/exploring-advanced-venting-solutions-for-plumbing-drains-what-you-need-to-know/) to understand how your plumbing system works.
+
 ## 4. Inspect and Maintain Your Water Heater
 
 Your water heater accounts for about 18% of home energy use. Annual maintenance tasks include:

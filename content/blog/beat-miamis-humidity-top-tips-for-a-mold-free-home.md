@@ -34,7 +34,7 @@ Kitchens, bathrooms, basements, and laundry rooms are typically most prone to mo
 
 ### Controlling Indoor Humidity
 
-Regular use of air conditioners and dehumidifiers can help maintain the ideal indoor humidity level (between 30% and 50%). This can significantly reduce the likelihood of mold growth. Ensure that your home is well-ventilated and that moisture-generated rooms like bathrooms have functional exhaust fans. For more detailed guidance, see our [5 Ventilation Tips to Prevent Mold Growth](/5-ventilation-tips-to-prevent-mold-growth/) and learn how to [Protect Your Furniture and Floors from Florida's Damp Days](/protect-your-furniture-and-floors-from-floridas-damp-days/).
+Regular use of air conditioners and dehumidifiers can help maintain the ideal indoor humidity level (between 30% and 50%). This can significantly reduce the likelihood of mold growth. Ensure that your home is well-ventilated and that moisture-generated rooms like bathrooms have functional exhaust fans. Use our [Mold Growth Risk Calculator](/mold-growth-risk-calculator/) to assess your home's risk based on humidity levels and other factors. For more detailed guidance, see our [5 Ventilation Tips to Prevent Mold Growth](/5-ventilation-tips-to-prevent-mold-growth/) and learn how to [Protect Your Furniture and Floors from Florida's Damp Days](/protect-your-furniture-and-floors-from-floridas-damp-days/).
 
 ### Maintain Your Plumbing
 

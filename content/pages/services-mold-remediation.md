@@ -131,7 +131,7 @@ At Total Care Restoration, our mission is to help homeowners and business owners
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 
-[Learn More →](/about/)
+[Learn More About Total Care Restoration →](/about/)
 
 ## Testimonial
 

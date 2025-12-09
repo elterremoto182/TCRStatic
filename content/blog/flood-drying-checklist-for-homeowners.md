@@ -143,7 +143,7 @@ Once your home is dry, it’s time to clean and disinfect all surfaces to remove
 
 > "Floodwater may carry silt, raw sewage, oil or chemical wastes that can cause a whole range of bacterial, viral and/or parasitic diseases. That’s why proper clean-up methods are critical, requiring disinfecting, not just cleaning."
 > 
-> -   [American Cleaning Institute](https://www.cleaninginstitute.org/) (ACI)
+> -   American Cleaning Institute (ACI)
 
 ### Clean and Disinfect All Surfaces
 
