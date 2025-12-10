@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/06/image_76964b2add79727c7791d48f06cf75ee.jpeg"
 seo_title: "Steps After Insurance Claim Denial | Total Care Restoration"
 seo_description: "Learn essential steps to take after your insurance claim is denied, including how to appeal and gather supporting evidence."
-keywords: ["insurance", "claim", "damage", "denial", "appeal", "evidence", "policy", "company", "restoration", "denied"]
+keywords: ["insurance claim denial steps", "appeal denied restoration claim"]
 ---
 
 When your insurance claim is denied, it’s not the end of the road. Here’s how to handle it:

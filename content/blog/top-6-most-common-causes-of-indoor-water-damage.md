@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/05/image_344d241ba7b91c0474f5b59473e7d3ec.jpeg"
 seo_title: "Top 6 Most Common Causes of Indoor Water Damage | Total Care Restoration"
 seo_description: "Learn about the top causes of indoor water damage and how to prevent costly repairs with simple maintenance tips."
-keywords: ["water", "damage", "leaks", "appliances", "plumbing", "signs", "prevent", "pipes", "issues", "smart"]
+keywords: ["common causes of water damage", "indoor water damage prevention"]
 ---
 
 **Did you know?** Water damage affects 40% of U.S. homeowners, and a single inch of water can cause **$25,000** in damage. The good news? **93% of water damage incidents are preventable.**

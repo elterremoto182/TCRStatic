@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/09/image_0412b3cee149c53a85b9eff244e99139.jpeg"
 seo_title: "Signs of Structural Damage After a Fire | Total Care Restoration"
 seo_description: "Learn how to identify signs of structural damage after a fire, including cracks, warping, and water damage, to ensure your property's safety."
-keywords: ["damage", "cracks", "structural", "restoration", "water", "often", "smoke", "building", "bearing", "walls"]
+keywords: ["structural damage after fire", "fire damage warning signs"]
 ---
 
 After a fire, the damage goes far beyond what’s visible. Cracks, warped materials, weakened load-bearing elements, smoke residue, and water [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) can severely compromise a building’s safety. Ignoring these signs risks further deterioration and potential collapse. Here’s what you need to know:

@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/06/image_b8c14a586aaf86ec37cc4fe4583cc864.jpeg"
 seo_title: "Common Air Quality Issues After Fire Cleanup | Total Care Restoration"
 seo_description: "Air quality can remain hazardous long after fire cleanup. Learn about lingering toxins and essential restoration methods for safety."
-keywords: ["smoke", "particles", "quality", "health", "professional", "water", "contaminants", "odors", "risks", "restoration"]
+keywords: ["air quality issues after fire", "post-fire cleanup air quality"]
 ---
 
 

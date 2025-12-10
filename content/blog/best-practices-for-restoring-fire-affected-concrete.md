@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/08/image_01ed48a07bfbe00ddf8799808735371d.jpeg"
 seo_title: "Best Practices for Restoring Fire-Affected Concrete"
 seo_description: "Learn essential techniques for assessing, cleaning, and repairing fire-damaged concrete to ensure safety and durability."
-keywords: ["concrete", "repair", "damage", "repairs", "testing", "structural", "surface", "cracks", "restoration", "methods"]
+keywords: ["fire damaged concrete repair", "restoring fire affected concrete"]
 ---
 
 

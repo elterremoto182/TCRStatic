@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/07/image_e8fee95e1fc4f5881036111ddb842d9d.jpeg"
 seo_title: "How to Clean Air Purifier Filters | Total Care Restoration"
 seo_description: "Learn essential tips for cleaning air purifier filters and maintaining optimal air quality in your home for better health and efficiency."
-keywords: ["filters", "purifier", "filter", "cleaning", "quality", "clean", "water", "months", "maintenance", "carbon"]
+keywords: ["clean air purifier filters", "air purifier maintenance"]
 ---
 
 Cleaning your air purifier filters is crucial for maintaining good [Air Quality Inspections](/services/air-quality-inspections/) and ensuring your device works efficiently. Dirty filters reduce performance and increase energy use. Here’s a quick guide to keep your air purifier running smoothly:

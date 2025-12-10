@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/08/image_b2d66cc96f0f38f211cbe4144b998360.jpeg"
 seo_title: "Fire-Damaged Wood: Repair or Replace? | Total Care Restoration"
 seo_description: "Learn how to assess fire-damaged wood in your home and decide whether to repair or replace it based on safety and cost considerations."
-keywords: ["damage", "damaged", "structural", "repair", "smoke", "restoration", "replacement", "safety", "often", "professional"]
+keywords: ["fire damaged wood repair", "replace fire damaged wood"]
 ---
 
 When a fire damages wood in your home, deciding between repair or replacement depends on **safety, cost, and extent of damage**. Here’s what you need to know:

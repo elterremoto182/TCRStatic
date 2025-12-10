@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/10/image_9e238dd292c1ebdc9de3ccd233b2e6a6.jpeg"
 seo_title: "How Professionals Assess Smoke Odor in Properties | Total Care Restoration"
 seo_description: "Learn how professionals assess smoke odor in properties, ensuring safety, thorough cleanup, and accurate insurance documentation."
-keywords: ["smoke", "damage", "contamination", "professionals", "restoration", "property", "materials", "particles", "areas", "professional"]
+keywords: ["smoke odor assessment", "professional smoke damage inspection"]
 ---
 
 Smoke odor isn't just unpleasant. It signals harmful particles that pose health risks and lower property value.

@@ -6,7 +6,7 @@ author: "Tomasz Alemany"
 category: "Tarp"
 seo_title: "Step-by-Step Guide to Tarping a Roof After a Storm | Total Care Restoration"
 seo_description: "Step-by-Step Guide to Tarping a Roof After a Storm In the ever-sunny city of Miami, storms are more the exception than they are a norm, and when they do occur, they often leave a trail of destruction in their wake. If you are amongst those homeowners who face damage to their house&#8217;s roofing, don&#8217;t fret; &hellip;  Continued"
-keywords: ["tarping", "damage", "professional", "shrink", "wrapping", "guide", "storm", "miami", "protect", "secure"]
+keywords: ["roof tarping guide", "storm damage roof protection"]
 ---
 
 ## Step-by-Step Guide to Tarping a Roof After a Storm

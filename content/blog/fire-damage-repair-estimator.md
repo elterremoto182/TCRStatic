@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/09/image_a0ca70aab6a0277e04ff1c67d388957d.jpeg"
 seo_title: "Fire Damage Repair Estimator | Total Care Restoration"
 seo_description: "Estimate fire damage repair costs fast with our free tool. Input area size and damage extent for a detailed breakdown. Try it now!"
-keywords: ["damage", "costs", "repair", "smoke", "estimator", "restoration", "factors", "surface", "structural", "total"]
+keywords: ["fire damage repair cost", "fire restoration estimator"]
 ---
 
 <iframe src="https://app.wrapifai.com/embed/65ee5c" width="100%" height="400px" frameborder="0"></iframe>

@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/09/image_0ea7eec5aa8c716a0db8a20eca2ce1dc.jpeg"
 seo_title: "Water Damage Cost Calculator | Total Care Restoration"
 seo_description: "Estimate water damage repair costs fast with our free calculator. Input area size, damage type, and more to get a detailed cost breakdown!"
-keywords: ["water", "damage", "costs", "issues", "clean", "professional", "black", "calculator", "repair", "especially"]
+keywords: ["water damage cost calculator", "water damage repair costs"]
 ---
 
 <iframe src="https://app.wrapifai.com/embed/8e3776" width="100%" height="400px" frameborder="0"></iframe>

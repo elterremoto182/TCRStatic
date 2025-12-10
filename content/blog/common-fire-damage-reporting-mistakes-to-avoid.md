@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/06/image_6e4afd4d2ce399eac3176513e3e77c6e.jpeg"
 seo_title: "Common Fire Damage Reporting Mistakes to Avoid | Total Care Restoration"
 seo_description: "Avoid common pitfalls in fire damage reporting to ensure your insurance claim is processed smoothly and you receive fair compensation."
-keywords: ["damage", "insurance", "claim", "documentation", "claims", "process", "reporting", "detailed", "restoration", "repairs"]
+keywords: ["fire damage insurance claim mistakes", "fire damage reporting tips"]
 ---
 
 

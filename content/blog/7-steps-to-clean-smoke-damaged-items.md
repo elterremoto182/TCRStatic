@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/06/image_b35e474592d87deab576f55d54170453.jpeg"
 seo_title: "7 Steps to Clean Smoke-Damaged Items | Total Care Restoration"
 seo_description: "Learn effective steps to clean smoke-damaged items, ensuring safety while preserving your belongings and improving indoor air quality."
-keywords: ["smoke", "damage", "cleaning", "particles", "odors", "items", "restoration", "professional", "clean", "residue"]
+keywords: ["clean smoke damaged items", "smoke damage cleaning guide"]
 ---
 
 

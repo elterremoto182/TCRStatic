@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/09/image_6d64390117121b2f7040a1f519b57ba1.jpeg"
 seo_title: "Post-Fire Concrete Repairs: Moisture Effects | Total Care Restoration"
 seo_description: "Moisture plays a critical role in the deterioration of fire-damaged concrete, complicating repairs and necessitating effective moisture management."
-keywords: ["moisture", "concrete", "damage", "repairs", "repair", "structural", "damaged", "restoration", "cracks", "surface"]
+keywords: ["post-fire concrete repairs", "fire damage moisture effects"]
 ---
 
 When fire damages concrete, it’s not just the heat that weakens it – moisture plays a major role in its deterioration and complicates repairs. High temperatures cause cracks, spalling, and permanent chemical changes, while firefighting water and altered pore structures lead to unpredictable moisture movement, salt buildup, and long-term damage. [Best Practices For Restoring Fire Affected Concrete](/best-practices-for-restoring-fire-affected-concrete/) requires careful moisture control to prevent further deterioration and ensure durable repairs.

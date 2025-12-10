@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/06/image_f598d3da9a7ddbcebbb972bde5d6c114.jpeg"
 seo_title: "Fire Damage Inspection Steps | Total Care Restoration"
 seo_description: "Learn essential fire damage inspection steps to ensure safety, identify hazards, and prepare for restoration and insurance claims."
-keywords: ["damage", "water", "restoration", "moisture", "structural", "hidden", "inspection", "areas", "smoke", "insurance"]
+keywords: ["fire damage inspection checklist", "fire inspection steps"]
 ---
 
 **Dealing with [Fire Restoration](/services/fire-restoration/)?** Here’s a quick guide to inspecting your property safely and thoroughly after a fire. Follow these steps to identify visible and hidden damage, ensure safety, and prepare for restoration and insurance claims:

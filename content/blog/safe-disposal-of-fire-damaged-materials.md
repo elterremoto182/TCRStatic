@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/07/image_6f16663b340d2632e6f4ce703b85971b.jpeg"
 seo_title: "Safe Disposal of Fire-Damaged Materials | Total Care Restoration"
 seo_description: "Learn about safe disposal methods for fire-damaged materials, including health risks, legal compliance, and when to call professionals."
-keywords: ["materials", "hazardous", "damaged", "disposal", "asbestos", "health", "risks", "items", "safety", "debris"]
+keywords: ["fire damaged material disposal", "safe debris disposal after fire"]
 ---
 
 After a fire, dealing with damaged materials isn’t just about cleanup – it’s about protecting your health, following federal and state laws, and avoiding hefty fines. Fire-damaged items can release harmful chemicals, contaminate the environment, and pose serious health risks. Here’s what you need to know:

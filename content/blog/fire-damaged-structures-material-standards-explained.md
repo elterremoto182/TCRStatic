@@ -7,7 +7,7 @@ category: "Water"
 image: "/wp-content/uploads/2025/11/image_489ae455b2b226b1905d67cc81ac3304.jpeg"
 seo_title: "Fire-Damaged Structures: Material Standards Explained"
 seo_description: "Learn how fire damage affects various building materials and the standards for safe restoration to ensure structural integrity and compliance."
-keywords: ["restoration", "damaged", "damage", "safety", "standards", "repairs", "building", "materials", "codes", "material"]
+keywords: ["fire damaged building materials", "fire restoration standards"]
 ---
 
 When a building is damaged by fire, its structural safety is often compromised. Materials like **concrete, steel, wood, and masonry** react differently to extreme heat, and proper restoration requires strict adherence to safety standards and building codes. Here’s what you need to know:
