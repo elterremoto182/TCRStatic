@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "build:optimized": "next build && next-image-export-optimizer",
+    "build": "NODE_ENV=production next build",
+    "build:optimized": "NODE_ENV=production next build && next-image-export-optimizer",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",

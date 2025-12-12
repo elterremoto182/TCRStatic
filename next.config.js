@@ -21,6 +21,18 @@ const nextConfig = {
     deviceSizes: [480, 640, 828, 1080, 1200, 1920], // Added 480 for mobile cards
   },
   trailingSlash: true,
+  // Explicitly ensure minification is enabled for production builds
+  webpack: (config, { dev, isServer }) => {
+    // Ensure minification is enabled in production for all builds
+    if (!dev) {
+      config.optimization = {
+        ...config.optimization,
+        minimize: true,
+        minimizer: config.optimization.minimizer || [],
+      };
+    }
+    return config;
+  },
   env: {
     nextImageExportOptimizer_imageFolderPath: 'public',
     nextImageExportOptimizer_exportFolderPath: 'out',
