@@ -188,3 +188,122 @@
     background-color: #B84A00;
   }
 }
+
+/* Markdown content styles - applied to build-time rendered HTML */
+@layer components {
+  .markdown-content h1 {
+    @apply text-4xl font-bold tracking-tight text-gray-900 mb-4 mt-8;
+  }
+
+  .markdown-content h2 {
+    @apply text-3xl font-bold tracking-tight text-gray-900 mb-3 mt-8;
+  }
+
+  .markdown-content h3 {
+    @apply text-2xl font-bold tracking-tight text-gray-900 mb-3 mt-6;
+  }
+
+  .markdown-content h4 {
+    @apply text-xl font-bold tracking-tight text-gray-900 mb-2 mt-4;
+  }
+
+  .markdown-content p {
+    @apply text-gray-600 leading-relaxed mb-4;
+  }
+
+  .markdown-content ul {
+    @apply list-disc list-inside space-y-2 mb-4 text-gray-600;
+  }
+
+  .markdown-content ol {
+    @apply list-decimal list-inside space-y-2 mb-4 text-gray-600;
+  }
+
+  .markdown-content li {
+    @apply text-gray-600;
+  }
+
+  .markdown-content blockquote {
+    @apply border-l-4 border-primary pl-4 italic my-4 text-gray-700;
+  }
+
+  .markdown-content strong {
+    @apply font-bold text-gray-900;
+  }
+
+  .markdown-content a {
+    @apply text-primary hover:underline;
+  }
+
+  .markdown-content a[href^="tel:"] {
+    @apply call-now-button block text-center my-8 text-white no-underline hover:no-underline;
+  }
+
+  .markdown-content img {
+    @apply my-6 rounded-lg max-w-full h-auto mx-auto block;
+  }
+
+  .markdown-content iframe {
+    @apply my-6 w-full rounded-lg;
+    aspect-ratio: 16/9;
+  }
+
+  /* YouTube facade placeholder styling (before hydration) */
+  .markdown-content .youtube-facade-placeholder {
+    @apply my-6 w-full rounded-lg bg-gray-200;
+    aspect-ratio: 16/9;
+    max-width: 100%;
+  }
+
+  /* YouTube facade styling (after hydration) */
+  .youtube-facade {
+    @apply my-6 w-full max-w-full overflow-hidden;
+  }
+
+  .youtube-facade-button {
+    @apply relative w-full cursor-pointer block;
+    aspect-ratio: 16/9;
+    border: none;
+    padding: 0;
+    background: transparent;
+  }
+
+  .youtube-facade-button:hover .youtube-facade-overlay {
+    @apply bg-black/30;
+  }
+
+  .youtube-facade-button:hover .youtube-facade-play-btn {
+    @apply bg-red-700 scale-110;
+  }
+
+  .youtube-facade-thumb {
+    @apply absolute inset-0 w-full h-full object-cover rounded-lg;
+    margin: 0 !important;
+  }
+
+  .youtube-facade-overlay {
+    @apply absolute inset-0 bg-black/20 rounded-lg transition-colors;
+  }
+
+  .youtube-facade-play {
+    @apply absolute inset-0 flex items-center justify-center;
+  }
+
+  .youtube-facade-play-btn {
+    @apply w-16 h-16 md:w-20 md:h-20 bg-red-600 rounded-full flex items-center justify-center shadow-lg transition-all;
+  }
+
+  .youtube-facade-play-icon {
+    @apply w-8 h-8 md:w-10 md:h-10 text-white ml-1;
+  }
+
+  .youtube-facade-iframe-wrapper {
+    @apply relative w-full overflow-hidden rounded-lg;
+    aspect-ratio: 16/9;
+  }
+
+  .youtube-facade-iframe {
+    @apply absolute inset-0 w-full h-full rounded-lg;
+    border: none;
+  }
+}

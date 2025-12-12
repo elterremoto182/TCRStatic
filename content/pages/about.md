@@ -3,8 +3,9 @@ title: "About"
 slug: "about"
 menu_order: 0
 seo_title: "About - Total Care Restoration"
-seo_description: "Learn more about Total Care Restoration—South Florida’s trusted experts in water, fire, mold, and storm damage restoration. Discover our mission, team, and commitment to customer care."
+seo_description: "Learn more about Total Care Restoration—South Florida's trusted experts in water, fire, mold, and storm damage restoration. Discover our mission, team, and commitment to customer care."
 keywords: ["about total care restoration"]
+feature_image: "/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-12.13.10-PM.png"
 ---
 
 We are a local, family business, which focuses on property emergencies. These emergencies can range from water leaks, shower pan failures, and sewage backups in your plumbing systems to other leaks like roof leaks and window leaks.

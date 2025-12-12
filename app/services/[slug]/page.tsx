@@ -192,6 +192,8 @@ export default async function ServicePage({
                   alt={page.title}
                   fill
                   className="object-cover"
+                  priority
+                  fetchPriority="high"
                   sizes="(max-width: 768px) 100vw, (max-width: 1024px) 90vw, 896px"
                 />
               </div>

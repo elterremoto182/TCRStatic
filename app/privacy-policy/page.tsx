@@ -27,7 +27,7 @@ export async function generateMetadata() {
   });
 }
 
-export default function PrivacyPolicyPage() {
+export default async function PrivacyPolicyPage() {
   const page = getPageBySlug('privacy-policy');
 
   if (!page) {
