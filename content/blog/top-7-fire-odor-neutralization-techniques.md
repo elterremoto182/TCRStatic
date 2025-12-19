@@ -88,13 +88,13 @@ Because of its technical and safety requirements, thermal fogging should only be
 
 ## 3\. HEPA Air Filtration
 
-After thermal fogging, HEPA air filtration steps in to tackle lingering particulate matter, working alongside other odor-neutralizing methods. This approach plays a key role in fire recovery plans by improving [Indoor Air Quality](/services/indoor-air-quality) and capturing fine particles left behind. However, while HEPA filters are excellent at trapping particulates, they need to be paired with activated carbon filters to effectively absorb the volatile compounds that cause fire-related odors.
+After thermal fogging, HEPA air filtration steps in to tackle lingering particulate matter, working alongside other odor-neutralizing methods. This approach plays a key role in fire recovery plans by improving indoor air quality and capturing fine particles left behind. However, while HEPA filters are excellent at trapping particulates, they need to be paired with activated carbon filters to effectively absorb the volatile compounds that cause fire-related odors.
 
 HEPA filters are designed to capture 99.97% of particles as small as 0.3 microns. However, they cannot remove gaseous contaminants on their own. Combining HEPA filters with carbon filters ensures a more thorough odor removal process, as carbon filters break down odor molecules efficiently.
 
 It’s important to note that HEPA air filtration works best when integrated into a larger fire recovery strategy, rather than being used as a standalone solution. Portable HEPA air purifiers are particularly useful during the initial cleanup phase, as they can quickly improve air quality. Research also shows that well-constructed DIY air purifiers, when used with proper ventilation, can significantly reduce smoke particles.
 
-> "Portable air cleaners, including DIY air cleaners, are only part of a [Indoor Air Quality](/services/indoor-air-quality/) strategy. They do not replace the need for ventilation and should be used in conjunction with other appropriate health measures."  
+> "Portable air cleaners, including DIY air cleaners, are only part of a indoor air quality strategy. They do not replace the need for ventilation and should be used in conjunction with other appropriate health measures."  
 > – [EPA](https://www.epa.gov/)
 
 From a safety perspective, HEPA air filtration is one of the safest methods for addressing fire odors, provided maintenance guidelines are followed. For example, DIY air purifiers should use box fans made after 2012, as these include safety features like fused plugs and thermal cutoffs. Additionally, it’s crucial to avoid air purifiers that produce unhealthy levels of ozone.
@@ -107,7 +107,7 @@ One standout advantage of HEPA air filtration is its accessibility. It can be im
 | Washable | Clean periodically | 2–5 years |
 | Permanent | Clean and inspect regularly | 5+ years |
 
-While HEPA filtration alone may not completely eliminate fire odors, it plays a crucial role in [Air Quality Inspections](/services/air-quality-inspections/) and amplifying the results of other treatments. For a more comprehensive fire recovery plan, combining HEPA filtration with proven odor removal techniques is key. [Miramar restoration services](/miramar-restoration-services/) – like those offered by () – can provide expert guidance and round-the-clock support. This method of capturing particles lays the foundation for additional treatments aimed at addressing chemical residues left by fire damage.
+While HEPA filtration alone may not completely eliminate fire odors, it plays a crucial role in air quality issues and amplifying the results of other treatments. For a more comprehensive fire recovery plan, combining HEPA filtration with proven odor removal techniques is key. [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) – like those offered by () – can provide expert guidance and round-the-clock support. This method of capturing particles lays the foundation for additional treatments aimed at addressing chemical residues left by fire damage.
 
 ## 4\. Activated Charcoal Absorption
 
@@ -181,7 +181,7 @@ To prevent cross-contamination, establish clear boundaries between damaged and u
 
 While deep cleaning and material removal require effort and planning, they can be manageable with proper preparation – or professional help when needed. For minor damage, property owners can handle basic tasks using a mix of warm water and vinegar or commercial cleaning products designed to neutralize odors. Improving ventilation by opening windows and doors can also aid the process.
 
-For extensive damage or situations involving hazardous materials, [Commercial](/services/commercial/) are essential. These experts have the tools and expertise to safely address smoke, soot, fire damage, and chemical hazards. In cases involving contaminated food or kitchen items, avoid consuming anything from the affected area – even if containers appear sealed. Always consult professionals before attempting to clean or salvage these items.
+For extensive damage or situations involving hazardous materials, [Commercial](/water-damage-restoration/commercial/) are essential. These experts have the tools and expertise to safely address smoke, soot, fire damage, and chemical hazards. In cases involving contaminated food or kitchen items, avoid consuming anything from the affected area – even if containers appear sealed. Always consult professionals before attempting to clean or salvage these items.
 
 If the damage is severe, restoration companies like () offer 24/7 emergency services. Their certified professionals can quickly begin the restoration process, helping to minimize long-term odor issues and prevent further damage to your property.
 
@@ -213,7 +213,7 @@ Always store these cleaners out of reach of children and pets, and carefully rea
 
 ### Accessibility and Ease of Implementation
 
-Enzymatic cleaners are widely available through cleaning supply retailers and are straightforward to use. Most products come ready-to-use or require only simple dilution with water, making them accessible for homeowners tackling [Fire Restoration](/services/fire-restoration/). Choosing the right product for the specific type of contamination is crucial for effective odor removal.
+Enzymatic cleaners are widely available through cleaning supply retailers and are straightforward to use. Most products come ready-to-use or require only simple dilution with water, making them accessible for homeowners tackling [Fire Damage Restoration](/fire-damage-restoration/). Choosing the right product for the specific type of contamination is crucial for effective odor removal.
 
 To use, simply spray or apply the solution to the affected area and allow enough time for the enzymes to work. Unlike chemical cleaners that act quickly, enzymatic products take longer as they break down complex organic compounds. However, this slower process often results in more thorough and lasting odor elimination.
 

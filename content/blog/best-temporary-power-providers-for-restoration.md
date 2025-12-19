@@ -12,7 +12,7 @@ keywords: ["temporary power for restoration", "restoration power providers"]
 
 When fire damages your property, temporary power services are often essential. You need electricity to run water pumps, dehumidifiers, and lighting. Without power, restoration can't proceed safely.
 
-The right provider offers quick response times, certified technicians, and help with insurance claims. [Plantation restoration services](/plantation-restoration-services/) and other local teams can get you back up and running fast.
+The right provider offers quick response times, certified technicians, and help with insurance claims. [Plantation water damage restoration](/water-damage-restoration/residential/plantation/) and other local teams can get you back up and running fast.
 
 ## Key Takeaways
 
@@ -29,7 +29,7 @@ Picking the right provider is key for fire restoration. It ensures power returns
 
 ### Fast Response and 24/7 Availability
 
-After a fire, every hour without power can cause more problems. [West Palm Beach restoration services](/west-palm-beach-restoration-services/) providers must be available around the clock. A response time of 24–48 hours is crucial to prevent issues like mold or electrical risks.
+After a fire, every hour without power can cause more problems. [West Palm Beach area water damage restoration](/water-damage-restoration/residential/boca-raton/) providers must be available around the clock. A response time of 24–48 hours is crucial to prevent issues like mold or electrical risks.
 
 **What to check:**
 
@@ -62,17 +62,17 @@ Insurance claims during fire restoration can be stressful. Providers that handle
 
 ## Total Care Restoration: Fire Restoration Services
 
-When fire impacts your home or business, you need a partner who understands the urgency. Since 2015, Total Care Restoration has helped Southeast Florida recover from fire damage. They combine expert [Miami Beach restoration services](/miami-beach-restoration-services/) with reliable temporary power solutions.
+When fire impacts your home or business, you need a partner who understands the urgency. Since 2015, Total Care Restoration has helped Southeast Florida recover from fire damage. They combine expert [Miami Beach water damage restoration](/water-damage-restoration/residential/miami-beach/) with reliable temporary power solutions.
 
 ### Comprehensive Restoration Services
 
 Total Care Restoration goes beyond fixing visible fire damage. They handle the full scope of recovery, including:
 
 - Fire restoration
-- [Fort Lauderdale restoration service](/fort-lauderdale-restoration-service/) (from firefighting water)
-- [Boca Raton restoration services](/boca-raton-restoration-services/)
-- [Broward County restoration services](/broward-county-restoration-services/)
-- [Sunrise restoration services](/sunrise-restoration-services/)
+- [Fort Lauderdale water damage restoration](/water-damage-restoration/residential/fort-lauderdale/) (from firefighting water)
+- [Boca Raton water damage restoration](/water-damage-restoration/residential/boca-raton/)
+- [Broward County water damage restoration](/water-damage-restoration/residential/fort-lauderdale/)
+- [Sunrise area water damage restoration](/water-damage-restoration/residential/coral-springs/)
 
 This all-in-one approach eliminates the need for multiple contractors. One team manages everything from the first assessment to final reconstruction.
 

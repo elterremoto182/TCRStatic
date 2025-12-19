@@ -19,7 +19,7 @@ Dealing with water damage can be a stressful and overwhelming experience for any
 
 ### Understanding the Water Damage Restoration Process
 
-When your home experiences water damage, it is essential to act quickly to prevent further damage and minimize the risk of mold growth. Total Care Restoration offers a comprehensive water restoration service ([Water Restoration](/services/water-restoration/)) that follows a step-by-step process to repair and restore your property.
+When your home experiences water damage, it is essential to act quickly to prevent further damage and minimize the risk of mold growth. Total Care Restoration offers a comprehensive water restoration service ([Water Damage Restoration](/water-damage-restoration/)) that follows a step-by-step process to repair and restore your property.
 
 #### Assessment and Inspection
 
@@ -35,7 +35,7 @@ After water extraction, the next crucial step is to dry out the flooded space th
 
 ### The Role of Air Movers in the Drying Process
 
-Air movers, also known as blowers or fans, are essential tools in water damage restoration. These powerful fans work by creating airflow over wet surfaces, facilitating evaporation and reducing the drying time significantly. Air movers play a vital role in drying out a flooded space effectively and preventing mold growth ([Mold Remediation](/services/mold-remediation/)).
+Air movers, also known as blowers or fans, are essential tools in water damage restoration. These powerful fans work by creating airflow over wet surfaces, facilitating evaporation and reducing the drying time significantly. Air movers play a vital role in drying out a flooded space effectively and preventing mold growth ([Mold Remediation](/mold-remediation/)).
 
 #### Circulating Airflow
 
@@ -67,7 +67,7 @@ Companies like Total Care Restoration have access to state-of-the-art equipment,
 
 #### Mold Prevention
 
-With their expertise, professional water damage restoration companies can effectively identify and address potential mold growth risks. They take the necessary steps to prevent mold from developing and spreading, safeguarding your home and your family’s health. Learn more about the mold remediation process [Mold Remediation](/services/mold-remediation/).
+With their expertise, professional water damage restoration companies can effectively identify and address potential mold growth risks. They take the necessary steps to prevent mold from developing and spreading, safeguarding your home and your family’s health. Learn more about the mold remediation process [Mold Remediation](/mold-remediation/).
 
 ### Conclusion
 

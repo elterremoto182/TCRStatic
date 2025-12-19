@@ -57,9 +57,9 @@ Traditional methods often require roof penetrations for vent stacks. These metho
 
 For example, venting a kitchen sink traditionally means running a pipe through walls up to the roof. This adds complexity and cost. Extensive work increases the chance of structural damage. This could lead to [Tell Mold Behind Walls](/tell-mold-behind-walls) and pose health risks.
 
-In such cases, [Roof Tarping](/services/roof-tarping) can help protect damage temporarily while you find a permanent fix.
+In such cases, [Roof Tarping](/roof-tarping/) can help protect damage temporarily while you find a permanent fix.
 
-Modern techniques like [Video Inspection](/services/video-inspection) provide insights into plumbing issues without invasive measures. This paves the way for more efficient repairs.
+Modern techniques like video inspection provide insights into plumbing issues without invasive measures. This paves the way for more efficient repairs.
 
 ## Exploring Advanced Venting Solutions for Plumbing Drains
 
@@ -74,7 +74,7 @@ The Studor system uses **air admittance valves (AAVs)** as a core element.
 - **Less piping material** – Cuts down on costs
 - **Simpler installation** – No roof penetrations needed
 - **Water seal maintenance** – Prevents sewer gases from entering living spaces
-- **Better [Indoor Air Quality](/services/indoor-air-quality)**
+- **Better indoor air quality**
 
 ### How AAVs Work
 
@@ -134,7 +134,7 @@ Traditional vents can get blocked or damaged by weather. Advanced solutions mini
 
 A major advantage is the ability to retrofit existing buildings. Building owners can upgrade drainage systems without major alterations. This saves time and money.
 
-**Note:** Improper installation can lead to serious issues like fire hazards. For such cases, [Fire Restoration](/services/fire-restoration) services can help manage smoke damage and ensure safety.
+**Note:** Improper installation can lead to serious issues like fire hazards. For such cases, [Fire Damage Restoration](/fire-damage-restoration/) services can help manage smoke damage and ensure safety.
 
 ![Advanced plumbing vent installation](/wp-content/uploads/2024/08/shutterstock_1615829110.jpg)
 

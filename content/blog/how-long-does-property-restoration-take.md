@@ -13,9 +13,9 @@ keywords: ["property restoration timeline", "how long restoration takes"]
 When property damage occurs, one of the first things you want to know is: **how long will it take to fix?** The timeline depends on the type and extent of the damage, ranging from a few days to over a year for severe cases. Here’s a quick breakdown:
 
 -   [**Water Damage Clean Up**](/water-damage-clean-up/): A few days to 4 weeks, depending on severity (clean water is faster; black water takes longer).
--   [**Fire Restoration**](/services/fire-restoration/): From a few weeks to over a year, depending on structural repairs needed.
+-   [**Fire Restoration**](/fire-damage-restoration/): From a few weeks to over a year, depending on structural repairs needed.
 -   **Storm Damage**: Typically 3 to 8 weeks, but larger disasters may take longer.
--   [**Mold Remediation**](/services/mold-remediation/): Usually 1 to 2 weeks, but extensive infestations can take longer.
+-   [**Mold Remediation**](/mold-remediation/): Usually 1 to 2 weeks, but extensive infestations can take longer.
 
 ## Key Factors Affecting Timelines
 
@@ -74,7 +74,7 @@ How quickly restoration professionals respond can make a huge difference. Acting
 
 Professional availability often depends on seasonal demand and regional disaster activity. After large storms or during peak seasons, certified technicians and specialized equipment may be in short supply, which can push timelines back.
 
-Equipment availability also matters. Industrial dehumidifiers, air movers, and other specialized tools are sometimes limited. During busy periods, restoration companies may have to wait for these resources before starting work. All these factors combine to create the wide range of timelines seen in [Commercial](/services/commercial/) projects.
+Equipment availability also matters. Industrial dehumidifiers, air movers, and other specialized tools are sometimes limited. During busy periods, restoration companies may have to wait for these resources before starting work. All these factors combine to create the wide range of timelines seen in [Commercial](/water-damage-restoration/commercial/) projects.
 
 ## Estimated Timelines for Different Types of Damage
 

@@ -1,0 +1,751 @@
+{
+  "water-damage-restoration": {
+    "name": "Water Damage Restoration",
+    "shortName": "Water Damage",
+    "icon": "Droplet",
+    "phase": 1,
+    "metaTitleTemplate": "{type} Water Damage Restoration in {city}, FL | 24/7 Emergency",
+    "metaDescTemplate": "{type} water damage restoration in {city}. Fast response for floods, leaks, and burst pipes. Licensed, insured, and available 24/7.",
+    "h1Template": "{type} Water Damage Restoration in {city}, FL",
+    "serviceType": "WaterDamageRestoration",
+    "keywords": ["water damage restoration", "flood cleanup", "water extraction", "emergency water removal"],
+    "process": [
+      { "step": 1, "title": "Emergency Inspection", "description": "Immediate assessment of water damage extent and source identification" },
+      { "step": 2, "title": "Water Extraction", "description": "Rapid removal of standing water using industrial equipment" },
+      { "step": 3, "title": "Drying & Dehumidification", "description": "Complete moisture removal from structures and contents" },
+      { "step": 4, "title": "Mold Prevention", "description": "Antimicrobial treatment to prevent mold growth" },
+      { "step": 5, "title": "Repairs & Restoration", "description": "Complete restoration to pre-damage condition" }
+    ],
+    "causes": ["burst-pipe", "ac-leak", "washing-machine-overflow", "slab-leak", "roof-leak", "toilet-overflow", "hurricane-flooding"],
+    "bodyContent": {
+      "overview": "Whether due to a natural disaster or a broken pipe in your home, water damage can be detrimental to your property. Severe water damage can make your home inhabitable, displacing you and your family, as well as damaging your belongings. Our team of highly qualified technicians use the latest tools and technology to determine the best way to carry out the necessary water damage repairs.\n\nWater damage is one of the most common and costliest disasters your home can experience. The longer water sits, the more damage it causes—not just to your structure, but potentially to your health through mold growth. That's why our 24/7 emergency response team is always ready to help minimize damage and restore your property quickly.",
+      "commonCauses": [
+        "Storm surges and hurricane flooding",
+        "Burst or broken pipes",
+        "Faulty showers and plumbing fixtures",
+        "Overflowing toilets, bathtubs, and sinks",
+        "Leaking roofs and windows",
+        "Foundation cracks and slab leaks",
+        "AC condensation line failures",
+        "Washing machine and appliance failures"
+      ],
+      "preventionTips": [
+        "Regular inspection and maintenance of plumbing systems",
+        "Check walls and ceilings for water marks regularly",
+        "Direct downspouts away from your home's foundation",
+        "Check sump pump regularly for proper drainage",
+        "Inspect AC condensation lines monthly",
+        "Know the location of your main water shutoff valve",
+        "Replace washing machine hoses every 3-5 years"
+      ],
+      "whyActFast": "Water damage worsens exponentially with time. Within the first 24-48 hours, mold can begin to grow, drywall can deteriorate, and wooden structures can start to warp. Quick action is essential to minimize restoration costs and prevent secondary damage like mold growth, which can pose serious health risks to your family."
+    },
+    "residentialContent": {
+      "challenges": "Residential water damage presents unique challenges including protecting family heirlooms and personal belongings, coordinating with homeowners insurance, and minimizing disruption to daily family life. Our residential team treats your home with the care we would give our own, focusing on both structural restoration and preserving the items that matter most to you.",
+      "tips": [
+        "Turn off the main water supply immediately when you discover a leak",
+        "Move furniture and valuables away from affected areas",
+        "Document damage with photos before any cleanup",
+        "Avoid using electrical appliances in wet areas",
+        "Open windows and doors to increase air circulation if safe to do so"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial water damage impacts your bottom line every hour your business is disrupted. Our commercial restoration team understands the urgency of minimizing downtime, protecting inventory and equipment, and maintaining compliance with health and safety regulations. We work around your schedule and can provide after-hours service to keep your business running.",
+      "tips": [
+        "Develop an emergency response plan before disaster strikes",
+        "Know the locations of all water shutoff valves in your building",
+        "Maintain relationships with restoration companies for rapid response",
+        "Document your inventory and equipment for insurance purposes",
+        "Train employees on emergency protocols and evacuation procedures"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/water-damage.jpg",
+      "overview": "/images/blog/2022/07/Water_damage-dryout-768x1024.jpg",
+      "process": [
+        "/images/blog/2022/07/Employee-Holding-IPAD-1024x772.png",
+        "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png",
+        "/images/blog/2022/07/drying-floors-1024x576.jpg"
+      ],
+      "gallery": [
+        "/images/blog/2022/07/drying-floors-scaled.jpg",
+        "/images/blog/2019/11/water-leak-4a0a45d4ff.jpg",
+        "/images/blog/2019/11/slab-leak-basement-floor-9ac948edf3.jpg"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What is professional water damage restoration?",
+          "answer": "Professional water damage restoration is a comprehensive process that goes beyond simple cleanup. It includes water extraction using industrial pumps and vacuums, structural drying with commercial dehumidifiers and air movers, moisture detection using specialized equipment, antimicrobial treatment to prevent mold growth, and complete restoration of damaged materials. Professional restoration ensures hidden moisture is addressed to prevent long-term structural damage and mold issues."
+        },
+        {
+          "question": "How long does water damage restoration typically take?",
+          "answer": "The timeline depends on the extent of damage and type of water involved. Minor water damage may be dried within 2-3 days, while extensive flooding can take 1-2 weeks for complete drying. The full restoration process, including repairs and reconstruction, typically takes 1-4 weeks. Our team provides a detailed timeline after the initial assessment and keeps you informed throughout the process."
+        },
+        {
+          "question": "Does homeowners insurance cover water damage restoration?",
+          "answer": "Most homeowners insurance policies cover sudden and accidental water damage, such as burst pipes, appliance failures, or storm damage. However, coverage varies by policy and situation. Gradual damage from lack of maintenance, flooding from external sources, and sewage backups may require additional coverage. We work directly with insurance companies and can help you understand your coverage and document damage for claims."
+        },
+        {
+          "question": "What should I do immediately after discovering water damage?",
+          "answer": "First, ensure safety by turning off electricity to affected areas if safe to do so. Stop the water source if possible by shutting off the main water valve. Move valuable items and furniture away from standing water. Document the damage with photos and videos. Then call a professional restoration company immediately—the faster you act, the less damage will occur and the lower your restoration costs will be."
+        }
+      ]
+    }
+  },
+  "fire-damage-restoration": {
+    "name": "Fire Damage Restoration",
+    "shortName": "Fire Damage",
+    "icon": "Flame",
+    "phase": 1,
+    "metaTitleTemplate": "{type} Fire Damage Restoration in {city}, FL | Smoke & Soot Cleanup",
+    "metaDescTemplate": "Professional {type_lower} fire damage restoration in {city}. Complete smoke, soot cleanup and property restoration. Insurance assistance available.",
+    "h1Template": "{type} Fire Damage Restoration in {city}, FL",
+    "serviceType": "FireDamageRestoration",
+    "keywords": ["fire damage restoration", "smoke damage cleanup", "soot removal", "fire restoration"],
+    "process": [
+      { "step": 1, "title": "Damage Assessment", "description": "Comprehensive evaluation of fire, smoke, and soot damage" },
+      { "step": 2, "title": "Board-Up & Tarping", "description": "Secure property to prevent further damage" },
+      { "step": 3, "title": "Debris Removal", "description": "Safe removal of damaged materials and debris" },
+      { "step": 4, "title": "Smoke & Soot Cleaning", "description": "Thorough cleaning of all affected surfaces" },
+      { "step": 5, "title": "Odor Elimination", "description": "Professional deodorization using thermal fogging and ozone treatment" },
+      { "step": 6, "title": "Restoration", "description": "Complete rebuild and restoration services" }
+    ],
+    "causes": ["kitchen-fire", "electrical-fire", "smoke-odor"],
+    "bodyContent": {
+      "overview": "Whether you've had a small kitchen fire or your home has been ravaged with flames, it is important to have professional fire restoration services assess the situation. A fire leaves behind more than visible damage—smoke and soot can penetrate deep into walls, ductwork, and personal belongings, causing ongoing health hazards and continuing deterioration if not properly addressed.\n\nAs your local fire restoration company, we provide emergency smoke and fire cleanup services with the goal of moving you back into your home or business sooner. Our fire damage restoration team provides assistance and guidance throughout the entire restoration process, from securing your property to working with your insurance company.",
+      "commonCauses": [
+        "Kitchen fires from unattended cooking",
+        "Electrical fires from faulty wiring or overloaded circuits",
+        "Heating equipment malfunctions",
+        "Candle accidents",
+        "Dryer fires from lint buildup",
+        "Smoking materials",
+        "Appliance malfunctions"
+      ],
+      "preventionTips": [
+        "Test smoke alarms regularly and replace batteries annually",
+        "Inspect heating sources and electrical systems regularly",
+        "Keep the stove and oven clear of flammable materials",
+        "Never leave cooking food unattended",
+        "Clean out dryer lint traps after every use",
+        "Be careful with candles and never leave them burning unattended",
+        "Store flammable products properly away from heat sources",
+        "Shut off all small appliances after use"
+      ],
+      "whyActFast": "After a fire, time is critical. Soot can permanently stain and corrode surfaces within hours. Acidic smoke residue continues to damage electronics, appliances, and personal belongings every day it remains. Additionally, the water used to extinguish the fire can lead to mold growth if not properly addressed. Quick professional restoration can save valuable belongings and significantly reduce overall restoration costs."
+    },
+    "residentialContent": {
+      "challenges": "A house fire is one of the most traumatic events a family can experience. Beyond the physical damage, families face emotional stress, displacement, and the loss of irreplaceable personal items. Our residential fire restoration team approaches every project with compassion, helping families navigate insurance claims, salvage cherished belongings when possible, and restore their home to a safe, comfortable condition.",
+      "tips": [
+        "Do not enter the property until cleared by fire department",
+        "Contact your insurance company as soon as possible",
+        "Document all damage with photos and video before cleanup begins",
+        "Do not attempt to clean soot or smoke damage yourself—improper cleaning can cause permanent damage",
+        "Keep all receipts for temporary housing and emergency expenses"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial fire damage creates immediate business interruption, potential liability concerns, and regulatory compliance issues. Our commercial fire restoration team understands that every hour of downtime impacts your revenue. We provide rapid response, comprehensive documentation for insurance and business interruption claims, and can coordinate phased restoration to allow partial operations while work continues.",
+      "tips": [
+        "Ensure your business has adequate fire insurance and business interruption coverage",
+        "Maintain up-to-date inventory records and equipment documentation",
+        "Develop a business continuity plan that includes fire scenarios",
+        "Train employees on fire evacuation procedures",
+        "Schedule regular inspections of fire suppression and alarm systems"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/fire-restoration.jpg",
+      "overview": "/images/blog/2021/11/fire-hazard-header-image.jpg",
+      "process": [],
+      "gallery": [
+        "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What does fire damage restoration include?",
+          "answer": "Fire damage restoration is a comprehensive process that addresses all aspects of fire, smoke, and soot damage. It includes emergency board-up and tarping to secure the property, debris and damaged material removal, soot and smoke residue cleaning from all surfaces, odor elimination using thermal fogging and ozone treatment, content cleaning and restoration, and complete structural repairs. We also address water damage from firefighting efforts and provide mold prevention treatment."
+        },
+        {
+          "question": "Can smoke and soot damage be fully removed?",
+          "answer": "Yes, professional restoration can fully remove smoke and soot damage in most cases when addressed quickly. Soot is acidic and continues to damage surfaces over time, so prompt cleaning is essential. Our technicians use specialized cleaning agents, equipment, and techniques designed for different surface types. However, some porous materials may need replacement if contamination has penetrated too deeply. We assess each item and provide honest recommendations about what can be restored versus replaced."
+        },
+        {
+          "question": "How long does fire damage restoration take?",
+          "answer": "Fire restoration timelines vary significantly based on damage extent. A minor kitchen fire may be restored in 1-2 weeks, while major structural fires can take several months. The process includes securing the property (1-2 days), cleaning and deodorization (1-2 weeks), and repairs/reconstruction (2-8 weeks depending on scope). We provide detailed timelines after assessment and work efficiently to return you to your property as quickly as safely possible."
+        },
+        {
+          "question": "Will my insurance cover fire damage restoration?",
+          "answer": "Homeowners and commercial property insurance typically covers fire damage restoration, including structural repairs, content cleaning or replacement, smoke and soot damage, and additional living expenses if you're displaced. Coverage limits and deductibles vary by policy. We work directly with insurance companies, provide detailed documentation, and can help you navigate the claims process to maximize your coverage."
+        }
+      ]
+    }
+  },
+  "mold-remediation": {
+    "name": "Mold Remediation",
+    "shortName": "Mold Removal",
+    "icon": "AlertTriangle",
+    "phase": 1,
+    "metaTitleTemplate": "{type} Mold Remediation in {city}, FL | Certified Mold Removal",
+    "metaDescTemplate": "Expert {type_lower} mold remediation in {city}. Certified technicians, thorough inspection, and complete mold removal. Protect your health.",
+    "h1Template": "{type} Mold Remediation in {city}, FL",
+    "serviceType": "MoldRemediation",
+    "keywords": ["mold remediation", "mold removal", "mold inspection", "black mold removal"],
+    "process": [
+      { "step": 1, "title": "Inspection & Testing", "description": "Comprehensive mold assessment and air quality testing" },
+      { "step": 2, "title": "Containment", "description": "Isolate affected areas to prevent spore spread" },
+      { "step": 3, "title": "Air Filtration", "description": "HEPA filtration to capture airborne mold spores" },
+      { "step": 4, "title": "Mold Removal", "description": "Safe removal of mold-contaminated materials" },
+      { "step": 5, "title": "Cleaning & Sanitizing", "description": "Antimicrobial treatment of all surfaces" },
+      { "step": 6, "title": "Restoration", "description": "Repair and restoration of affected areas" }
+    ],
+    "causes": ["mold-from-roof-leak", "mold-from-ac", "bathroom-mold", "mold-after-flood"],
+    "bodyContent": {
+      "overview": "Mold doesn't just mar your property's appearance—it's a serious health risk. Florida's high humidity and warm temperatures create ideal conditions for mold growth, making professional remediation essential for protecting your property and health. Our IICRC-certified mold remediation specialists use advanced techniques to identify, contain, and eliminate mold infestations.\n\nWe don't just remove visible mold—we address the underlying moisture issues that allow mold to thrive. Our comprehensive approach ensures mold doesn't return, providing long-term protection for your property and peace of mind for your family or employees.",
+      "commonCauses": [
+        "Water intrusion from roof leaks or plumbing failures",
+        "High humidity levels (above 60%)",
+        "Poor ventilation in bathrooms and kitchens",
+        "AC condensation and drainage issues",
+        "Flooding and water damage not properly dried",
+        "Leaking windows and doors",
+        "Condensation on cold surfaces"
+      ],
+      "preventionTips": [
+        "Keep indoor humidity below 60% using dehumidifiers",
+        "Ensure proper ventilation in bathrooms, kitchens, and laundry areas",
+        "Fix any leaks in roof, walls, or plumbing promptly",
+        "Add mold inhibitors to paints before applying",
+        "Clean and dry any wet areas within 24-48 hours",
+        "Use exhaust fans when showering or cooking",
+        "Inspect and clean AC drip pans and drain lines regularly"
+      ],
+      "whyActFast": "Mold spreads rapidly in Florida's humid climate. What starts as a small spot can become a major infestation within days. More importantly, mold exposure can cause respiratory issues, allergic reactions, asthma attacks, and other health problems—especially dangerous for children, elderly, and those with compromised immune systems. The longer you wait, the more extensive and costly the remediation becomes.",
+      "healthRisks": [
+        "Respiratory problems and breathing difficulties",
+        "Allergic reactions including sneezing, runny nose, and red eyes",
+        "Asthma attacks and worsening of existing conditions",
+        "Skin irritation and rashes",
+        "Headaches and fatigue",
+        "Potential long-term health effects from toxic mold exposure"
+      ]
+    },
+    "residentialContent": {
+      "challenges": "Home mold problems often go undetected until they've spread significantly, hiding behind walls, under flooring, or in HVAC systems. Our residential mold remediation team uses advanced detection equipment including thermal imaging and moisture meters to find hidden mold. We understand the stress mold causes for families and work efficiently to restore your home to a healthy environment.",
+      "tips": [
+        "Watch for musty odors, even if you don't see visible mold",
+        "Check under sinks, behind toilets, and around windows regularly",
+        "Monitor family members for unexplained allergic symptoms",
+        "Address any water damage immediately—mold can grow within 24-48 hours",
+        "Consider professional air quality testing if you suspect hidden mold"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial mold problems can result in employee health complaints, potential liability, regulatory violations, and business interruption. Our commercial mold remediation team works discreetly and efficiently, often performing work during off-hours to minimize disruption. We provide thorough documentation for compliance records and can coordinate with industrial hygienists when required.",
+      "tips": [
+        "Schedule regular HVAC inspections and maintenance",
+        "Respond immediately to any employee reports of water leaks or musty odors",
+        "Maintain proper documentation of building maintenance and repairs",
+        "Consider periodic professional air quality testing",
+        "Develop a response plan for water intrusion events"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/mold-remediation.jpg",
+      "overview": "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png",
+      "process": [
+        "/images/blog/2023/02/air-scrubber-scaled.jpeg"
+      ],
+      "gallery": [
+        "/images/services/mold-remediation.jpg",
+        "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What is the difference between mold remediation and mold removal?",
+          "answer": "While often used interchangeably, there's an important distinction. Mold removal refers to physically removing mold from surfaces. Mold remediation is a comprehensive process that includes identifying all mold growth (including hidden mold), containing the affected area to prevent spore spread, removing contaminated materials, cleaning and treating remaining surfaces, addressing the underlying moisture problem, and preventing future growth. True remediation solves the problem long-term, not just temporarily."
+        },
+        {
+          "question": "How do I know if I need professional mold remediation?",
+          "answer": "Professional remediation is recommended when mold covers more than 10 square feet, mold is in your HVAC system, you smell musty odors but can't find visible mold, mold returns after DIY cleaning, anyone in your home has respiratory issues or allergies that worsen indoors, or mold appeared after flooding or major water damage. If you're unsure, a professional inspection can determine the extent of the problem and whether professional remediation is needed."
+        },
+        {
+          "question": "Is mold remediation covered by insurance?",
+          "answer": "Coverage depends on the cause of the mold. If mold resulted from a covered peril like a burst pipe or storm damage, remediation is typically covered. However, mold from long-term leaks, poor maintenance, or humidity issues is often excluded. Some policies have specific mold coverage limits or exclusions. We recommend reviewing your policy and contacting your insurance company. We provide detailed documentation to support your claim when mold is from a covered cause."
+        },
+        {
+          "question": "How long does mold remediation take?",
+          "answer": "Most residential mold remediation projects take 1-5 days, depending on the extent of contamination and areas affected. Small, contained areas may be completed in 1-2 days, while whole-house remediation or HVAC contamination can take a week or more. This includes containment setup, mold removal, cleaning, drying, and air quality verification. We provide accurate timelines after inspection and keep you informed throughout the process."
+        }
+      ]
+    }
+  },
+  "emergency-restoration": {
+    "name": "Emergency Restoration",
+    "shortName": "Emergency Services",
+    "icon": "AlertCircle",
+    "phase": 1,
+    "metaTitleTemplate": "24/7 {type} Emergency Restoration in {city}, FL | Rapid Response",
+    "metaDescTemplate": "24/7 emergency restoration services for {type_lower} properties in {city}. Rapid response for water, fire, and storm damage. Call now.",
+    "h1Template": "24/7 {type} Emergency Restoration in {city}, FL",
+    "serviceType": "EmergencyRestoration",
+    "keywords": ["emergency restoration", "24/7 restoration", "disaster restoration", "emergency cleanup"],
+    "process": [
+      { "step": 1, "title": "Emergency Call", "description": "24/7 hotline with immediate dispatch" },
+      { "step": 2, "title": "Rapid Response", "description": "Technicians on-site within 30-60 minutes" },
+      { "step": 3, "title": "Damage Mitigation", "description": "Immediate steps to prevent further damage" },
+      { "step": 4, "title": "Assessment & Planning", "description": "Comprehensive damage evaluation and restoration plan" },
+      { "step": 5, "title": "Restoration", "description": "Complete property restoration services" }
+    ],
+    "causes": [],
+    "bodyContent": {
+      "overview": "When disaster strikes—whether it's a burst pipe at 2 AM, a fire that's just been extinguished, or storm damage during a hurricane—you need a restoration company that responds immediately. Our 24/7 emergency restoration team is always ready, with technicians on-call every day of the year, including nights, weekends, and holidays.\n\nEvery minute counts in an emergency. Water damage spreads and worsens by the hour. Fire damage continues to deteriorate surfaces through acidic soot. Unsecured properties are vulnerable to further damage and security risks. Our rapid response team arrives equipped to immediately mitigate damage and begin the restoration process.",
+      "commonCauses": [
+        "Burst pipes and plumbing failures",
+        "House fires and smoke damage",
+        "Hurricane and storm damage",
+        "Flooding from heavy rainfall",
+        "Sewage backups",
+        "Roof damage and leaks",
+        "Appliance failures causing water damage"
+      ],
+      "preventionTips": [
+        "Create an emergency contact list including restoration companies",
+        "Know the location of water, gas, and electrical shutoffs",
+        "Have a family emergency plan and meeting place",
+        "Keep important documents in waterproof, fireproof storage",
+        "Install water leak detectors near appliances and water heaters",
+        "Review insurance coverage annually to ensure adequate protection",
+        "Keep emergency supplies including flashlights, batteries, and first aid kit"
+      ],
+      "whyActFast": "In restoration emergencies, the first 24-48 hours are critical. Water damage begins causing mold growth, structural damage, and permanent material deterioration within this window. Fire residue becomes increasingly difficult to remove and causes more damage as time passes. Every hour of delay increases restoration costs and extends the time until your property is restored."
+    },
+    "residentialContent": {
+      "challenges": "A home emergency is incredibly stressful for families. Beyond the physical damage, there's the emotional impact of seeing your home damaged and the uncertainty of what comes next. Our residential emergency team responds with both urgency and compassion, explaining each step of the process, coordinating with insurance, and doing everything possible to minimize disruption to your family's life.",
+      "tips": [
+        "Stay calm and ensure family safety first",
+        "Call 911 if there's any immediate danger",
+        "Document damage with photos before any cleanup if safe to do so",
+        "Don't enter flood waters—they may be contaminated or electrically charged",
+        "Call your insurance company and restoration team simultaneously"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial emergencies impact not just your property but your business operations, employees, and customers. Our commercial emergency team understands that rapid response directly affects your revenue and reputation. We're equipped to handle large-scale emergencies, coordinate with multiple stakeholders, and develop restoration plans that prioritize getting your business operational as quickly as possible.",
+      "tips": [
+        "Establish relationships with restoration companies before you need them",
+        "Maintain emergency contact lists for key personnel and vendors",
+        "Document inventory and equipment with photos and serial numbers",
+        "Review business interruption insurance coverage regularly",
+        "Train managers on emergency response procedures"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/water-damage.jpg",
+      "overview": "/images/blog/2022/07/Water_damage-dryout-768x1024.jpg",
+      "process": [],
+      "gallery": []
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What qualifies as an emergency restoration situation?",
+          "answer": "Emergency restoration is needed for any situation where delay will cause additional damage or safety hazards. This includes active water leaks or flooding, fire or smoke damage, sewage backups, storm damage with exposed interiors, and any situation where the property is unsecured. If you're unsure whether your situation is an emergency, call us—we're available 24/7 and can help assess the urgency of your situation."
+        },
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "Our emergency response team is available 24 hours a day, 7 days a week, including holidays. We typically arrive on-site within 30-60 minutes throughout South Florida. Upon arrival, we immediately assess the situation, stop ongoing damage when possible, and begin mitigation to prevent further deterioration. Every minute counts in restoration emergencies, which is why rapid response is our priority."
+        },
+        {
+          "question": "What should I do while waiting for emergency restoration?",
+          "answer": "Your safety comes first—evacuate if there's any danger. If safe, turn off water at the main shutoff for leaks, turn off electricity to affected areas, and turn off HVAC to prevent spreading contamination. Move valuables away from affected areas if possible. Document damage with photos. Do not enter flood water, attempt electrical repairs, or try to clean sewage yourself. Our team will guide you through additional steps when you call."
+        },
+        {
+          "question": "Will insurance cover emergency restoration services?",
+          "answer": "Most insurance policies cover emergency mitigation services because they prevent additional damage and reduce overall claim costs. This includes water extraction, board-up services, emergency tarping, and temporary repairs. We document all emergency work thoroughly for insurance purposes and can bill your insurance company directly in most cases. We recommend contacting your insurance company promptly to report the incident."
+        }
+      ]
+    }
+  },
+  "storm-damage-restoration": {
+    "name": "Storm Damage Restoration",
+    "shortName": "Storm Damage",
+    "icon": "CloudLightning",
+    "phase": 2,
+    "metaTitleTemplate": "{type} Storm Damage Restoration in {city}, FL | Hurricane & Flood Repair",
+    "metaDescTemplate": "Fast {type_lower} storm damage restoration in {city}. Hurricane damage repair, flood cleanup, and emergency roof tarping. Available 24/7.",
+    "h1Template": "{type} Storm Damage Restoration in {city}, FL",
+    "serviceType": "StormDamageRestoration",
+    "keywords": ["storm damage restoration", "hurricane damage repair", "flood damage restoration", "wind damage repair"],
+    "process": [
+      { "step": 1, "title": "Emergency Response", "description": "Rapid deployment to assess and secure property" },
+      { "step": 2, "title": "Roof Tarping", "description": "Immediate temporary roof protection" },
+      { "step": 3, "title": "Water Extraction", "description": "Remove flood water and begin drying process" },
+      { "step": 4, "title": "Debris Cleanup", "description": "Safe removal of storm debris" },
+      { "step": 5, "title": "Structural Repair", "description": "Address wind, water, and impact damage" },
+      { "step": 6, "title": "Full Restoration", "description": "Complete property restoration" }
+    ],
+    "causes": ["hurricane-damage", "wind-damage", "flood-damage", "tree-damage"],
+    "bodyContent": {
+      "overview": "Living in South Florida means living with hurricane season. When storms hit, properties can suffer devastating damage from wind, rain, flooding, and flying debris. Our storm damage restoration team is specially trained and equipped to handle the unique challenges of hurricane and tropical storm damage, from emergency tarping to complete property restoration.\n\nWe understand that after a major storm, restoration resources can be stretched thin. That's why we pre-position equipment and personnel before storms arrive, ensuring we can respond quickly when our community needs us most. Our team has extensive experience with Florida's building codes and insurance requirements for storm damage claims.",
+      "commonCauses": [
+        "Hurricane-force winds damaging roofs and structures",
+        "Storm surge and coastal flooding",
+        "Heavy rainfall causing interior water damage",
+        "Flying debris impacting buildings",
+        "Fallen trees damaging roofs and structures",
+        "Power surge damage to electrical systems",
+        "Prolonged power outages causing secondary damage"
+      ],
+      "preventionTips": [
+        "Install hurricane shutters or impact-resistant windows",
+        "Secure loose items around your property before storms",
+        "Trim trees and remove dead branches near structures",
+        "Know your evacuation zone and have a plan ready",
+        "Review your insurance coverage before hurricane season",
+        "Document your property with photos for insurance purposes",
+        "Keep emergency supplies including tarps and plywood on hand"
+      ],
+      "whyActFast": "Storm damage requires immediate attention to prevent secondary damage. A damaged roof left uncovered allows continued water intrusion with every rainfall. Standing flood water creates mold conditions within 24-48 hours. Structural damage can worsen without proper stabilization. Quick response to storm damage minimizes total restoration costs and gets you back to normal faster."
+    },
+    "residentialContent": {
+      "challenges": "Hurricane damage to homes is particularly devastating because it often occurs when families are displaced or evacuated. Our residential storm damage team helps homeowners navigate the chaos after a storm—securing the property, documenting damage for insurance, coordinating with adjusters, and developing restoration plans that prioritize family safety and comfort.",
+      "tips": [
+        "Do not return home until authorities say it's safe",
+        "Document all damage with photos before any cleanup",
+        "Contact your insurance company promptly after the storm",
+        "Be cautious of electrical hazards and gas leaks",
+        "Cover damaged roof areas with tarps to prevent further water damage"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial storm damage can shut down operations for weeks or months without proper restoration planning. Our commercial storm damage team works with property managers and business owners to develop aggressive restoration timelines, prioritize critical areas for business operations, and provide comprehensive documentation for business interruption claims.",
+      "tips": [
+        "Develop a hurricane preparedness plan for your business",
+        "Backup critical data to cloud storage before storm season",
+        "Have pre-arranged restoration contracts ready to activate",
+        "Designate employees responsible for storm preparation duties",
+        "Maintain adequate business interruption insurance coverage"
+      ]
+    },
+    "images": {
+      "hero": "/images/blog/2021/09/Trap-Roof-banner.jpg",
+      "overview": "/images/services/roof-tarping.jpg",
+      "process": [],
+      "gallery": [
+        "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What types of storm damage do you restore?",
+          "answer": "We handle all types of storm and hurricane damage including roof damage from wind and flying debris, water damage from rain intrusion and flooding, structural damage from fallen trees, window and door damage, siding and exterior damage, flooding and storm surge damage, and mold growth that develops after storms. Our team is experienced with South Florida's unique storm challenges and building codes."
+        },
+        {
+          "question": "How soon after a storm should I call for restoration?",
+          "answer": "Call immediately after a storm if your property is damaged. Even if the damage seems minor, hidden issues like roof damage can lead to serious water intrusion with subsequent rains. After major hurricanes, restoration resources become scarce quickly—early callers get faster service. We respond 24/7 and can assess your property as soon as conditions are safe, often the same day the storm passes."
+        },
+        {
+          "question": "What if I can't return to my property after a storm?",
+          "answer": "We can assess and secure your property even if you're unable to be present. With your authorization, our team will document all damage with photos and video, secure the property with board-up and tarping, begin water extraction and mitigation, and provide you with a detailed report. We can communicate via phone and email to keep you informed and coordinate with your insurance company on your behalf."
+        },
+        {
+          "question": "Does insurance cover hurricane and storm damage?",
+          "answer": "Standard homeowners policies typically cover wind damage, but flood damage usually requires separate flood insurance through FEMA's National Flood Insurance Program. Hurricane deductibles may apply and are usually a percentage of your home's value rather than a flat amount. We help you understand your coverage, document damage thoroughly, and work directly with insurance adjusters to support your claim."
+        }
+      ]
+    }
+  },
+  "roof-tarping": {
+    "name": "Roof Tarping",
+    "shortName": "Roof Tarp",
+    "icon": "Home",
+    "phase": 2,
+    "metaTitleTemplate": "Emergency {type} Roof Tarping in {city}, FL | 24/7 Storm Response",
+    "metaDescTemplate": "Professional {type_lower} roof tarping in {city}. Protect your property from further damage after storms, hurricanes, or roof leaks. Fast response.",
+    "h1Template": "Emergency {type} Roof Tarping in {city}, FL",
+    "serviceType": "RoofTarping",
+    "keywords": ["roof tarping", "emergency roof tarp", "storm roof protection", "roof leak repair"],
+    "process": [
+      { "step": 1, "title": "Emergency Assessment", "description": "Evaluate roof damage and determine tarp requirements" },
+      { "step": 2, "title": "Safety Setup", "description": "Secure work area and prepare for installation" },
+      { "step": 3, "title": "Tarp Installation", "description": "Professional installation of heavy-duty tarps" },
+      { "step": 4, "title": "Secure & Seal", "description": "Anchor and seal all edges to prevent water intrusion" },
+      { "step": 5, "title": "Documentation", "description": "Photo documentation for insurance claims" }
+    ],
+    "causes": ["hurricane-roof-damage", "storm-roof-damage", "hail-damage", "tree-damage", "roof-leak"],
+    "bodyContent": {
+      "overview": "If you are experiencing a leak in your roof but aren't able to get it repaired right away, professional roof tarping is the right solution. Roof tarps help protect your roof and property from rain, wind, and further water damage, offering a temporary but effective way to prevent leaks from causing additional destruction.\n\nRoof tarping is a specialized project that can be dangerous if not completed properly. Our certified contractors are experienced with roofs of all sizes and types, and complete every installation with safety and quality as the top priorities. We provide 24/7 emergency service to ensure protection is available as soon as damage occurs.",
+      "commonCauses": [
+        "Hurricane and tropical storm damage",
+        "Tornado and severe wind damage",
+        "Fire damage to roof structures",
+        "Home and roof deterioration",
+        "Animal damage to roofing materials",
+        "Fallen tree damage",
+        "Hail damage to shingles and tiles"
+      ],
+      "preventionTips": [
+        "Schedule regular roof inspections, especially before hurricane season",
+        "Keep trees trimmed away from your roof",
+        "Replace damaged or missing shingles promptly",
+        "Ensure attic ventilation is adequate to prevent moisture buildup",
+        "Clean gutters regularly to prevent water backup",
+        "Consider impact-resistant roofing materials for new installations",
+        "Have a restoration company contact ready before storm season"
+      ],
+      "whyActFast": "A roof tarp is a temporary fix—the longer you wait for permanent repairs, the more water damage and mold growth can occur. Our professional tarps can withstand weather conditions for approximately 30-90 days, giving you time to arrange permanent repairs while protecting your property from further damage. Remember: a small roof leak can quickly become major water damage."
+    },
+    "residentialContent": {
+      "challenges": "Homeowners often discover roof damage after a storm when it's raining and damage is actively occurring. Our residential roof tarping team responds rapidly to stop ongoing water intrusion. We understand the stress of home damage and work efficiently to secure your property, document damage for insurance, and provide peace of mind during a difficult situation.",
+      "tips": [
+        "Never attempt to tarp your own roof—it's extremely dangerous",
+        "If you see water coming in, place buckets and move valuables away",
+        "Document roof damage with photos from the ground if safe",
+        "Contact insurance and restoration professionals before the next rain",
+        "Ask about shrink wrapping for longer-term protection needs"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial roof damage can quickly lead to inventory loss, equipment damage, and business interruption. Our commercial roof tarping team is equipped for large-scale projects including warehouses, shopping centers, office buildings, and industrial facilities. We respond rapidly with industrial-grade equipment to protect your business assets.",
+      "tips": [
+        "Establish emergency roofing contracts before hurricane season",
+        "Maintain roof inspection records for insurance documentation",
+        "Have a plan for protecting critical equipment from water damage",
+        "Consider commercial roof maintenance contracts for prevention",
+        "Know your insurance coverage limits for emergency repairs"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/roof-tarping.jpg",
+      "overview": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "process": [
+        "/images/blog/2021/10/installing-a-roof-tarp-e1595882236151-1-e1635367691497.jpeg",
+        "/images/blog/2022/07/8caaf616-d7f3-4707-8f98-cd110baae2c5.jpg"
+      ],
+      "gallery": [
+        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
+        "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg",
+        "/images/blog/2021/09/Trap-Roof-banner.jpg"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "How long does a roof tarp last?",
+          "answer": "Professional roof tarps typically provide protection for 30-90 days depending on weather conditions, tarp quality, and installation method. Our heavy-duty tarps and secure installation methods maximize protection duration. However, tarps are a temporary solution—we recommend scheduling permanent repairs as soon as possible and can help coordinate with roofing contractors and insurance companies."
+        },
+        {
+          "question": "Can I tarp my own roof?",
+          "answer": "We strongly advise against DIY roof tarping. Roof work is extremely dangerous, especially on damaged structures. Falls are a leading cause of home injury deaths. Additionally, improper tarping can void insurance coverage, cause additional damage, or fail during the next storm. Professional installation ensures proper coverage, secure attachment, and documentation for insurance claims. Our trained crews have safety equipment and experience with all roof types."
+        },
+        {
+          "question": "How quickly can you install a roof tarp?",
+          "answer": "We offer 24/7 emergency roof tarping and can typically arrive within 1-2 hours for urgent situations. Most residential roof tarping is completed within 2-4 hours of arrival. Larger or more complex roofs may take longer. After major storms, we pre-position crews to ensure rapid response when our community needs us most."
+        },
+        {
+          "question": "Does insurance cover emergency roof tarping?",
+          "answer": "Yes, most insurance policies cover emergency roof tarping as part of damage mitigation—it prevents additional damage and reduces overall claim costs. Keep records of all expenses and take photos of the damage and completed tarp installation. We provide detailed documentation and can work directly with your insurance company. Contact your insurer promptly to report the damage."
+        }
+      ]
+    }
+  },
+  "shrink-wrapping": {
+    "name": "Shrink Wrapping",
+    "shortName": "Shrink Wrap",
+    "icon": "Package",
+    "phase": 2,
+    "metaTitleTemplate": "{type} Shrink Wrapping Services in {city}, FL | Roof & Property Protection",
+    "metaDescTemplate": "Professional {type_lower} shrink wrapping in {city}. Superior protection for roofs, construction sites, and storm-damaged structures.",
+    "h1Template": "{type} Shrink Wrapping Services in {city}, FL",
+    "serviceType": "ShrinkWrapping",
+    "keywords": ["shrink wrapping", "roof shrink wrap", "construction shrink wrap", "property protection"],
+    "process": [
+      { "step": 1, "title": "Site Assessment", "description": "Evaluate property and determine shrink wrap requirements" },
+      { "step": 2, "title": "Surface Preparation", "description": "Clean and prepare surfaces for application" },
+      { "step": 3, "title": "Framework Installation", "description": "Install support structure as needed" },
+      { "step": 4, "title": "Shrink Wrap Application", "description": "Apply and heat-seal industrial shrink wrap" },
+      { "step": 5, "title": "Quality Inspection", "description": "Verify complete seal and document for insurance" }
+    ],
+    "causes": ["hurricane-damage", "construction-protection", "long-term-roof-protection"],
+    "bodyContent": {
+      "overview": "Shrink wrapping provides superior long-term protection compared to traditional tarps. Using industrial-grade polyethylene film that's heat-sealed into place, shrink wrapping creates a watertight, wind-resistant barrier that can protect your property for 6-12 months or longer. It's the ideal solution when repairs will take time or when maximum protection is required.\n\nOur professional contractors have years of experience installing shrink wrap on properties of all sizes. We measure your roof or structure precisely, install proper support frameworks when needed, and apply the shrink wrap with professional heat equipment to ensure a complete, secure seal.",
+      "commonCauses": [
+        "Hurricane and storm roof damage requiring extended protection",
+        "Fire damage to roof structures during reconstruction",
+        "Construction sites needing weather protection",
+        "Complex roof geometries where tarps won't work",
+        "Properties in high-wind areas",
+        "Long-term protection during insurance claim disputes",
+        "Vacant properties requiring weather-tight sealing"
+      ],
+      "preventionTips": [
+        "Consider shrink wrapping for any damage that will take more than 90 days to repair",
+        "Get professional advice on shrink wrap vs. tarping for your situation",
+        "Document property condition before and after installation for insurance",
+        "Plan for proper ventilation during extended shrink wrap coverage",
+        "Schedule installation before the next major weather event",
+        "Ask about warranty and maintenance for your shrink wrap installation"
+      ],
+      "whyActFast": "While shrink wrapping provides longer protection than tarps, it should still be installed as soon as possible after damage occurs. Every day your property is exposed to weather, additional damage accumulates. Shrink wrap installation typically takes a few hours to a full day depending on property size, providing immediate protection once complete."
+    },
+    "residentialContent": {
+      "challenges": "Residential shrink wrapping is often needed when roof repairs will be delayed due to insurance processing, material shortages, or contractor availability. Our team helps homeowners understand their options, provides documentation for insurance claims, and ensures their home is protected for as long as needed.",
+      "tips": [
+        "Ask your insurance adjuster about coverage for shrink wrapping",
+        "Get cost comparisons between multiple tarp replacements vs. shrink wrap",
+        "Ensure proper ventilation is maintained under the shrink wrap",
+        "Schedule regular inspections of shrink wrap for any damage",
+        "Plan permanent repairs before shrink wrap protection expires"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial shrink wrapping projects often involve larger structures, complex roof geometries, and higher stakes for business operations. Our commercial team is equipped for buildings of all sizes, from retail stores to warehouses and high-rise buildings. We work efficiently to minimize business disruption while providing maximum protection.",
+      "tips": [
+        "Compare long-term costs: shrink wrap often saves money over multiple tarp installations",
+        "Schedule installation during business off-hours when possible",
+        "Coordinate with your roofing contractor on repair timelines",
+        "Maintain access points as needed for ongoing business operations",
+        "Document installation for insurance and warranty purposes"
+      ]
+    },
+    "images": {
+      "hero": "/images/services/roof-tarping.jpg",
+      "overview": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "process": [],
+      "gallery": [
+        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
+        "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
+      ]
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "What is shrink wrapping and how is it different from tarping?",
+          "answer": "Shrink wrapping uses industrial-grade polyethylene film that is heat-sealed to create a watertight, wind-resistant barrier. Unlike tarps that are secured with straps and weights, shrink wrap conforms tightly to the surface and creates a complete seal. Shrink wrap provides superior protection lasting 6-12 months or longer, while tarps typically last 30-90 days. Shrink wrap is ideal for complex roof shapes, long-term protection needs, or high-wind areas."
+        },
+        {
+          "question": "When should I choose shrink wrapping over tarping?",
+          "answer": "Consider shrink wrapping when repairs will take more than 90 days, your property is in a high-wind area, the roof has complex geometry where tarps won't work well, you need protection through hurricane season, or there's an insurance claim dispute causing delays. While shrink wrap costs more upfront, it often saves money compared to multiple tarp replacements and provides more reliable protection."
+        },
+        {
+          "question": "How long does shrink wrap installation take?",
+          "answer": "Most residential shrink wrap installations are completed in 4-8 hours. Larger commercial properties or complex structures may take 1-2 days. The process includes surface preparation, framework installation if needed, shrink wrap application, and heat sealing. We work efficiently to provide protection as quickly as possible while ensuring a complete, durable seal."
+        },
+        {
+          "question": "Is shrink wrapping covered by insurance?",
+          "answer": "Shrink wrapping is typically covered when it's a reasonable temporary protection measure for a covered loss. Insurance may prefer shrink wrap over repeated tarp replacements for extended repair timelines. We provide detailed documentation and can explain to adjusters why shrink wrap is the appropriate choice for your situation. Discuss options with your insurance company before installation."
+        }
+      ]
+    }
+  },
+  "sewage-cleanup": {
+    "name": "Sewage Cleanup",
+    "shortName": "Sewage Cleanup",
+    "icon": "Trash2",
+    "phase": 2,
+    "metaTitleTemplate": "{type} Sewage Cleanup in {city}, FL | 24/7 Biohazard Removal",
+    "metaDescTemplate": "Professional {type_lower} sewage cleanup in {city}. Safe biohazard removal, sanitization, and restoration. Licensed and insured.",
+    "h1Template": "{type} Sewage Cleanup in {city}, FL",
+    "serviceType": "SewageCleanup",
+    "keywords": ["sewage cleanup", "sewage backup cleanup", "biohazard removal", "sewage restoration"],
+    "process": [
+      { "step": 1, "title": "Safety Assessment", "description": "Evaluate biohazard level and establish safety protocols" },
+      { "step": 2, "title": "Containment", "description": "Isolate affected areas to prevent contamination spread" },
+      { "step": 3, "title": "Sewage Removal", "description": "Extract all sewage and contaminated materials" },
+      { "step": 4, "title": "Sanitization", "description": "Thorough disinfection of all affected surfaces" },
+      { "step": 5, "title": "Drying & Deodorizing", "description": "Complete drying and odor elimination" },
+      { "step": 6, "title": "Restoration", "description": "Repair and restore affected areas" }
+    ],
+    "causes": ["sewage-backup", "septic-overflow", "drain-backup"],
+    "bodyContent": {
+      "overview": "Sewage backups are among the most hazardous situations homeowners and businesses can face. Raw sewage contains dangerous bacteria, viruses, parasites, and other pathogens that pose serious health risks to anyone exposed. This is not a cleanup you should attempt yourself—professional sewage cleanup requires specialized equipment, protective gear, and training to handle safely.\n\nOur certified sewage cleanup team responds 24/7 to contain, remove, and sanitize sewage-affected areas. We follow strict safety protocols and use hospital-grade disinfectants to ensure your property is thoroughly decontaminated and safe for occupancy.",
+      "commonCauses": [
+        "Main sewer line blockages or collapses",
+        "Septic system failures or overflows",
+        "Heavy rainfall overwhelming municipal systems",
+        "Tree root intrusion into sewer lines",
+        "Grease and debris buildup in pipes",
+        "Toilet backups and overflows",
+        "Sump pump failures during flooding"
+      ],
+      "preventionTips": [
+        "Never flush anything except toilet paper down toilets",
+        "Avoid pouring grease or oil down drains",
+        "Schedule regular septic system maintenance and pumping",
+        "Install backwater valves in basement drains",
+        "Have sewer lines inspected if your home is older",
+        "Remove trees with invasive roots near sewer lines",
+        "Know the signs of slow drains indicating potential blockages"
+      ],
+      "whyActFast": "Sewage contamination spreads quickly and poses immediate health risks. Bacteria and pathogens can become airborne as materials dry. Porous materials like carpet and drywall may become permanently contaminated if not addressed within 24-48 hours. The longer sewage sits, the more extensive and costly the cleanup becomes, and the greater the health risks to occupants.",
+      "healthRisks": [
+        "Bacterial infections including E. coli and Salmonella",
+        "Viral diseases including Hepatitis A",
+        "Parasitic infections from contaminated water",
+        "Respiratory issues from airborne contaminants",
+        "Skin infections and rashes from contact",
+        "Gastrointestinal illness from exposure"
+      ]
+    },
+    "residentialContent": {
+      "challenges": "Sewage backups in homes create immediate health hazards for families. Our residential sewage cleanup team responds with urgency, containing the contamination, protecting unaffected areas, and thoroughly sanitizing every surface. We understand the distress of having sewage in your home and work efficiently to restore your property to a safe, clean condition.",
+      "tips": [
+        "Do not attempt to clean sewage yourself—contact professionals immediately",
+        "Keep children and pets away from affected areas",
+        "Turn off HVAC systems to prevent spreading contamination",
+        "Do not use electrical appliances in affected areas",
+        "Ventilate the area by opening windows if safe to do so"
+      ]
+    },
+    "commercialContent": {
+      "challenges": "Commercial sewage incidents can force immediate closure and create significant liability concerns. Our commercial team responds rapidly with industrial equipment, follows all OSHA and health department requirements, and provides documentation needed for compliance and insurance. We work to minimize business interruption while ensuring complete decontamination.",
+      "tips": [
+        "Close affected areas immediately and restrict access",
+        "Document the incident for insurance and health department reporting",
+        "Notify employees and customers as appropriate for your business type",
+        "Maintain records of professional cleanup for liability protection",
+        "Consider preventive measures like backwater valves after cleanup"
+      ]
+    },
+    "images": {
+      "hero": "/images/blog/2019/11/sewers-drains.jpg",
+      "overview": "/images/blog/2019/11/sewers-drains.jpg",
+      "process": [
+        "/images/blog/2019/11/hydro-jetting.jpg",
+        "/images/blog/2019/11/video-inspection.jpg"
+      ],
+      "gallery": []
+    },
+    "mainPageContent": {
+      "generalFaqs": [
+        {
+          "question": "Is sewage cleanup dangerous to do myself?",
+          "answer": "Yes, sewage cleanup is extremely dangerous and should only be performed by professionals. Raw sewage contains harmful bacteria (E. coli, Salmonella), viruses (Hepatitis A), parasites, and other pathogens that can cause serious illness. Professional restoration companies have proper protective equipment, hospital-grade disinfectants, and training to handle biohazardous materials safely. Attempting DIY cleanup puts you and your family at significant health risk."
+        },
+        {
+          "question": "How long does sewage cleanup take?",
+          "answer": "Sewage cleanup typically takes 1-3 days for the initial extraction, sanitization, and drying process. Complete restoration including any necessary repairs may take 1-2 weeks depending on the extent of damage. Porous materials like carpet and drywall often need replacement. We work efficiently to restore your property while ensuring thorough decontamination—cutting corners with biohazards is never acceptable."
+        },
+        {
+          "question": "What causes sewage backups?",
+          "answer": "Common causes include main sewer line blockages or collapse, tree roots growing into sewer pipes, septic system failures, flushing non-flushable items, grease buildup in pipes, heavy rainfall overwhelming municipal systems, and aging plumbing infrastructure. Regular maintenance and proper usage habits can prevent many backups, but some causes like municipal system overflows are beyond homeowner control."
+        },
+        {
+          "question": "Does insurance cover sewage cleanup?",
+          "answer": "Coverage varies by policy. Most standard homeowners insurance does not cover sewage backups unless you have specific sewer and drain backup coverage added to your policy. This endorsement is relatively inexpensive and highly recommended, especially in older homes or areas with known sewer issues. We work with your insurance company and provide detailed documentation for claims when coverage applies."
+        }
+      ]
+    }
+  }
+}
+

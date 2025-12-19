@@ -65,7 +65,7 @@ Contact Total Care Restoration today to learn more about their professional fire
 
 More about fire restoration:
 
--   [Fire Restoration](/services/fire-restoration/) by Total Care Restoration
+-   [Fire Damage Restoration](/fire-damage-restoration/) by Total Care Restoration
 -    [Understanding Water Damage the Basics Everyone Should Know](/understanding-water-damage-the-basics-everyone-should-know/)
 
 ## Related Links

@@ -66,7 +66,7 @@ Identifying the root causes of ceiling water damage is crucial for effective rep
 
 Understanding these common causes helps in preventive measures and timely interventions. Keeping an eye on these potential issues ensures you act swiftly to mitigate any damage.
 
-To learn more about related restoration services like [Fire Restoration](/services/fire-restoration), which could also inadvertently cause ceiling water damage, you might consider visiting this link.
+To learn more about related restoration services like [Fire Damage Restoration](/fire-damage-restoration/), which could also inadvertently cause ceiling water damage, you might consider visiting this link.
 
 Maintaining vigilance and conducting regular inspections are key strategies in addressing these common causes of ceiling water damage.
 
@@ -86,7 +86,7 @@ While working on finding a permanent solution, you might want to temporarily sta
 
 3\. Fixing the Leak Source
 
-Depending on your skills and the severity of the leak, you can opt for a DIY fix or seek expert assistance. For example, if the leak is due to a faulty roof, it’s advisable to hire a professional [Roof Tarping](/services/roof-tarping) that specializes in installation.
+Depending on your skills and the severity of the leak, you can opt for a DIY fix or seek expert assistance. For example, if the leak is due to a faulty roof, it’s advisable to hire a professional [Roof Tarping](/roof-tarping/) that specializes in installation.
 
 4\. Removing Damaged Materials
 
@@ -98,7 +98,7 @@ Inspect the insulation above the ceiling for any signs of water damage. Wet insu
 
 6\. Wearing a Respirator During Repair Work
 
-Safety first: wear a respirator to protect yourself from inhaling potentially harmful particles like mold spores and dust during repair work, especially when dealing with [Indoor Air Quality](/services/indoor-air-quality).
+Safety first: wear a respirator to protect yourself from inhaling potentially harmful particles like mold spores and dust during repair work, especially when dealing with indoor air quality.
 
 7\. Allowing Plasterboard to Completely Dry Before Repair
 

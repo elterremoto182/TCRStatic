@@ -1,0 +1,463 @@
+{
+  "miami": {
+    "name": "Miami",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.7617, "lng": -80.1918 },
+    "neighborhoods": ["Brickell", "Coral Gables", "Little Havana", "Wynwood", "Downtown Miami", "Coconut Grove", "Midtown", "Design District", "Edgewater", "Overtown"],
+    "zipCodes": ["33101", "33109", "33125", "33127", "33128", "33129", "33130", "33131", "33132", "33133", "33134", "33135", "33136", "33137", "33138", "33139", "33140", "33141", "33142", "33143", "33144", "33145", "33146", "33147", "33149", "33150"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Tropical climate with high humidity and frequent rainfall",
+      "risks": ["Hurricane flooding", "Aging plumbing in historic buildings", "AC-related leaks from constant use", "Storm surge in coastal areas"],
+      "characteristics": "Mix of high-rise condos, historic homes, and commercial properties"
+    },
+    "residential": {
+      "intro": "Miami homes face unique water damage challenges due to the city's tropical climate, frequent hurricanes, and aging infrastructure. From historic homes in Coral Gables to modern condos in Brickell, our residential water damage restoration team understands the specific needs of Miami homeowners and responds quickly to protect your family and property.",
+      "extendedContent": "As one of Florida's most densely populated cities, Miami presents unique restoration challenges. The city's diverse architecture—from Mediterranean Revival estates in Coral Gables to sleek Brickell high-rises—requires restoration specialists who understand different construction methods and materials. Our Miami team has extensive experience with condo associations and HOA requirements, historic preservation guidelines, and the rapid mold growth that Miami's year-round humidity encourages.",
+      "localChallenges": "Miami's location makes it particularly vulnerable to hurricane damage and flooding. King tides increasingly affect low-lying neighborhoods, while the city's aging infrastructure means many homes have plumbing systems prone to failure. The constant operation of air conditioning systems in Miami's heat leads to condensation issues and AC-related water damage that can go unnoticed until mold has developed.",
+      "focusPoints": ["Historic home preservation", "Condo and HOA coordination", "Hurricane preparedness", "Mold prevention in humid climate"]
+    },
+    "commercial": {
+      "intro": "Miami's thriving business community demands rapid response when water damage threatens operations. From Downtown Miami office towers to Wynwood warehouses and Brickell financial centers, we minimize business interruption with 24/7 commercial restoration services designed for Miami's unique commercial landscape.",
+      "extendedContent": "Miami is a gateway to Latin America and the Caribbean, home to international corporations, major financial institutions, and a booming tourism and hospitality industry. Commercial water damage in Miami can have international business implications. Our commercial restoration team understands the high stakes involved and provides the rapid, professional response that Miami businesses require.",
+      "localChallenges": "Miami's commercial properties face challenges from underground parking flooding, high-rise plumbing systems, and the constant humidity that can lead to mold in HVAC systems. The hospitality industry, a cornerstone of Miami's economy, requires discrete, rapid restoration to minimize guest impact and protect brand reputation.",
+      "focusPoints": ["High-rise building expertise", "Restaurant and hospitality focus", "Retail space restoration", "Office building water damage"]
+    }
+  },
+  "fort-lauderdale": {
+    "name": "Fort Lauderdale",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.1224, "lng": -80.1373 },
+    "neighborhoods": ["Las Olas", "Victoria Park", "Tarpon River", "Rio Vista", "Harbor Beach", "Coral Ridge", "Lauderdale-by-the-Sea", "Wilton Manors", "Oakland Park"],
+    "zipCodes": ["33301", "33304", "33305", "33306", "33308", "33309", "33311", "33312", "33313", "33315", "33316"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Coastal subtropical climate with extensive canal network",
+      "risks": ["Canal flooding", "Salt air corrosion on pipes", "Hurricane damage", "Boat dock water intrusion", "Seawall failures"],
+      "characteristics": "Venice of America with extensive waterway system and waterfront properties"
+    },
+    "residential": {
+      "intro": "Fort Lauderdale's Venice of America reputation means homes here face unique water challenges from canals, intercoastal waterways, and tropical storms. Our residential restoration team specializes in protecting waterfront homes in Harbor Beach, historic properties in Victoria Park, and family homes throughout Broward County.",
+      "extendedContent": "Fort Lauderdale's 300+ miles of inland waterways create a beautiful but challenging environment for homeowners. Properties along canals and the Intracoastal Waterway face constant exposure to moisture, salt air, and the risk of flooding during storms or king tides. Many waterfront homes have boat docks, seawalls, and below-grade living spaces that require specialized restoration knowledge.",
+      "localChallenges": "The salt air in Fort Lauderdale accelerates corrosion of plumbing systems and building materials. Canal properties are particularly susceptible to seawall failures and flooding during heavy rains. The city's mix of older homes and new construction means restoration teams must be versed in multiple building techniques and era-specific materials.",
+      "focusPoints": ["Waterfront property specialists", "Canal flooding response", "Salt air damage prevention", "Boat house and dock restoration"]
+    },
+    "commercial": {
+      "intro": "From Las Olas Boulevard boutiques to downtown office complexes, Fort Lauderdale businesses trust our commercial restoration team for rapid water damage response. We understand the tourism-driven economy and work to minimize disruption to hotels, restaurants, and marine businesses.",
+      "extendedContent": "Fort Lauderdale's economy is driven by tourism, yachting, and marine industries, making water damage restoration particularly critical for local businesses. Hotels and resorts along the beach, marine businesses on the waterways, and the entertainment district along Las Olas all require restoration partners who understand the unique needs of hospitality and marine commerce.",
+      "localChallenges": "Commercial properties in Fort Lauderdale face challenges from the marine environment, including salt corrosion, humidity-related mold in commercial HVAC systems, and flooding risks in waterfront retail and restaurant locations. The seasonal nature of tourism adds pressure to complete restoration quickly during peak seasons.",
+      "focusPoints": ["Tourism industry expertise", "Marina and boat facility restoration", "Restaurant water damage", "Retail corridor protection"]
+    }
+  },
+  "pembroke-pines": {
+    "name": "Pembroke Pines",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.0128, "lng": -80.2241 },
+    "neighborhoods": ["Chapel Trail", "Silver Lakes", "Pembroke Falls", "Century Village", "Pembroke Lakes", "Pembroke Shores", "Grand Palms"],
+    "zipCodes": ["33023", "33024", "33025", "33026", "33027", "33028", "33029", "33082", "33084"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Suburban community with planned drainage systems",
+      "risks": ["Flood zone properties", "Slab leaks in planned communities", "Hurricane roof damage", "Underground plumbing issues"],
+      "characteristics": "Large family-oriented suburban community with planned developments"
+    },
+    "residential": {
+      "intro": "Pembroke Pines families deserve fast, reliable water damage restoration that protects their homes and health. From the established neighborhoods of Chapel Trail to the newer developments in Pembroke Falls, our team understands the unique construction styles and common water issues affecting this family-friendly community.",
+      "focusPoints": ["Family home protection", "HOA community experience", "Slab leak specialists", "Senior community expertise (Century Village)"]
+    },
+    "commercial": {
+      "intro": "Pembroke Pines commercial properties, from Pembroke Lakes Mall retailers to medical offices and educational facilities, require restoration partners who understand suburban commercial needs. We provide rapid response to minimize business interruption and protect your investment.",
+      "focusPoints": ["Shopping center restoration", "Medical facility compliance", "School and daycare water damage", "Office park specialists"]
+    }
+  },
+  "davie": {
+    "name": "Davie",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.0628, "lng": -80.2331 },
+    "neighborhoods": ["Rolling Hills", "Davie Village", "Griffin Lakes", "Long Lake Ranches", "Arrowhead", "Pine Island Ridge", "Forest Ridge"],
+    "zipCodes": ["33314", "33317", "33324", "33325", "33326", "33328", "33329", "33330", "33331"],
+    "responseTime": "30-40 minutes",
+    "localFactors": {
+      "climate": "Rural-suburban with horse property drainage challenges",
+      "risks": ["Well water issues", "Septic system backups", "Large property flooding", "Barn and stable water damage"],
+      "characteristics": "Western-themed town with equestrian properties and large lots"
+    },
+    "residential": {
+      "intro": "Davie's unique blend of suburban homes and equestrian properties requires specialized water damage restoration knowledge. Whether you have a family home in Rolling Hills or a horse ranch in Long Lake, our team understands the challenges of restoring properties in this distinctive Western-themed community.",
+      "focusPoints": ["Large lot property expertise", "Equestrian facility restoration", "Well and septic considerations", "Rural property access"]
+    },
+    "commercial": {
+      "intro": "Davie businesses, from equestrian centers to Nova Southeastern University facilities and town center retail, trust our commercial restoration expertise. We provide rapid response while respecting the unique character of Davie's commercial landscape.",
+      "focusPoints": ["Equestrian business specialists", "Educational facility restoration", "Agricultural property expertise", "Town center retail protection"]
+    }
+  },
+  "weston": {
+    "name": "Weston",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.1003, "lng": -80.3998 },
+    "neighborhoods": ["Weston Hills", "Savanna", "Country Isles", "Emerald Estates", "The Ridges", "Windmill Ranch Estates", "Tequesta Point"],
+    "zipCodes": ["33326", "33327", "33331", "33332"],
+    "responseTime": "40-55 minutes",
+    "localFactors": {
+      "climate": "Master-planned community near Everglades",
+      "risks": ["Everglades flooding", "HOA-managed property challenges", "Underground utility issues", "High water table"],
+      "characteristics": "Upscale planned community with strict HOA standards"
+    },
+    "residential": {
+      "intro": "Weston homeowners expect the highest standards in restoration services to match their premier community. Our residential team understands the strict HOA requirements, upscale finishes, and unique water challenges facing homes in this master-planned community bordering the Everglades.",
+      "focusPoints": ["HOA compliance expertise", "Luxury home restoration", "Everglades proximity flooding", "High-end finish protection"]
+    },
+    "commercial": {
+      "intro": "Weston's professional business community, from the Town Center corporate offices to medical facilities and retail establishments, demands restoration services that meet the community's high standards. We deliver rapid, professional commercial restoration with minimal disruption.",
+      "focusPoints": ["Corporate office restoration", "Medical facility compliance", "Retail center protection", "Professional service building expertise"]
+    }
+  },
+  "plantation": {
+    "name": "Plantation",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.1276, "lng": -80.2331 },
+    "neighborhoods": ["Jacaranda", "Pine Island Ridge", "Plantation Acres", "Central Park", "Sunrise Golf Village", "Plantation Park", "Lauderdale West"],
+    "zipCodes": ["33313", "33317", "33322", "33323", "33324", "33325", "33388"],
+    "responseTime": "25-35 minutes",
+    "localFactors": {
+      "climate": "Central Broward location with established infrastructure",
+      "risks": ["Aging sewer systems", "Commercial building water damage", "Hurricane wind damage", "Storm drain backups"],
+      "characteristics": "Mix of residential and commercial with mature landscaping"
+    },
+    "residential": {
+      "intro": "Plantation's established neighborhoods feature beautiful mature landscaping and homes ranging from cozy condos to spacious single-family residences. Our residential restoration team has deep experience with Plantation's diverse housing stock and common water damage issues in this central Broward community.",
+      "focusPoints": ["Mature tree and landscape considerations", "Established home expertise", "Condo community specialists", "Aging infrastructure challenges"]
+    },
+    "commercial": {
+      "intro": "Plantation's strategic location makes it a hub for Broward County businesses. From the Plantation Fashion Mall area to University Drive office complexes, we provide the rapid commercial restoration response that businesses need to minimize downtime and revenue loss.",
+      "focusPoints": ["Mall and retail restoration", "Office building expertise", "Medical office compliance", "Industrial park specialists"]
+    }
+  },
+  "miramar": {
+    "name": "Miramar",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9873, "lng": -80.2323 },
+    "neighborhoods": ["Miramar Parkway", "Silver Shores", "Huntington", "Sunset Falls", "Miramar Town Center", "Sunset Lakes", "Monarch Lakes"],
+    "zipCodes": ["33023", "33025", "33027", "33029"],
+    "responseTime": "30-40 minutes",
+    "localFactors": {
+      "climate": "Southern Broward with diverse property types",
+      "risks": ["Multi-family building water damage", "Commercial park flooding", "Underground parking water intrusion", "Tropical storm impacts"],
+      "characteristics": "Rapidly growing diverse community with modern development"
+    },
+    "residential": {
+      "intro": "Miramar is one of South Florida's most diverse and rapidly growing communities. Our residential restoration team serves families in newer developments like Sunset Lakes and established neighborhoods throughout the city, providing culturally sensitive service and expert water damage restoration.",
+      "focusPoints": ["Diverse community expertise", "Newer construction knowledge", "Multi-family building specialists", "Rapid growth area response"]
+    },
+    "commercial": {
+      "intro": "Miramar's business community spans from international corporate headquarters to local retail and the vibrant Town Center. We provide commercial restoration services that understand the unique needs of this dynamic, diverse business environment.",
+      "focusPoints": ["International business expertise", "Town center restoration", "Warehouse and distribution facilities", "Corporate headquarters protection"]
+    }
+  },
+  "coral-springs": {
+    "name": "Coral Springs",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.2712, "lng": -80.2706 },
+    "neighborhoods": ["Heron Bay", "Coral Springs Country Club", "Cypress Run", "Eagle Trace", "The Walk", "Ramblewood", "Forest Hills"],
+    "zipCodes": ["33065", "33067", "33071", "33073", "33075", "33076", "33077"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Northern Broward with planned drainage systems",
+      "risks": ["Lake and canal overflow", "AC condensation leaks", "Hurricane roof damage", "Foundation water seepage"],
+      "characteristics": "Award-winning planned city with excellent infrastructure"
+    },
+    "residential": {
+      "intro": "Coral Springs consistently ranks among Florida's best places to live, and homeowners here expect restoration services that match the community's high standards. From Heron Bay estates to Cypress Run family homes, our team delivers the quality restoration Coral Springs residents deserve.",
+      "focusPoints": ["Planned community expertise", "Lake-front property specialists", "Family-focused service", "Golf course community knowledge"]
+    },
+    "commercial": {
+      "intro": "Coral Springs businesses benefit from our commercial restoration expertise that understands this award-winning city's unique commercial landscape. From University Drive retail to The Walk at Coral Springs, we minimize business disruption with professional, rapid response.",
+      "focusPoints": ["Retail center specialists", "Professional office restoration", "Medical facility compliance", "Restaurant water damage expertise"]
+    }
+  },
+  "boca-raton": {
+    "name": "Boca Raton",
+    "county": "Palm Beach County",
+    "state": "FL",
+    "coordinates": { "lat": 26.3587, "lng": -80.0831 },
+    "neighborhoods": ["Boca West", "Royal Palm Yacht & Country Club", "Mizner Park", "Spanish River", "Town Center", "Boca Del Mar", "Broken Sound"],
+    "zipCodes": ["33427", "33428", "33429", "33431", "33432", "33433", "33434", "33486", "33487", "33496", "33497", "33498", "33499"],
+    "responseTime": "45-60 minutes",
+    "localFactors": {
+      "climate": "Coastal Palm Beach with luxury properties",
+      "risks": ["Oceanfront salt damage", "High-end property water intrusion", "Underground parking flooding", "Golf course irrigation overflow"],
+      "characteristics": "Affluent coastal community with high-value properties"
+    },
+    "residential": {
+      "intro": "Boca Raton's prestigious homes require restoration services that match their luxury standards. From oceanfront estates to Boca West country club homes, our residential team has the expertise and discretion to restore high-value properties while protecting your investment and privacy.",
+      "extendedContent": "Boca Raton is home to some of South Florida's most valuable residential real estate. Properties in communities like Royal Palm Yacht & Country Club, Boca West, and oceanfront estates on A1A feature premium finishes, imported materials, and custom construction that require specialized restoration knowledge. Our team understands the importance of protecting irreplaceable materials and works with discretion befitting Boca Raton's exclusive communities.",
+      "localChallenges": "Boca Raton homes face unique challenges from coastal salt exposure, underground parking and basement flooding in oceanfront properties, and irrigation system issues in golf course communities. Many properties have sophisticated smart home systems and high-end appliances that require careful handling during restoration. HOA requirements in gated communities add additional considerations for restoration work.",
+      "focusPoints": ["Luxury property specialists", "Oceanfront home expertise", "Country club community knowledge", "High-end material restoration"]
+    },
+    "commercial": {
+      "intro": "Boca Raton's upscale commercial environment, from Mizner Park boutiques to Town Center corporate offices, demands sophisticated restoration services. We provide the professional, discrete commercial restoration that Boca Raton businesses expect.",
+      "extendedContent": "Boca Raton has established itself as a corporate headquarters destination with companies choosing the city for its quality of life and business-friendly environment. The Town Center at Boca Raton, Mizner Park, and surrounding office developments represent significant commercial real estate value requiring restoration partners who understand high-end commercial properties.",
+      "localChallenges": "Commercial properties in Boca Raton feature upscale finishes and tenant improvements that require careful restoration. Corporate headquarters often have specialized IT infrastructure and sensitive business operations that must be protected. The city's medical corridor includes numerous healthcare facilities with strict compliance requirements for water damage remediation.",
+      "focusPoints": ["Upscale retail restoration", "Corporate headquarters expertise", "Medical center compliance", "Luxury hospitality specialists"]
+    }
+  },
+  "pompano-beach": {
+    "name": "Pompano Beach",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.2379, "lng": -80.1248 },
+    "neighborhoods": ["Lighthouse Point", "Palm Aire", "Cresthaven", "Collier City", "Cypress Creek", "Pompano Beach Highlands", "Leisureville"],
+    "zipCodes": ["33060", "33061", "33062", "33063", "33064", "33069", "33072", "33074"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Coastal Broward with beach and inland areas",
+      "risks": ["Beachfront storm damage", "Older building plumbing failures", "Marina-area flooding", "Commercial district water damage"],
+      "characteristics": "Redeveloping beach community with mixed property types"
+    },
+    "residential": {
+      "intro": "Pompano Beach homeowners, from beachfront condos to inland family homes, trust our residential restoration team for rapid water damage response. We understand the unique challenges facing this redeveloping coastal community and provide expert restoration services.",
+      "focusPoints": ["Beachfront condo expertise", "Older home restoration", "Senior community specialists", "Coastal flooding response"]
+    },
+    "commercial": {
+      "intro": "Pompano Beach's revitalized commercial district and established business areas require restoration partners who understand the community's growth. From beachfront hotels to Cypress Creek corporate parks, we deliver professional commercial restoration.",
+      "focusPoints": ["Hotel and hospitality restoration", "Retail redevelopment expertise", "Industrial area specialists", "Marina business restoration"]
+    }
+  },
+  "doral": {
+    "name": "Doral",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.8195, "lng": -80.3553 },
+    "neighborhoods": ["Downtown Doral", "Doral Isles", "Trump National Doral", "Costa Del Sol", "Doral Meadows", "Doral Cay", "Doral Park"],
+    "zipCodes": ["33122", "33166", "33172", "33178"],
+    "responseTime": "15-25 minutes",
+    "localFactors": {
+      "climate": "Western Miami-Dade with commercial development",
+      "risks": ["Golf course irrigation issues", "Commercial warehouse flooding", "High-rise condo water damage", "Storm drain system overload"],
+      "characteristics": "Our home base - fastest response times available"
+    },
+    "residential": {
+      "intro": "As our home base, Doral residents receive the fastest response times and most personalized service. Whether you live in the luxury condos of Downtown Doral or the family homes of Doral Isles, our team is just minutes away and ready to protect your home from water damage.",
+      "extendedContent": "Doral has transformed from agricultural land to one of South Florida's most desirable communities in just a few decades. This rapid development means Doral homes are generally newer with modern construction, but also face challenges from being built on reclaimed land with unique drainage considerations. Our deep roots in Doral give us unmatched local knowledge and community relationships.",
+      "localChallenges": "Doral's flat terrain and extensive development create drainage challenges during heavy rains. Golf course communities like Trump National Doral and Doral Isles face irrigation system issues that can affect adjacent properties. The mix of single-family homes and high-rise condos in Downtown Doral requires diverse restoration expertise. As our home base, we know every neighborhood and can respond faster than any competitor.",
+      "focusPoints": ["Fastest response times", "Local community knowledge", "Golf course community expertise", "High-rise condo specialists"]
+    },
+    "commercial": {
+      "intro": "Doral is the heart of South Florida's business community, and Total Care Restoration is proud to be headquartered here. From international corporations to local businesses, we provide the fastest commercial restoration response in the region with intimate knowledge of Doral's commercial landscape.",
+      "extendedContent": "Doral has become South Florida's premier business address, home to international corporate headquarters, major distribution centers, and a thriving local business community. The city's strategic location near Miami International Airport makes it a hub for import/export businesses and logistics companies. We've built relationships with Doral businesses over years of service and understand the critical importance of minimizing downtime.",
+      "localChallenges": "Doral's concentration of warehouses and distribution centers creates unique commercial restoration challenges, including large-scale water damage to inventory and specialized equipment. The international business community often requires documentation and communication support for overseas ownership. Our headquarters location means we can have crews on-site faster than anyone, often in under 20 minutes.",
+      "focusPoints": ["Headquarters proximity advantage", "International business hub expertise", "Warehouse and logistics specialists", "Corporate campus restoration"]
+    }
+  },
+  "miami-beach": {
+    "name": "Miami Beach",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.7907, "lng": -80.1300 },
+    "neighborhoods": ["South Beach", "North Beach", "Mid-Beach", "Sunset Harbour", "Belle Isle", "Normandy Isles", "La Gorce"],
+    "zipCodes": ["33139", "33140", "33141", "33154"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Barrier island with sea level rise concerns",
+      "risks": ["King tide flooding", "Salt water intrusion", "Historic Art Deco building water damage", "Underground parking flooding"],
+      "characteristics": "Iconic barrier island with unique flooding challenges"
+    },
+    "residential": {
+      "intro": "Miami Beach's barrier island location creates unique water damage challenges from king tides, storm surge, and sea level rise. Our residential team specializes in protecting iconic Art Deco homes, luxury condos, and waterfront properties throughout South Beach, Mid-Beach, and North Beach.",
+      "extendedContent": "Miami Beach is one of the most iconic destinations in the world, and its unique barrier island geography creates restoration challenges found nowhere else. The city's legendary Art Deco Historic District includes hundreds of architecturally significant buildings that require specialized preservation knowledge. Luxury condos in high-rises along Collins Avenue and oceanfront properties throughout the island represent some of the highest real estate values in Florida.",
+      "localChallenges": "Miami Beach faces increasingly frequent king tide flooding that can inundate streets and ground-floor properties. The city's aging infrastructure struggles with stormwater management, and saltwater intrusion affects both plumbing and building materials. Many residential buildings have underground parking that floods during storms, sending water into units above. Historic preservation requirements in Art Deco buildings add complexity to restoration projects.",
+      "focusPoints": ["King tide flooding expertise", "Art Deco preservation", "Luxury condo specialists", "Barrier island knowledge"]
+    },
+    "commercial": {
+      "intro": "Miami Beach's world-famous hospitality industry demands restoration partners who understand the stakes of business interruption. From Ocean Drive hotels to Lincoln Road boutiques, we provide rapid commercial restoration that protects your business and reputation.",
+      "extendedContent": "The Miami Beach economy revolves around tourism and hospitality, with world-renowned hotels, restaurants, and entertainment venues generating billions in economic activity. A water damage incident at a major hotel or nightclub can mean significant financial losses and reputation damage. Our commercial team provides the discrete, rapid response that Miami Beach's hospitality industry demands.",
+      "localChallenges": "Commercial properties in Miami Beach contend with the same flooding and saltwater challenges as residential properties, amplified by the need to minimize guest and customer impact. Historic hotels must balance modern restoration techniques with preservation requirements. The high-profile nature of Miami Beach businesses means restoration must be completed quickly and professionally to protect brand reputation.",
+      "focusPoints": ["Hotel and hospitality experts", "Restaurant water damage specialists", "Retail corridor protection", "Historic building restoration"]
+    }
+  },
+  "deerfield-beach": {
+    "name": "Deerfield Beach",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.3184, "lng": -80.0998 },
+    "neighborhoods": ["Cove", "Hillsboro Beach", "Century Village", "Waterways", "Crystal Lake", "The Palms", "Deer Creek"],
+    "zipCodes": ["33441", "33442", "33443"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Coastal Broward with beach and inland communities",
+      "risks": ["Beachfront storm surge", "Older condo building plumbing", "Senior community water damage", "Intracoastal flooding"],
+      "characteristics": "Family-friendly beach community with significant senior population"
+    },
+    "residential": {
+      "intro": "Deerfield Beach homeowners trust our residential restoration team for rapid response to water damage emergencies. From oceanfront condos in the Cove to family homes in Deer Creek, we understand the unique needs of this welcoming beach community.",
+      "focusPoints": ["Senior community specialists", "Beachfront condo expertise", "Family home restoration", "Intracoastal property knowledge"]
+    },
+    "commercial": {
+      "intro": "Deerfield Beach's revitalized downtown and established commercial areas require professional restoration services. From Hillsboro Boulevard businesses to beachfront hotels, we deliver reliable commercial water damage restoration.",
+      "focusPoints": ["Beach hotel restoration", "Retail plaza specialists", "Senior care facility expertise", "Restaurant water damage"]
+    }
+  },
+  "parkland": {
+    "name": "Parkland",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.3100, "lng": -80.2370 },
+    "neighborhoods": ["Heron Bay", "Parkland Golf & Country Club", "Cypress Head", "Watercrest", "Parkland Isles", "The Estates"],
+    "zipCodes": ["33067", "33076"],
+    "responseTime": "40-55 minutes",
+    "localFactors": {
+      "climate": "Western Broward with nature preserve surroundings",
+      "risks": ["Everglades flooding", "Golf course drainage overflow", "Tropical storm damage", "AC-related water damage"],
+      "characteristics": "Affluent residential community with top-rated schools"
+    },
+    "residential": {
+      "intro": "Parkland's prestigious homes and family-focused community deserve restoration services that respect both property value and family life. Our residential team provides the discrete, thorough water damage restoration that Parkland homeowners expect.",
+      "focusPoints": ["Luxury home specialists", "Family-focused service", "Golf community expertise", "Rapid response to protect investments"]
+    },
+    "commercial": {
+      "intro": "Parkland's growing commercial areas, including schools and local businesses, trust our professional restoration team. We understand the community-focused nature of Parkland businesses and provide restoration services accordingly.",
+      "focusPoints": ["School facility restoration", "Local business specialists", "Community center expertise", "Professional office restoration"]
+    }
+  },
+  "sunrise": {
+    "name": "Sunrise",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.1339, "lng": -80.2561 },
+    "neighborhoods": ["Sawgrass Mills", "Sunrise Lakes", "Welleby", "Inverrary", "Nob Hill", "Sunrise Golf Village", "The Springs"],
+    "zipCodes": ["33304", "33313", "33322", "33323", "33325", "33326", "33351"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Central Broward with significant commercial development",
+      "risks": ["Commercial district flooding", "Older community plumbing", "Shopping center water damage", "Arena event impacts"],
+      "characteristics": "Commercial hub with Sawgrass Mills and FLA Live Arena"
+    },
+    "residential": {
+      "intro": "Sunrise residents from established communities like Sunrise Lakes to newer developments trust our residential restoration team. We respond quickly to protect your home and family from water damage.",
+      "focusPoints": ["Senior community expertise", "Established neighborhood knowledge", "Rapid emergency response", "Insurance assistance"]
+    },
+    "commercial": {
+      "intro": "Sunrise is a major commercial destination, home to Sawgrass Mills Mall and FLA Live Arena. Our commercial restoration team understands the high-stakes environment of retail and entertainment venues.",
+      "focusPoints": ["Large retail restoration", "Entertainment venue specialists", "Corporate office expertise", "Shopping center water damage"]
+    }
+  },
+  "miami-lakes": {
+    "name": "Miami Lakes",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9087, "lng": -80.3086 },
+    "neighborhoods": ["Miami Lakes Town Center", "Royal Oaks", "Loch Lomond", "Lake Patricia", "Windmill Gate", "Palm Springs"],
+    "zipCodes": ["33014", "33015", "33016"],
+    "responseTime": "25-40 minutes",
+    "localFactors": {
+      "climate": "Northwestern Miami-Dade planned community",
+      "risks": ["Lake and canal flooding", "Older community infrastructure", "Tropical storm impacts", "Aging plumbing systems"],
+      "characteristics": "Well-planned community built around lakes and green spaces"
+    },
+    "residential": {
+      "intro": "Miami Lakes' thoughtfully planned neighborhoods and family-friendly atmosphere deserve restoration services that match the community's quality. Our residential team provides compassionate, thorough water damage restoration for Miami Lakes homes.",
+      "focusPoints": ["Lakefront property expertise", "Family community focus", "Established home restoration", "Mold prevention specialists"]
+    },
+    "commercial": {
+      "intro": "Miami Lakes Town Center and surrounding business districts require professional restoration partners. We provide rapid commercial water damage response to keep Miami Lakes businesses operational.",
+      "focusPoints": ["Town center retail expertise", "Office park restoration", "Warehouse specialists", "Healthcare facility compliance"]
+    }
+  },
+  "kendall": {
+    "name": "Kendall",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.6747, "lng": -80.3568 },
+    "neighborhoods": ["The Hammocks", "Kendale Lakes", "Sunset", "The Crossings", "Three Lakes", "Killian", "Dadeland"],
+    "zipCodes": ["33156", "33157", "33158", "33176", "33183", "33186", "33193"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Southern Miami-Dade suburban corridor",
+      "risks": ["Everglades proximity flooding", "Aging suburban infrastructure", "Hurricane impacts", "AC-related water damage"],
+      "characteristics": "Large suburban area with diverse residential communities"
+    },
+    "residential": {
+      "intro": "Kendall's diverse neighborhoods, from The Hammocks to Dadeland, trust our residential restoration team for rapid water damage response. We understand the unique needs of South Miami-Dade homeowners and provide expert service.",
+      "focusPoints": ["Large suburban area coverage", "Family home specialists", "Condo and townhome expertise", "Hurricane damage restoration"]
+    },
+    "commercial": {
+      "intro": "Kendall's commercial corridors, including Dadeland Mall and surrounding business districts, require dependable restoration partners. Our commercial team responds rapidly to minimize business interruption.",
+      "focusPoints": ["Major retail restoration", "Medical facility compliance", "Professional office expertise", "Restaurant water damage"]
+    }
+  },
+  "pinecrest": {
+    "name": "Pinecrest",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.6652, "lng": -80.3067 },
+    "neighborhoods": ["Pinecrest Gardens", "Gables by the Sea", "Old Cutler Bay", "Saga Bay", "Palmetto Bay border"],
+    "zipCodes": ["33156", "33157", "33158"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "South Miami-Dade with mature tree canopy",
+      "risks": ["Tree damage from storms", "Older home plumbing", "Flooding from heavy rains", "Luxury property water intrusion"],
+      "characteristics": "Affluent village with large estate homes and top-rated schools"
+    },
+    "residential": {
+      "intro": "Pinecrest's estate homes and family-focused village atmosphere require restoration services that respect both property value and community character. Our residential team provides discrete, expert water damage restoration for Pinecrest's discerning homeowners.",
+      "focusPoints": ["Estate home specialists", "Luxury property expertise", "Family-focused service", "Tree damage mitigation"]
+    },
+    "commercial": {
+      "intro": "Pinecrest's village commercial areas and professional offices trust our restoration team for quality service. We understand the community's standards and provide restoration accordingly.",
+      "focusPoints": ["Village commercial restoration", "Professional office expertise", "School facility specialists", "Community center restoration"]
+    }
+  },
+  "delray-beach": {
+    "name": "Delray Beach",
+    "county": "Palm Beach County",
+    "state": "FL",
+    "coordinates": { "lat": 26.4615, "lng": -80.0728 },
+    "neighborhoods": ["Atlantic Avenue", "Pineapple Grove", "Lake Ida", "Tropic Isle", "Seagate", "Delray Shores", "High Point"],
+    "zipCodes": ["33444", "33445", "33446", "33483", "33484"],
+    "responseTime": "45-60 minutes",
+    "localFactors": {
+      "climate": "Coastal Palm Beach with vibrant downtown",
+      "risks": ["Beachfront storm damage", "Historic building water intrusion", "Downtown flooding", "Older community plumbing"],
+      "characteristics": "Trendy beach community with award-winning downtown"
+    },
+    "residential": {
+      "intro": "Delray Beach homeowners, from beachfront estates to charming downtown bungalows, trust our residential restoration team. We provide expert water damage restoration that respects Delray's unique character and property values.",
+      "focusPoints": ["Beach property specialists", "Historic home expertise", "Downtown restoration knowledge", "Senior community focus"]
+    },
+    "commercial": {
+      "intro": "Delray Beach's award-winning Atlantic Avenue and thriving business community demand professional restoration services. Our commercial team understands the hospitality and retail focus of Delray's economy.",
+      "focusPoints": ["Restaurant and bar expertise", "Retail boutique restoration", "Hotel and hospitality focus", "Art gallery specialists"]
+    }
+  },
+  "west-palm-beach": {
+    "name": "West Palm Beach",
+    "county": "Palm Beach County",
+    "state": "FL",
+    "coordinates": { "lat": 26.7153, "lng": -80.0534 },
+    "neighborhoods": ["Clematis Street", "Northwood", "El Cid", "Flamingo Park", "SoSo", "Palm Beach Lakes", "City Place"],
+    "zipCodes": ["33401", "33402", "33403", "33404", "33405", "33406", "33407", "33409", "33411", "33412", "33413"],
+    "responseTime": "50-65 minutes",
+    "localFactors": {
+      "climate": "Northern Palm Beach coastal hub",
+      "risks": ["Intracoastal flooding", "Downtown building water damage", "Historic property issues", "Commercial district flooding"],
+      "characteristics": "Palm Beach County seat with vibrant downtown and diverse neighborhoods"
+    },
+    "residential": {
+      "intro": "West Palm Beach's diverse neighborhoods, from historic El Cid to modern downtown condos, trust our residential restoration team. We provide comprehensive water damage services throughout the county seat.",
+      "focusPoints": ["Historic district expertise", "Downtown condo specialists", "Waterfront property knowledge", "Diverse neighborhood coverage"]
+    },
+    "commercial": {
+      "intro": "West Palm Beach is Palm Beach County's commercial and governmental hub. Our commercial restoration team serves downtown offices, Clematis Street businesses, and county facilities with professional expertise.",
+      "focusPoints": ["Government building specialists", "Downtown office restoration", "Retail and hospitality expertise", "Healthcare facility compliance"]
+    }
+  }
+}
+

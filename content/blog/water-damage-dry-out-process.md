@@ -102,7 +102,7 @@ One of the pivotal steps in the **water damage restoration steps** is staunchly 
 
 By adhering to these guidelines and keeping a vigilant eye on the moisture levels in your property, you can successfully prevent mold growth, safeguarding the health of your living or working environment and maintaining the structural durability of the space.
 
-If you need help with a mold test of [Mold Remediation](/services/mold-remediation/) please reach out to us.
+If you need help with a mold test of [Mold Remediation](/mold-remediation/) please reach out to us.
 
 ### **Conclusion**
 

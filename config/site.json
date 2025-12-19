@@ -1,11 +1,11 @@
 {
   "seo": {
     "title": "Water Damage Mitigation Company - Total Care Restoration",
-    "ogImage": "/wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png",
+    "ogImage": "/images/site/logo.png",
     "keywords": "water mitigation company",
     "description": "Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help."
   },
-  "logo": "/wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png",
+  "logo": "/images/site/logo.png",
   "name": "Totalcarerestoration",
   "email": "clientcare@totalcarerestoration.com",
   "hours": "24/7 Emergency Service",
@@ -21,7 +21,7 @@
     "googleReviews": "https://share.google/VDRo3vdycLL83YFAm"
   },
   "address": "7790 NW 55th St., Doral, FL 33166",
-  "favicon": "/wp-content/themes/sk-theme-three/dist/images/assets/favicon_3b0b47d4.png",
+  "favicon": "/images/site/favicon.png",
   "reviews": {
     "yelp": {
       "url": "https://www.yelp.com/biz/",

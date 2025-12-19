@@ -122,7 +122,7 @@ Once the water has been removed and everything is dry, the restoration company m
 
 ### **Mold Growth**
 
-After any type of water damage, the possibility of mold growth increases. Ensuring that the area was properly dried and then sanitized should reduce this likelihood. However, it’s not always possible to prevent all growth, but a good restoration company will have the skills and expertise to [Mold Remediation](/services/mold-remediation/) that grows as a result of water damage. 
+After any type of water damage, the possibility of mold growth increases. Ensuring that the area was properly dried and then sanitized should reduce this likelihood. However, it’s not always possible to prevent all growth, but a good restoration company will have the skills and expertise to [Mold Remediation](/mold-remediation/) that grows as a result of water damage. 
 
 ### **Reconstruction**
 

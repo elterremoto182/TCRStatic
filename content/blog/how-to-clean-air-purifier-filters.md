@@ -10,7 +10,7 @@ seo_description: "Learn essential tips for cleaning air purifier filters and mai
 keywords: ["clean air purifier filters", "air purifier maintenance"]
 ---
 
-Cleaning your air purifier filters is crucial for maintaining good [Air Quality Inspections](/services/air-quality-inspections/) and ensuring your device works efficiently. Dirty filters reduce performance and increase energy use. Here’s a quick guide to keep your air purifier running smoothly:
+Cleaning your air purifier filters is crucial for maintaining good air quality issues and ensuring your device works efficiently. Dirty filters reduce performance and increase energy use. Here’s a quick guide to keep your air purifier running smoothly:
 
 -   **HEPA Filters**: Vacuum gently to remove dust. Most are not washable – check the manufacturer’s instructions.
 -   **Pre-Filters**: Wash with water (and mild soap if needed). Let them dry completely before reinstalling.
@@ -126,7 +126,7 @@ When routine cleaning isn’t enough, Total Care Restoration steps in to handle 
 
 Attempting to clean contaminated filters on your own can spread harmful spores. Instead, Total Care Restoration’s experts will safely remove damaged components and fix underlying issues like poor ventilation or moisture buildup. If water-damaged filters are harboring bacteria or mold, their team will determine whether repairs are possible or if a full replacement is needed.
 
-Additionally, professional [Indoor Air Quality](/services/indoor-air-quality/) can uncover hidden problems affecting your air purifier’s performance. This comprehensive approach evaluates your home’s entire environment, rather than focusing solely on the purifier itself.
+Additionally, professional indoor air quality can uncover hidden problems affecting your air purifier’s performance. This comprehensive approach evaluates your home’s entire environment, rather than focusing solely on the purifier itself.
 
 For emergency help with water, fire, or mold damage impacting your air purifier, reach out to Total Care Restoration at **(786) 610-6317**. Their fast response can stop minor issues from escalating into serious health risks.
 

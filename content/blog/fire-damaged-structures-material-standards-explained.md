@@ -52,7 +52,7 @@ In cases where salvage is possible, spray-applied fire-resistive materials (SFRM
 
 ### Wood: Fire Damage and Repair Issues
 
-Wood, being inherently combustible, poses complex challenges in [Fire Restoration](/services/fire-restoration/) assessments. When exposed to fire, it chars, forming a protective layer that slows further burning. However, this charring reduces the effective cross-sectional area of the wood, weakening its structural capacity.
+Wood, being inherently combustible, poses complex challenges in [Fire Damage Restoration](/fire-damage-restoration/) assessments. When exposed to fire, it chars, forming a protective layer that slows further burning. However, this charring reduces the effective cross-sectional area of the wood, weakening its structural capacity.
 
 To assess fire-damaged wood, professionals measure the depth of the char and calculate the remaining material’s load-carrying ability. If the damage is limited, the charred layer can be removed, and the remaining wood can be reinforced to meet safety codes.
 
@@ -170,7 +170,7 @@ Material selection must meet or exceed the required fire-resistance ratings. For
 
 Inspections are required at multiple stages during restoration, including after demolition, during structural repairs, and before final occupancy approval. These checkpoints confirm that all work complies with approved plans and code requirements.
 
-Working with [Commercial](/services/commercial/) simplifies the process. **Companies like Total Care Restoration specialize in fire damage assessment, code compliance, and safe repair methods.** Their certified technicians are well-versed in current standards and work closely with local authorities to ensure a smooth restoration process.
+Working with [Commercial](/water-damage-restoration/commercial/) simplifies the process. **Companies like Total Care Restoration specialize in fire damage assessment, code compliance, and safe repair methods.** Their certified technicians are well-versed in current standards and work closely with local authorities to ensure a smooth restoration process.
 
 > "Alexander’s team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful."
 

@@ -1,0 +1,443 @@
+'use client';
+
+import Link from 'next/link';
+import { AnimateOnScroll } from '@/components/AnimateOnScroll';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
+import OptimizedImage from '@/components/OptimizedImage';
+import { ServiceProcess } from './ServiceProcess';
+import { NeighborhoodList } from './NeighborhoodList';
+import { LocalFAQ } from './LocalFAQ';
+import { LocalCTA } from './LocalCTA';
+import { ResidentialBenefits } from './ResidentialBenefits';
+import { CommercialBenefits } from './CommercialBenefits';
+import { ServiceOverview } from './ServiceOverview';
+import { PreventionTips } from './PreventionTips';
+import { CommonCausesList } from './CommonCausesList';
+import { RelatedLinks } from './RelatedLinks';
+import {
+  Phone,
+  Clock,
+  Shield,
+  Award,
+  FileCheck,
+  Home,
+  Building2,
+  ArrowRight,
+  AlertCircle,
+  Camera,
+} from 'lucide-react';
+import type { PageContent } from '@/lib/local-seo/templates';
+import type { InternalLinksData } from '@/lib/local-seo/links';
+
+interface CityServicePageProps {
+  content: PageContent;
+  serviceSlug: string;
+  citySlug: string;
+  type: 'residential' | 'commercial';
+  breadcrumbs: { label: string; href: string }[];
+  relatedLinksData?: InternalLinksData;
+}
+
+// Icon mapping for trust signals
+const iconMap: Record<string, React.ElementType> = {
+  Clock,
+  Shield,
+  Award,
+  FileCheck,
+  Home,
+  Building2,
+  Users: Shield,
+  Heart: Home,
+};
+
+export function CityServicePage({
+  content,
+  serviceSlug,
+  citySlug,
+  type,
+  breadcrumbs,
+  relatedLinksData,
+}: CityServicePageProps) {
+  const TypeIcon = type === 'residential' ? Home : Building2;
+  const oppositeType = type === 'residential' ? 'commercial' : 'residential';
+  const oppositeLabel = type === 'residential' ? 'Commercial' : 'Residential';
+
+  return (
+    <div>
+      {/* Hero Section */}
+      <section className="pt-32 pb-20 bg-gradient-to-br from-primary/10 via-background to-accent/10 relative overflow-hidden">
+        {/* Hero Background Image */}
+        {content.images?.hero && (
+          <div className="absolute inset-0 z-0">
+            <OptimizedImage
+              src={content.images.hero}
+              alt={content.hero.headline}
+              fill
+              sizes="100vw"
+              className="object-cover opacity-10"
+              priority
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-white/90 via-white/80 to-white/70" />
+          </div>
+        )}
+        
+        <div className="max-w-6xl mx-auto px-4 relative z-10">
+          <Breadcrumbs items={breadcrumbs} className="mb-6" />
+          
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center gap-3 mb-4">
+                <span className="inline-flex items-center gap-2 px-3 py-1 bg-primary/10 text-primary text-sm font-semibold rounded-full">
+                  <TypeIcon className="w-4 h-4" />
+                  {type === 'residential' ? 'Residential' : 'Commercial'} Services
+                </span>
+                <span className="inline-flex items-center gap-2 px-3 py-1 bg-green-100 text-green-800 text-sm font-semibold rounded-full">
+                  <Clock className="w-4 h-4" />
+                  24/7 Emergency
+                </span>
+              </div>
+
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
+                {content.hero.headline}
+              </h1>
+
+              <p className="text-xl text-gray-600 max-w-3xl mb-8">
+                {content.hero.subheadline}
+              </p>
+
+              <div className="flex flex-col sm:flex-row gap-4 mb-8">
+                <a
+                  href={`tel:${content.hero.ctaPhone.replace(/[^0-9]/g, '')}`}
+                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
+                >
+                  <Phone className="w-5 h-5" />
+                  {content.hero.ctaPhone}
+                </a>
+                <Link
+                  href="/#contact"
+                  className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
+                >
+                  {content.hero.ctaText}
+                </Link>
+              </div>
+
+              {/* Switch to other type */}
+              <Link
+                href={`/${serviceSlug}/${oppositeType}/${citySlug}`}
+                className="inline-flex items-center gap-2 text-gray-600 hover:text-primary transition-colors"
+              >
+                Looking for {oppositeLabel} services?
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+            </AnimateOnScroll>
+
+            {/* Hero Feature Image */}
+            {content.images?.hero && (
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                <div className="hidden lg:block relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
+                  <OptimizedImage
+                    src={content.images.hero}
+                    alt={`${content.hero.headline} - Professional restoration services`}
+                    fill
+                    sizes="(max-width: 1024px) 0vw, 50vw"
+                    className="object-cover"
+                    priority
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
+                  <div className="absolute bottom-4 left-4 right-4">
+                    <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
+                      <Camera className="w-4 h-4" />
+                      Professional restoration in action
+                    </span>
+                  </div>
+                </div>
+              </AnimateOnScroll>
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* City-Specific Intro */}
+      <section className="py-16 bg-white">
+        <div className="max-w-6xl mx-auto px-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+                {content.intro.title}
+              </h2>
+              <p className="text-gray-600 text-lg leading-relaxed mb-4">
+                {content.intro.content}
+              </p>
+              {content.intro.extendedContent && (
+                <p className="text-gray-600 leading-relaxed mb-4">
+                  {content.intro.extendedContent}
+                </p>
+              )}
+              {content.intro.localChallenges && (
+                <div className="mt-6 p-4 bg-blue-50 border border-blue-100 rounded-lg">
+                  <h3 className="font-semibold text-blue-900 mb-2">Local Challenges</h3>
+                  <p className="text-blue-800 text-sm leading-relaxed">
+                    {content.intro.localChallenges}
+                  </p>
+                </div>
+              )}
+              <div className="space-y-3 mt-6">
+                {content.intro.focusPoints.map((point, index) => (
+                  <div key={index} className="flex items-start gap-3">
+                    <div className="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                      <svg
+                        className="w-4 h-4 text-primary"
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                      >
+                        <path
+                          fillRule="evenodd"
+                          d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                          clipRule="evenodd"
+                        />
+                      </svg>
+                    </div>
+                    <span className="text-gray-700">{point}</span>
+                  </div>
+                ))}
+              </div>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              <div className="space-y-6">
+                {/* Overview Image */}
+                {content.images?.overview && (
+                  <div className="relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg mb-6">
+                    <OptimizedImage
+                      src={content.images.overview}
+                      alt={`${content.intro.title} - Service overview`}
+                      fill
+                      sizes="(max-width: 1024px) 100vw, 50vw"
+                      className="object-cover"
+                    />
+                  </div>
+                )}
+                {type === 'residential' ? (
+                  <ResidentialBenefits />
+                ) : (
+                  <CommercialBenefits />
+                )}
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </div>
+      </section>
+
+      {/* Service Overview - New Expanded Content */}
+      {content.serviceOverview && content.serviceOverview.overview && (
+        <ServiceOverview content={content.serviceOverview} />
+      )}
+
+      {/* Common Causes List - Simple bullet list */}
+      {content.commonCausesList && content.commonCausesList.causes.length > 0 && (
+        <CommonCausesList content={content.commonCausesList} />
+      )}
+
+      {/* Common Causes - Clickable cards linking to problem pages */}
+      {content.causes.causes.length > 0 && (
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                {content.causes.title}
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                We handle all types of damage. Click to learn more about each specific issue.
+              </p>
+            </AnimateOnScroll>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {content.causes.causes.map((cause, index) => (
+                <AnimateOnScroll
+                  key={cause.slug}
+                  animation="fade-in-up"
+                  duration={600}
+                  delay={index * 100}
+                >
+                  <Link
+                    href={`/problems/${cause.slug}/${citySlug}`}
+                    className="group block p-6 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
+                  >
+                    <div className="flex items-start gap-4">
+                      <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <AlertCircle className="w-5 h-5 text-primary" />
+                      </div>
+                      <div>
+                        <h3 className="font-bold text-gray-900 group-hover:text-primary transition-colors mb-1">
+                          {cause.name}
+                        </h3>
+                        <p className="text-sm text-gray-600 line-clamp-2">
+                          {cause.description}
+                        </p>
+                        {cause.urgency === 'emergency' && (
+                          <span className="inline-block mt-2 px-2 py-0.5 bg-red-100 text-red-700 text-xs font-semibold rounded">
+                            Emergency
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  </Link>
+                </AnimateOnScroll>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Process Section */}
+      <ServiceProcess title={content.process.title} steps={content.process.steps} />
+
+      {/* Prevention Tips - New Section */}
+      {content.preventionTips && content.preventionTips.tips.length > 0 && (
+        <PreventionTips content={content.preventionTips} />
+      )}
+
+      {/* Neighborhoods */}
+      <NeighborhoodList
+        title={content.neighborhoods.title}
+        neighborhoods={content.neighborhoods.neighborhoods}
+        zipCodes={content.neighborhoods.zipCodes}
+        cityName={content.neighborhoods.title.replace('Serving ', '').replace(' Neighborhoods', '')}
+      />
+
+      {/* Trust Signals */}
+      <section className="py-16 bg-white">
+        <div className="max-w-6xl mx-auto px-4">
+          <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-10">
+              {content.trustSignals.title}
+            </h2>
+          </AnimateOnScroll>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {content.trustSignals.signals.map((signal, index) => {
+              const IconComponent = iconMap[signal.icon] || Shield;
+              return (
+                <AnimateOnScroll
+                  key={index}
+                  animation="fade-in-up"
+                  duration={600}
+                  delay={index * 100}
+                >
+                  <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-lg">
+                    <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                      <IconComponent className="w-6 h-6 text-primary" />
+                    </div>
+                    <span className="text-gray-800 font-medium">{signal.text}</span>
+                  </div>
+                </AnimateOnScroll>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <LocalFAQ title={content.faq.title} faqs={content.faq.faqs} />
+
+      {/* Gallery Section */}
+      {content.images?.gallery && content.images.gallery.length > 0 && (
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Our Work in Action
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                See examples of our professional restoration services. We take pride in restoring properties to their pre-damage condition.
+              </p>
+            </AnimateOnScroll>
+
+            <div className={`grid gap-4 ${
+              content.images.gallery.length === 1 
+                ? 'grid-cols-1 max-w-2xl mx-auto' 
+                : content.images.gallery.length === 2 
+                  ? 'grid-cols-1 md:grid-cols-2' 
+                  : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
+            }`}>
+              {content.images.gallery.map((image, index) => (
+                <AnimateOnScroll
+                  key={index}
+                  animation="fade-in-up"
+                  duration={600}
+                  delay={index * 100}
+                >
+                  <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
+                    <OptimizedImage
+                      src={image}
+                      alt={`Restoration work example ${index + 1}`}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                    <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
+                        <Camera className="w-4 h-4" />
+                        Professional restoration
+                      </span>
+                    </div>
+                  </div>
+                </AnimateOnScroll>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* CTA Section */}
+      <LocalCTA
+        headline={content.cta.headline}
+        subheadline={content.cta.subheadline}
+        primaryButton={content.cta.primaryButton}
+        secondaryButton={content.cta.secondaryButton}
+      />
+
+      {/* Internal Links - Enhanced with RelatedLinks component */}
+      {relatedLinksData ? (
+        <RelatedLinks 
+          data={relatedLinksData} 
+          title="Related Resources"
+          showBlogs={true}
+          showCauses={true}
+          showNearbyCities={true}
+        />
+      ) : (
+        <section className="py-12 bg-gray-50 border-t border-gray-200">
+          <div className="max-w-6xl mx-auto px-4">
+            <h3 className="text-xl font-bold text-gray-900 mb-6">
+              {content.internalLinks.title}
+            </h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {content.internalLinks.links.map((link, index) => (
+                <Link
+                  key={index}
+                  href={link.href}
+                  className="group p-4 bg-white rounded-lg border border-gray-200 hover:border-primary transition-colors"
+                >
+                  <div className="flex items-center justify-between">
+                    <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
+                      {link.label}
+                    </span>
+                    <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary transition-colors" />
+                  </div>
+                  {link.description && (
+                    <p className="text-sm text-gray-500 mt-1 line-clamp-1">
+                      {link.description}
+                    </p>
+                  )}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+    </div>
+  );
+}
+

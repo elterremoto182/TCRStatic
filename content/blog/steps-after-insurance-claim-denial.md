@@ -123,7 +123,7 @@ If hazardous materials are involved, ensure the expert holds an environmental re
 
 ### Use Certified Restoration Companies
 
-To complement individual expert evaluations, consider working with [Commercial](/services/commercial/). These firms combine technical know-how with detailed documentation, often providing a more thorough assessment than a single contractor.
+To complement individual expert evaluations, consider working with [Commercial](/water-damage-restoration/commercial/). These firms combine technical know-how with detailed documentation, often providing a more thorough assessment than a single contractor.
 
 For example, Total Care Restoration specializes in water, fire, and mold restoration, offering certified services and direct insurance billing expertise. Their certified technicians provide detailed evaluations, complete with extensive documentation to support your claim. Restoration companies also understand insurance procedures, making them valuable allies during the appeal process.
 
@@ -236,7 +236,7 @@ Keep detailed records and consider seeking help from [Careers](/careers/). Appea
 
 If your appeal doesn’t work, explore other options like filing an internal complaint or consulting public adjusters or attorneys. While the process can be time-consuming, persistence often pays off. Cases with thorough documentation and professional backing tend to carry more weight with insurance companies.
 
-For expert [Miramar restoration services](/miramar-restoration-services/) and detailed damage documentation, reach out to Total Care Restoration at (786) 610-6317. Their experience in working with insurance claims can provide the support you need to build a strong case and get your property back to normal.
+For expert [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) and detailed damage documentation, reach out to Total Care Restoration at (786) 610-6317. Their experience in working with insurance claims can provide the support you need to build a strong case and get your property back to normal.
 
 ## FAQs
 

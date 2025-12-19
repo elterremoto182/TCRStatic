@@ -1,0 +1,435 @@
+{
+  "water-damage-restoration": {
+    "residential": [
+      {
+        "question": "How fast can you respond to water damage in {city}?",
+        "answer": "Our {city} water damage team typically responds within {responseTime}. We offer 24/7 emergency services and understand that quick response is critical to preventing mold growth and minimizing damage to your home."
+      },
+      {
+        "question": "Does homeowners insurance cover water damage restoration in Florida?",
+        "answer": "Most Florida homeowners insurance policies cover sudden and accidental water damage, such as burst pipes or appliance failures. However, flood damage typically requires separate flood insurance. We help {city} homeowners navigate insurance claims and work directly with adjusters."
+      },
+      {
+        "question": "How long does residential water damage restoration take?",
+        "answer": "The timeline depends on the extent of damage. Minor water damage may be resolved in 3-5 days, while major flooding can take 1-2 weeks. Our {city} team provides detailed timelines during the initial assessment and keeps you informed throughout the process."
+      },
+      {
+        "question": "Will I need to leave my home during water damage restoration?",
+        "answer": "In most cases, you can remain in your {city} home during restoration, though you may need to avoid certain areas. For extensive damage involving sewage or significant structural issues, temporary relocation may be recommended for your family's safety."
+      },
+      {
+        "question": "How do you prevent mold after water damage in {city}?",
+        "answer": "Mold can begin growing within 24-48 hours of water damage, especially in {city}'s humid climate. Our team uses industrial dehumidifiers, air movers, and antimicrobial treatments to thoroughly dry affected areas and prevent mold growth. We also monitor moisture levels to ensure complete drying."
+      },
+      {
+        "question": "Can you save my furniture and belongings after water damage?",
+        "answer": "Many items can be saved if addressed quickly. Our {city} restoration team carefully assesses and documents all affected belongings. We use specialized cleaning techniques for upholstery, electronics, and documents. Items that cannot be saved are documented for insurance purposes."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Can you work after hours to minimize business disruption in {city}?",
+        "answer": "Yes, our commercial restoration team offers 24/7 service and can schedule work during off-hours to minimize disruption to your {city} business operations. We understand that downtime means lost revenue."
+      },
+      {
+        "question": "Do you handle insurance claims for commercial water damage?",
+        "answer": "Absolutely. Our {city} commercial team includes insurance documentation specialists who photograph damage, create detailed reports, and work directly with commercial insurance adjusters to expedite your claim."
+      },
+      {
+        "question": "How quickly can you restore a commercial property in {city}?",
+        "answer": "Our {city} commercial team is equipped for rapid response with industrial-grade equipment. We create aggressive timelines focused on getting your business operational as quickly as possible, often completing restoration faster than residential projects."
+      },
+      {
+        "question": "Can you handle multi-location commercial water damage?",
+        "answer": "Yes, we have the capacity and project management expertise to handle multi-location commercial water damage throughout South Florida, coordinating restoration across all your {city} area properties simultaneously."
+      },
+      {
+        "question": "Do you provide business interruption documentation for {city} businesses?",
+        "answer": "Yes, we provide comprehensive documentation including damage assessments, restoration timelines, and progress reports that support business interruption claims. Our detailed records help {city} businesses maximize their insurance recovery."
+      },
+      {
+        "question": "What industries do you serve for commercial water damage in {city}?",
+        "answer": "We serve all commercial industries in {city}, including offices, retail stores, restaurants, hotels, medical facilities, warehouses, and industrial properties. Each project is managed according to industry-specific requirements and regulations."
+      }
+    ]
+  },
+  "fire-damage-restoration": {
+    "residential": [
+      {
+        "question": "Is it safe to enter my {city} home after a fire?",
+        "answer": "We strongly recommend waiting for fire department clearance and a professional assessment before re-entering. Structural damage, toxic residues, and air quality issues can pose serious health risks. Our {city} team can perform a safety assessment."
+      },
+      {
+        "question": "How do you remove smoke odor from a home?",
+        "answer": "We use professional-grade techniques including thermal fogging, ozone treatment, and hydroxyl generators to eliminate smoke odors. Our {city} fire restoration team also cleans all surfaces and may replace materials that have absorbed smoke."
+      },
+      {
+        "question": "Can you save my belongings after fire damage?",
+        "answer": "Many items can be restored through our content cleaning services. Our {city} team carefully inventories, cleans, and restores salvageable belongings including furniture, clothing, electronics, and documents using specialized techniques."
+      },
+      {
+        "question": "How long does fire damage restoration take in {city}?",
+        "answer": "Fire restoration timelines vary based on damage extent. Minor smoke damage may take 1-2 weeks, while major fire damage requiring reconstruction can take several months. We provide detailed timelines and keep {city} homeowners informed."
+      },
+      {
+        "question": "Does insurance cover fire damage restoration in {city}?",
+        "answer": "Yes, most homeowners insurance policies cover fire damage restoration including structural repairs, smoke damage cleanup, and content restoration. Our {city} team documents all damage thoroughly and works directly with your insurance adjuster to ensure proper coverage."
+      },
+      {
+        "question": "What should I do immediately after a fire in my {city} home?",
+        "answer": "First, ensure everyone is safe and get medical attention if needed. Don't enter until the fire department clears it. Document visible damage with photos from outside. Contact your insurance company and then call our {city} team for emergency board-up and assessment services."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "How quickly can my {city} business reopen after fire damage?",
+        "answer": "Our commercial fire restoration team prioritizes getting your {city} business operational. We develop phased restoration plans that may allow partial operations while completing full restoration, minimizing revenue loss."
+      },
+      {
+        "question": "Do you provide business interruption documentation?",
+        "answer": "Yes, we provide comprehensive documentation for business interruption claims, including detailed damage assessments, restoration timelines, and coordination with your insurance carrier for {city} commercial properties."
+      },
+      {
+        "question": "Can you restore fire-damaged commercial equipment?",
+        "answer": "Our commercial team assesses all equipment for restoration potential. Many items including machinery, electronics, and inventory can be professionally cleaned and restored, saving your {city} business significant replacement costs."
+      },
+      {
+        "question": "Do you handle code compliance for commercial fire restoration?",
+        "answer": "Absolutely. Our {city} commercial fire restoration includes ensuring all repairs meet current building codes and fire safety regulations, including working with local inspectors and obtaining necessary permits."
+      },
+      {
+        "question": "Can you provide temporary power and climate control during fire restoration?",
+        "answer": "Yes, our {city} commercial team can arrange temporary power generators, HVAC systems, and other utilities to support continued business operations and protect undamaged inventory during the restoration process."
+      },
+      {
+        "question": "Do you offer emergency board-up services for {city} commercial properties?",
+        "answer": "Yes, we provide 24/7 emergency board-up and tarping services to secure your {city} commercial property immediately after a fire. This protects against weather damage, theft, and vandalism while restoration is planned."
+      }
+    ]
+  },
+  "mold-remediation": {
+    "residential": [
+      {
+        "question": "How do I know if I have mold in my {city} home?",
+        "answer": "Common signs include musty odors, visible mold growth, water stains, and allergy symptoms. Florida's humidity makes {city} homes particularly susceptible. Our team provides professional mold inspections and air quality testing."
+      },
+      {
+        "question": "Is mold dangerous for my family?",
+        "answer": "Mold can cause respiratory issues, allergies, and other health problems, especially for children, elderly, and those with compromised immune systems. In {city}'s humid climate, prompt mold remediation is essential for family health."
+      },
+      {
+        "question": "How do you prevent mold from coming back?",
+        "answer": "Our {city} mold remediation includes identifying and addressing moisture sources, improving ventilation, and treating surfaces with antimicrobial solutions. We also provide recommendations for humidity control in Florida's challenging climate."
+      },
+      {
+        "question": "Does insurance cover mold remediation in Florida?",
+        "answer": "Coverage varies by policy. Many Florida policies cover mold remediation if it results from a covered water damage event. Our {city} team helps document the mold source and works with your insurance to maximize coverage."
+      },
+      {
+        "question": "How long does mold remediation take in a {city} home?",
+        "answer": "Most residential mold remediation projects take 1-5 days depending on the extent of contamination. Our {city} team provides a detailed timeline after the initial inspection and works efficiently to restore your home safely."
+      },
+      {
+        "question": "Do you provide air quality testing after mold remediation?",
+        "answer": "Yes, we offer post-remediation air quality testing to verify that mold levels have returned to normal. This documentation provides peace of mind for your {city} family and can be valuable for real estate transactions."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Can my {city} business stay open during mold remediation?",
+        "answer": "In many cases, yes. We use containment barriers and negative air pressure to isolate affected areas, allowing business operations to continue in unaffected portions of your {city} commercial property."
+      },
+      {
+        "question": "Do you handle OSHA requirements for commercial mold?",
+        "answer": "Yes, our commercial mold remediation follows all OSHA guidelines and Florida regulations. We provide documentation of compliance for your {city} business records and employee safety requirements."
+      },
+      {
+        "question": "How do you handle mold in commercial HVAC systems?",
+        "answer": "Commercial HVAC mold requires specialized remediation. Our {city} team cleans ductwork, replaces contaminated components, and treats systems to prevent recurrence, ensuring healthy air quality for employees and customers."
+      },
+      {
+        "question": "Can you test air quality for commercial liability documentation?",
+        "answer": "Yes, we provide professional air quality testing and clearance documentation for {city} commercial properties, which can be essential for liability protection, employee health records, and lease compliance."
+      },
+      {
+        "question": "How quickly can you respond to commercial mold issues in {city}?",
+        "answer": "Our commercial mold team responds within {responseTime} for inspection requests. For confirmed mold problems affecting business operations, we can often begin remediation within 24-48 hours to minimize disruption to your {city} business."
+      },
+      {
+        "question": "Do you offer mold prevention programs for {city} commercial buildings?",
+        "answer": "Yes, we offer ongoing moisture monitoring, HVAC inspection, and preventive maintenance programs designed for {city}'s humid climate. Proactive mold prevention is far more cost-effective than remediation."
+      }
+    ]
+  },
+  "emergency-restoration": {
+    "residential": [
+      {
+        "question": "What qualifies as a restoration emergency?",
+        "answer": "Standing water, active leaks, fire damage, sewage backup, and situations that pose immediate health or property risks require emergency response. If you're unsure, call our {city} emergency line—we're here to help 24/7."
+      },
+      {
+        "question": "How fast can you get to my {city} home in an emergency?",
+        "answer": "Our {city} emergency team typically arrives within {responseTime}. We have technicians on call 24/7, including nights, weekends, and holidays, because emergencies don't follow business hours."
+      },
+      {
+        "question": "What should I do while waiting for emergency restoration help?",
+        "answer": "Ensure family safety first. If safe, turn off water at the main valve for water emergencies. Avoid electrical hazards in flooded areas. Document damage with photos. Our {city} dispatcher can guide you while our team is en route."
+      },
+      {
+        "question": "Do you work with insurance for emergency claims?",
+        "answer": "Yes, we work with all major insurance carriers and can often bill them directly. Our {city} team documents everything from first arrival for your emergency claim and can communicate directly with your adjuster."
+      },
+      {
+        "question": "Will you help me find temporary housing if my {city} home is uninhabitable?",
+        "answer": "Yes, our team can connect you with resources for temporary housing and help coordinate with your insurance company for additional living expense (ALE) coverage. We understand how stressful displacement is for families."
+      },
+      {
+        "question": "Can you help secure my {city} home after an emergency?",
+        "answer": "Absolutely. We provide emergency board-up, tarping, and security services to protect your home from further damage, weather exposure, and unauthorized entry. This is often our first step in emergency response."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Do you offer 24/7 commercial emergency response in {city}?",
+        "answer": "Yes, our commercial emergency team is available 24/7/365. We understand that commercial emergencies can't wait—every hour of downtime impacts your {city} business's bottom line."
+      },
+      {
+        "question": "Can you handle large-scale commercial emergencies?",
+        "answer": "Absolutely. Our {city} commercial team is equipped with industrial-grade equipment and can scale up quickly for large-loss situations, including multi-story buildings, warehouses, and multi-location emergencies."
+      },
+      {
+        "question": "How do you prioritize commercial emergency response?",
+        "answer": "We assess threat level, business impact, and safety risks. For {city} commercial emergencies, we deploy resources to stop ongoing damage first, then focus on mitigation and restoration to get your business operational."
+      },
+      {
+        "question": "Do you have experience with {city} commercial building codes?",
+        "answer": "Yes, our commercial team is familiar with Miami-Dade and Broward County building codes and works with local inspectors. This expertise helps expedite restoration and ensures compliance for your {city} commercial property."
+      },
+      {
+        "question": "Can you provide project management for large commercial emergencies?",
+        "answer": "Yes, we assign dedicated project managers for large commercial restoration projects in {city}. They coordinate all aspects of restoration, communicate with stakeholders, and ensure timely completion."
+      },
+      {
+        "question": "Do you offer priority response contracts for {city} businesses?",
+        "answer": "Yes, we offer priority service agreements for {city} commercial property owners and managers. These contracts ensure guaranteed response times and priority scheduling when emergencies occur."
+      }
+    ]
+  },
+  "storm-damage-restoration": {
+    "residential": [
+      {
+        "question": "How quickly can you respond to storm damage in {city}?",
+        "answer": "Our {city} storm damage team is available 24/7, especially during hurricane season. We typically respond within {responseTime} and prioritize emergency tarping and water extraction to prevent further damage to your home."
+      },
+      {
+        "question": "Do you provide emergency roof tarping after storms in {city}?",
+        "answer": "Yes, emergency roof tarping is one of our primary storm damage services. We secure your {city} home's roof quickly to prevent water intrusion and additional damage while permanent repairs are arranged."
+      },
+      {
+        "question": "Does homeowners insurance cover hurricane damage in Florida?",
+        "answer": "Most Florida homeowners policies cover wind damage from hurricanes, but flood damage typically requires separate flood insurance. Our {city} team helps document all storm damage and works with your insurance adjuster."
+      },
+      {
+        "question": "What should I do immediately after storm damage to my {city} home?",
+        "answer": "First, ensure family safety and evacuate if the structure is unsafe. Document damage with photos before any cleanup. Cover exposed areas if safe to do so, and call our {city} emergency line immediately for professional assessment and tarping."
+      },
+      {
+        "question": "How long will storm damage restoration take for my {city} home?",
+        "answer": "Timeline depends on damage extent. Minor storm damage may be resolved in 1-2 weeks, while major hurricane damage can take several months. Our {city} team provides detailed estimates and keeps you informed throughout the process."
+      },
+      {
+        "question": "Can you help with tree damage and debris removal in {city}?",
+        "answer": "Yes, our storm damage team handles tree and debris removal as part of comprehensive storm restoration. We safely clear fallen trees, remove debris, and assess any structural damage caused by impacts."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Can you handle multi-building commercial storm damage in {city}?",
+        "answer": "Yes, our commercial storm damage team is equipped to handle large-scale and multi-location projects throughout {city}. We coordinate resources efficiently to minimize business interruption across all your affected properties."
+      },
+      {
+        "question": "How do you prioritize commercial storm damage restoration?",
+        "answer": "We assess each {city} commercial property for safety risks, business impact, and damage severity. Critical operations areas are prioritized, and we can work in phases to allow partial business operations during restoration."
+      },
+      {
+        "question": "Do you provide business interruption documentation for storm claims?",
+        "answer": "Absolutely. Our {city} commercial team provides comprehensive documentation including damage assessments, photo evidence, and detailed restoration timelines for your business interruption insurance claims."
+      },
+      {
+        "question": "Can you secure a commercial building after hurricane damage in {city}?",
+        "answer": "Yes, we provide emergency board-up, tarping, and security services for {city} commercial properties. We work quickly to prevent further damage, protect assets, and deter unauthorized entry to damaged buildings."
+      },
+      {
+        "question": "Do you pre-position resources before hurricanes hit {city}?",
+        "answer": "Yes, we monitor weather forecasts and pre-position equipment and personnel before major storms. This allows us to respond faster when the storm passes and help {city} businesses recover more quickly."
+      },
+      {
+        "question": "Can you help with hurricane preparedness for {city} commercial properties?",
+        "answer": "Yes, we offer pre-storm services including property assessment, vulnerability identification, and emergency planning. Being prepared can significantly reduce damage and speed recovery time for your {city} business."
+      }
+    ]
+  },
+  "roof-tarping": {
+    "residential": [
+      {
+        "question": "How long does a roof tarp last on my {city} home?",
+        "answer": "Professional roof tarps typically last 30-90 days depending on weather conditions and installation quality. Our {city} team uses heavy-duty tarps properly anchored to protect your home until permanent repairs can be completed."
+      },
+      {
+        "question": "Do you offer emergency roof tarping 24/7 in {city}?",
+        "answer": "Yes, we provide 24/7 emergency roof tarping services throughout {city}. Our team responds within {responseTime} to protect your home from further water damage after storms or roof failures."
+      },
+      {
+        "question": "Will insurance pay for roof tarping in Florida?",
+        "answer": "Most Florida homeowners insurance policies cover emergency roof tarping as part of damage mitigation. Our {city} team documents everything for your claim and can often bill insurance directly."
+      },
+      {
+        "question": "Is roof tarping safe to do myself after a storm?",
+        "answer": "We strongly advise against DIY roof tarping. Working on a damaged roof is extremely dangerous, especially after storms. Our {city} certified technicians have proper equipment and safety training to tarp your roof safely."
+      },
+      {
+        "question": "What type of tarps do you use for roof protection in {city}?",
+        "answer": "We use heavy-duty, UV-resistant polyethylene tarps designed for extended outdoor exposure in South Florida's climate. Our tarps are properly secured with lumber and fasteners to withstand wind and rain in {city}."
+      },
+      {
+        "question": "Should I get a tarp or shrink wrap for my {city} roof?",
+        "answer": "Tarps are ideal for short-term protection (30-90 days), while shrink wrap is better for longer-term needs (6-12 months). Our {city} team assesses your situation and recommends the most cost-effective solution."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Can you tarp a large commercial roof in {city}?",
+        "answer": "Yes, our commercial team is equipped for large-scale roof tarping projects throughout {city}. We handle warehouses, shopping centers, office buildings, and industrial facilities with industrial-grade tarps and equipment."
+      },
+      {
+        "question": "How quickly can you tarp a commercial building after storm damage?",
+        "answer": "Our {city} commercial roofing team responds within hours, not days. We understand that every moment a commercial roof is exposed means potential water damage to inventory, equipment, and business operations."
+      },
+      {
+        "question": "Do you coordinate with commercial roofers for permanent repairs?",
+        "answer": "Yes, while our tarping provides immediate protection, we can coordinate with licensed commercial roofing contractors for permanent repairs. We also provide documentation that helps expedite insurance approval for {city} commercial properties."
+      },
+      {
+        "question": "Can you tarp multiple commercial locations simultaneously?",
+        "answer": "Absolutely. Our {city} area team has the capacity to deploy multiple crews for multi-location commercial tarping. We prioritize based on damage severity and business impact."
+      },
+      {
+        "question": "Do you provide emergency commercial roof access and assessment?",
+        "answer": "Yes, our {city} team is equipped for safe roof access on commercial buildings of all heights. We provide detailed damage assessments and documentation before tarping to support your insurance claim."
+      },
+      {
+        "question": "Can you provide ongoing tarp maintenance for commercial properties?",
+        "answer": "Yes, we offer tarp inspection and maintenance services for {city} commercial properties requiring extended protection. Regular maintenance ensures continued protection until permanent repairs are completed."
+      }
+    ]
+  },
+  "shrink-wrapping": {
+    "residential": [
+      {
+        "question": "What is shrink wrapping and when is it needed for my {city} home?",
+        "answer": "Shrink wrapping provides superior waterproof protection compared to tarps. It's ideal for {city} homes needing long-term protection during extended repairs, complex roof shapes, or when tarps won't adequately protect the structure."
+      },
+      {
+        "question": "How long does shrink wrap protection last?",
+        "answer": "Professional shrink wrap can protect your {city} home for 6-12 months or longer, making it ideal for extended repair situations. It withstands high winds and provides complete waterproof coverage."
+      },
+      {
+        "question": "Is shrink wrapping more expensive than roof tarping?",
+        "answer": "While shrink wrapping has a higher initial cost than tarping, it provides longer-lasting protection and often saves money when repairs will take time. Our {city} team helps determine the most cost-effective solution for your situation."
+      },
+      {
+        "question": "Does insurance cover shrink wrapping in Florida?",
+        "answer": "Most Florida insurance policies cover shrink wrapping as part of emergency mitigation. It's especially common when long-term protection is needed. Our {city} team documents everything for your insurance claim."
+      },
+      {
+        "question": "Can shrink wrap be installed over existing damage in {city}?",
+        "answer": "Yes, shrink wrap can be installed over most types of roof damage. Our {city} team assesses the damage, makes any necessary preparations, and installs shrink wrap to create a complete waterproof seal."
+      },
+      {
+        "question": "How is shrink wrap removed when repairs are complete?",
+        "answer": "Our {city} team carefully removes and disposes of shrink wrap material when permanent repairs are ready to begin. The removal process is quick and doesn't cause additional damage to your property."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "When should I choose shrink wrapping over tarping for my {city} business?",
+        "answer": "Shrink wrapping is ideal when permanent repairs will take months, for buildings with complex architectural features, or when maximum protection is required. Our {city} commercial team assesses your situation and recommends the best solution."
+      },
+      {
+        "question": "Can you shrink wrap a high-rise or large commercial building in {city}?",
+        "answer": "Yes, our commercial team handles shrink wrapping for buildings of all sizes throughout {city}, including high-rises, warehouses, and industrial facilities. We have the equipment and expertise for complex commercial projects."
+      },
+      {
+        "question": "How does commercial shrink wrapping protect my business assets?",
+        "answer": "Shrink wrapping creates a watertight, wind-resistant barrier that protects your {city} business assets, inventory, and equipment from weather damage. It's superior to tarps for long-term protection during extended repairs."
+      },
+      {
+        "question": "Can shrink wrapping be used for construction site protection?",
+        "answer": "Absolutely. We provide shrink wrapping services for {city} construction sites, protecting unfinished structures from weather damage. This service is valuable for developers during construction delays or seasonal weather threats."
+      },
+      {
+        "question": "What is the warranty on commercial shrink wrap installation?",
+        "answer": "Our {city} commercial shrink wrap installations come with workmanship warranties. The specific warranty period depends on the project scope, and we provide detailed documentation for your records."
+      },
+      {
+        "question": "Can you provide ventilation solutions under commercial shrink wrap?",
+        "answer": "Yes, for extended installations, we can incorporate ventilation ports or systems to prevent moisture buildup under the shrink wrap. This is especially important for {city} properties in our humid climate."
+      }
+    ]
+  },
+  "sewage-cleanup": {
+    "residential": [
+      {
+        "question": "Is sewage backup dangerous in my {city} home?",
+        "answer": "Yes, sewage backup is a serious health hazard containing bacteria, viruses, and other pathogens. Do not attempt DIY cleanup. Our {city} team has proper protective equipment and training to safely remediate sewage damage in your home."
+      },
+      {
+        "question": "How quickly do you respond to sewage backups in {city}?",
+        "answer": "Sewage cleanup is an emergency that requires immediate response. Our {city} team typically arrives within {responseTime}. Quick response is critical to prevent contamination spread and minimize health risks to your family."
+      },
+      {
+        "question": "Does homeowners insurance cover sewage cleanup in Florida?",
+        "answer": "Many Florida homeowners policies cover sewage backup damage, especially if you have specific sewer/drain backup coverage. Our {city} team documents the damage thoroughly and works with your insurance to maximize coverage."
+      },
+      {
+        "question": "What is the sewage cleanup process for residential properties?",
+        "answer": "Our {city} sewage cleanup includes extraction of contaminated water, removal of affected materials, thorough sanitization with antimicrobial treatments, complete drying, and deodorization to eliminate bacteria and odors from your home."
+      },
+      {
+        "question": "How do you eliminate sewage odor from a {city} home?",
+        "answer": "We use professional-grade deodorizers, antimicrobial treatments, and air scrubbers to completely eliminate sewage odors. Our {city} team ensures no residual smell remains after cleanup, making your home safe and comfortable again."
+      },
+      {
+        "question": "Can sewage damage be fully repaired, or will my {city} home need reconstruction?",
+        "answer": "Many materials affected by sewage can be cleaned and saved if addressed quickly. Porous materials like drywall and carpet may need replacement. Our {city} team assesses damage and recommends the most cost-effective restoration approach."
+      }
+    ],
+    "commercial": [
+      {
+        "question": "Can you minimize business disruption during commercial sewage cleanup?",
+        "answer": "Yes, our commercial team understands that sewage incidents impact business operations. We work efficiently and can schedule around your {city} business hours when possible while ensuring thorough decontamination."
+      },
+      {
+        "question": "Do you handle health department requirements for commercial sewage cleanup?",
+        "answer": "Absolutely. Our {city} commercial sewage cleanup follows all health department regulations. We provide documentation of our cleaning and sanitization procedures for your compliance records."
+      },
+      {
+        "question": "How do you ensure commercial spaces are safe after sewage cleanup?",
+        "answer": "We follow strict protocols including contaminated material removal, thorough sanitization, air quality testing, and professional-grade deodorization. Our {city} team ensures your commercial space meets all safety standards before reopening."
+      },
+      {
+        "question": "Can you handle large-scale commercial sewage cleanup in {city}?",
+        "answer": "Yes, our commercial team is equipped for sewage cleanup of any scale, from small retail spaces to large industrial facilities throughout {city}. We have industrial-grade extraction and sanitization equipment for large projects."
+      },
+      {
+        "question": "Do you provide clearance testing after commercial sewage cleanup?",
+        "answer": "Yes, we provide professional clearance testing and documentation confirming that your {city} commercial property meets health and safety standards. This documentation is important for employee safety records and liability protection."
+      },
+      {
+        "question": "Can you help prevent future sewage backups at my {city} business?",
+        "answer": "Yes, after cleanup, we can recommend preventive measures such as backwater valve installation, regular drain maintenance, and plumbing inspections to help prevent future sewage incidents at your {city} commercial property."
+      }
+    ]
+  }
+}
+

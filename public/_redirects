@@ -1,6 +1,119 @@
 # Redirects for static site
 # Format: from_path to_path status_code
 
-/services/leak-detection-services/ /services/leak-detection/ 301
-/services/mold-detectionl-and-remediation/ /services/mold-testing/ 301
+# =============================================================================
+# IMAGE MIGRATION REDIRECTS - Legacy WordPress paths to simplified structure
+# =============================================================================
+
+# Blog and upload images (preserves year/month structure)
+/wp-content/uploads/* /images/blog/:splat 301
+
+# Theme assets
+/wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png /images/site/logo.png 301
+/wp-content/themes/sk-theme-three/dist/images/assets/favicon_3b0b47d4.png /images/site/favicon.png 301
+/wp-content/themes/sk-theme-three/dist/images/assets/post-banner_b860d343.jpg /images/site/post-banner.jpg 301
+
+# Service images
+/wp-content/themes/sk-theme-three/dist/images/services/water-damage_37ccafcc.jpg /images/services/water-damage.jpg 301
+/wp-content/themes/sk-theme-three/dist/images/services/fire-restoration_6478c587.jpg /images/services/fire-restoration.jpg 301
+/wp-content/themes/sk-theme-three/dist/images/services/mold-remediation_5e0b7e7e.jpg /images/services/mold-remediation.jpg 301
+/wp-content/themes/sk-theme-three/dist/images/services/roof-tarping_cfdce409.jpg /images/services/roof-tarping.jpg 301
+/wp-content/themes/sk-theme-three/dist/images/services/generic-commercial_c11638e7.jpg /images/services/generic-commercial.jpg 301
+
+# =============================================================================
+# LEGACY SERVICE PAGE REDIRECTS
+# =============================================================================
+
+# Old service URLs to new core service pages
+/services/water-restoration/ /water-damage-restoration/ 301
+/services/water-restoration /water-damage-restoration/ 301
+/services/fire-restoration/ /fire-damage-restoration/ 301
+/services/fire-restoration /fire-damage-restoration/ 301
+/services/mold-remediation/ /mold-remediation/ 301
+/services/mold-remediation /mold-remediation/ 301
+/services/roof-tarping/ /roof-tarping/ 301
+/services/roof-tarping /roof-tarping/ 301
+/services/shrink-wrapping/ /shrink-wrapping/ 301
+/services/shrink-wrapping /shrink-wrapping/ 301
+/services/storm-damage/ /storm-damage-restoration/ 301
+/services/storm-damage /storm-damage-restoration/ 301
+/services/storm-restoration/ /storm-damage-restoration/ 301
+/services/storm-restoration /storm-damage-restoration/ 301
+/services/sewage-cleanup/ /sewage-cleanup/ 301
+/services/sewage-cleanup /sewage-cleanup/ 301
+/services/sewage/ /sewage-cleanup/ 301
+/services/sewage /sewage-cleanup/ 301
+/services/commercial/ /water-damage-restoration/commercial/ 301
+/services/commercial /water-damage-restoration/commercial/ 301
+
+# Legacy service redirects (deprecated services → related pages)
+/services/leak-detection-services/ /leak-detection/ 301
+/services/leak-detection-services /leak-detection/ 301
+/services/leak-detection/ /leak-detection/ 301
+/services/leak-detection /leak-detection/ 301
+/services/mold-detectionl-and-remediation/ /mold-remediation/ 301
+/services/mold-testing/ /mold-remediation/ 301
+/services/mold-testing /mold-remediation/ 301
+/services/air-quality-inspections/ /indoor-air-quality/ 301
+/services/air-quality-inspections /indoor-air-quality/ 301
+/services/indoor-air-quality/ /indoor-air-quality/ 301
+/services/indoor-air-quality /indoor-air-quality/ 301
+/services/video-inspection/ /leak-detection/ 301
+/services/video-inspection /leak-detection/ 301
+/services/hydro-jetting/ /sewage-cleanup/ 301
+/services/hydro-jetting /sewage-cleanup/ 301
+
+# =============================================================================
+# CITY PAGE REDIRECTS - Redirect to water damage residential by default
+# =============================================================================
+
+# Miami-Dade County
+/miami-restoration-services/ /water-damage-restoration/residential/miami/ 301
+/miami-restoration-services /water-damage-restoration/residential/miami/ 301
+/miami-beach-restoration-services/ /water-damage-restoration/residential/miami-beach/ 301
+/miami-beach-restoration-services /water-damage-restoration/residential/miami-beach/ 301
+/miami-lakes-restoration-services/ /water-damage-restoration/residential/miami/ 301
+/miami-lakes-restoration-services /water-damage-restoration/residential/miami/ 301
+/total-care-restoration-doral-fl/ /water-damage-restoration/residential/doral/ 301
+/total-care-restoration-doral-fl /water-damage-restoration/residential/doral/ 301
+/kendall-restoration-services/ /water-damage-restoration/residential/miami/ 301
+/kendall-restoration-services /water-damage-restoration/residential/miami/ 301
+/pinecrest-restoration-services/ /water-damage-restoration/residential/miami/ 301
+/pinecrest-restoration-services /water-damage-restoration/residential/miami/ 301
+
+# Broward County
+/fort-lauderdale-restoration-service/ /water-damage-restoration/residential/fort-lauderdale/ 301
+/fort-lauderdale-restoration-service /water-damage-restoration/residential/fort-lauderdale/ 301
+/pembroke-pines-restoration-services/ /water-damage-restoration/residential/pembroke-pines/ 301
+/pembroke-pines-restoration-services /water-damage-restoration/residential/pembroke-pines/ 301
+/davie-restoration-services/ /water-damage-restoration/residential/davie/ 301
+/davie-restoration-services /water-damage-restoration/residential/davie/ 301
+/weston-restoration-services/ /water-damage-restoration/residential/weston/ 301
+/weston-restoration-services /water-damage-restoration/residential/weston/ 301
+/plantation-restoration-services/ /water-damage-restoration/residential/plantation/ 301
+/plantation-restoration-services /water-damage-restoration/residential/plantation/ 301
+/miramar-restoration-services/ /water-damage-restoration/residential/miramar/ 301
+/miramar-restoration-services /water-damage-restoration/residential/miramar/ 301
+/coral-springs-restoration-services/ /water-damage-restoration/residential/coral-springs/ 301
+/coral-springs-restoration-services /water-damage-restoration/residential/coral-springs/ 301
+/pompano-beach-restoration-services/ /water-damage-restoration/residential/pompano-beach/ 301
+/pompano-beach-restoration-services /water-damage-restoration/residential/pompano-beach/ 301
+/sunrise-restoration-services/ /water-damage-restoration/residential/coral-springs/ 301
+/sunrise-restoration-services /water-damage-restoration/residential/coral-springs/ 301
+/parkland-restoration-services/ /water-damage-restoration/residential/coral-springs/ 301
+/parkland-restoration-services /water-damage-restoration/residential/coral-springs/ 301
+/deerfield-beach-restoration-services/ /water-damage-restoration/residential/pompano-beach/ 301
+/deerfield-beach-restoration-services /water-damage-restoration/residential/pompano-beach/ 301
+
+# Palm Beach County
+/boca-raton-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
+/boca-raton-restoration-services /water-damage-restoration/residential/boca-raton/ 301
+/west-palm-beach-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
+/west-palm-beach-restoration-services /water-damage-restoration/residential/boca-raton/ 301
+/delray-beach-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
+/delray-beach-restoration-services /water-damage-restoration/residential/boca-raton/ 301
+
+# County-level pages
+/broward-county-restoration-services/ /water-damage-restoration/residential/fort-lauderdale/ 301
+/broward-county-restoration-services /water-damage-restoration/residential/fort-lauderdale/ 301
 

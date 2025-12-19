@@ -107,7 +107,7 @@ If the mold covers an area larger than 10 square feet, it’s time to bring in a
 
 Persistent health problems can also signal it’s time for professional help. If anyone in your home is dealing with coughing, breathing troubles, worsening allergies, eye irritation, headaches, or more severe asthma symptoms, mold might be the culprit. These symptoms could mean mold is more widespread than what you can see, requiring a thorough inspection and cleanup.
 
-### [Mold Remediation](/services/mold-remediation/) Services
+### [Mold Remediation](/mold-remediation/) Services
 
 When DIY efforts fall short, Total Care Restoration steps in with expert mold remediation services.
 

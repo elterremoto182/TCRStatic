@@ -71,7 +71,7 @@ However, accuracy may decrease when testing materials with high mineral content 
 
 Pinless meters excel at quickly identifying moisture pockets up to 0.75 inches deep. Many models can also produce color-coded maps to document affected areas. Tramex describes their role in moisture management:
 
-> "The key objective of moisture detection in the [Water Restoration](/services/water-restoration/) industry is to identify and assess the extent of and damage caused by any abnormally wet or damp areas within building structures so that the drying progress can be measured, monitored and documented and the materials restored."
+> "The key objective of moisture detection in the [Water Damage Restoration](/water-damage-restoration/) industry is to identify and assess the extent of and damage caused by any abnormally wet or damp areas within building structures so that the drying progress can be measured, monitored and documented and the materials restored."
 
 Moisture control expert Grete Heimerdinger adds:
 

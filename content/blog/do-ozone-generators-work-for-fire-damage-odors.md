@@ -10,7 +10,7 @@ seo_description: "Ozone generators can neutralize fire damage odors, but they po
 keywords: ["ozone generators fire damage", "smoke odor removal ozone"]
 ---
 
-Ozone generators can help neutralize [Fire Restoration](/services/fire-restoration/), but they come with risks. They work by releasing ozone gas (O₃) to oxidize odor-causing molecules embedded in porous materials like carpets, walls, and furniture. While effective in some cases, ozone treatment has limitations and safety concerns:
+Ozone generators can help neutralize [Fire Damage Restoration](/fire-damage-restoration/), but they come with risks. They work by releasing ozone gas (O₃) to oxidize odor-causing molecules embedded in porous materials like carpets, walls, and furniture. While effective in some cases, ozone treatment has limitations and safety concerns:
 
 -   **How They Work**: Ozone chemically alters smoke particles and volatile organic compounds (VOCs) responsible for odors.
 -   **Effectiveness**: Works best for deep-seated odors but may not fully eliminate all fire-related contaminants.
@@ -18,7 +18,7 @@ Ozone generators can help neutralize [Fire Restoration](/services/fire-restorati
 -   **Limitations**: Ineffective against substances like carbon monoxide and formaldehyde, and may produce toxic byproducts.
 -   **Usage**: Requires strict safety precautions, including evacuating the area and ventilating afterward.
 
-For severe fire damage, [Commercial](/services/commercial/) are often a safer and more thorough option. Experts can address hidden contamination, clean HVAC systems, and repair structural damage while minimizing health risks.
+For severe fire damage, [Commercial](/water-damage-restoration/commercial/) are often a safer and more thorough option. Experts can address hidden contamination, clean HVAC systems, and repair structural damage while minimizing health risks.
 
 ## Ozone vs Hydroxyl
 
@@ -121,7 +121,7 @@ While ozone generators might seem like a quick fix for fire damage odors, there 
 
 [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/) is about more than just covering up odors – it tackles the deeper contamination that often goes unnoticed. Persistent smoke smells are a sign that particles have penetrated materials like drywall, insulation, or subflooring. For example, if yellowing or staining remains even after repainting, it’s a clue that smoke residues are deeply embedded. Similarly, rusting on appliances can indicate the presence of corrosive chemicals from the fire that require specialized treatment.
 
-Health-related issues are another red flag. If family members develop worsening allergies or respiratory problems, it could be due to lingering smoke toxins affecting the [Air Quality Inspections](/services/air-quality-inspections/). Mold growth, often triggered by smoke residues attracting moisture, is another warning sign that it’s time to call in the experts.
+Health-related issues are another red flag. If family members develop worsening allergies or respiratory problems, it could be due to lingering smoke toxins affecting the air quality issues. Mold growth, often triggered by smoke residues attracting moisture, is another warning sign that it’s time to call in the experts.
 
 HVAC systems can also become a hidden source of contamination. Soot trapped in these systems can circulate harmful particles throughout your home. If you notice a smoke smell when running your air conditioning or heating, it’s a clear sign that professional cleaning and inspection are necessary. These challenges highlight why professional intervention is essential for thorough remediation.
 
@@ -147,7 +147,7 @@ When it comes to tackling fire damage odors, ozone generators might seem like a 
 
 Ozone works by oxidizing volatile organic compounds (VOCs), but as the U.S. Environmental Protection Agency (EPA) points out:
 
-> "Available scientific evidence shows that at concentrations that do not exceed public health standards, ozone has little potential to remove [Indoor Air Quality](/services/indoor-air-quality/)."
+> "Available scientific evidence shows that at concentrations that do not exceed public health standards, ozone has little potential to remove indoor air quality."
 
 In other words, while higher ozone levels might help more with odors, they come with serious health hazards.
 

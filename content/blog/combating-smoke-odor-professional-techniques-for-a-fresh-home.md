@@ -45,7 +45,7 @@ Learn more about the differences, benefits, and drawbacks of [Comparing DIY Vs P
 
 ## Restoring Your Home’s Freshness
 
-Cleaning after smoke damage is a labor-intensive process that requires patience and precision. Lean on the experts at Total Care Restoration, who offer [Fire Restoration](/services/fire-restoration/).
+Cleaning after smoke damage is a labor-intensive process that requires patience and precision. Lean on the experts at Total Care Restoration, who offer [Fire Damage Restoration](/fire-damage-restoration/).
 
 Don’t leave your precious home in the hands of a half-hearted cleaning job—ensure that it receives the total care it deserves. The goal of our dedicated team isn’t just to eliminate smoke odors, it’s to give you back the comfort, cleanliness, and safety of your Miami home.
 

@@ -108,7 +108,7 @@ Today's high-efficiency dehumidifiers can cut drying times by up to 50%.
 
 - Minimizes mold growth
 - Prevents building material deterioration
-- Improves [Indoor Air Quality](/services/indoor-air-quality/)
+- Improves indoor air quality
 - Creates healthier spaces faster
 
 ### Energy Efficiency and Cost Savings
@@ -189,7 +189,7 @@ But long-term benefits (improved efficiency, regulatory compliance, client satis
 
 ## Case Study: Total Care Restoration's Advanced Methods
 
-Total Care Restoration shows how advanced dehumidification reshapes water damage restoration. Since 2015, they've combined hybrid systems, smart monitoring, and certified technicians for both residential and [Commercial](/services/commercial/) properties.
+Total Care Restoration shows how advanced dehumidification reshapes water damage restoration. Since 2015, they've combined hybrid systems, smart monitoring, and certified technicians for both residential and [Commercial](/water-damage-restoration/commercial/) properties.
 
 ### Their Approach
 

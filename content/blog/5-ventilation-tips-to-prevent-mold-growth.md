@@ -111,7 +111,7 @@ Upgrading to **high-efficiency filters** with MERV ratings between 11-13 – or 
 
 ### Work with Certified Professionals
 
-For more complex HVAC maintenance or [Mold Remediation](/services/mold-remediation/), it’s best to call in the experts. Certified technicians can handle annual tune-ups, clean the evaporator coil, clear drain lines, and ensure your system is properly sized to control humidity effectively.
+For more complex HVAC maintenance or [Mold Remediation](/mold-remediation/), it’s best to call in the experts. Certified technicians can handle annual tune-ups, clean the evaporator coil, clear drain lines, and ensure your system is properly sized to control humidity effectively.
 
 > "It’s important to note that until the root cause of the moisture and high humidity is addressed, the mold will return." – Trane
 

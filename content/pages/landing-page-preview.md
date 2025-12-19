@@ -19,23 +19,23 @@ Our Location MIAMI-FORT LAUDERDALE, FL
 
 -   ["Home"](/ "Home")
 -   (# "OUR SERVICES")
-    -   [Water Restoration/ "Water Restoration"](/services/water-restoration/ "Water Restoration")
-    -   [Mold Remediation/ "Mold Remediation In Miami"](/services/mold-remediation/ "Mold Remediation in Miami")
-    -   [Fire Restoration/ "Fire Damage Restoration"](/services/fire-restoration/ "Fire Damage Restoration")
-    -   [Roof Tarping/ "Roof Tarping"](/services/roof-tarping/ "Roof Tarping")
-    -   [Shrink Wrapping/ "Shrink Wrapping"](/services/shrink-wrapping/ "Shrink wrapping")
-    -   [Air Quality Inspections/ "Air Quality Inspections"](/services/air-quality-inspections/ "Air quality inspections")
-    -   [Commercial/ "Commercial Damage Restorations"](/services/commercial/ "Commercial Damage Restorations")
--   [About/ "About Us"](/about/ "About Us")
--   [Reviews/ "Reviews"](/reviews/ "Reviews")
--   [Our Blog/ "Blog"](/our-blog/ "Blog")
--   [Contact/ "Contact Us"](/contact/ "Contact Us")
+    -   [Water Damage Restoration](/water-damage-restoration/ "Water Damage Restoration")
+    -   [Mold Remediation](/mold-remediation/ "Mold Remediation")
+    -   [Fire Damage Restoration](/fire-damage-restoration/ "Fire Damage Restoration")
+    -   [Roof Tarping](/roof-tarping/ "Roof Tarping")
+    -   [Shrink Wrapping](/shrink-wrapping/ "Shrink Wrapping")
+    -   [Storm Damage Restoration](/storm-damage-restoration/ "Storm Damage Restoration")
+    -   [Commercial Water Damage](/water-damage-restoration/commercial/ "Commercial Water Damage Restoration")
+-   [About](/about/ "About Us")
+-   [Reviews](/reviews/ "Reviews")
+-   [Our Blog](/our-blog/ "Blog")
+-   [Contact](/contact/ "Contact Us")
 -   (# "Service Areas")
-    -   [Boca Raton/ "Boca Raton Restoration Services" restoration services](/boca-raton-restoration-services/ "Boca Raton Restoration Services")
-    -   [Broward County/ "Broward County Restoration Services" restoration services](/broward-county-restoration-services/ "Broward County Restoration Services")
-    -   [Coral Springs/ "Coral Springs Restoration Services" restoration services](/coral-springs-restoration-services/ "Coral Springs Restoration Services")
-    -   [Davie/ "Davie Restoration Services" restoration services](/davie-restoration-services/ "Davie Restoration Services")
-    -   [Deerfield Beach/ "Deerfield Beach Restoration Services" restoration services](/deerfield-beach-restoration-services/ "Deerfield Beach Restoration Services")
+    -   [Boca Raton Water Damage](/water-damage-restoration/residential/boca-raton/ "Boca Raton Water Damage Restoration")
+    -   [Fort Lauderdale Water Damage](/water-damage-restoration/residential/fort-lauderdale/ "Fort Lauderdale Water Damage Restoration")
+    -   [Coral Springs Water Damage](/water-damage-restoration/residential/coral-springs/ "Coral Springs Water Damage Restoration")
+    -   [Davie Water Damage](/water-damage-restoration/residential/davie/ "Davie Water Damage Restoration")
+    -   [Miami Water Damage](/water-damage-restoration/residential/miami/ "Miami Water Damage Restoration")
 
 ## Water Damage Mitigation Company - Total Care Restoration
 
@@ -43,7 +43,7 @@ Our Location MIAMI-FORT LAUDERDALE, FL
 
 Helping home owners & businesses get back to comfort
 
-At Total Care Restoration, our mission is to help homeowners and business owners restore their damaged properties to a pristine condition with the highest level of service, care, and integrity.  
+At Total Care Restoration, our mission is to help homeowners and business owners restore their damaged properties to a pristine condition with the highest level of service, care, and integrity.  
 
 We will alleviate the stress associated with these types of situations by providing fast, effective, and transparent services from initial consultation through completion.
 

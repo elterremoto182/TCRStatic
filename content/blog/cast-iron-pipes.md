@@ -65,7 +65,7 @@ Water damage due to cast iron problems
 
 ## **Water Damage Caused By Cast Iron Pipes**
 
-[Water Restoration](/services/water-restoration/) is the second most common type of insurance claim. Between 20-30% of all property damage is caused by water.
+[Water Damage Restoration](/water-damage-restoration/) is the second most common type of insurance claim. Between 20-30% of all property damage is caused by water.
 
 Ignoring a faulty plumbing pipe system is just an accident waiting to happen, and it could only be a matter of time before you are faced with having to deal with an expensive emergency due to compromised cast iron pipes.
 
@@ -75,7 +75,7 @@ For more information check out our [Water Damage Restoration Guide](/water-damag
 
 In addition, if water damage goes un attended, it can lead to dangerous mold in your home. If you suspect of having mold at your home, do not neglect it.
 
-You need to call a mold restoration company immediately, so they can help you [Mold Remediation](/services/mold-remediation/).
+You need to call a mold restoration company immediately, so they can help you [Mold Remediation](/mold-remediation/).
 
 ## **Does Homeowners Insurance Cover Cast Iron Pipes?**
 

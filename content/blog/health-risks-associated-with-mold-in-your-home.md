@@ -75,7 +75,7 @@ As a homeowner in Miami, it’s crucial to be aware of the health risks associat
 
 To learn more about Total Care Restoration’s mold remediation services, mold sanitization, and water restoration, please visit their website:
 
-– [Mold Remediation](/services/mold-remediation/)  
+– [Mold Remediation](/mold-remediation/)  
 – [Mold Sanitization Vs Mold Remediation](/mold-sanitization-vs-mold-remediation/)  
 – [Understanding Water Damage the Basics Everyone Should Know](/understanding-water-damage-the-basics-everyone-should-know/)
 

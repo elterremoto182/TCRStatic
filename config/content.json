@@ -6,7 +6,7 @@
       "href": "/#contact",
       "text": "Contact Us"
     },
-    "backgroundImage": "/wp-content/uploads/2025/11/image_fb03bae6e65125011c8be7bc7688b901.jpeg",
+    "backgroundImage": "/images/blog/2025/11/image_fb03bae6e65125011c8be7bc7688b901.jpeg",
     "secondaryButton": {
       "href": "tel:",
       "text": "Call Now"
@@ -23,7 +23,7 @@
       "href": "/#services",
       "text": "Our Services"
     },
-    "backgroundImage": "/wp-content/uploads/2021/09/hero-banner.png",
+    "backgroundImage": "/images/blog/2021/09/hero-banner.png",
     "backgroundVideo": ""
   },
   "about": {
@@ -68,7 +68,7 @@
       }
     ],
     "headline": "Why Choose Us?",
-    "teamImage": "/wp-content/uploads/2023/01/Two-employees.png",
+    "teamImage": "/images/blog/2023/01/Two-employees.png",
     "description": "We provide professional services with expertise and dedication to quality."
   },
   "gallery": {
@@ -78,24 +78,24 @@
         "id": 1,
         "title": "Living Room Water Damage Restoration",
         "category": "Water",
-        "beforeImage": "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg",
-        "afterImage": "/wp-content/uploads/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg",
+        "beforeImage": "/images/blog/2021/10/Water-damage-wood-floor.jpeg",
+        "afterImage": "/images/blog/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg",
         "description": "Complete restoration of a flooded living room. Water extraction, drying, and floor restoration returned this space to pristine condition."
       },
       {
         "id": 2,
         "title": "Commercial Fire Damage Cleanup",
         "category": "Fire",
-        "beforeImage": "/wp-content/uploads/2021/09/Depositphotos_42532403_xl-2015-scaled.jpg",
-        "afterImage": "/wp-content/uploads/2024/02/Fire-in-WareHose-1-scaled.jpg",
+        "beforeImage": "/images/blog/2021/09/Depositphotos_42532403_xl-2015-scaled.jpg",
+        "afterImage": "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg",
         "description": "Complete restoration of a warehouse after severe fire damage. Debris removal, structural cleaning, and full remediation."
       },
       {
         "id": 3,
         "title": "Bathroom Mold Removal",
         "category": "Mold",
-        "beforeImage": "/wp-content/uploads/2021/11/mold-behind-walls.jpg",
-        "afterImage": "/wp-content/uploads/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg",
+        "beforeImage": "/images/blog/2021/11/mold-behind-walls.jpg",
+        "afterImage": "/images/blog/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg",
         "description": "Window corner mold completely removed with antimicrobial treatment. Our certified technicians ensure thorough inspection and remediation."
       }
     ],
@@ -105,7 +105,7 @@
     {
       "id": "water",
       "icon": "Droplet",
-      "image": "/wp-content/uploads/2022/07/drying-floors-1024x576.jpg",
+      "image": "/images/blog/2022/07/drying-floors-1024x576.jpg",
       "title": "Water Restoration",
       "features": [
         "24/7 Emergency Service",
@@ -117,7 +117,7 @@
     {
       "id": "air-quality",
       "icon": "Wind",
-      "image": "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg",
+      "image": "/images/blog/2021/10/Water-damage-wood-floor.jpeg",
       "title": "Air Quality Inspections",
       "features": [
         "Professional Air Quality Inspections",
@@ -129,7 +129,7 @@
     {
       "id": "fire",
       "icon": "Flame",
-      "image": "/wp-content/uploads/2021/11/fire-hazard-header-image.jpg",
+      "image": "/images/blog/2021/11/fire-hazard-header-image.jpg",
       "title": "Fire Damage Restoration",
       "features": [
         "Emergency Response",
@@ -153,7 +153,7 @@
     {
       "id": "commercial",
       "icon": "Building2",
-      "image": "/wp-content/uploads/2024/02/Fire-in-WareHose-1-scaled.jpg",
+      "image": "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg",
       "title": "Commercial Damage Restorations",
       "features": [
         "Quick Response",
@@ -165,7 +165,7 @@
     {
       "id": "roof-tarping",
       "icon": "Home",
-      "image": "/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "image": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
       "title": "Roof Tarping",
       "features": [
         "Professional Installation",
@@ -177,7 +177,7 @@
     {
       "id": "shrink-wrapping",
       "icon": "Package",
-      "image": "/wp-content/uploads/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
+      "image": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
       "title": "Shrink Wrapping",
       "features": [
         "Expert Installations",

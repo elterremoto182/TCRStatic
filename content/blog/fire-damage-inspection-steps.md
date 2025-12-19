@@ -10,7 +10,7 @@ seo_description: "Learn essential fire damage inspection steps to ensure safety,
 keywords: ["fire damage inspection checklist", "fire inspection steps"]
 ---
 
-**Dealing with [Fire Restoration](/services/fire-restoration/)?** Here’s a quick guide to inspecting your property safely and thoroughly after a fire. Follow these steps to identify visible and hidden damage, ensure safety, and prepare for restoration and insurance claims:
+**Dealing with [Fire Damage Restoration](/fire-damage-restoration/)?** Here’s a quick guide to inspecting your property safely and thoroughly after a fire. Follow these steps to identify visible and hidden damage, ensure safety, and prepare for restoration and insurance claims:
 
 1.  **Prioritize Safety:** Only enter after authorities clear the area. Wear protective gear (N95 mask, gloves, boots) to avoid hazards like toxins, debris, or unstable structures.
 2.  **Walk the Property:** Start with a visual inspection. Document fire, smoke, soot, and [Water Damage Clean Up](/water-damage-clean-up/) with photos and notes.
@@ -99,7 +99,7 @@ These cameras can also help identify moisture and areas weakened by heat.
 
 Moisture meters are another essential tool. Use them on drywall and wood to measure water content, as moisture can promote mold growth within 24 to 48 hours. Ideally, keep humidity levels between 30–50% to minimize risk.
 
-Borescopes and [Video Inspection](/services/video-inspection) allow you to peer inside walls and cavities without causing major disruption. These tools are especially useful for spotting hidden moisture or fire damage.
+Borescopes and video inspection allow you to peer inside walls and cavities without causing major disruption. These tools are especially useful for spotting hidden moisture or fire damage.
 
 Be sure to document everything – affected areas, moisture levels, and any visible damage. This information is invaluable for insurance claims and helps restoration professionals plan repairs. If you encounter significant structural damage or have concerns about the stability of load-bearing components, consult a structural engineer. They can provide a detailed evaluation and recommend the necessary steps to restore the building’s safety.
 
@@ -125,7 +125,7 @@ Soot and smoke can infiltrate HVAC systems, leaving behind corrosive residues th
 
 > "Smoke alone will make things look ugly, but shouldn’t do any actual damage. You just need to wipe the smoke residue away so that you can be sure it’s not hiding any damage from heat or the fire itself".
 
-While surface cleaning may address visible residue, contamination inside the HVAC system requires professional attention. Schedule an inspection and cleaning by qualified technicians. Professional duct cleaning can remove soot, debris, and other contaminants, and follow-up [Air Quality Inspections](/services/air-quality-inspections/) can ensure your home is safe for your family.
+While surface cleaning may address visible residue, contamination inside the HVAC system requires professional attention. Schedule an inspection and cleaning by qualified technicians. Professional duct cleaning can remove soot, debris, and other contaminants, and follow-up air quality issues can ensure your home is safe for your family.
 
 Be sure to document everything – take photos and write detailed notes about the damage and its location. This information will be essential for filing insurance claims and helping restoration experts plan the necessary repairs.
 
@@ -209,7 +209,7 @@ The restoration process itself typically involves several key steps: [Combating 
 
 Make sure to contact your insurance company as soon as possible, providing the detailed documentation you gathered during the inspection. Photos, videos, and written records will streamline the claims process and help establish a clear timeline for repairs.
 
-For assistance, Total Care Restoration offers 24/7 certified [Commercial](/services/commercial/). With direct insurance billing and a focus on securing your property quickly, they can turn your inspection efforts into a comprehensive recovery plan, helping you manage the restoration process efficiently and effectively.
+For assistance, Total Care Restoration offers 24/7 certified [Commercial](/water-damage-restoration/commercial/). With direct insurance billing and a focus on securing your property quickly, they can turn your inspection efforts into a comprehensive recovery plan, helping you manage the restoration process efficiently and effectively.
 
 ## FAQs
 

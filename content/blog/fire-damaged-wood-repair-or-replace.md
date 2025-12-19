@@ -141,7 +141,7 @@ Protecting your health and ensuring your home is safe again means addressing fir
 
 If you spot **warping**, **sagging**, or visible charring on load-bearing elements like beams, walls, or floors, it’s time to call in a professional. Fire damage can seriously weaken wood, even if the harm isn’t immediately obvious.
 
-Not sure how bad the damage is or worried there might be hidden problems? A licensed expert can evaluate the situation, ensuring your home is safe and determining whether repairs or replacements are needed. For trusted [Fire Restoration](/services/fire-restoration/), **Total Care Restoration** is available 24/7 to help you safely and efficiently bring your property back to its best condition.
+Not sure how bad the damage is or worried there might be hidden problems? A licensed expert can evaluate the situation, ensuring your home is safe and determining whether repairs or replacements are needed. For trusted [Fire Damage Restoration](/fire-damage-restoration/), **Total Care Restoration** is available 24/7 to help you safely and efficiently bring your property back to its best condition.
 
 ## Related posts
 

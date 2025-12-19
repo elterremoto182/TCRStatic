@@ -27,7 +27,7 @@ When floodwater enters your home, acting quickly can save you thousands in repai
 -   Mold covering large areas or recurring problems
 -   Contaminated HVAC systems
 
-Swift action and a clear plan are crucial for minimizing damage and ensuring a safe, healthy home. For severe cases, [Commercial](/services/commercial/) can provide expertise and equipment to handle the situation effectively.
+Swift action and a clear plan are crucial for minimizing damage and ensuring a safe, healthy home. For severe cases, [Commercial](/water-damage-restoration/commercial/) can provide expertise and equipment to handle the situation effectively.
 
 ## Flood Clean-up – 5 Steps Including Mold Control
 
@@ -216,7 +216,7 @@ Common mold hotspots after flooding include basements, crawl spaces, HVAC vents,
 
 Mold often reveals itself through a musty or earthy odor. Walk through each room and note if the smell is stronger in specific areas, especially near HVAC vents or in enclosed spaces. If the odor intensifies when your heating or cooling system is running, it could mean mold contamination inside the system.
 
-Additionally, keep an eye on your household’s health. Symptoms like sneezing, coughing, or respiratory irritation that worsen in certain areas of your home might be linked to mold growth and poor [Indoor Air Quality](/services/indoor-air-quality/). Studies show [Indoor Air Quality](/services/indoor-air-quality) can often be higher than outdoor levels. If these symptoms persist, it may be time to call in the professionals.
+Additionally, keep an eye on your household’s health. Symptoms like sneezing, coughing, or respiratory irritation that worsen in certain areas of your home might be linked to mold growth and poor indoor air quality. Studies show indoor air quality can often be higher than outdoor levels. If these symptoms persist, it may be time to call in the professionals.
 
 ### Contact Mold Specialists
 
@@ -226,7 +226,7 @@ The National Institute for Occupational Safety and Health reports that nearly 47
 
 > "An existing mold issue will eventually be discovered. Either during escrow or, even worse, after close of escrow. It’s better to get out ahead of it. The issues won’t fix themselves and tend to get worse with time." – Bret Pfeifer, lead inspector at Golden State Mold Inspections
 
-For extensive [Water Damage Clean Up](/water-damage-clean-up/), Total Care Restoration offers 24/7 [Mold Remediation](/services/mold-remediation/). Their certified technicians can assess the situation, create a remediation plan, and even work directly with your insurance company to simplify the process.
+For extensive [Water Damage Clean Up](/water-damage-clean-up/), Total Care Restoration offers 24/7 [Mold Remediation](/mold-remediation/). Their certified technicians can assess the situation, create a remediation plan, and even work directly with your insurance company to simplify the process.
 
 ## When to Call Professionals
 

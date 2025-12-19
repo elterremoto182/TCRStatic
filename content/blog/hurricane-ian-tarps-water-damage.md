@@ -17,7 +17,7 @@ We have already helped hundreds of residents in Fort Myers, Cape Coral, Punta Go
   
 At Total Care Restoration, we offer tarp installation services for any property affected by weather-related damage. Our team of highly trained technicians can quickly and efficiently install tarps on roofs, walls, and other areas of your property to protect it from further damage.
 
-We use the [Roof Tarping](/services/roof-tarping/) that are designed to be durable and long-lasting, ensuring that your property is safe from the elements. With our tarp installation services, you can rest assured that your property is in good hands and will be secure until repairs can be made. Contact us today for more information.
+We use the [Roof Tarping](/roof-tarping/) that are designed to be durable and long-lasting, ensuring that your property is safe from the elements. With our tarp installation services, you can rest assured that your property is in good hands and will be secure until repairs can be made. Contact us today for more information.
 
 (tel:12393269961)
 

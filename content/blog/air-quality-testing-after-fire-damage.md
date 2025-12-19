@@ -12,7 +12,7 @@ keywords: ["air quality testing after fire", "post-fire air quality"]
 
 Fire damage goes beyond what you can see. Toxic particles like soot, ash, and VOCs stay in the air and on surfaces. These hidden dangers threaten your health long after the flames go out.
 
-Testing your [Indoor Air Quality](/services/indoor-air-quality) after a fire is critical. You need to confirm the space is safe before moving back in.
+Testing your indoor air quality after a fire is critical. You need to confirm the space is safe before moving back in.
 
 **Here's what you should know:**
 
@@ -29,11 +29,11 @@ Testing confirms your property is safe to live in. It protects your health and p
 
 ## Step-by-Step Guide to Air Quality Testing
 
-Testing air quality after [Fire Restoration](/services/fire-restoration/) needs a clear plan. Experts follow detailed steps to find and fix hazards. This process runs from the first inspection to the final lab results.
+Testing air quality after [Fire Damage Restoration](/fire-damage-restoration/) needs a clear plan. Experts follow detailed steps to find and fix hazards. This process runs from the first inspection to the final lab results.
 
 ### Initial Assessment and Property Inspection
 
-The first step in [Air Quality Inspections](/services/air-quality-inspections/) is a detailed property inspection. Corey Myers, Technical Director at [Partner Engineering and Science](https://www.partneresi.com/services/environmental-consulting/), explains:
+The first step in air quality issues is a detailed property inspection. Corey Myers, Technical Director at [Partner Engineering and Science](https://www.partneresi.com/services/environmental-consulting/), explains:
 
 > "The first step in indoor air quality testing is conducting an initial assessment. This involves a visual inspection of the property to identify areas with visible soot, smoke damage, and potential sources of contamination."
 
@@ -113,7 +113,7 @@ Two main approaches exist:
 | **Active sampling** | Pumps collect air over a short time | Peak exposure levels |
 | **Passive sampling** | Natural diffusion collects pollutants over time | Average exposure levels |
 
-> "Ambient [Indoor Air Quality](/services/indoor-air-quality/) is crucial for assessing pollution levels and ensuring compliance with regulatory standards." – Perfect Pollucon Services
+> "Ambient indoor air quality is crucial for assessing pollution levels and ensuring compliance with regulatory standards." – Perfect Pollucon Services
 
 **Tip:** Place samplers 3–6 feet from direct airflow. This can improve accuracy by up to 50%.
 

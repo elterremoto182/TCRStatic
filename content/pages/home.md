@@ -9,63 +9,42 @@ seo_description: "Trust Total Care Restoration as your water remediation & water
 keywords: ["water mitigation company"]
 ---
 
+## Our Services
 
+- [Water Damage Restoration](/water-damage-restoration/)
+- [Fire Damage Restoration](/fire-damage-restoration/)
+- [Mold Remediation](/mold-remediation/)
+- [Storm Damage Restoration](/storm-damage-restoration/)
+- [Emergency Restoration](/emergency-restoration/)
+- [Roof Tarping](/roof-tarping/)
+- [Shrink Wrapping](/shrink-wrapping/)
+- [Sewage Cleanup](/sewage-cleanup/)
 
+## Service Areas
 
+### Miami-Dade County
+- [Miami Water Damage Restoration](/water-damage-restoration/residential/miami/)
+- [Miami Beach Water Damage Restoration](/water-damage-restoration/residential/miami-beach/)
+- [Doral Water Damage Restoration](/water-damage-restoration/residential/doral/)
 
+### Broward County
+- [Fort Lauderdale Water Damage Restoration](/water-damage-restoration/residential/fort-lauderdale/)
+- [Pembroke Pines Water Damage Restoration](/water-damage-restoration/residential/pembroke-pines/)
+- [Davie Water Damage Restoration](/water-damage-restoration/residential/davie/)
+- [Weston Water Damage Restoration](/water-damage-restoration/residential/weston/)
+- [Plantation Water Damage Restoration](/water-damage-restoration/residential/plantation/)
+- [Miramar Water Damage Restoration](/water-damage-restoration/residential/miramar/)
+- [Coral Springs Water Damage Restoration](/water-damage-restoration/residential/coral-springs/)
+- [Pompano Beach Water Damage Restoration](/water-damage-restoration/residential/pompano-beach/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Palm Beach County
+- [Boca Raton Water Damage Restoration](/water-damage-restoration/residential/boca-raton/)
 
 ## Related Links
-- [Weston Restoration Services](/weston-restoration-services)
-- [West Palm Beach Restoration Services](/west-palm-beach-restoration-services)
-- [Doral Restoration Services](/total-care-restoration-doral-fl)
-- [Sunrise Restoration Services](/sunrise-restoration-services)
 - [Reviews](/reviews)
 - [Promotions](/promotions)
 - [Privacy Policy](/privacy-policy)
-- [Pompano Beach Restoration Services](/pompano-beach-restoration-services)
-- [Plantation Restoration Services](/plantation-restoration-services)
-- [Pinecrest Restoration Services](/pinecrest-restoration-services)
-- [Pembroke Pines Restoration Services](/pembroke-pines-restoration-services)
-- [Parkland Restoration Services](/parkland-restoration-services)
 - [Blog](/our-blog)
-- [Miramar Restoration Services](/miramar-restoration-services)
-- [Miami Restoration Services](/miami-restoration-services)
-- [Miami Lakes Restoration Services](/miami-lakes-restoration-services)
-- [Miami Beach Restoration Services](/miami-beach-restoration-services)
-- [Kendall Restoration Services](/kendall-restoration-services)
-- [HEALTH &#038; SAFETY](/health-and-safety)
-- [Fort Lauderdale Restoration Service](/fort-lauderdale-restoration-service)
+- [Health & Safety](/health-and-safety)
 - [Financing](/financing)
-- [Delray Beach Restoration Services](/delray-beach-restoration-services)
-- [Deerfield Beach Restoration Services](/deerfield-beach-restoration-services)
-- [Davie Restoration Services](/davie-restoration-services)
-- [Coral Springs Restoration Services](/coral-springs-restoration-services)
 - [Careers](/careers)
-- [Broward County Restoration Services](/broward-county-restoration-services)
-
-- [Boca Raton Restoration Services](/boca-raton-restoration-services)

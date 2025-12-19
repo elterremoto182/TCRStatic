@@ -111,10 +111,10 @@ This means that we have the skills and expertise to provide flood restoration se
 
 We are experts in:
 
--   [Water Restoration](/services/water-restoration/)
--   [Fire Restoration](/services/fire-restoration/)
--   [Mold Remediation](/services/mold-remediation/)
--   [Roof Tarping](/services/roof-tarping/)
+-   [Water Damage Restoration](/water-damage-restoration/)
+-   [Fire Damage Restoration](/fire-damage-restoration/)
+-   [Mold Remediation](/mold-remediation/)
+-   [Roof Tarping](/roof-tarping/)
 
 Our customers also trust us to diagnose different issues and repair foundation, leaks, mold infestations, and other side effects of flooding.
 

@@ -303,7 +303,7 @@ Professional evaluation is crucial because:
 - Smoke odor seeps into walls, furniture, and HVAC systems
 - It's hard to eliminate without proper skills and equipment
 
-[Fire Restoration](/services/fire-restoration/) pros uncover hidden damage and ensure comprehensive cleanup. Their 24/7 emergency services provide quick, dependable help.
+[Fire Damage Restoration](/fire-damage-restoration/) pros uncover hidden damage and ensure comprehensive cleanup. Their 24/7 emergency services provide quick, dependable help.
 
 ### How do professionals identify and measure smoke damage?
 

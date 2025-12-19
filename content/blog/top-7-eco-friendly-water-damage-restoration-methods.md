@@ -50,7 +50,7 @@ These tackle mold, mildew, and bacteria while breaking down naturally.
 
 ### Health and Safety Benefits
 
-[Indoor Air Quality](/services/indoor-air-quality) is often 2–5 times worse than outdoor air. This worsens respiratory issues and allergies.
+indoor air quality is often 2–5 times worse than outdoor air. This worsens respiratory issues and allergies.
 
 **Green products help by:**
 
@@ -69,7 +69,7 @@ Green cleaning products reduce environmental impact by up to 60%. They break dow
 **Key benefits:**
 
 - No toxic residue buildup
-- Better [Indoor Air Quality](/services/indoor-air-quality/) over time
+- Better indoor air quality over time
 - Less need for repeated treatments
 - Natural mold inhibitors (like tea tree oil) provide lasting antimicrobial protection
 
@@ -358,7 +358,7 @@ At Total Care Restoration, every project gets a tailored strategy balancing effe
 
 ## Conclusion
 
-[Commercial](/services/commercial/) offers a smart way to safeguard health, save money, and care for the environment.
+[Commercial](/water-damage-restoration/commercial/) offers a smart way to safeguard health, save money, and care for the environment.
 
 ### Health Benefits
 

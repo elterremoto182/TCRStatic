@@ -24,7 +24,7 @@ Here at Total Care Restoration, we believe, every Miami homeowner benefits from 
 
 ## Water Restoration: The Lifeline for Your Furniture and Floors
 
-[Water Restoration](/services/water-restoration/) is a rescue strategy for items afflicted by water damage. This process includes a range of techniques, such as dehumidifying, drying, cleaning, and repairing, aimed to bring your impaired furniture and floors back to life.
+[Water Damage Restoration](/water-damage-restoration/) is a rescue strategy for items afflicted by water damage. This process includes a range of techniques, such as dehumidifying, drying, cleaning, and repairing, aimed to bring your impaired furniture and floors back to life.
 
 Professional care in the realm of water restoration not only saves your items from significant damage but also extends the lifespan and sustains the beauty of your furniture and floors.
 

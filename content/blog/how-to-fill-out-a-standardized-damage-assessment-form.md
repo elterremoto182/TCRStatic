@@ -18,7 +18,7 @@ When disaster strikes, documenting property damage accurately is critical for in
 -   **Supporting Evidence**: Include clear photos, videos, and written descriptions of damage.
 -   **Safety First**: Inspect for hazards like unstable structures or exposed wires before starting.
 
-By using checklists, standardized terms, and reviewing your form thoroughly, you can avoid common errors like vague descriptions or missing information. For complex cases, [Commercial](/services/commercial/) can ensure accurate assessments and quicker recovery.
+By using checklists, standardized terms, and reviewing your form thoroughly, you can avoid common errors like vague descriptions or missing information. For complex cases, [Commercial](/water-damage-restoration/commercial/) can ensure accurate assessments and quicker recovery.
 
 **Pro Tip**: Digital forms save time, reduce errors, and allow easy submission, making them ideal for modern damage assessments.
 
@@ -38,7 +38,7 @@ Next, provide your full name, contact information (phone number and email), and 
 
 The **location section** requires detailed address information, including the street address, city, state, and ZIP code. If possible, include GPS coordinates in decimal degrees (e.g., 40.7128° N, 74.0060° W) to give emergency responders or restoration teams precise location details.
 
-The heart of the form lies in the **damage type and severity ratings**. Typical damage categories include [Water Damage Clean Up](/water-damage-clean-up/), [Fire Restoration](/services/fire-restoration/), mold contamination, and structural issues. Severity is often categorized as affected, minor, major, or destroyed.
+The heart of the form lies in the **damage type and severity ratings**. Typical damage categories include [Water Damage Clean Up](/water-damage-clean-up/), [Fire Damage Restoration](/fire-damage-restoration/), mold contamination, and structural issues. Severity is often categorized as affected, minor, major, or destroyed.
 
 Cost estimates are another critical component. These preliminary figures for repairs or replacements help insurance companies process claims and allow restoration teams to plan their work. Be sure to specify the source of your estimate, whether it’s based on contractor quotes, online tools, or professional evaluations.
 
@@ -68,7 +68,7 @@ Written narratives provide context that photos alone cannot capture. Describe wh
 
 Finally, receipts and repair estimates from contractors or restoration professionals add credibility to your cost assessments. Many digital forms now allow you to upload these documents directly, creating a comprehensive record that’s easy for all stakeholders to access.
 
-For extensive damage that requires specialized expertise, professional [Miramar restoration services](/miramar-restoration-services/) can provide detailed evaluations to complement your initial assessment. Companies like Total Care Restoration, for instance, offer certified technicians who can identify hidden damage and provide accurate cost estimates for services such as [Ultimate Tips Need Water Damage Restoration](/ultimate-tips-need-water-damage-restoration/), fire restoration, and [Mold Remediation](/services/mold-remediation/).
+For extensive damage that requires specialized expertise, professional [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) can provide detailed evaluations to complement your initial assessment. Companies like Total Care Restoration, for instance, offer certified technicians who can identify hidden damage and provide accurate cost estimates for services such as [Ultimate Tips Need Water Damage Restoration](/ultimate-tips-need-water-damage-restoration/), fire restoration, and [Mold Remediation](/mold-remediation/).
 
 ## Step-by-Step Process for Completing the Form
 

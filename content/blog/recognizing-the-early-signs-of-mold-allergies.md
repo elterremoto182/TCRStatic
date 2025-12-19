@@ -50,7 +50,7 @@ Sometimes, despite your valued efforts, the situation spirals out of your contro
 
 ### When To Call the Professionals
 
-At Total Care Restoration, we pledge to help put an end to your Mold worries. We’re a leading [Mold Remediation](/services/mold-remediation/), offering efficient, reliable solutions.
+At Total Care Restoration, we pledge to help put an end to your Mold worries. We’re a leading [Mold Remediation](/mold-remediation/), offering efficient, reliable solutions.
 
 Living with Mold allergies can be a horrendous encounter – persistent coughing, sneezing and fatigue can take a toll on your general health and wellbeing. Recognizing the early signs of these allergies is pivotal. And when these signs appear, it’s time to trust professional help. Let us at Total Care Restoration, assist you in restoring not just your home, but also your peace of mind.
 

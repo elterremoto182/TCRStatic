@@ -91,7 +91,7 @@ Call a plumber for:
 
 A proactive approach to plumbing maintenance saves money and extends the life of your system. But when leaks cause damage, professional help is essential.
 
-**Total Care Restoration** offers 24/7 emergency [water damage restoration](/services/water-restoration/) services throughout South Florida. Our certified technicians handle everything from water extraction to full restoration.
+**Total Care Restoration** offers 24/7 emergency [water damage restoration](/water-damage-restoration/) services throughout South Florida. Our certified technicians handle everything from water extraction to full restoration.
 
 **Call (786) 610-6317** or [contact us](/contact/) for immediate assistance.
 

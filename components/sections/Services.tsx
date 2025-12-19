@@ -25,29 +25,16 @@ const iconMap: Record<string, LucideIcon> = {
   Wrench,
 };
 
-// Map service IDs to their slugs from markdown files
-// URLs should not have trailing slashes to match Next.js routing
+// Map service IDs to their new local SEO URLs
 const serviceSlugMap: Record<string, string> = {
-  // Restoration services
-  'air-quality': '/services/air-quality-inspections',
-  'fire': '/services/fire-restoration',
-  'home': '/services/water-restoration',
-  'mold': '/services/mold-remediation',
-  'water': '/services/water-restoration',
-  'commercial': '/services/commercial',
-  'roof-tarping': '/services/roof-tarping',
-  'shrink-wrapping': '/services/shrink-wrapping',
-  // Legacy plumbing services (if needed)
-  'camera-inspection': '/services/camera-inspection',
-  'clogged-drains': '/services/clogged-drains',
-  'leak-detection': '/services/leak-detection',
-  'mold-testing': '/services/mold-testing',
-  'leaking-toilet': '/services/leaking-toilet',
-  'damaged-sewer': '/services/damaged-sewer',
-  'hydro-jetting': '/services/hydro-jetting',
-  'slab-leaks': '/services/slab-leaks',
-  'plumbing-report-writing': '/services/plumbing-report-writing',
-  'commercial-services': '/services/commercial-services',
+  'water': '/water-damage-restoration',
+  'fire': '/fire-damage-restoration',
+  'mold': '/mold-remediation',
+  'roof-tarping': '/roof-tarping',
+  'shrink-wrapping': '/shrink-wrapping',
+  'commercial': '/water-damage-restoration/commercial',
+  'air-quality': '/indoor-air-quality',
+  'home': '/water-damage-restoration',
 };
 
 export function Services() {
@@ -68,7 +55,7 @@ export function Services() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {services.map((service) => {
             const IconComponent = iconMap[service.icon] || Wrench;
-            const serviceSlug = serviceSlugMap[service.id] || '/services';
+            const serviceSlug = serviceSlugMap[service.id] || '/';
 
             return (
               <Link

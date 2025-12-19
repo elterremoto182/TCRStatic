@@ -148,7 +148,7 @@ Skipping this crucial step can lead to hidden moisture problems, which may resul
 
 ### Moisture Level Verification
 
-[Commercial](/services/commercial/) use specialized tools to measure moisture levels accurately. These tools, known as moisture meters, assess water content in various building materials and compare the readings to industry standards. The goal is to ensure moisture levels are returned to pre-damage conditions.
+[Commercial](/water-damage-restoration/commercial/) use specialized tools to measure moisture levels accurately. These tools, known as moisture meters, assess water content in various building materials and compare the readings to industry standards. The goal is to ensure moisture levels are returned to pre-damage conditions.
 
 There are two main types of moisture meters used during this phase:
 

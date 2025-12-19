@@ -1,56 +1,154 @@
-# AI Website Builder Template v2.0
+# Total Care Restoration Website
 
-A modern, production-ready Next.js template for building small business websites with AI. Built with performance, modularity, and flexibility in mind.
+A high-performance static website for Total Care Restoration, a 24/7 emergency restoration company serving South Florida. Built with Next.js 14 and featuring comprehensive local SEO with 500+ service pages across 20 cities in Miami-Dade, Broward, and Palm Beach counties.
 
-## Features 
+## Features
 
-- **Fast & Optimized**: Static generation, lazy loading, image optimization, and CDN-ready
-- **Modern Design**: Clean typography, smooth animations, and professional styling
+- **Local SEO Optimized**: 500+ pages targeting specific service × city × type combinations
+- **Fast & Static**: Fully static export with image optimization and CDN-ready deployment
+- **Modern Design**: Clean, professional UI with smooth animations
 - **Config-Driven**: All content managed through JSON and Markdown files
-- **Modular Components**: Reusable, well-organized component structure
-- **Blog System**: Full Markdown blog with category support
-- **SEO Optimized**: Meta tags, Open Graph, Twitter cards, sitemap.xml, and robots.txt
+- **Blog System**: Full Markdown blog with 117+ posts and category support
+- **Rich Structured Data**: LocalBusiness, Service, FAQ, HowTo, and Breadcrumb schemas
 - **Responsive**: Mobile-first design with breakpoints
-- **Image Optimization**: Automatic WebP conversion with blur placeholders and responsive sizing
-- **Media Optimized**: Lazy-loaded images and videos with loading skeletons
-- **Error Handling**: Custom 404 page and error boundaries
-- **Accessible**: WCAG compliant with semantic HTML
-- **Database Ready**: Supabase integration for data persistence
+- **Image Optimization**: Automatic WebP conversion with blur placeholders
+- **301 Redirects**: Comprehensive redirect system for SEO preservation
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
-- **Styling**: Tailwind CSS with shadcn/ui components
-- **Database**: Supabase (PostgreSQL)
-- **Forms**: React Hook Form with Zod validation
+- **Framework**: Next.js 14.2 (App Router with Static Export)
+- **Language**: TypeScript 5.2
+- **Styling**: Tailwind CSS 3.3 with shadcn/ui components
 - **Image Optimization**: next-image-export-optimizer
 - **Animations**: CSS transitions and transforms
-- **Theme**: next-themes for dark/light mode support
-- **Typography**: Inter (Google Fonts)
+- **Typography**: System fonts with custom styling
 - **Icons**: Lucide React
 - **Blog**: Markdown with gray-matter and react-markdown
+- **Forms**: React Hook Form with Zod validation
+- **UI Components**: Radix UI primitives
+
+## Services Covered
+
+| Service | Structure |
+|---------|-----------|
+| Water Damage Restoration | Core + Residential/Commercial + 20 Cities |
+| Fire Damage Restoration | Core + Residential/Commercial + 20 Cities |
+| Mold Remediation | Core + Residential/Commercial + 20 Cities |
+| Storm Damage Restoration | Core + Residential/Commercial + 20 Cities |
+| Emergency Restoration | Core + Residential/Commercial + 20 Cities |
+| Sewage Cleanup | Core + Residential/Commercial + 20 Cities |
+| Roof Tarping | Core + Residential/Commercial + 20 Cities |
+| Shrink Wrapping | Core + Residential/Commercial + 20 Cities |
+| Indoor Air Quality | Core page |
+| Leak Detection | Core page |
+
+## Cities Served
+
+### Miami-Dade County
+- Miami
+- Miami Beach
+- Doral (HQ - fastest response times)
+- Miami Lakes
+- Kendall
+- Pinecrest
+
+### Broward County
+- Fort Lauderdale
+- Pembroke Pines
+- Davie
+- Weston
+- Plantation
+- Miramar
+- Coral Springs
+- Pompano Beach
+- Deerfield Beach
+- Parkland
+- Sunrise
+
+### Palm Beach County
+- Boca Raton
+- Delray Beach
+- West Palm Beach
+
+## Problem/Cause Pages
+
+The site includes specialized pages for specific damage causes:
+
+### Water Damage Causes
+- Burst Pipe Water Damage
+- AC Leak Water Damage
+- Washing Machine Overflow
+- Slab Leak Water Damage
+- Roof Leak Water Damage
+- Toilet Overflow Cleanup
+- Hurricane Flood Damage
+
+### Mold Causes
+- Mold from Roof Leak
+- Mold from AC Condensation
+- Bathroom Mold
+- Mold After Flood
+
+### Fire Causes
+- Kitchen Fire Damage
+- Electrical Fire Cleanup
+- Smoke Odor Removal
+
+### Storm Causes
+- Hurricane Roof Damage
+- Wind Damage Restoration
+- Tree Damage Restoration
 
 ## Project Structure
 
 ```
-├── app/                      # Next.js app directory
-│   ├── blog/                # Blog pages
-│   │   ├── [slug]/         # Dynamic blog post pages
-│   │   ├── loading.tsx     # Blog loading state
-│   │   └── page.tsx        # Blog listing page
-│   ├── error.tsx           # Error boundary
-│   ├── global-error.tsx    # Global error handler
-│   ├── layout.tsx          # Root layout with SEO
-│   ├── loading.tsx         # Root loading state
-│   ├── not-found.tsx       # Custom 404 page
-│   ├── page.tsx            # Home page
-│   └── sitemap.ts          # Dynamic sitemap generator
+├── app/                           # Next.js app directory
+│   ├── [slug]/                   # Dynamic content pages
+│   ├── water-damage-restoration/ # Service route structure
+│   │   ├── page.tsx              # Core service page
+│   │   ├── residential/          
+│   │   │   ├── page.tsx          # Residential hub
+│   │   │   └── [city]/page.tsx   # City-specific pages
+│   │   └── commercial/
+│   │       ├── page.tsx          # Commercial hub
+│   │       └── [city]/page.tsx   # City-specific pages
+│   ├── fire-damage-restoration/  # Same structure as above
+│   ├── mold-remediation/         # Same structure as above
+│   ├── storm-damage-restoration/ # Same structure as above
+│   ├── emergency-restoration/    # Same structure as above
+│   ├── sewage-cleanup/           # Same structure as above
+│   ├── roof-tarping/             # Same structure as above
+│   ├── shrink-wrapping/          # Same structure as above
+│   ├── indoor-air-quality/       # Standalone service
+│   ├── leak-detection/           # Standalone service
+│   ├── problems/[cause]/[city]/  # Problem/cause pages
+│   ├── blog/                     # Blog listing and posts
+│   ├── about/                    # About page
+│   ├── contact/                  # Contact page
+│   ├── testimonials/             # Testimonials page
+│   ├── service-areas/            # Service areas overview
+│   ├── privacy-policy/           # Privacy policy
+│   ├── layout.tsx                # Root layout with SEO
+│   ├── sitemap.ts                # Dynamic sitemap generator
+│   └── not-found.tsx             # Custom 404 page
 ├── components/
-│   ├── blog/               # Blog-specific components
-│   │   └── MarkdownRenderer.tsx
-│   ├── media/              # Media components
-│   │   └── VideoPlayer.tsx
-│   ├── sections/           # Page sections
+│   ├── local-seo/                # Local SEO components
+│   │   ├── CityServicePage.tsx   # Full city page template
+│   │   ├── CausePage.tsx         # Problem/cause page template
+│   │   ├── ServiceTypeHub.tsx    # Residential/Commercial hub
+│   │   ├── ServiceProcess.tsx    # Step-by-step process
+│   │   ├── NeighborhoodList.tsx  # Neighborhoods + zip codes
+│   │   ├── LocalFAQ.tsx          # FAQ with JSON-LD schema
+│   │   ├── LocalCTA.tsx          # City-specific CTAs
+│   │   ├── RelatedLinks.tsx      # Internal linking
+│   │   ├── ResidentialBenefits.tsx
+│   │   ├── CommercialBenefits.tsx
+│   │   ├── ServiceOverview.tsx
+│   │   ├── ServiceOverviewSection.tsx
+│   │   ├── PreventionTips.tsx
+│   │   ├── CommonCausesList.tsx
+│   │   └── CommonCausesSection.tsx
+│   ├── sections/                 # Page sections
 │   │   ├── Header.tsx
 │   │   ├── Hero.tsx
 │   │   ├── Services.tsx
@@ -60,35 +158,67 @@ A modern, production-ready Next.js template for building small business websites
 │   │   ├── TrustBadges.tsx
 │   │   ├── CTABanner.tsx
 │   │   ├── Contact.tsx
+│   │   ├── GoogleMap.tsx
 │   │   └── Footer.tsx
-│   ├── ui/                 # shadcn/ui components
-│   │   ├── button.tsx
-│   │   ├── input.tsx
-│   │   ├── label.tsx
-│   │   └── loading-skeleton.tsx
-│   ├── AnimateOnScroll.tsx # Scroll animation wrapper
-│   ├── OptimizedImage.tsx  # Image optimization component
-│   └── ReviewBadge.tsx     # Review/rating component
-├── config/                 # Configuration files
-│   ├── site.json          # Site metadata & navigation
-│   ├── theme.json         # Theme customization
-│   └── content.json       # Page content
+│   ├── blog/                     # Blog components
+│   │   ├── MarkdownRenderer.tsx
+│   │   └── YouTubeHydrator.tsx
+│   ├── media/                    # Media components
+│   │   └── VideoPlayer.tsx
+│   ├── ui/                       # shadcn/ui components
+│   ├── AnimateOnScroll.tsx
+│   ├── Breadcrumbs.tsx
+│   ├── OptimizedImage.tsx
+│   ├── ReviewBadge.tsx
+│   ├── StickyCallButton.tsx
+│   └── YouTubeFacade.tsx
+├── config/
+│   ├── site.json                 # Site metadata & navigation
+│   ├── theme.json                # Theme customization
+│   ├── content.json              # Page content
+│   ├── services.json             # Service definitions & FAQs
+│   ├── cities.json               # City data (neighborhoods, zips, coordinates)
+│   ├── causes.json               # Problem/cause definitions
+│   ├── faqs.json                 # FAQ content
+│   └── local-seo.json            # Local SEO configuration
 ├── content/
-│   └── blog/              # Markdown blog posts
+│   ├── blog/                     # 117+ Markdown blog posts
+│   └── pages/                    # Static page content
 ├── lib/
-│   ├── blog/              # Blog utilities
-│   │   └── posts.ts
-│   └── utils.ts           # Helper functions
+│   ├── local-seo/                # Local SEO utilities
+│   │   ├── data.ts               # Data access functions
+│   │   ├── templates.ts          # Content templates
+│   │   ├── schema.ts             # Structured data generators
+│   │   ├── links.ts              # Internal linking system
+│   │   └── index.ts              # Exports
+│   ├── blog/posts.ts             # Blog utilities
+│   ├── pages/pages.ts            # Page utilities
+│   ├── markdown.ts               # Markdown processing
+│   ├── structured-data.tsx       # Schema.org generators
+│   └── utils.ts                  # Utility functions
+├── hooks/
+│   └── useIntersectionObserver.ts
 ├── public/
-│   ├── images/            # Image assets
-│   │   └── */nextImageExportOptimizer/ # Optimized WebP images
-│   └── robots.txt         # Search engine directives
-├── scripts/
-│   ├── clean-images.js    # Image cleanup utility
-│   └── optimize-css.js    # CSS optimization script
-├── loader.js              # Custom Next.js image loader
-├── next.config.js         # Next.js configuration
-└── .env                   # Environment variables (Supabase)
+│   ├── _redirects                # Netlify 301 redirects
+│   ├── _headers                  # Custom headers
+│   ├── images/                   # Optimized images
+│   ├── robots.txt                # Search engine directives
+│   └── llms.txt                  # LLM context file
+└── next.config.js                # Next.js configuration
+```
+
+## URL Structure
+
+```
+/water-damage-restoration/                     # Core service page
+/water-damage-restoration/residential/         # Residential hub
+/water-damage-restoration/residential/miami/   # City page
+/water-damage-restoration/commercial/          # Commercial hub
+/water-damage-restoration/commercial/miami/    # City page
+/problems/burst-pipe-water-damage/miami/       # Cause/problem page
+/blog/water-damage-tips-miami/                 # Blog post
+/indoor-air-quality/                           # Standalone service
+/leak-detection/                               # Standalone service
 ```
 
 ## Configuration
@@ -96,153 +226,60 @@ A modern, production-ready Next.js template for building small business websites
 ### Site Configuration (`config/site.json`)
 
 Contains site-wide settings:
-- Business name and contact info
+- Business name and contact info (phone: 786-610-6317)
 - Navigation menu
-- Social media links (Facebook, Twitter/X, Instagram, YouTube, LinkedIn, TikTok)
+- Social media links
 - SEO metadata
+- Business hours (24/7 Emergency Service)
+- Review platform ratings
 
-**Social Links:** Add any combination of social platforms. The footer automatically displays only the platforms you configure. Supported platforms: `facebook`, `twitter`, `instagram`, `youtube`, `linkedin`, `tiktok`.
+### Services Configuration (`config/services.json`)
+
+Comprehensive service definitions:
+- Service metadata and templates
+- Step-by-step restoration processes
+- Residential and commercial content
+- General FAQs for each service
+- Related causes and keywords
+- Image references
+
+### Cities Configuration (`config/cities.json`)
+
+City-specific data for 20 locations:
+- Neighborhoods and zip codes
+- GPS coordinates
+- Response times
+- Local risk factors
+- Residential and commercial focus points
+- Extended content for key markets
+
+### Causes Configuration (`config/causes.json`)
+
+Problem/cause page definitions:
+- Detailed overview content
+- Common causes and prevention tips
+- Warning signals
+- Step-by-step restoration process
+- FAQs specific to each cause
 
 ### Theme Configuration (`config/theme.json`)
 
-Customize the visual appearance:
+Visual appearance:
 - Color palette (HSL format for Tailwind)
 - Typography
-- Spacing
-- Border radius
+- Spacing and border radius
 
 ### Content Configuration (`config/content.json`)
 
-All page content:
+Page content for:
 - Hero section
-- Services
+- Services listing
 - About section with stats
 - Gallery (before/after showcase)
 - Testimonials
 - Trust badges
-- CTA banner
+- CTA banners
 - Contact form
-
-### Database Configuration (`.env`)
-
-Supabase connection settings:
-```env
-NEXT_PUBLIC_SUPABASE_URL=your-project-url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
-```
-
-The template includes Supabase client integration for data persistence. You can use it for:
-- Contact form submissions
-- User authentication
-- Dynamic content management
-- Blog comments
-- Any custom database needs
-
-### Image Optimization Configuration
-
-Image optimization is configured in `next.config.js`:
-- **Quality**: 75% (configurable via `nextImageExportOptimizer_quality`)
-- **Format**: WebP conversion enabled
-- **Blur Placeholders**: Automatically generated
-- **Responsive Sizes**: 16px to 3840px for all devices
-- **Cache**: Optimized images are cached and only regenerated when source changes
-
-## Customization
-
-### Changing Colors
-
-Edit `config/theme.json` and update the CSS variables in `app/globals.css`:
-
-```json
-{
-  "colors": {
-    "primary": "217.2 91.2% 59.8%",
-    "accent": "37.7 92.1% 50.2%"
-  }
-}
-```
-
-### Adding Content
-
-1. **Update site info**: Edit `config/site.json`
-2. **Modify sections**: Edit `config/content.json`
-3. **Add blog posts**: Create `.md` files in `content/blog/`
-
-### Blog Post Format
-
-```markdown
----
-title: "Post Title"
-date: "2025-10-15"
-excerpt: "Brief description"
-author: "Author Name"
-category: "Category"
-image: "/images/blog/image.jpg"
----
-
-# Your content here
-```
-
-## Component Features
-
-### OptimizedImage
-
-Automatically optimizes images with WebP conversion and blur placeholders:
-```tsx
-<OptimizedImage
-  src="/images/hero/hero-background.jpeg"
-  alt="Hero background"
-  width={1920}
-  height={1080}
-  priority={true}
-/>
-```
-
-Images are automatically:
-- Converted to WebP format
-- Generated at multiple responsive sizes
-- Given blur placeholders for smooth loading
-- Cached for faster subsequent builds
-
-### VideoPlayer
-
-Custom video player with controls:
-```tsx
-<VideoPlayer
-  src="/path/to/video.mp4"
-  poster="/poster.jpg"
-  autoPlay={true}
-  loop={true}
-  muted={true}
-/>
-```
-
-### AnimateOnScroll
-
-Wrapper component for scroll-based animations:
-```tsx
-<AnimateOnScroll animation="fade-up" delay={0.2}>
-  {/* Your content */}
-</AnimateOnScroll>
-```
-
-### Form Components
-
-Built with React Hook Form and Zod validation:
-```tsx
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
-import * as z from 'zod';
-
-const schema = z.object({
-  email: z.string().email(),
-  message: z.string().min(10),
-});
-
-const form = useForm({
-  resolver: zodResolver(schema),
-});
-```
 
 ## Development
 
@@ -253,7 +290,7 @@ npm install
 # Run development server
 npm run dev
 
-# Build for production (standard)
+# Build for production
 npm run build
 
 # Build with image optimization
@@ -262,46 +299,58 @@ npm run build:optimized
 # Optimize images only
 npm run export-images
 
-# Start production server
-npm start
-
 # Type check
 npm run typecheck
+
+# Lint
+npm run lint
 ```
 
-### Build Commands Explained
+### Build Commands
 
-- **`npm run build`**: Standard build with CSS optimization (no image processing)
-- **`npm run build:optimized`**: Full build including image optimization and WebP conversion
-- **`npm run export-images`**: Run image optimization separately without building
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Standard build with static export |
+| `npm run build:optimized` | Full build with image optimization |
+| `npm run export-images` | Run image optimization separately |
+| `npm run typecheck` | TypeScript type checking |
+| `npm run lint` | ESLint checking |
 
-**Note**: If images are already optimized (exist in `nextImageExportOptimizer` folders), they will be skipped unless the source image has changed. This makes subsequent builds much faster.
+**Note**: Optimized images are cached and skipped if unchanged, making subsequent builds faster.
 
 ## Deployment
 
-This template is optimized for static deployment:
+This site is optimized for static hosting:
 
-1. **Vercel** (recommended):
-   - Push to GitHub and connect to Vercel
-   - Use build command: `npm run build` (images already optimized)
-   - Output directory: `out`
+### Netlify (Primary)
+- Build command: `npm run build`
+- Publish directory: `out`
+- `netlify.toml` included for configuration
+- `public/_redirects` for 301 redirects
+- `public/_headers` for custom headers
 
-2. **Netlify**:
-   - Use build command: `npm run build`
-   - Publish directory: `out`
+### Vercel
+- Push to GitHub and connect to Vercel
+- Build command: `npm run build`
+- Output directory: `out`
+- `vercel.json` included for configuration
 
-3. **Static hosting** (S3, GitHub Pages, etc.):
-   - Run `npm run build` locally
-   - Upload the `out` directory
-
-**Deployment Tips**:
-- Pre-optimize images before deploying to reduce build times
-- The `out` directory contains the complete static site
-- All optimized images are included in the build
-- No server runtime required
+### Static Hosting (S3, GitHub Pages)
+- Run `npm run build` locally
+- Upload the `out` directory
 
 ## SEO Features
 
+### Structured Data (JSON-LD)
+- **LocalBusiness**: Company info with coordinates
+- **Service**: Individual service descriptions
+- **FAQPage**: Dynamic FAQs with city-specific content
+- **BreadcrumbList**: Navigation hierarchy
+- **HowTo**: Step-by-step restoration processes
+- **WebPage**: Page metadata
+
+### On-Page SEO
 - Dynamic meta tags from config
 - Open Graph support
 - Twitter Cards
@@ -309,79 +358,44 @@ This template is optimized for static deployment:
 - robots.txt for crawler control
 - Semantic HTML structure
 - Image alt tags
-- Structured data ready (add Schema.org markup)
+- Internal linking strategy
 
-## Performance
+### Local SEO
+- City-specific landing pages for 20 locations
+- Neighborhood and zip code targeting
+- Response time by location
+- Local risk factors and climate considerations
+- City-specific FAQs
+- Problem/cause pages by location
 
-- Static generation for all pages (output: 'export')
-- Advanced image optimization with WebP conversion and blur placeholders
-- Lazy-loaded images and videos with loading skeletons
-- Automatic CSS optimization and minification
-- Code splitting and tree shaking
-- Optimized fonts with preloading
-- Minimal JavaScript footprint
-- Fast Time to Interactive (TTI)
-- Error boundaries for graceful degradation
-- Console.log removal in production builds
-- Compression enabled
-- SWC minification for faster builds
+## 301 Redirects
+
+Comprehensive redirect rules in `public/_redirects`:
+- Legacy service URLs → New structure
+- Old city pages → New residential pages
+- Generic search terms → Appropriate pages
+- Trailing slash handling
+
+## Page Count Summary
+
+| Page Type | Count |
+|-----------|-------|
+| Core Service Pages | 10 |
+| Type Hub Pages (Residential/Commercial) | 16 |
+| City Service Pages | 320 |
+| Cause/Problem Pages | ~280 |
+| Blog Posts | 117 |
+| Static Pages | 12 |
+| **Total** | **~750+ pages** |
 
 ## Contact Form Integration
 
-The contact form is now integrated with **n8n webhooks** for serverless form submissions. The form sends data to your n8n workflow, which can then:
-- Send email notifications
-- Store submissions in a database
-- Trigger other automations
-- Integrate with CRM systems
+The contact form is integrated with **n8n webhooks** for serverless form submissions:
 
-### Setting Up n8n Webhook
+1. Create an n8n webhook workflow
+2. Set `NEXT_PUBLIC_N8N_WEBHOOK_URL` environment variable
+3. Form data is sent as JSON:
 
-1. **Create an n8n Webhook Workflow:**
-   - In your n8n instance, create a new workflow
-   - Add a "Webhook" node and configure it to accept POST requests
-   - Copy the webhook URL (e.g., `https://your-n8n-instance.com/webhook/abc123`)
-
-2. **Configure the Environment Variable:**
-   - Create a `.env.local` file in the project root
-   - Add your webhook URL:
-     ```
-     NEXT_PUBLIC_N8N_WEBHOOK_URL=https://your-n8n-instance.com/webhook/abc123
-     ```
-   - For static exports, you'll need to set this during build time or use a config file
-
-3. **Activate Your Workflow:**
-   - Make sure your n8n workflow is **active** (not just saved)
-   - The workflow must be running for the webhook to accept requests
-
-4. **Configure CORS (Important for Local Development):**
-   - In your n8n webhook node settings, you may need to configure CORS
-   - For n8n.cloud, CORS is usually handled automatically for production domains
-   - For local development (localhost:3000), you have two options:
-     - **Option A**: Add a "Respond to Webhook" node after your webhook with these headers:
-       ```
-       Access-Control-Allow-Origin: *
-       Access-Control-Allow-Methods: POST, OPTIONS
-       Access-Control-Allow-Headers: Content-Type
-       ```
-     - **Option B**: Use n8n's production URL (not localhost) for testing
-   - **Note**: The 404 error suggests your workflow might not be active - make sure to activate it!
-
-5. **Build and Deploy:**
-   - The form will automatically use the webhook URL from the environment variable
-   - For static sites, make sure to set the environment variable during your build process
-
-### Troubleshooting CORS Errors
-
-If you see a CORS error when submitting the form:
-
-1. **Check if workflow is active**: The workflow must be active (not just saved) in n8n
-2. **Add CORS headers in n8n**: Add a "Respond to Webhook" node with CORS headers (see step 4 above)
-3. **Verify webhook URL**: Make sure the webhook URL is correct and the workflow is active
-4. **Test the webhook directly**: Use a tool like Postman or curl to test if the webhook accepts requests
-
-### Form Data Structure
-
-The form sends the following JSON payload to your n8n webhook:
 ```json
 {
   "name": "John Doe",
@@ -393,25 +407,36 @@ The form sends the following JSON payload to your n8n webhook:
 }
 ```
 
-### Alternative Integration Options
+## Performance
 
-If you prefer other solutions:
-1. **Formspree** (easiest): No backend required
-2. **Netlify Forms**: Simple attribute addition
-3. **Custom API Route**: Full control with email service
-4. **Email Link**: Simplest fallback option
+- Static generation for all pages (`output: 'export'`)
+- WebP image conversion with blur placeholders
+- Lazy-loaded images and videos
+- CSS optimization and minification
+- Code splitting and tree shaking
+- SWC minification for faster builds
+- Console.log removal in production
 
 ## Browser Support
 
 - Chrome (last 2 versions)
 - Firefox (last 2 versions)
-- Safari (last 2 versions)
+- Safari >= 15.4
 - Edge (last 2 versions)
+
+## Business Information
+
+- **Company**: Total Care Restoration
+- **Phone**: (786) 610-6317
+- **Email**: clientcare@totalcarerestoration.com
+- **Address**: 7790 NW 55th St., Doral, FL 33166
+- **Hours**: 24/7 Emergency Service
+- **Service Area**: Miami-Dade, Broward, and Palm Beach Counties
 
 ## License
 
-MIT
+Proprietary - Total Care Restoration
 
 ## Support
 
-For issues or questions, please open a GitHub issue.
+For technical issues, contact the development team.

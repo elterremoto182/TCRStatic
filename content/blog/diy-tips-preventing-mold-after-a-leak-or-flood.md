@@ -24,7 +24,7 @@ Mold can start growing within 24 to 48 hours after a leak or flood, making it cr
   
 1\. Stop the Water Source: The first step in preventing mold growth is to stop the water flow. If the leak or flood is caused by a burst pipe or faulty plumbing, shut off the main water supply to your home. This will prevent further damage and help control the moisture levels.
 
-2\. Remove Standing Water: If there is standing water in your home, it’s important to remove it as soon as possible. Use a wet/dry vacuum or a pump to extract the water. If the amount of water is extensive, consider contacting a professional [Water Restoration](/services/water-restoration/) like Total Care Restoration. They are equipped with the right tools and expertise to extract water effectively.
+2\. Remove Standing Water: If there is standing water in your home, it’s important to remove it as soon as possible. Use a wet/dry vacuum or a pump to extract the water. If the amount of water is extensive, consider contacting a professional [Water Damage Restoration](/water-damage-restoration/) like Total Care Restoration. They are equipped with the right tools and expertise to extract water effectively.
 
 ## Drying Out Your Home
 
@@ -59,6 +59,6 @@ They will assess the extent of the mold damage and provide expert advice and ass
 
 Preventing mold growth after a leak or flood is essential to protect your home, health, and loved ones. By following these DIY tips, you can minimize the risk of mold infestation and avoid costly remediation processes.
 
-However, if you encounter extensive mold growth or feel overwhelmed, it’s always best to reach out to a professional [Mold Remediation](/services/mold-remediation/) like Total Care Restoration. They have the expertise, resources, and experience to handle water, fire, and mold restoration effectively, ensuring a safe and healthy living environment for you and your family.
+However, if you encounter extensive mold growth or feel overwhelmed, it’s always best to reach out to a professional [Mold Remediation](/mold-remediation/) like Total Care Restoration. They have the expertise, resources, and experience to handle water, fire, and mold restoration effectively, ensuring a safe and healthy living environment for you and your family.
 
-Remember, acting promptly and taking preventive measures are the keys to [Mold Remediation](/services/mold-remediation/) and maintaining a mold-free home.
+Remember, acting promptly and taking preventive measures are the keys to [Mold Remediation](/mold-remediation/) and maintaining a mold-free home.

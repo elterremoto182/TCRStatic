@@ -54,9 +54,9 @@ There’s also the risk of electrical hazards. Water intrusion into electrical w
 
 Insurance policies often require homeowners to act quickly to prevent further damage. Failing to meet claim deadlines or neglecting immediate repairs can complicate your claim or even result in denied coverage for damage caused by neglect.
 
-Taking immediate steps, such as [Roof Tarping](/services/roof-tarping/), can significantly reduce these risks. Temporary leak repairs typically cost between **$300 and $1,200**, while ignoring the issue could lead to water damage and [Mold Remediation](/services/mold-remediation/) costs exceeding **$10,000**. Similarly, replacing a few shingles may cost **$500 to $1,500**, but waiting until structural damage occurs could push the expense above **$15,000**.
+Taking immediate steps, such as [Roof Tarping](/roof-tarping/), can significantly reduce these risks. Temporary leak repairs typically cost between **$300 and $1,200**, while ignoring the issue could lead to water damage and [Mold Remediation](/mold-remediation/) costs exceeding **$10,000**. Similarly, replacing a few shingles may cost **$500 to $1,500**, but waiting until structural damage occurs could push the expense above **$15,000**.
 
-[Video Inspection](/services/video-inspection/) after a storm are essential to uncover hidden damage. Often, issues that aren’t immediately visible can worsen over time, so early detection is key to preventing minor problems from becoming major repairs.
+video inspection after a storm are essential to uncover hidden damage. Often, issues that aren’t immediately visible can worsen over time, so early detection is key to preventing minor problems from becoming major repairs.
 
 Taking prompt action, such as tarping and inspections, can save you from costly repairs and protect your home from further harm.
 
@@ -225,7 +225,7 @@ But this temporary fix only works if it’s installed and maintained correctly.
 
 Once your roof is tarped, check it weekly from the ground. Look for sagging areas, water stains, loose or flapping edges during strong winds, or any tears. Take photos to document any changes or damage. Avoid common mistakes like using thin materials, nailing the tarp directly to the roof, or only covering the visible leak.
 
-Plan for permanent repairs as soon as possible to avoid bigger problems like structural damage, mold growth, or worsening [Indoor Air Quality](/services/indoor-air-quality/). When you’re ready to move from temporary fixes to lasting solutions, professional help is available.
+Plan for permanent repairs as soon as possible to avoid bigger problems like structural damage, mold growth, or worsening indoor air quality. When you’re ready to move from temporary fixes to lasting solutions, professional help is available.
 
 ### How (/) Can Help
 

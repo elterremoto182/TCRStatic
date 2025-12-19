@@ -12,16 +12,16 @@ keywords: ["fire damage inspection standards", "fire damage assessment"]
 
 Fire damage inspection standards keep people safe. They ensure your property meets regulations and gets restored properly.
 
-These guidelines help experts check structural damage, fire residue, and critical systems. Whether you need a [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) or [Commercial](/services/commercial/) help, understanding these standards matters.
+These guidelines help experts check structural damage, fire residue, and critical systems. Whether you need a [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) or [Commercial](/water-damage-restoration/commercial/) help, understanding these standards matters.
 
 **Here's what you need to know:**
 
 - **Why They Matter**: Proper inspections save lives and reduce property damage. They also make insurance claims easier. Skipping standards creates safety risks, legal problems, and money losses.
-- **Key Standards**: The **[IICRC](https://iicrc.org/) S700** focuses on fire damage assessment. The **IICRC S760** addresses [Fire Restoration](/services/fire-restoration/). The **[NFPA](https://www.nfpa.org/en) 25** standard ensures fire protection systems are inspected and maintained.
+- **Key Standards**: The **[IICRC](https://iicrc.org/) S700** focuses on fire damage assessment. The **IICRC S760** addresses [Fire Damage Restoration](/fire-damage-restoration/). The **[NFPA](https://www.nfpa.org/en) 25** standard ensures fire protection systems are inspected and maintained.
 - **Inspection Process**: Inspections include safety checks, structural evaluations, and system assessments. Proper documentation with photos and reports is critical for insurance claims.
 - **Key Organizations**: The **NFPA** and **IICRC** set the protocols that experts follow.
 
-**Takeaway**: Following [Video Inspection](/services/video-inspection/) standards protects lives, ensures compliance, and helps with restoration and insurance. Always hire certified experts for accurate assessments.
+**Takeaway**: Following video inspection standards protects lives, ensures compliance, and helps with restoration and insurance. Always hire certified experts for accurate assessments.
 
 ## Fire and Smoke Damage Continued Education Course
 
@@ -29,7 +29,7 @@ These guidelines help experts check structural damage, fire residue, and critica
 
 ## Main Steps in Fire Damage Inspections
 
-[Air Quality Inspections](/services/air-quality-inspections/) involve a careful process. The goal is to assess building safety and outline repairs. Following a structured approach ensures inspections meet safety standards.
+air quality issues involve a careful process. The goal is to assess building safety and outline repairs. Following a structured approach ensures inspections meet safety standards.
 
 ### Safety Checks Before Starting
 
@@ -141,7 +141,7 @@ The S700 standard covers:
 - Equipment use
 - Mitigation strategies
 - Odor management
-- [Indoor Air Quality](/services/indoor-air-quality)
+- indoor air quality
 - Post-restoration evaluations
 
 Over 60,000 certified technicians and 6,000 Certified Firms across 22 countries follow IICRC standards.
@@ -247,7 +247,7 @@ Fire damage can lead to significant expenses. Standards help:
 - Ensure all systems are assessed
 - Provide documentation for insurance claims
 
-Following these standards sets the stage for hiring [Miami restoration services](/miami-restoration-services/).
+Following these standards sets the stage for hiring [Miami water damage restoration](/water-damage-restoration/residential/miami/).
 
 ### When to Hire a Professional
 

@@ -1,15 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/services/leak-detection-services/",
-      "destination": "/services/leak-detection/",
-      "permanent": true
-    },
-    {
-      "source": "/services/mold-detectionl-and-remediation/",
-      "destination": "/services/mold-testing/",
-      "permanent": true
-    }
-  ]
+  "redirects": []
 }
 

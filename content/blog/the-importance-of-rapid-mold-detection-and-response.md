@@ -53,7 +53,7 @@ Being proactive about mold can make all the difference. Here are some steps you 
 
 When mold is detected, professional remediation is often the safest and most effective response. Professionals have the tools, knowledge, and experience to remove mold safely and prevent its return.
 
-Total Care Restoration specializes in [Mold Remediation](/services/mold-remediation/) tailored to the unique needs of Miami homeowners. Our team is dedicated to providing rapid, effective, and compassionate service to restore the health and safety of your home.
+Total Care Restoration specializes in [Mold Remediation](/mold-remediation/) tailored to the unique needs of Miami homeowners. Our team is dedicated to providing rapid, effective, and compassionate service to restore the health and safety of your home.
 
 ## Conclusion
 

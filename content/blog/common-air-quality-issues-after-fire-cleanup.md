@@ -31,7 +31,7 @@ After a fire, the visible damage may be cleaned up, but the air in your home can
 -   Control moisture with **dehumidifiers** to stop mold growth.
 -   Hire professionals for **deep cleaning** and odor removal techniques like thermal fogging or HVAC cleaning.
 
-**Pro Tip**: [Fire Restoration](/services/fire-restoration/) are often necessary to fully eliminate hidden dangers and restore safe [Indoor Air Quality](/services/indoor-air-quality/).
+**Pro Tip**: [Fire Damage Restoration](/fire-damage-restoration/) are often necessary to fully eliminate hidden dangers and restore safe indoor air quality.
 
 ## Is LA’s Air Safe? Harvard Experts Weigh In on Wildfire Smoke & Health
 
@@ -39,7 +39,7 @@ After a fire, the visible damage may be cleaned up, but the air in your home can
 
 ## Common Air Quality Problems After Fire Cleanup
 
-Even after the visible mess of a fire is cleaned up, the air in your home or business can remain a hidden danger. Lingering contaminants often go unnoticed but can pose serious health risks if not addressed. Below, we’ll break down the most common [Air Quality Inspections](/services/air-quality-inspections/) and how they can be tackled.
+Even after the visible mess of a fire is cleaned up, the air in your home or business can remain a hidden danger. Lingering contaminants often go unnoticed but can pose serious health risks if not addressed. Below, we’ll break down the most common air quality issues and how they can be tackled.
 
 ### 1\. Smoke Particles and Soot in the Air
 
@@ -134,7 +134,7 @@ They also use hydroxyl generators, which neutralize odors with safer chemistry t
 
 Navigating insurance claims after a fire can be overwhelming, especially when air quality and safety come into play. Professional restoration companies, like (/), simplify the process by offering direct insurance billing. They handle all communication with providers and submit detailed assessments, including moisture readings and thermal images, to expedite claims.
 
-Accurate documentation is critical. In one case, a comprehensive report with thermal images and a floor plan helped secure proper insurance coverage. Professionals can also assist with supplemental claims if additional damage is discovered during restoration, ensuring no issues are left unresolved due to financial limitations. This expertise not only streamlines the claims process but also guarantees that [Indoor Air Quality](/services/indoor-air-quality) is restored to safe levels.
+Accurate documentation is critical. In one case, a comprehensive report with thermal images and a floor plan helped secure proper insurance coverage. Professionals can also assist with supplemental claims if additional damage is discovered during restoration, ensuring no issues are left unresolved due to financial limitations. This expertise not only streamlines the claims process but also guarantees that indoor air quality is restored to safe levels.
 
 ## Conclusion: Getting Clean and Safe Indoor Air Quality Back
 
@@ -154,7 +154,7 @@ Delaying action only allows contaminants to settle deeper, making remediation mo
 
 Lingering smoke particles and toxic vapors after a fire can pose serious health risks that extend well beyond the initial event. Tiny particles, like fine particulate matter (PM2.5), can irritate your respiratory system, heighten the chances of heart disease, and, with extended exposure, even contribute to premature death. On top of that, **volatile organic compounds (VOCs)** released during a fire can cause ongoing respiratory problems and other health issues, as these harmful chemicals can linger in the air and on surfaces for weeks – or even months.
 
-Taking swift action is key to minimizing these risks. Professional [Commercial](/services/commercial/) are equipped to eliminate dangerous particles, neutralize lingering toxins, and improve air quality, making your home safe to live in once more.
+Taking swift action is key to minimizing these risks. Professional [Commercial](/water-damage-restoration/commercial/) are equipped to eliminate dangerous particles, neutralize lingering toxins, and improve air quality, making your home safe to live in once more.
 
 ### What’s the best way to get rid of smoke odors after a fire, and should I hire professionals for help?
 

@@ -54,4 +54,4 @@ A restoration dehumidifier is a critical tool for water damage restoration. It c
 
 With the right dehumidifier and proper use, you can help protect your home from further damage and ensure that it is safe and secure.
 
-At Total Care Restoration, we understand the importance of using the best equipment. Our team of experienced professionals can help you quickly and effectively address your [Water Restoration](/services/water-restoration/).
+At Total Care Restoration, we understand the importance of using the best equipment. Our team of experienced professionals can help you quickly and effectively address your [Water Damage Restoration](/water-damage-restoration/).

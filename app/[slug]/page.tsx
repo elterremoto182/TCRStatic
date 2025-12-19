@@ -17,25 +17,20 @@ const reservedRoutes = [
   'about',
   'contact',
   'privacy-policy',
-  'services',
   'blog',
+  'problems',
 ];
 
 export async function generateStaticParams() {
   const pages = getAllPages();
   const posts = getAllPosts();
   
-  // Filter out pages that have specific route handlers or are service pages
+  // Filter out pages that have specific route handlers
   const catchAllPages = pages.filter((page) => {
     const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
     
     // Exclude reserved routes
     if (reservedRoutes.includes(normalizedSlug)) {
-      return false;
-    }
-    
-    // Exclude service pages (handled by app/services/[slug]/page.tsx)
-    if (normalizedSlug.startsWith('services/')) {
       return false;
     }
     
@@ -135,11 +130,6 @@ export default async function DynamicPage({
   
   // Check if this is a reserved route
   if (reservedRoutes.includes(slug)) {
-    notFound();
-  }
-  
-  // Check if this is a service page
-  if (slug.startsWith('services/')) {
     notFound();
   }
   

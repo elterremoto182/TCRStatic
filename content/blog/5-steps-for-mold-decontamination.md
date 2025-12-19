@@ -45,7 +45,7 @@ These steps ensure a safe, mold-free home while protecting your health.
 
 ## Step 1: Prepare and Set Up Safety Measures
 
-Preparation is everything when tackling [Mold Remediation](/services/mold-remediation/). Once you disturb a mold-infested surface, spores can quickly become airborne, posing health risks if proper safety measures aren’t in place.
+Preparation is everything when tackling [Mold Remediation](/mold-remediation/). Once you disturb a mold-infested surface, spores can quickly become airborne, posing health risks if proper safety measures aren’t in place.
 
 ### Inspect the Affected Area
 
@@ -165,7 +165,7 @@ Dehumidifiers and air movers are a powerful combo when it comes to drying out sp
 
 For the best results, pair each dehumidifier with three to four air movers. Place the dehumidifier in a central spot to maximize airflow, and arrange the air movers in a circular pattern to remove stagnant air pockets. In larger spaces, use a crisscross setup to improve air circulation and reduce drying times.
 
-Make sure the air movers are aimed at wet surfaces, not at each other. This ensures they push moisture out of materials effectively, while the dehumidifier takes care of the moisture in the air. Once the area is dry, it’s time to focus on improving [Air Quality Inspections](/services/air-quality-inspections/).
+Make sure the air movers are aimed at wet surfaces, not at each other. This ensures they push moisture out of materials effectively, while the dehumidifier takes care of the moisture in the air. Once the area is dry, it’s time to focus on improving air quality issues.
 
 ### Install HEPA Air Filtration
 

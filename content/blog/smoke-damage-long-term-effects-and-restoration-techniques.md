@@ -34,7 +34,7 @@ When it comes to restoring your home after smoke damage, it’s crucial to act s
 
 At Total Care Restoration, we understand the importance of a quick response when dealing with smoke damage. Our experienced technicians are available 24/7 to provide emergency restoration services. With our expertise and commitment to customer satisfaction, you can trust us to restore your home with the utmost care.
 
-If you have experienced smoke damage in your Miami home, don’t hesitate to contact Total Care Restoration today. We provide comprehensive fire restoration services, ensuring that your home is restored to its pre-fire condition. Visit our [Fire Restoration](/services/fire-restoration/) to learn more about how we can help.
+If you have experienced smoke damage in your Miami home, don’t hesitate to contact Total Care Restoration today. We provide comprehensive fire restoration services, ensuring that your home is restored to its pre-fire condition. Visit our [Fire Damage Restoration](/fire-damage-restoration/) to learn more about how we can help.
 
 For all your water, fire, and mold restoration needs, Total Care Restoration is the company you can rely on. Visit our (/) to explore our range of services and to learn more about our commitment to restoring your home.
 

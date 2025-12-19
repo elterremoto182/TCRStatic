@@ -18,7 +18,7 @@ As a homeowner, it’s important to understand the evolving technologies and tec
 
 Water damage can occur due to various reasons, such as burst pipes, plumbing leaks, or natural disasters like hurricanes. At Total Care Restoration, we employ state-of-the-art equipment and advanced techniques to mitigate water damage effectively.
 
-Our water restoration services cover a wide range of issues, including extraction, drying, dehumidification, and structural repairs. Our team of experts is trained to handle any water damage scenario, ensuring a thorough restoration process from start to finish. To learn more about our water restoration services, please visit our [Water Restoration](/services/water-restoration/) page.
+Our water restoration services cover a wide range of issues, including extraction, drying, dehumidification, and structural repairs. Our team of experts is trained to handle any water damage scenario, ensuring a thorough restoration process from start to finish. To learn more about our water restoration services, please visit our [Water Damage Restoration](/water-damage-restoration/) page.
 
 ## Moisture Meter: The Best Measurement for Effective Restoration
 

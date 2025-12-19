@@ -1,14 +1,27 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/blog/posts';
 import { getAllPages } from '@/lib/pages/pages';
+import { 
+  getPhase1Services,
+  getPhase2Services, 
+  getAllCities, 
+  getAllCauses 
+} from '@/lib/local-seo/data';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
   const posts = getAllPosts();
   const pages = getAllPages();
+  
+  // Get local SEO data
+  const phase1Services = getPhase1Services();
+  const phase2Services = getPhase2Services();
+  const allServices = { ...phase1Services, ...phase2Services };
+  const cities = getAllCities();
+  const allCauses = getAllCauses();
 
-  // Blog routes - add trailing slash to match Next.js trailingSlash: true config
+  // Blog routes
   const blogRoutes = posts.map((post) => ({
     url: `${baseUrl}/${post.slug}/`,
     lastModified: new Date(post.date),
@@ -16,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  // Static main routes - add trailing slash except for base URL
+  // Static main routes
   const staticRoutes = [
     {
       url: baseUrl,
@@ -29,12 +42,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/services/`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.9,
     },
     {
       url: `${baseUrl}/about/`,
@@ -54,31 +61,91 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly' as const,
       priority: 0.3,
     },
+    // Secondary service pages (no residential/commercial sub-routes)
+    {
+      url: `${baseUrl}/indoor-air-quality/`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/leak-detection/`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    },
   ];
 
-  // Service pages - add trailing slash
-  const servicePages = pages
-    .filter((page) => {
-      const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
-      return normalizedSlug.startsWith('services/');
-    })
-    .map((page) => {
-      const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
-      return {
-        url: `${baseUrl}/${normalizedSlug}/`,
+  // =============================================================================
+  // NEW LOCAL SEO PAGES
+  // =============================================================================
+
+  // Core service pages (highest priority for services)
+  const coreServiceRoutes = Object.keys(allServices).map((serviceSlug) => ({
+    url: `${baseUrl}/${serviceSlug}/`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.95,
+  }));
+
+  // Type hub pages (residential/commercial)
+  const typeHubRoutes = Object.keys(allServices).flatMap((serviceSlug) => [
+    {
+      url: `${baseUrl}/${serviceSlug}/residential/`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/${serviceSlug}/commercial/`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+  ]);
+
+  // Service × Type × City pages (money pages - high priority)
+  const serviceCityRoutes = Object.keys(allServices).flatMap((serviceSlug) =>
+    Object.keys(cities).flatMap((citySlug) => [
+      {
+        url: `${baseUrl}/${serviceSlug}/residential/${citySlug}/`,
         lastModified: new Date(),
         changeFrequency: 'monthly' as const,
-        priority: 0.8,
-      };
-    });
+        priority: 0.85,
+      },
+      {
+        url: `${baseUrl}/${serviceSlug}/commercial/${citySlug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.85,
+      },
+    ])
+  );
 
-  // Location pages and other static pages (excluding services which are handled above)
-  // Add trailing slash to match Next.js config
+  // Cause/Problem pages (under /problems/ prefix)
+  const causeRoutes: MetadataRoute.Sitemap = [];
+  for (const category of Object.values(allCauses)) {
+    for (const cause of category) {
+      for (const citySlug of Object.keys(cities)) {
+        causeRoutes.push({
+          url: `${baseUrl}/problems/${cause.slug}/${citySlug}/`,
+          lastModified: new Date(),
+          changeFrequency: 'monthly' as const,
+          priority: 0.75,
+        });
+      }
+    }
+  }
+
+  // =============================================================================
+  // OTHER MARKDOWN PAGES
+  // =============================================================================
+
+  // Other pages from markdown (excluding those handled by specific routes)
   const otherPages = pages
     .filter((page) => {
       const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
       return (
-        !normalizedSlug.startsWith('services/') &&
         normalizedSlug !== 'home' &&
         normalizedSlug !== 'about' &&
         normalizedSlug !== 'contact' &&
@@ -88,26 +155,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
     .map((page) => {
       const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
-      // Determine priority based on page type
-      let priority = 0.7;
-      let changeFrequency: 'weekly' | 'monthly' | 'yearly' = 'monthly';
-      
-      // Location pages get higher priority
-      if (
-        normalizedSlug.includes('leak-detection') ||
-        normalizedSlug.includes('mold-testing')
-      ) {
-        priority = 0.8;
-        changeFrequency = 'monthly';
-      }
-
       return {
         url: `${baseUrl}/${normalizedSlug}/`,
         lastModified: new Date(),
-        changeFrequency,
-        priority,
+        changeFrequency: 'monthly' as const,
+        priority: 0.6,
       };
     });
 
-  return [...staticRoutes, ...servicePages, ...otherPages, ...blogRoutes];
+  return [
+    ...staticRoutes,
+    ...coreServiceRoutes,
+    ...typeHubRoutes,
+    ...serviceCityRoutes,
+    ...causeRoutes,
+    ...otherPages,
+    ...blogRoutes,
+  ];
 }

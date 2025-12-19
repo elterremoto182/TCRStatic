@@ -46,11 +46,11 @@ When renovating or building, consider using mold-resistant products like moistur
 
 ## Professional Mold Remediation
 
-Despite your best efforts, there might be times when professional help is needed. This is where the experienced team at Total Care Restoration can step in and help. Specializing in [Mold Remediation](/services/mold-remediation/), they have the skills and tools to assess and tackle any mold problem that arises.
+Despite your best efforts, there might be times when professional help is needed. This is where the experienced team at Total Care Restoration can step in and help. Specializing in [Mold Remediation](/mold-remediation/), they have the skills and tools to assess and tackle any mold problem that arises.
 
 ### Seeking Help After Water Damage
 
-Encountering water damage following a hurricane or flood can be overwhelming. This scenario can certainly create a conducive environment for mold. If you’ve been affected by water damage and are concerned about the subsequent mold growth, don’t worry. Total Care Restoration is at your side with [Water Restoration](/services/water-restoration/). Their expert team follows a methodical [Water Damage Dry Out Process](/water-damage-dry-out-process/) that minimizes damage and helps prevent potential mold growth.
+Encountering water damage following a hurricane or flood can be overwhelming. This scenario can certainly create a conducive environment for mold. If you’ve been affected by water damage and are concerned about the subsequent mold growth, don’t worry. Total Care Restoration is at your side with [Water Damage Restoration](/water-damage-restoration/). Their expert team follows a methodical [Water Damage Dry Out Process](/water-damage-dry-out-process/) that minimizes damage and helps prevent potential mold growth.
 
 Maintaining a mold-free home in Miami’s humidity is certainly a challenge, but with these tips and professional help from Total Care Restoration, it is definitely achievable. Meet this challenge head-on and create a healthier, happier home for you and your family.
 

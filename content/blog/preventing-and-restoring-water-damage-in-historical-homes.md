@@ -18,7 +18,7 @@ Historical homes in Miami are particularly vulnerable to water damage due to the
 
 ### **The Importance of Quick Action**
 
-When water damage occurs, time is of the essence. Prompt action can prevent further damage and help in salvaging materials and features unique to your historical home. Learn more about the urgency of addressing water damage through our comprehensive guide on [Water Restoration](/services/water-restoration/).
+When water damage occurs, time is of the essence. Prompt action can prevent further damage and help in salvaging materials and features unique to your historical home. Learn more about the urgency of addressing water damage through our comprehensive guide on [Water Damage Restoration](/water-damage-restoration/).
 
 ## **The Total Care Restoration Approach**
 

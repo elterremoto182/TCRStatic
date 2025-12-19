@@ -17,7 +17,7 @@ keywords: ["stop smoke damage after fire", "smoke damage prevention"]
 3.  **Ventilate Immediately**: Use fans to improve airflow and reduce smoke odors. Replace HVAC filters to prevent spreading smoke particles.
 4.  **Clean Surfaces Safely**: Use a HEPA vacuum for loose soot and specific cleaning solutions for walls, wood, metal, and fabrics.
 5.  **Remove Odors**: Use baking soda, activated charcoal, or professional-grade air purifiers to eliminate lingering smells.
-6.  **Call Professionals When Needed**: For structural damage, heavy soot buildup, or persistent odors, hire [Commercial](/services/commercial/).
+6.  **Call Professionals When Needed**: For structural damage, heavy soot buildup, or persistent odors, hire [Commercial](/water-damage-restoration/commercial/).
 
 **Quick Tip**: Acting within hours can prevent permanent damage to surfaces like wood, metal, and fabrics. Don’t delay!
 
@@ -27,7 +27,7 @@ keywords: ["stop smoke damage after fire", "smoke damage prevention"]
 
 ## Step 1: Check Safety and Inspect Damage
 
-In the first 24–48 hours after a fire, safety should be your top priority. Never enter a [Fire Restoration](/services/fire-restoration/) without proper clearance from the authorities.
+In the first 24–48 hours after a fire, safety should be your top priority. Never enter a [Fire Damage Restoration](/fire-damage-restoration/) without proper clearance from the authorities.
 
 ### Safety Rules Before Entry
 
@@ -41,7 +41,7 @@ Here’s what to look out for:
 | --- | --- | --- |
 | Structural Integrity | Leaning walls, sagging roof, foundation cracks | Wait for a professional inspection |
 | Utilities | Exposed wires, gas smell, water leaks | Keep utilities off; call service providers |
-| [Air Quality Inspections](/services/air-quality-inspections/) | Visible smoke, strong odors | Ensure proper ventilation |
+| air quality issues | Visible smoke, strong odors | Ensure proper ventilation |
 | Entry Points | Colored tape, warning signs | Respect all official markings |
 
 > "Your safety is paramount, which is why obtaining proper authorization before staying in your house after a fire isn’t optional"
@@ -180,7 +180,7 @@ Your heating and cooling system can harbor smoke particles, so don’t overlook 
 -   Have your air ducts professionally cleaned.
 -   Set your system to recirculate mode while treating odors.
 
-For a DIY approach, you can build a [WebMD](https://www.webmd.com/allergies/corsi-rosenthal-box) using four MERV 13 filters. This setup offers a Clean Air Delivery Rate (CADR) of about 400. However, for extensive smoke damage, [Miramar restoration services](/miramar-restoration-services/) are often the best way to ensure complete odor removal. These services use specialized equipment and techniques to restore the air quality in your home.
+For a DIY approach, you can build a [WebMD](https://www.webmd.com/allergies/corsi-rosenthal-box) using four MERV 13 filters. This setup offers a Clean Air Delivery Rate (CADR) of about 400. However, for extensive smoke damage, [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) are often the best way to ensure complete odor removal. These services use specialized equipment and techniques to restore the air quality in your home.
 
 Total Care Restoration provides thorough smoke odor removal, using industrial-grade tools to bring your indoor air back to pre-fire conditions.
 
@@ -286,7 +286,7 @@ If the damage seems overwhelming or the smoky smell just won’t go away, it mig
 
 To get your smoke damage insurance claim processed without unnecessary delays, start by **documenting the damage thoroughly**. As soon as it’s safe, take clear photos and videos of all the affected areas. This visual evidence will play a key role in backing up your claim.
 
-Next, take steps to **protect your property from further damage**. This might mean boarding up broken windows or [Roof Tarping](/services/roof-tarping/) to seal off exposed areas. Once that’s done, contact your insurance company right away to report the damage and initiate the claims process. Make sure to review your policy to understand what’s covered, and keep **detailed records** of every communication, expense, and repair tied to the claim.
+Next, take steps to **protect your property from further damage**. This might mean boarding up broken windows or [Roof Tarping](/roof-tarping/) to seal off exposed areas. Once that’s done, contact your insurance company right away to report the damage and initiate the claims process. Make sure to review your policy to understand what’s covered, and keep **detailed records** of every communication, expense, and repair tied to the claim.
 
 By staying organized and acting quickly, you can help ensure the process moves forward smoothly, letting you focus on getting your property back to normal.
 

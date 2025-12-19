@@ -47,7 +47,7 @@ Panoramic shot of a shrink wrap
 
 Perhaps your roof is being restored and you want to protect the work while it is being done. Or, in the worst case scenario, your roof is already damaged and you need a temporary hold-over while waiting for repairs.
 
-A lot of people in this situation simply use a [Roof Tarping](/services/roof-tarping/) to cover their roof, but you have other options.
+A lot of people in this situation simply use a [Roof Tarping](/roof-tarping/) to cover their roof, but you have other options.
 
 Here’s how shrink wrapping a roof works and why it may be your ideal choice. 
 
@@ -81,7 +81,7 @@ Note that this isn’t the type of work that you want to try and do yourself. On
 
 So, with all these added precautions, why go to the trouble of shrink wrapping your roof? One of the major benefits is that when it comes to using a blue tarp over a roof, you basically have to hope your roof is a good fit in order to get proper coverage.
 
-Because of the nature of shrink-wrapping, it’s a lot easier to try and get something that fits tightly around oddly-shaped roofs, which can be essential if you have an older or custom-made home. This perfect seal/shrink wrap is going to be what keeps out rain, [Mold Remediation](/services/mold-remediation/), and other undesirable things until your roof can be repaired.
+Because of the nature of shrink-wrapping, it’s a lot easier to try and get something that fits tightly around oddly-shaped roofs, which can be essential if you have an older or custom-made home. This perfect seal/shrink wrap is going to be what keeps out rain, [Mold Remediation](/mold-remediation/), and other undesirable things until your roof can be repaired.
 
 This is essential when it comes to heavy storm or wind conditions, as contractors don’t have to worry about returning to different parts of the shrink wrapping to reattach things due to damage.
 
@@ -125,9 +125,9 @@ These tarps are thicker than blue tarps, waterproof and UV light protected. The 
 
 If you’re interested in getting your roof shrink-wrapped, or installing a tarp today give us a call.
 
-We have helped hundreds of customers with their roof leaks and their [Shrink Wrapping](/services/shrink-wrapping/).
+We have helped hundreds of customers with their roof leaks and their [Shrink Wrapping](/shrink-wrapping/).
 
-We can help you with any type of work to avoid or mitigate [Water Restoration](/services/water-restoration/), be sure to reach out to [Contact "/contact"](/contact "/contact").
+We can help you with any type of work to avoid or mitigate [Water Damage Restoration](/water-damage-restoration/), be sure to reach out to [Contact "/contact"](/contact "/contact").
 
 Not only do we believe in doing the most for our customers in the Miami area, but we’re also IICRC-certified. This means we use the best cleaning and restoration tactics to help protect your home.
 

@@ -25,7 +25,7 @@ Negative pressure is a powerful method to stop mold from spreading during remedi
     -   Polyethylene sheeting for barriers
     -   Differential pressure monitors for accuracy
 
-Professional [Mold Remediation](/services/mold-remediation/) teams use these methods to ensure safe, effective containment. Acting fast is crucial, as mold can grow within 48 hours.
+Professional [Mold Remediation](/mold-remediation/) teams use these methods to ensure safe, effective containment. Acting fast is crucial, as mold can grow within 48 hours.
 
 ## How to Create Negative Pressure
 
@@ -73,7 +73,7 @@ It’s worth noting the difference between true HEPA filters and "HEPA-like" alt
 
 ### Air Exchange and Indoor Air Quality
 
-Beyond containment and filtration, maintaining steady air exchange is key to preserving [Indoor Air Quality](/services/indoor-air-quality). A standard practice is achieving four air changes per hour – essentially replacing the entire volume of air in the contained space every 15 minutes. This constant exchange helps clear airborne contaminants, particularly during activities that can stir up spores.
+Beyond containment and filtration, maintaining steady air exchange is key to preserving indoor air quality. A standard practice is achieving four air changes per hour – essentially replacing the entire volume of air in the contained space every 15 minutes. This constant exchange helps clear airborne contaminants, particularly during activities that can stir up spores.
 
 HEPA-equipped air filtration systems work hand-in-hand with negative pressure, continuously filtering airborne mold during remediation. For added protection, additional HEPA filtration units can be placed outside the containment zone to capture any spores that might escape, safeguarding the rest of the building. To ensure effectiveness, it’s critical that the HEPA devices inside the work area have enough cubic feet per minute (CFM) capacity to maintain the recommended air exchange rate.
 
@@ -161,7 +161,7 @@ Also, ensure a **negative-pressure fan** is running non-stop. The fan should exh
 
 ### What challenges can arise when maintaining negative pressure in poorly ventilated areas, and how can they be addressed?
 
-Maintaining negative pressure in spaces with poor ventilation can be a real challenge. Common hurdles include inadequate airflow, poor air sealing, and faulty HVAC systems. These issues can result in overly strong negative pressure, diminished [Air Quality Inspections](/services/air-quality-inspections/), and ineffective containment of mold spores.
+Maintaining negative pressure in spaces with poor ventilation can be a real challenge. Common hurdles include inadequate airflow, poor air sealing, and faulty HVAC systems. These issues can result in overly strong negative pressure, diminished air quality issues, and ineffective containment of mold spores.
 
 To tackle these problems, focus on thoughtful ventilation planning, routine HVAC maintenance, and improving air sealing. By ensuring balanced airflow and fixing inefficiencies in your systems, you can establish a steady negative pressure environment that helps prevent mold spread and cross-contamination.
 

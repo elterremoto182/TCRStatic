@@ -18,7 +18,7 @@ Owning a home in Miami, Florida, is truly a dream come true, with its gorgeous b
 
 ## Understanding Water Damage
 
-In Miami, water damage can result from a number of situations – torrential rains, flooding, and even simple leaks. However, precautionary measures and early signs detection can save your home from severe water damage. \[Water Restoration](/services/water-restoration/) provides crucial insights on how to go about handling such situations.
+In Miami, water damage can result from a number of situations – torrential rains, flooding, and even simple leaks. However, precautionary measures and early signs detection can save your home from severe water damage. \[Water Damage Restoration](/water-damage-restoration/) provides crucial insights on how to go about handling such situations.
 
 ### Preventing Water Damage:
 

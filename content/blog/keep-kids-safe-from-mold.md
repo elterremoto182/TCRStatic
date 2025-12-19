@@ -59,6 +59,6 @@ In other cases, mold may develop in an area that’s difficult for you to detect
 
 In these situations, it’s essential that you look into mold remediation as soon as possible. Getting help here can keep the mold from spreading and make your home safe again for the whole family.
 
-If you’re looking for [Mold Remediation](/services/mold-remediation/) and South Florida, one of your best options is working with Total Care Restoration.
+If you’re looking for [Mold Remediation](/mold-remediation/) and South Florida, one of your best options is working with Total Care Restoration.
 
 We are IICRC-certified, have a 5-star rating on Yelp and an A+ rating with the BBB.

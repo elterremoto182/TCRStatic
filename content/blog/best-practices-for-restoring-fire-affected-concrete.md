@@ -32,7 +32,7 @@ Act quickly to minimize costs and risks. For complex damage, consult professiona
 
 ## How to Assess Fire Damage in Concrete
 
-Evaluating [Fire Restoration](/services/fire-restoration/) in concrete involves more than just a quick glance. Fires can reach temperatures of over **2,000°F**, causing deep, often hidden, chemical changes within the material.
+Evaluating [Fire Damage Restoration](/fire-damage-restoration/) in concrete involves more than just a quick glance. Fires can reach temperatures of over **2,000°F**, causing deep, often hidden, chemical changes within the material.
 
 Start by looking for visible signs like spalling, cracks, and discoloration. Concrete exposed to extreme heat may turn pink or red due to iron oxide formation, while temperatures exceeding 1,000°F can result in gray or white coloration.
 
@@ -91,7 +91,7 @@ After cleaning, it’s time to prepare the surface for repairs. Damaged layers o
 
 Finally, apply a new sealer to the cleaned and prepared surface. Fire often destroys existing sealers, leaving the concrete exposed to future damage and contamination. A fresh coat of sealer not only protects the surface but also helps prevent smoke odors from reappearing.
 
-If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/services/commercial/) like (/) (). They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
+If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/water-damage-restoration/commercial/) like (/) (). They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
 
 ###### sbb-itb-7cc21ef
 
@@ -138,7 +138,7 @@ Once repairs are completed, thorough testing and consistent maintenance are esse
 
 ### Testing Completed Repairs
 
-Just as with initial assessments, proper testing ensures that repairs bring the concrete back to its original strength and meet building code requirements. Engineers use a variety of methods, including [Video Inspection](/services/video-inspection/), load tests, thermal imaging, and core sampling, to verify the quality of the restoration.
+Just as with initial assessments, proper testing ensures that repairs bring the concrete back to its original strength and meet building code requirements. Engineers use a variety of methods, including video inspection, load tests, thermal imaging, and core sampling, to verify the quality of the restoration.
 
 -   **Load Testing**: This process evaluates whether the repaired areas can handle their intended loads. Engineers apply controlled stress to the repaired sections while monitoring for deflection, cracking, or other signs of failure. For commercial properties, these tests often adhere to specific building code protocols, with results documented for compliance purposes.
 -   **Thermal Analysis**: Repaired areas, especially those affected by fire, may respond differently to temperature changes. Infrared thermography can detect variations in heat transfer patterns, revealing potential weak spots or incomplete bonding. This step is particularly important for ensuring that repairs won’t create new stress points due to thermal expansion differences.
@@ -148,7 +148,7 @@ Just as with initial assessments, proper testing ensures that repairs bring the 
 
 After repairs, specialized treatments are often needed to eliminate lingering smoke odors and toxins that can remain trapped in the porous structure of concrete.
 
-[Air Quality Inspections](/services/air-quality-inspections/) plays a key role in this process. Tests measure levels of volatile organic compounds (VOCs), particulates, and other airborne contaminants to confirm that the space is safe for use. In some cases, multiple rounds of testing may be necessary, as certain contaminants can take weeks to fully dissipate.
+air quality issues plays a key role in this process. Tests measure levels of volatile organic compounds (VOCs), particulates, and other airborne contaminants to confirm that the space is safe for use. In some cases, multiple rounds of testing may be necessary, as certain contaminants can take weeks to fully dissipate.
 
 ### Record Keeping and Ongoing Maintenance
 
@@ -182,7 +182,7 @@ Attempting a do-it-yourself approach can be dangerous and ineffective, especiall
 
 The choice between repairing or replacing fire-damaged concrete hinges on how badly the material has been affected. **Severe structural problems** – like deep cracks, spalling, or compromised strength – usually call for a full replacement to maintain safety. In contrast, **less serious surface issues**, such as discoloration or shallow cracks, can often be fixed with repairs and proper sealing.
 
-For a reliable evaluation, it’s wise to consult a **structural engineer or fire restoration specialist**. These professionals can assess the extent of the damage and suggest the safest, long-lasting solution. If you’re facing fire damage, companies like *Total Care Restoration* offer [Miramar restoration services](/miramar-restoration-services/) and can help you navigate the process. Their 24/7 emergency line, **(786) 610-6317**, is available to provide immediate assistance.
+For a reliable evaluation, it’s wise to consult a **structural engineer or fire restoration specialist**. These professionals can assess the extent of the damage and suggest the safest, long-lasting solution. If you’re facing fire damage, companies like *Total Care Restoration* offer [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) and can help you navigate the process. Their 24/7 emergency line, **(786) 610-6317**, is available to provide immediate assistance.
 
 ### What safety measures should I follow when cleaning fire-damaged concrete to protect my health?
 

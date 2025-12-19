@@ -34,7 +34,7 @@ Then, you place the tarp over the plywood and secure it with lumber.
 
 Remember, the goal of an emergency roof tarp is not to “fix” a roof leak. It is not a substitute for a proper repair. Your home will still experience some losses in terms of water resistance and energy efficiency until you can fix the roof. The tarp’s role is to slow down the spread of any potential leaks or damage until a professional can repair the roof correctly.
 
-The general lifespan of a [Roof Tarping](/services/roof-tarping/) is a few months, although some longer-lasting tarps can last a year or two. Make sure to inquire about the type of tarp you are getting when you have your tarp installed.
+The general lifespan of a [Roof Tarping](/roof-tarping/) is a few months, although some longer-lasting tarps can last a year or two. Make sure to inquire about the type of tarp you are getting when you have your tarp installed.
 
 ## Why Would You Need One?
 

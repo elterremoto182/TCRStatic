@@ -34,7 +34,7 @@ Cleaning fire-damaged concrete is no simple task – it comes with hidden danger
 
 ### Identifying Potential Hazards
 
-[Fire Restoration](/services/fire-restoration/) can weaken key structural elements like load-bearing walls, roof supports, and foundations, making them vulnerable to collapse \. Beyond structural risks, fires release harmful substances such as carbon monoxide, formaldehyde, and asbestos fibers. Fine soot and ash particles may linger in the air, posing respiratory risks and settling into small cracks, where they can continue to cause problems over time.
+[Fire Damage Restoration](/fire-damage-restoration/) can weaken key structural elements like load-bearing walls, roof supports, and foundations, making them vulnerable to collapse \. Beyond structural risks, fires release harmful substances such as carbon monoxide, formaldehyde, and asbestos fibers. Fine soot and ash particles may linger in the air, posing respiratory risks and settling into small cracks, where they can continue to cause problems over time.
 
 Water used to extinguish the fire complicates matters further. Within just 24–48 hours, mold can start growing on fire-damaged concrete, adding another layer of health risks.
 

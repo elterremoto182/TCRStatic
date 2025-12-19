@@ -18,7 +18,7 @@ keywords: ["drying mats for restoration", "floor drying equipment"]
 -   **Non-Destructive Process**: Dry surfaces in place without tearing out materials.
 -   **Live Monitoring**: Professionals track moisture levels for precise results.
 
-When dealing with water damage, [Commercial](/services/commercial/) equipped with drying mats can save time, money, and stress. Proper tools and quick action are key to protecting your property and health.
+When dealing with water damage, [Commercial](/water-damage-restoration/commercial/) equipped with drying mats can save time, money, and stress. Proper tools and quick action are key to protecting your property and health.
 
 ## [Dri-Eaz](https://drieazz.com/) In-Wall and Hardwood Floor Drying Systems Setup
 
@@ -38,7 +38,7 @@ The damage doesn’t stop at floors. **Prolonged exposure to moisture can underm
 
 ### The Dangers of Mold Growth and Structural Problems
 
-Trapped moisture does more than damage materials – it creates the perfect breeding ground for mold, which brings its own set of risks. **Mold can begin growing within just 24 to 48 hours** in damp conditions. Once it starts, the restoration process becomes far more complex and costly, often requiring full [Mold Remediation](/services/mold-remediation/).
+Trapped moisture does more than damage materials – it creates the perfect breeding ground for mold, which brings its own set of risks. **Mold can begin growing within just 24 to 48 hours** in damp conditions. Once it starts, the restoration process becomes far more complex and costly, often requiring full [Mold Remediation](/mold-remediation/).
 
 The health risks are serious. Mold releases spores that can cause respiratory issues, allergies, and other health problems, particularly for children, the elderly, and those with weakened immune systems. **Indoor air quality deteriorates quickly** when mold takes hold, turning your home into an unsafe environment. Meanwhile, mold feeds on organic materials like wood, drywall, and insulation, further weakening your home’s structure. This can lead to sagging floors, compromised support beams, and other safety hazards.
 

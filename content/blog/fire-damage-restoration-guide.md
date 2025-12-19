@@ -104,7 +104,7 @@ Fire damage restoration is an expensive process. It involves repairing the struc
 
 The cost of fire damage restoration depends on the extent of the damage, the size of the fire, and the materials and labor needed to complete the work. It can be expensive, but is necessary to ensure your safety and the safety of your home. Use our [Fire Damage Repair Estimator](/fire-damage-repair-estimator/) to get a preliminary idea of costs for your specific situation.
 
-The following table gives you an estimate of costs for a fire damage. We used these from our experience dealing with [Fire Restoration](/services/fire-restoration/).
+The following table gives you an estimate of costs for a fire damage. We used these from our experience dealing with [Fire Damage Restoration](/fire-damage-restoration/).
 
 <table><tbody><tr><td>Square Footage</td><td>Cost</td></tr><tr><td>500 sq ft</td><td>$2,500 – $4,500</td></tr><tr><td>1,000 sq ft</td><td>$4,500 – $6,500</td></tr><tr><td>2,000 sq ft</td><td>$6,500 – $12,500</td></tr><tr><td>3,000 sq ft</td><td>$12,500 – $19,000</td></tr><tr><td>4,000 sq ft</td><td>$19,000 – $29,000</td></tr></tbody></table>
 

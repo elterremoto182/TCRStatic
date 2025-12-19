@@ -59,7 +59,7 @@ The first step is a detailed visual inspection to confirm the restoration work h
 
 ### Sample Collection and Laboratory Testing
 
-Even when everything looks fine visually, unseen hazards can still linger. That’s why the next step involves collecting air and surface samples for laboratory testing. This phase is essential because contaminants like mold spores or harmful particles are often microscopic and undetectable without scientific analysis. Samples are taken from key areas, and the lab results provide concrete data to confirm whether the remediation efforts were successful. These results also verify that the [Indoor Air Quality](/services/indoor-air-quality/) is safe, giving property owners peace of mind.
+Even when everything looks fine visually, unseen hazards can still linger. That’s why the next step involves collecting air and surface samples for laboratory testing. This phase is essential because contaminants like mold spores or harmful particles are often microscopic and undetectable without scientific analysis. Samples are taken from key areas, and the lab results provide concrete data to confirm whether the remediation efforts were successful. These results also verify that the indoor air quality is safe, giving property owners peace of mind.
 
 ### Final Report Preparation
 
@@ -71,7 +71,7 @@ Total Care Restoration employs a thorough verification process to ensure restore
 
 ### Certified Technicians and Advanced Tools
 
-The team at Total Care Restoration includes certified professionals specializing in water, fire, mold, and [Commercial](/services/commercial/). These experts adhere to industry best practices to guarantee reliable results. Equipped with cutting-edge tools, they carry out meticulous inspections, spotting even the smallest details that might otherwise go unnoticed.
+The team at Total Care Restoration includes certified professionals specializing in water, fire, mold, and [Commercial](/water-damage-restoration/commercial/). These experts adhere to industry best practices to guarantee reliable results. Equipped with cutting-edge tools, they carry out meticulous inspections, spotting even the smallest details that might otherwise go unnoticed.
 
 ### 24/7 Emergency Services and Insurance Assistance
 
@@ -93,7 +93,7 @@ By verifying that hazardous materials have been completely removed, these report
 
 Choosing certified professionals who adhere to industry standards ensures a thorough and unbiased evaluation. This goes beyond just a visual check, offering a detailed assessment that guarantees every aspect of the restoration is handled properly.
 
-In emergencies, a swift response paired with [Miramar restoration services](/miramar-restoration-services/) and detailed verification ensures your property is not just restored but safe and sound for the long term.
+In emergencies, a swift response paired with [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) and detailed verification ensures your property is not just restored but safe and sound for the long term.
 
 ## FAQs
 

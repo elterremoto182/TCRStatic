@@ -51,13 +51,13 @@ Double-check all edges are well secured, and there aren’t any loose parts that
 
 ### Step 6: Contact a Professional
 
-Now that you’ve done your part, the next step is to reach out to Total Care Restoration, Miami’s most-trusted experts in roof tarping. You can learn more about our services, or book us here at: [Roof Tarping](/services/roof-tarping/) .
+Now that you’ve done your part, the next step is to reach out to Total Care Restoration, Miami’s most-trusted experts in roof tarping. You can learn more about our services, or book us here at: [Roof Tarping](/roof-tarping/) .
 
 ## Can’t Tarp Your Roof? Consider Shrink Wrapping
 
 Not all roofs are suitable for tarping, especially those with unique designs or are too steep. This is where shrink wrapping, a terrific alternative to tarping, comes in. The process involves installing a polyethylene film that is heat-sealed over your roof, forming a tough, fully-bonded skin. It’s a great solution for intricate architectural designs or for homeowners that are aiming for a more aesthetic route.
 
-Did that pique your interest? I’ve got a full coverage on [Shrink Wrapping](/services/shrink-wrapping/).
+Did that pique your interest? I’ve got a full coverage on [Shrink Wrapping](/shrink-wrapping/).
 
 As the home that you worked hard to build stands vulnerable against the forces of nature, your best bet is to rely on trusted care providers, such as Total Care Restoration, Miami’s finest. We work tirelessly to provide state-of-the-art services to protect your house and your family.
 

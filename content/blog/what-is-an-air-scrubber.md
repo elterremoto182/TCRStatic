@@ -39,7 +39,7 @@ In addition, air scrubbers can help to improve the efficiency of heating and coo
 Restoration and Air Scrubbers
 
   
-Air scrubbers are commonly used in [Water Restoration](/services/water-restoration/) and [Mold Remediation](/services/mold-remediation/). They help reduce levels of mold and other airborne contaminants that could be present in a home or business after a water damage event.
+Air scrubbers are commonly used in [Water Damage Restoration](/water-damage-restoration/) and [Mold Remediation](/mold-remediation/). They help reduce levels of mold and other airborne contaminants that could be present in a home or business after a water damage event.
 
 Air scrubbers also help to reduce levels of mold and other microorganisms in the air. This can help to reduce the risk of mold-related health problems and reduce the need for costly mold remediation.
 

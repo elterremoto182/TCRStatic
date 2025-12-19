@@ -1,0 +1,35 @@
+{
+  "serviceTypes": {
+    "residential": {
+      "name": "Residential",
+      "slug": "residential",
+      "audienceType": "Residential Homeowners",
+      "focusAreas": [
+        "Family safety and health concerns",
+        "Mold risks for children and elderly",
+        "Insurance claim guidance for homeowners",
+        "Personal, reassuring language",
+        "Quick response for peace of mind",
+        "Protecting belongings and memories"
+      ],
+      "metaPrefix": "Residential",
+      "ctaText": "Protect Your Home & Family"
+    },
+    "commercial": {
+      "name": "Commercial",
+      "slug": "commercial",
+      "audienceType": "Commercial Property Managers",
+      "focusAreas": [
+        "Minimize business downtime and revenue loss",
+        "Compliance with health and safety regulations",
+        "Business interruption documentation",
+        "Large-loss project management capabilities",
+        "After-hours and weekend service availability",
+        "Minimal disruption to operations",
+        "Multi-location coordination"
+      ],
+      "metaPrefix": "Commercial",
+      "ctaText": "Minimize Business Downtime"
+    }
+  }
+}

@@ -22,7 +22,7 @@ keywords: ["clean smoke damaged items", "smoke damage cleaning guide"]
 3.  **Gather Supplies**: Use tools like HEPA vacuums, dry-cleaning sponges, and cleaning agents like tri-sodium phosphate (TSP) for effective cleanup.
 4.  **Clean Materials Properly**: Use specific methods for clothes, hard surfaces, electronics, and documents to avoid further damage.
 5.  **Remove Smoke Odors**: Neutralize smells with baking soda, vinegar, activated charcoal, or [Combating Smoke Odor Professional Techniques for a Fresh Home](/combating-smoke-odor-professional-techniques-for-a-fresh-home/).
-6.  **Clean the Air**: Improve [Air Quality Inspections](/services/air-quality-inspections/) with ventilation, air purifiers, and HVAC cleaning.
+6.  **Clean the Air**: Improve air quality issues with ventilation, air purifiers, and HVAC cleaning.
 7.  **Call Professionals if Needed**: For severe damage, health risks, or structural issues, seek expert help.
 
 **Quick Tip**: Act fast – smoke damage worsens over time, and lingering particles can cause health problems. Follow these steps to restore your belongings and home effectively.
@@ -33,7 +33,7 @@ keywords: ["clean smoke damaged items", "smoke damage cleaning guide"]
 
 ## Step 1: Stay Safe and Set Up Your Work Area
 
-Before you begin handling [Fire Restoration](/services/fire-restoration/), make sure you’re prioritizing your safety. [Water Damage Clean Up](/water-damage-clean-up/) can expose you to harmful airborne contaminants like ash, soot, dust, vapors, and gases. You may also encounter toxic substances such as carbon monoxide, methane, hydrogen sulfide, asbestos, lead, and PCBs. Taking the proper precautions protects your health and ensures a smoother cleanup process.
+Before you begin handling [Fire Damage Restoration](/fire-damage-restoration/), make sure you’re prioritizing your safety. [Water Damage Clean Up](/water-damage-clean-up/) can expose you to harmful airborne contaminants like ash, soot, dust, vapors, and gases. You may also encounter toxic substances such as carbon monoxide, methane, hydrogen sulfide, asbestos, lead, and PCBs. Taking the proper precautions protects your health and ensures a smoother cleanup process.
 
 Start by verifying that the environment is safe. Have professionals inspect the structure to rule out risks from structural damage or chemical hazards. Keep pets and children out of the affected areas until the cleaning is complete, and avoid eating or drinking in spaces damaged by smoke.
 
@@ -92,7 +92,7 @@ Porous materials – like mattresses, pillows, upholstered furniture, carpets, a
 
 Objects with visible charring, melting, or heavy staining are usually unsalvageable. Plastics and fiberglass, for example, can deteriorate quickly when exposed to smoke, often turning yellow or becoming brittle. Melted or heavily stained plastics, along with drywall or painted surfaces that are deeply damaged, typically need to be replaced rather than cleaned. For guidance on proper disposal, see our article on [Safe Disposal of Fire Damaged Materials](/safe-disposal-of-fire-damaged-materials/).
 
-For items with sentimental value or complex construction, consult a [Commercial](/services/commercial/) to see if specialized techniques can save them. You may also want to explore [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services/) for specialized assistance.
+For items with sentimental value or complex construction, consult a [Commercial](/water-damage-restoration/commercial/) to see if specialized techniques can save them. You may also want to explore [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-services/) for specialized assistance.
 
 ## Step 3: Get Your Cleaning Supplies Ready
 
@@ -160,7 +160,7 @@ If documents have gotten wet during firefighting efforts, freeze them immediatel
 
 > "You should hold on to a document if you think you might need it, if it is a personal identification document, if it is something that has to do with your finances, or if it protects your future (like life insurance or a will)." – Dave Ramsey
 
-For valuable documents or electronics, [Miramar restoration services](/miramar-restoration-services/) can help. They may use advanced techniques like sanding to remove soot or ozone gas chambers to deodorize documents, giving these items a better chance of recovery.
+For valuable documents or electronics, [Miramar water damage restoration](/water-damage-restoration/residential/miramar/) can help. They may use advanced techniques like sanding to remove soot or ozone gas chambers to deodorize documents, giving these items a better chance of recovery.
 
 ###### sbb-itb-7cc21ef
 
@@ -188,7 +188,7 @@ Start by opening windows and doors for at least 15 minutes a day to let fresh ai
 
 > "Bringing fresh, outdoor air inside creates healthier indoor air."
 
-> "Ventilation helps reduce [Indoor Air Quality](/services/indoor-air-quality/), but it works best if paired with keeping known sources of air pollution out of the building."
+> "Ventilation helps reduce indoor air quality, but it works best if paired with keeping known sources of air pollution out of the building."
 
 **Air purifiers with HEPA filters** are another must-have. These filters capture 99.97% of particles as small as 0.3 microns, including smoke and soot. For even better results, look for purifiers that combine HEPA filters with activated carbon filters. The HEPA component removes particles, while the activated carbon tackles odors and volatile organic compounds (VOCs).
 
@@ -196,7 +196,7 @@ Don’t overlook your **HVAC system**. If not addressed, it can recirculate smok
 
 For severe cases, **ozone treatment** may be necessary. Ozone generators are highly effective at neutralizing smoke particles, but they come with health risks and require temporary evacuation during treatment. This process should only be handled by professionals who follow strict safety guidelines.
 
-To maintain healthy [Indoor Air Quality](/services/indoor-air-quality) over time, it’s recommended to have at least 0.35 air changes of outdoor air per hour. Regular monitoring after restoration ensures your air stays clean and safe for long-term living.
+To maintain healthy indoor air quality over time, it’s recommended to have at least 0.35 air changes of outdoor air per hour. Regular monitoring after restoration ensures your air stays clean and safe for long-term living.
 
 ## Step 6: Check for Problems That Remain
 
@@ -260,7 +260,7 @@ Even after the initial cleanup, the work isn’t over. Keep an eye out for any l
 
 ### What should I do if I find structural damage or health risks while cleaning smoke-damaged items?
 
-If you notice structural damage or health risks during [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/), your well-being should always be the top priority. **Stay out of any areas that seem unsafe**, like rooms with sagging ceilings, cracked walls, or weakened floors. If you encounter such conditions, leave immediately and contact a [Miami restoration services](/miami-restoration-services/) to handle the situation properly.
+If you notice structural damage or health risks during [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/), your well-being should always be the top priority. **Stay out of any areas that seem unsafe**, like rooms with sagging ceilings, cracked walls, or weakened floors. If you encounter such conditions, leave immediately and contact a [Miami water damage restoration](/water-damage-restoration/residential/miami/) to handle the situation properly.
 
 When dealing with health risks like lingering smoke particles or harmful fumes, make sure to wear protective gear – gloves, masks, and goggles can help minimize exposure. Smoke damage can seriously affect your respiratory health, so try to limit your time in these areas until experts have evaluated and resolved the problem. Always stick to local safety guidelines and avoid tackling repairs or cleanup if the environment poses any danger.
 

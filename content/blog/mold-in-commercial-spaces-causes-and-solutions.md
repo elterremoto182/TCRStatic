@@ -59,7 +59,7 @@ Design flaws can worsen the problem. Poor ventilation, gaps in sealing around wi
 
 > "Mold growth in commercial buildings compromises both health and structural integrity, making it a critical concern for property owners, occupants, and visitors alike." – Jeremy Jernigan, Chief Scientist and Principal Consultant at Intertek-PSI
 
-Preventing mold involves addressing water issues promptly, keeping humidity levels between 30% and 50%, and performing regular maintenance, such as [Air Quality Inspections](/services/air-quality-inspections/), to minimize risks. These proactive steps can go a long way in maintaining a mold-free environment.
+Preventing mold involves addressing water issues promptly, keeping humidity levels between 30% and 50%, and performing regular maintenance, such as air quality issues, to minimize risks. These proactive steps can go a long way in maintaining a mold-free environment.
 
 ## Health and Property Damage from Mold
 
@@ -107,17 +107,17 @@ When routine inspections and maintenance don’t stop mold in its tracks, it’s
 
 ### Certified Mold Removal Services
 
-Professional [Mold Remediation](/services/mold-remediation/) isn’t just about wiping away what you can see. Certified technicians follow strict protocols to safely remove mold while preventing it from spreading to other areas. They use containment strategies and treatments specifically designed to eliminate mold at its source, ensuring a thorough and safe cleanup.
+Professional [Mold Remediation](/mold-remediation/) isn’t just about wiping away what you can see. Certified technicians follow strict protocols to safely remove mold while preventing it from spreading to other areas. They use containment strategies and treatments specifically designed to eliminate mold at its source, ensuring a thorough and safe cleanup.
 
 ### (/) Services
 
-Total Care Restoration brings certified experts to the table, following rigorous protocols to not only remove mold but also prevent it from coming back. Their goal? To restore safe, breathable [Indoor Air Quality](/services/indoor-air-quality) for your property.
+Total Care Restoration brings certified experts to the table, following rigorous protocols to not only remove mold but also prevent it from coming back. Their goal? To restore safe, breathable indoor air quality for your property.
 
 Available 24/7 for emergencies, Total Care Restoration can be reached at (786) 610-6317. They use industrial-grade dehumidifiers and air movers to target moisture – the root cause of mold growth. Plus, they handle direct insurance billing, making the process smoother for business owners.
 
 ### Preventing Mold After Removal
 
-Mold remediation doesn’t end with removal. Certified technicians apply antimicrobial treatments to surrounding areas to eliminate lingering spores and stop mold from spreading. They follow strict [Indoor Air Quality](/services/indoor-air-quality/) to ensure the indoor environment meets acceptable standards.
+Mold remediation doesn’t end with removal. Certified technicians apply antimicrobial treatments to surrounding areas to eliminate lingering spores and stop mold from spreading. They follow strict indoor air quality to ensure the indoor environment meets acceptable standards.
 
 Long-term prevention hinges on addressing moisture issues. This means fixing leaks, maintaining proper ventilation, controlling humidity, and sticking to a consistent cleaning schedule. These expert interventions, combined with ongoing maintenance, are key to keeping mold at bay for good.
 

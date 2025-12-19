@@ -1,0 +1,1011 @@
+{
+  "water-damage": [
+    {
+      "id": "burst-pipe",
+      "name": "Burst Pipe",
+      "slug": "burst-pipe-water-damage",
+      "description": "Emergency burst pipe water damage cleanup and restoration",
+      "urgency": "emergency",
+      "seasonality": ["winter", "cold-snaps", "year-round"],
+      "parentServices": ["water-damage-restoration", "emergency-restoration"],
+      "bodyContent": {
+        "overview": "A burst pipe is one of the most common and destructive causes of water damage in South Florida homes and businesses. Whether caused by corrosion, freezing temperatures during rare cold snaps, or excessive water pressure, a burst pipe can release hundreds of gallons of water per hour, causing extensive damage to floors, walls, ceilings, and personal belongings.\n\nThe damage from a burst pipe extends far beyond the visible water. Water quickly seeps into wall cavities, under flooring, and into insulation, creating hidden pockets of moisture that can lead to mold growth within 24-48 hours. The longer water sits, the more extensive—and expensive—the damage becomes.\n\nOur emergency response team specializes in burst pipe water damage restoration, arriving quickly to stop the source, extract water, and begin the drying process before secondary damage occurs.",
+        "whyActFast": "Every minute counts when a pipe bursts. Water damage spreads exponentially, moving through walls and floors at an alarming rate. Within the first hour, drywall begins absorbing water. By 24 hours, mold can begin growing in hidden areas. After 48 hours, structural damage may occur. Immediate professional intervention can save thousands in restoration costs.",
+        "commonCauses": [
+          "Pipe corrosion from aging plumbing systems",
+          "Excessive water pressure in the system",
+          "Frozen pipes during Florida cold snaps",
+          "Poor pipe installation or connections",
+          "Tree root intrusion into underground pipes",
+          "Water hammer from sudden valve closures",
+          "Degraded pipe joints and fittings"
+        ],
+        "preventionTips": [
+          "Know where your main water shutoff valve is located",
+          "Have your plumbing inspected annually, especially in older homes",
+          "Monitor your water bill for unexplained increases",
+          "Insulate exposed pipes during cold weather advisories",
+          "Maintain consistent water pressure (40-80 psi recommended)",
+          "Replace old galvanized pipes with modern materials",
+          "Install water leak detection devices near high-risk areas"
+        ],
+        "warningSignals": [
+          "Visible water spots on walls or ceilings",
+          "Musty odors indicating hidden moisture",
+          "Unexplained increase in water bills",
+          "Low water pressure throughout the home",
+          "Discolored or rusty water from faucets",
+          "Sounds of running water when nothing is on",
+          "Wet spots in the yard or foundation cracks"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response", "description": "Our team arrives within 30-60 minutes to locate and stop the water source, preventing further damage to your property."},
+          {"step": 2, "title": "Water Extraction", "description": "Using powerful pumps and extraction equipment, we remove standing water from all affected areas quickly and efficiently."},
+          {"step": 3, "title": "Moisture Detection", "description": "Advanced moisture meters and thermal imaging locate hidden water in walls, floors, and ceilings that isn't visible to the naked eye."},
+          {"step": 4, "title": "Drying & Dehumidification", "description": "Industrial air movers and dehumidifiers are strategically placed to thoroughly dry all affected materials and structures."},
+          {"step": 5, "title": "Sanitization & Treatment", "description": "Antimicrobial treatments prevent mold growth and eliminate bacteria that may have been introduced by the water damage."},
+          {"step": 6, "title": "Restoration & Repair", "description": "We restore your property to pre-loss condition, including drywall repair, painting, and flooring replacement as needed."}
+        ],
+        "faqs": [
+          {"question": "How quickly should I call for help after a pipe bursts?", "answer": "Immediately. The first 24-48 hours are critical for preventing secondary damage like mold growth. Our emergency team is available 24/7 and can typically arrive within 30-60 minutes in most South Florida locations."},
+          {"question": "Will my homeowner's insurance cover burst pipe damage?", "answer": "Most homeowner's insurance policies cover sudden and accidental water damage from burst pipes. However, gradual leaks or damage from lack of maintenance may not be covered. We work directly with insurance companies and can help document your claim."},
+          {"question": "How long does it take to dry out a home after a burst pipe?", "answer": "Drying time varies based on the extent of damage and materials affected. Typically, structural drying takes 3-5 days with professional equipment. We monitor moisture levels daily to ensure complete drying before restoration begins."},
+          {"question": "Should I try to clean up burst pipe damage myself?", "answer": "While you can take immediate steps like shutting off water and moving valuables, professional restoration is recommended. DIY cleanup often misses hidden moisture, leading to mold growth and ongoing damage. Professional equipment is essential for proper drying."},
+          {"question": "What should I do while waiting for the restoration team?", "answer": "Turn off the main water supply and electricity to affected areas if safe. Move furniture and valuables away from water. Take photos for insurance documentation. Do not use electrical appliances in wet areas."},
+          {"question": "Can burst pipe damage cause mold?", "answer": "Yes, mold can begin growing within 24-48 hours of water exposure. Professional water extraction and drying is essential to prevent mold growth. We also apply antimicrobial treatments as a preventive measure."}
+        ]
+      }
+    },
+    {
+      "id": "ac-leak",
+      "name": "AC Leak",
+      "slug": "ac-leak-water-damage",
+      "description": "Air conditioning leak water damage repair and prevention",
+      "urgency": "moderate",
+      "seasonality": ["summer", "year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "In South Florida's subtropical climate, air conditioning isn't a luxury—it's a necessity. With AC units running nearly year-round, the potential for AC-related water damage is significantly higher than in other regions. AC leaks are one of the most common causes of water damage in Florida homes, often going unnoticed until significant damage has occurred.\n\nAC systems produce condensation as part of the cooling process. This moisture is supposed to drain safely away through the condensate line. However, when drain lines become clogged, drip pans overflow, or evaporator coils ice up, water can leak into your home's structure, causing damage to ceilings, walls, insulation, and flooring.\n\nBecause AC leaks often occur in attics or utility closets, the damage can spread extensively before homeowners notice visible signs. Water from a leaking AC unit can travel through wall cavities and ceiling spaces, creating hidden pockets of moisture that lead to mold growth, wood rot, and compromised structural integrity.\n\nOur restoration specialists understand the unique challenges of AC water damage in South Florida. We not only restore the damage but help identify the root cause to prevent future incidents.",
+        "whyActFast": "AC leaks may seem minor, but they can cause significant hidden damage. Water travels along unexpected paths inside walls and ceilings, often affecting areas far from the original leak. In Florida's humid environment, mold can begin growing within 24-48 hours. Early intervention prevents extensive water damage, costly mold remediation, and potential health hazards.",
+        "commonCauses": [
+          "Clogged condensate drain lines (most common cause)",
+          "Cracked or rusted drip pan",
+          "Dirty or frozen evaporator coils",
+          "Improper AC installation",
+          "Disconnected drain line",
+          "Low refrigerant causing coils to freeze",
+          "Air filter restricting airflow and causing ice buildup",
+          "Failed condensate pump"
+        ],
+        "preventionTips": [
+          "Change or clean air filters monthly during peak usage",
+          "Schedule professional AC maintenance twice yearly",
+          "Clear the condensate drain line with vinegar monthly",
+          "Install a secondary drain pan with water alarm",
+          "Keep the area around your AC unit clear of debris",
+          "Monitor your AC for unusual sounds or reduced cooling",
+          "Consider installing a float switch to prevent overflow",
+          "Inspect drip pan annually for cracks or rust"
+        ],
+        "warningSignals": [
+          "Water stains on ceiling beneath AC unit or air handler",
+          "Musty or moldy odor near AC vents",
+          "Reduced cooling efficiency or warm air",
+          "Ice forming on refrigerant lines or unit",
+          "Water pooling around indoor AC unit",
+          "Humidity levels higher than normal inside",
+          "Bubbling or peeling paint near AC areas",
+          "Warped or soft flooring near AC location"
+        ],
+        "process": [
+          {"step": 1, "title": "Assessment & Source Control", "description": "We identify the source of the AC leak and work with HVAC professionals to stop active water intrusion before beginning restoration."},
+          {"step": 2, "title": "Water Extraction", "description": "Standing water is removed using professional extraction equipment. We access wall cavities and ceiling spaces where water may have traveled."},
+          {"step": 3, "title": "Moisture Mapping", "description": "Using thermal imaging and moisture meters, we create a comprehensive map of all affected areas, including hidden water in walls and ceilings."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial dehumidifiers and air movers are positioned to dry all affected materials. We may need to access attic spaces and wall cavities for complete drying."},
+          {"step": 5, "title": "Mold Prevention", "description": "Antimicrobial treatments are applied to prevent mold growth in affected areas. Existing mold is addressed if discovered during restoration."},
+          {"step": 6, "title": "Restoration & Repair", "description": "Damaged drywall, insulation, and other materials are replaced. We restore your home to pre-damage condition with minimal disruption."}
+        ],
+        "faqs": [
+          {"question": "How do I know if my AC is leaking?", "answer": "Look for water stains on ceilings or walls near your AC unit, musty odors, reduced cooling efficiency, ice on refrigerant lines, or water pooling around the indoor unit. In Florida's humid climate, even minor changes in indoor humidity can indicate a problem."},
+          {"question": "Is AC leak damage covered by insurance?", "answer": "Most homeowner's policies cover sudden AC leak damage. However, damage from gradual leaks or poor maintenance may not be covered. We help document damage thoroughly and work directly with your insurance company to maximize your claim."},
+          {"question": "How often should I clean my AC drain line?", "answer": "In South Florida, we recommend flushing your condensate line with vinegar monthly during peak AC season (May-October) and at least quarterly during cooler months. This prevents algae and mold buildup that causes clogs."},
+          {"question": "Can an AC leak cause mold in my home?", "answer": "Yes, absolutely. Florida's humidity combined with moisture from AC leaks creates ideal conditions for mold growth. Mold can begin developing within 24-48 hours of water exposure. Professional drying and antimicrobial treatment are essential."},
+          {"question": "Should I turn off my AC if I notice a leak?", "answer": "Yes, turn off your AC to prevent additional water damage and allow any ice to melt safely. Call a restoration professional and HVAC technician. Running a leaking AC can cause more damage and potentially harm the unit."},
+          {"question": "How long does AC water damage restoration take?", "answer": "Most AC leak restoration projects take 3-5 days for drying, followed by 1-3 days for repairs depending on damage extent. We work efficiently to restore your home and get your AC running safely again."}
+        ]
+      }
+    },
+    {
+      "id": "washing-machine-overflow",
+      "name": "Washing Machine Overflow",
+      "slug": "washing-machine-overflow-damage",
+      "description": "Washing machine overflow cleanup and water damage restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Washing machine overflows and failures are among the most common—and preventable—causes of residential water damage. A single washing machine incident can release 20-30 gallons of water in minutes, causing extensive damage to flooring, walls, and lower levels of your home.\n\nMost washing machine water damage occurs in one of three ways: supply hose failure, drain line backup, or machine malfunction during the wash cycle. When these incidents happen, the damage often extends beyond the laundry room, affecting adjacent rooms, flooring throughout the home, and even lower levels in multi-story structures.\n\nBecause washing machines are often located on upper floors or in areas without floor drains, the water has nowhere to go except into your home's structure. Quick professional response is essential to extract water, dry affected materials, and prevent secondary damage like mold growth.",
+        "whyActFast": "Washing machine overflow water is typically clean water initially, but it quickly becomes contaminated as it contacts surfaces and sits. Within hours, flooring can begin warping. Within 24-48 hours, mold growth can start. Fast extraction and drying prevents structural damage and eliminates health risks.",
+        "commonCauses": [
+          "Burst or deteriorated supply hoses",
+          "Clogged or kinked drain hoses",
+          "Faulty water level sensor or pressure switch",
+          "Worn door seal on front-loaders",
+          "Overloading the washing machine",
+          "Drain pump failure",
+          "Detergent overflow from using too much soap",
+          "Tub seal failure"
+        ],
+        "preventionTips": [
+          "Replace rubber supply hoses with braided stainless steel",
+          "Replace hoses every 3-5 years regardless of condition",
+          "Install an automatic shutoff valve system",
+          "Never leave the house while the washer is running",
+          "Inspect hoses monthly for bulges, cracks, or wear",
+          "Don't overload your washing machine",
+          "Use the correct amount of HE detergent",
+          "Keep the area behind the washer accessible for inspection"
+        ],
+        "warningSignals": [
+          "Bulging, cracked, or worn supply hoses",
+          "Water spots or dampness behind the washing machine",
+          "Machine taking longer to fill or drain",
+          "Unusual noises during wash or spin cycles",
+          "Vibration or movement during operation",
+          "Musty smell coming from the washer",
+          "Rust or corrosion on hose connections",
+          "Error codes appearing on digital displays"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response", "description": "We arrive quickly to assess the damage and stop any ongoing water intrusion. The water supply is secured if not already."},
+          {"step": 2, "title": "Water Extraction", "description": "Powerful extraction equipment removes standing water from floors, carpets, and any areas where water has accumulated."},
+          {"step": 3, "title": "Content Protection", "description": "We move and protect furniture, belongings, and items in affected areas to prevent additional damage during restoration."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial drying equipment is deployed to thoroughly dry flooring, subfloors, walls, and any affected structural components."},
+          {"step": 5, "title": "Sanitization", "description": "Antimicrobial treatments are applied to prevent mold and eliminate any bacteria from the water exposure."},
+          {"step": 6, "title": "Restoration", "description": "Damaged flooring, baseboards, drywall, and other materials are repaired or replaced to restore your home."}
+        ],
+        "faqs": [
+          {"question": "How much damage can a washing machine overflow cause?", "answer": "A single overflow can release 20-30+ gallons of water, potentially causing thousands of dollars in damage. Water can spread through floors to lower levels, damage subflooring, and create conditions for mold growth if not properly addressed."},
+          {"question": "Will my insurance cover washing machine water damage?", "answer": "Most policies cover sudden and accidental water damage from appliance failures. However, damage from gradual leaks or lack of maintenance may not be covered. We document everything thoroughly and work with your insurance adjuster."},
+          {"question": "Should I replace my rubber washing machine hoses?", "answer": "Yes, rubber hoses should be replaced every 3-5 years. Better yet, upgrade to braided stainless steel hoses which are more durable and resistant to bursting. This simple $30-50 investment can prevent thousands in damage."},
+          {"question": "Can I clean up washing machine overflow myself?", "answer": "For small spills contained to hard floors, you may be able to clean up yourself. However, if water has reached carpet, padding, walls, or other rooms, professional extraction and drying is essential to prevent mold and structural damage."},
+          {"question": "How do I prevent washing machine water damage?", "answer": "Replace rubber hoses with steel braided ones, never leave during wash cycles, install automatic shutoff valves, inspect hoses monthly, and don't overload your machine. These simple steps prevent most washing machine water damage incidents."},
+          {"question": "How long does it take to dry out after a washing machine flood?", "answer": "Professional drying typically takes 2-4 days depending on the extent of water spread and materials affected. We monitor moisture levels daily to ensure complete drying before beginning repairs."}
+        ]
+      }
+    },
+    {
+      "id": "slab-leak",
+      "name": "Slab Leak",
+      "slug": "slab-leak-water-damage",
+      "description": "Slab leak detection and water damage restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Slab leaks are one of the most challenging water damage issues Florida homeowners face. These leaks occur in the water lines running beneath or within your home's concrete foundation, making them difficult to detect until significant damage has occurred.\n\nIn South Florida, slab leaks are particularly common due to several factors: the region's limestone foundation, soil shifting from seasonal moisture changes, and the corrosive nature of Florida's water on copper pipes. Many homes built in the 1970s-90s have copper pipes that are now reaching the end of their lifespan.\n\nBecause slab leaks are hidden beneath concrete, they often cause extensive damage before homeowners notice warning signs. Water can saturate subflooring, damage flooring materials, promote mold growth under carpets and flooring, and even compromise the home's structural integrity over time.\n\nDetecting and addressing slab leaks requires specialized equipment and expertise. Our team uses advanced leak detection technology to pinpoint the exact location of leaks with minimal disruption to your home.",
+        "whyActFast": "Slab leaks can waste thousands of gallons of water monthly while silently damaging your home. The longer a slab leak goes unrepaired, the more extensive the damage becomes—including potential foundation issues, widespread mold growth, and complete flooring replacement. Early detection saves significant repair costs.",
+        "commonCauses": [
+          "Corrosion of copper pipes in concrete",
+          "Ground shifting and foundation movement",
+          "Poor original pipe installation",
+          "High water pressure damaging pipes",
+          "Abrasion from pipes rubbing against concrete",
+          "Electrolysis from electrical grounding on pipes",
+          "Age-related deterioration of pipe materials",
+          "Chemical reactions between pipes and soil/concrete"
+        ],
+        "preventionTips": [
+          "Schedule annual plumbing inspections",
+          "Monitor your water bill for unexplained increases",
+          "Maintain proper water pressure (40-80 psi)",
+          "Consider repiping older homes with modern materials",
+          "Have water chemistry tested annually",
+          "Address foundation settling or cracks promptly",
+          "Install a whole-home water leak detection system",
+          "Know the location of your main water shutoff"
+        ],
+        "warningSignals": [
+          "Unexplained increases in water bills",
+          "Sound of running water when nothing is on",
+          "Hot spots on floors (for hot water line leaks)",
+          "Damp or warped flooring without apparent cause",
+          "Cracks in walls or flooring",
+          "Mold or mildew odor with no visible source",
+          "Foundation cracks or heaving",
+          "Low water pressure throughout the home"
+        ],
+        "process": [
+          {"step": 1, "title": "Leak Detection", "description": "Using acoustic detection, thermal imaging, and other specialized equipment, we pinpoint the exact location of the slab leak without unnecessary demolition."},
+          {"step": 2, "title": "Damage Assessment", "description": "We thoroughly assess all water damage to flooring, subflooring, walls, and other affected areas using moisture detection equipment."},
+          {"step": 3, "title": "Water Extraction", "description": "Standing water is extracted and specialized equipment is deployed to remove moisture from under flooring and within the slab area."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial drying equipment creates optimal conditions for complete moisture removal from affected areas, including under flooring."},
+          {"step": 5, "title": "Mold Prevention", "description": "Antimicrobial treatments prevent mold growth in the dark, damp conditions that slab leaks create."},
+          {"step": 6, "title": "Restoration", "description": "Once plumbing repairs are complete, we restore damaged flooring, baseboards, and any affected structural elements."}
+        ],
+        "faqs": [
+          {"question": "How do I know if I have a slab leak?", "answer": "Watch for unexplained water bill increases, sounds of running water, hot spots on floors, damp carpeting, foundation cracks, or mold odors. If you notice any of these signs, call for professional leak detection immediately."},
+          {"question": "How are slab leaks detected?", "answer": "We use specialized acoustic equipment to hear water escaping pipes, thermal imaging to detect temperature changes, and pressure testing to confirm leaks. These methods pinpoint leak locations without tearing up your floor."},
+          {"question": "Is slab leak damage covered by insurance?", "answer": "Most policies cover the water damage caused by slab leaks, but not the plumbing repair itself. Coverage varies by policy, and we help document damage thoroughly for your insurance claim."},
+          {"question": "How serious is a slab leak?", "answer": "Slab leaks are very serious. They waste water, increase bills, damage flooring and belongings, promote mold growth, and can eventually compromise your home's foundation. Prompt repair is essential."},
+          {"question": "How long does slab leak restoration take?", "answer": "After the plumbing repair, water damage restoration typically takes 3-5 days for drying. Total timeline depends on the extent of damage and whether flooring replacement is needed."},
+          {"question": "Should I repipe my entire home if I have a slab leak?", "answer": "If your home has older copper pipes, one slab leak often indicates system-wide deterioration. Repiping with modern PEX or CPVC through the attic eliminates future slab leak risk and is often covered partially by insurance."}
+        ]
+      }
+    },
+    {
+      "id": "roof-leak",
+      "name": "Roof Leak",
+      "slug": "roof-leak-water-damage",
+      "description": "Roof leak water damage restoration and repair",
+      "urgency": "high",
+      "seasonality": ["hurricane-season", "rainy-season"],
+      "parentServices": ["water-damage-restoration", "roof-tarping"],
+      "bodyContent": {
+        "overview": "In South Florida, roof leaks are a constant concern due to the region's intense summer rainstorms, tropical weather patterns, and annual hurricane season. Even a small roof leak can cause significant damage to your home's structure, insulation, ceilings, walls, and personal belongings.\n\nRoof leaks often go undetected for extended periods because water can travel along rafters and roof decking before dripping down into visible areas. By the time you notice a water stain on your ceiling, the damage may have already spread extensively through your attic and wall cavities.\n\nSouth Florida's combination of intense UV exposure, heavy rains, and occasional hurricane-force winds creates challenging conditions for roofing systems. Tile, shingle, and flat roofs all face unique vulnerabilities in our climate, and regular inspection is essential for preventing costly water damage.\n\nOur restoration team addresses the immediate water damage while coordinating with roofing professionals to ensure the source is properly repaired. We understand the urgency of roof leak situations, especially during active weather events.",
+        "whyActFast": "Roof leaks worsen rapidly during rain events. Water spreads through attic insulation, saturates ceiling materials, and travels down wall cavities. Each rain event causes additional damage until the leak is stopped. Mold can develop in attic spaces within days. Immediate action minimizes damage and restoration costs.",
+        "commonCauses": [
+          "Missing, cracked, or damaged shingles or tiles",
+          "Deteriorated flashing around vents and chimneys",
+          "Clogged gutters causing water backup",
+          "Hurricane or storm damage",
+          "Age-related roof material deterioration",
+          "Improper installation or previous repairs",
+          "Skylight seal failures",
+          "AC unit or solar panel penetrations"
+        ],
+        "preventionTips": [
+          "Schedule professional roof inspections annually",
+          "Clean gutters and downspouts regularly",
+          "Trim trees that overhang the roof",
+          "Inspect after major storms for damage",
+          "Replace damaged shingles or tiles promptly",
+          "Check flashing around roof penetrations",
+          "Ensure attic ventilation is adequate",
+          "Address small repairs before they become major problems"
+        ],
+        "warningSignals": [
+          "Water stains on ceilings or walls",
+          "Dripping water during or after rain",
+          "Damp or musty smell in attic spaces",
+          "Missing, cracked, or curled roofing materials",
+          "Daylight visible through roof boards in attic",
+          "Granules from shingles in gutters",
+          "Sagging areas on the roof",
+          "Mold growth on attic surfaces"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Tarping", "description": "If rain is ongoing or forecast, we coordinate emergency roof tarping to stop active water intrusion before it causes more damage."},
+          {"step": 2, "title": "Water Extraction", "description": "Standing water is removed from affected areas, and wet insulation is extracted from attic spaces."},
+          {"step": 3, "title": "Moisture Assessment", "description": "Thermal imaging and moisture meters map the full extent of water spread through ceilings, walls, and attic areas."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial equipment dries ceiling materials, wall cavities, attic framing, and any other affected structural components."},
+          {"step": 5, "title": "Mold Prevention", "description": "Antimicrobial treatments protect attic and ceiling areas from mold growth in these difficult-to-access spaces."},
+          {"step": 6, "title": "Restoration", "description": "Damaged drywall, insulation, and ceiling materials are replaced. We coordinate timing with roof repair completion."}
+        ],
+        "faqs": [
+          {"question": "What should I do when I discover a roof leak?", "answer": "Place containers to catch dripping water, move belongings away from the area, and take photos for documentation. Call a professional immediately—water damage spreads quickly. If it's actively raining, emergency tarping may be needed."},
+          {"question": "Is roof leak damage covered by homeowner's insurance?", "answer": "Most policies cover sudden roof leak damage from storms or accidents. Gradual leaks from wear and lack of maintenance are typically not covered. We document damage thoroughly and work with your insurance adjuster."},
+          {"question": "How long does roof leak restoration take?", "answer": "Drying typically takes 3-5 days depending on damage extent. Full restoration, including ceiling repairs and painting, may take an additional 2-5 days. We coordinate with roofing contractors to ensure the source is fixed."},
+          {"question": "Can a small roof leak cause mold?", "answer": "Yes, absolutely. Attic spaces are warm, dark, and poorly ventilated—ideal conditions for mold growth. Even a small leak can lead to significant mold problems if not dried properly. Professional restoration includes mold prevention measures."},
+          {"question": "Should I try to patch my roof leak myself?", "answer": "Temporary measures like tarps can help, but climbing on a wet roof is dangerous. For proper repair and water damage restoration, professional help is recommended. We coordinate emergency tarping with experienced roofing contractors."},
+          {"question": "How can I prevent roof leak water damage?", "answer": "Annual roof inspections, regular gutter cleaning, prompt repair of minor damage, and post-storm inspections are key. In South Florida, hurricane shutters and impact-resistant roofing also help prevent storm-related leaks."}
+        ]
+      }
+    },
+    {
+      "id": "toilet-overflow",
+      "name": "Toilet Overflow",
+      "slug": "toilet-overflow-cleanup",
+      "description": "Toilet overflow cleanup and sanitization services",
+      "urgency": "high",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration", "sewage-cleanup"],
+      "bodyContent": {
+        "overview": "A toilet overflow is one of the most unpleasant and potentially hazardous water damage emergencies homeowners face. Unlike clean water damage from burst pipes or AC leaks, toilet overflows often involve contaminated Category 2 or Category 3 water, requiring specialized cleanup and sanitization procedures.\n\nToilet overflows can release significant amounts of water in a short time, spreading across bathroom floors, seeping under flooring, and potentially affecting adjacent rooms. The contaminated nature of this water means that any porous materials it contacts—carpet, padding, drywall, particle board—may need to be removed rather than dried.\n\nBeyond the immediate water damage, toilet overflows pose health risks from bacteria, viruses, and other pathogens present in sewage-contaminated water. Professional remediation ensures proper sanitization and safe restoration of your home.\n\nOur certified technicians are trained in sewage cleanup protocols and equipped with personal protective equipment to safely handle contaminated water situations. We follow strict industry standards for Category 2 and Category 3 water damage restoration.",
+        "whyActFast": "Contaminated water from toilet overflows poses immediate health risks and causes rapid material damage. Bacteria multiply quickly in wet conditions, and contamination spreads further with every passing hour. Prompt professional cleanup protects your family's health and limits the extent of material removal required.",
+        "commonCauses": [
+          "Clogged toilet from excessive waste or foreign objects",
+          "Main sewer line blockage",
+          "Faulty flapper valve or fill valve",
+          "Blocked vent stack affecting drainage",
+          "Tree roots infiltrating sewer lines",
+          "Septic system failure",
+          "Children flushing toys or other objects",
+          "Multiple simultaneous flushes in the home"
+        ],
+        "preventionTips": [
+          "Never flush anything except toilet paper and waste",
+          "Keep plungers accessible near all toilets",
+          "Don't ignore slow-draining toilets",
+          "Schedule regular sewer line inspections",
+          "Know where your main sewer cleanout is located",
+          "Install toilet overflow alarms in high-risk areas",
+          "Teach children what can and cannot be flushed",
+          "Have main line snaked annually if tree roots are present"
+        ],
+        "warningSignals": [
+          "Toilet draining slowly or not at all",
+          "Gurgling sounds from drains throughout the house",
+          "Multiple drains backing up simultaneously",
+          "Sewage odors in the home",
+          "Water backing up in tub when toilet is flushed",
+          "Toilet needing multiple flushes",
+          "Visible overflow or water around toilet base",
+          "Wet or stained flooring near toilet"
+        ],
+        "process": [
+          {"step": 1, "title": "Safety Assessment", "description": "Our technicians assess the contamination level and implement safety protocols, including personal protective equipment and area containment."},
+          {"step": 2, "title": "Water Extraction", "description": "Contaminated water is extracted using specialized equipment designed for sewage cleanup, minimizing cross-contamination."},
+          {"step": 3, "title": "Contaminated Material Removal", "description": "Porous materials like carpet, padding, and contaminated drywall are carefully removed and disposed of according to regulations."},
+          {"step": 4, "title": "Sanitization & Disinfection", "description": "All affected surfaces are thoroughly sanitized using EPA-registered antimicrobial agents to eliminate bacteria and pathogens."},
+          {"step": 5, "title": "Structural Drying", "description": "Industrial drying equipment ensures complete moisture removal from remaining structural materials."},
+          {"step": 6, "title": "Restoration", "description": "Removed materials are replaced, and your bathroom is restored to a safe, sanitary condition."}
+        ],
+        "faqs": [
+          {"question": "Is toilet overflow water dangerous?", "answer": "Yes, toilet overflows often contain harmful bacteria, viruses, and pathogens. It's classified as Category 2 (gray water) or Category 3 (black water) depending on contamination level. Professional cleanup with proper sanitization is essential for health safety."},
+          {"question": "Can I clean up a toilet overflow myself?", "answer": "Small overflows of clean water on tile floors can be cleaned with proper precautions. However, if sewage is involved, water has reached carpet or other porous materials, or contamination has spread, professional remediation is strongly recommended."},
+          {"question": "Will my insurance cover toilet overflow damage?", "answer": "Most homeowner's policies cover sudden toilet overflow damage. However, damage from ongoing clogs you were aware of may not be covered. We document everything thoroughly for your insurance claim."},
+          {"question": "What materials need to be removed after toilet overflow?", "answer": "Any porous materials contacted by contaminated water typically need removal—this includes carpet, padding, particle board flooring, lower portions of drywall, and insulation. Non-porous surfaces can be sanitized."},
+          {"question": "How long does toilet overflow restoration take?", "answer": "Cleanup and sanitization typically take 1-2 days. Drying of structural elements takes 2-4 additional days. Full restoration including flooring and drywall replacement may add 2-5 more days depending on extent."},
+          {"question": "How do I prevent toilet overflows?", "answer": "Only flush toilet paper and waste, address slow drains immediately, keep a plunger accessible, schedule regular sewer line maintenance, and teach all household members proper flushing habits."}
+        ]
+      }
+    },
+    {
+      "id": "hurricane-flooding",
+      "name": "Hurricane Flooding",
+      "slug": "hurricane-flood-damage",
+      "description": "Hurricane flood damage restoration and emergency services",
+      "urgency": "emergency",
+      "seasonality": ["hurricane-season"],
+      "parentServices": ["water-damage-restoration", "storm-damage-restoration", "emergency-restoration"],
+      "bodyContent": {
+        "overview": "Living in South Florida means living with hurricane season. From June through November, the threat of tropical storms and hurricanes is constant, and flooding is one of the most common and destructive consequences when these storms make landfall or pass nearby.\n\nHurricane flooding presents unique challenges that set it apart from other water damage scenarios. Floodwater is almost always Category 3 'black water'—heavily contaminated with sewage, chemicals, debris, and biological hazards. This contamination means that extensive material removal and professional sanitization are essential, not optional.\n\nBeyond contamination, the volume of water from hurricane flooding often overwhelms homes, saturating everything from flooring to wall cavities to ceiling insulation. Structural damage from wind often accompanies flooding, creating multiple simultaneous restoration challenges.\n\nOur hurricane flood restoration team has extensive experience responding to major storm events throughout South Florida. We understand the urgency families face getting back into their homes and work efficiently to restore properties while ensuring proper sanitization and mold prevention.",
+        "whyActFast": "After hurricane flooding, the clock is ticking on multiple fronts. Contaminated floodwater poses immediate health risks. Mold can begin growing within 24-48 hours in Florida's humidity. Structural damage worsens as materials remain saturated. Early professional intervention maximizes what can be saved and minimizes health risks.",
+        "commonCauses": [
+          "Storm surge from hurricanes and tropical storms",
+          "Heavy rainfall overwhelming drainage systems",
+          "Canal and river overflow during major storms",
+          "Dam or levee breaches during extreme events",
+          "Combined wind damage and rain intrusion",
+          "Rising groundwater during prolonged rain events",
+          "Debris blocking normal water flow paths",
+          "Power outage preventing sump pump operation"
+        ],
+        "preventionTips": [
+          "Know your flood zone and evacuation routes",
+          "Install flood vents in enclosed areas below BFE",
+          "Elevate electrical systems and HVAC equipment",
+          "Keep important documents in waterproof containers",
+          "Invest in flood insurance (separate from homeowner's)",
+          "Install battery backup for sump pumps",
+          "Clear drains and gutters before storm season",
+          "Have a hurricane preparedness kit ready"
+        ],
+        "warningSignals": [
+          "Hurricane watch or warning for your area",
+          "Rising water levels during storm events",
+          "Storm surge warnings from authorities",
+          "Flood warnings from local emergency management",
+          "Water entering home during or after storm",
+          "Standing water visible outside approaching home",
+          "Loss of power to sump pumps during heavy rain",
+          "Strong wind and rain sounds from inside home"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response", "description": "Once conditions are safe, our team mobilizes quickly to assess damage and begin water removal. We pre-position resources before major storms when possible."},
+          {"step": 2, "title": "Safety & Contamination Assessment", "description": "Floodwater contamination level is assessed, and proper safety protocols are implemented. Structural safety is evaluated before interior work begins."},
+          {"step": 3, "title": "Water Extraction", "description": "High-volume pumps and extraction equipment remove standing floodwater. This is urgent to limit damage and contamination spread."},
+          {"step": 4, "title": "Contaminated Material Removal", "description": "All porous materials contacted by floodwater—carpet, drywall, insulation, flooring—are carefully removed and properly disposed of."},
+          {"step": 5, "title": "Sanitization & Drying", "description": "Remaining structural elements are sanitized, treated with antimicrobials, and thoroughly dried using industrial dehumidification equipment."},
+          {"step": 6, "title": "Complete Restoration", "description": "We rebuild and restore your home from structural repairs to finishing touches, helping you return to normal life as quickly as possible."}
+        ],
+        "faqs": [
+          {"question": "How soon can restoration begin after a hurricane?", "answer": "We begin mobilizing teams as soon as conditions are safe—typically within 24-48 hours after a storm passes. However, access restrictions, widespread damage, and safety conditions can affect response times after major hurricanes."},
+          {"question": "Is flood damage covered by homeowner's insurance?", "answer": "Standard homeowner's insurance does NOT cover flood damage. Separate flood insurance through the NFIP or private insurers is required. We work with both types of claims and help document damage thoroughly."},
+          {"question": "What should I do while waiting for restoration crews?", "answer": "If safe, take photos of all damage, do not turn on electrical systems in flooded areas, avoid walking through standing water, keep children and pets away from affected areas, and begin moving salvageable items to dry areas if possible."},
+          {"question": "Can anything be saved after hurricane flooding?", "answer": "Hard, non-porous items can often be salvaged with proper cleaning and sanitization. Porous materials like carpet, fabric furniture, mattresses, and drywall typically cannot be saved and must be removed for health safety."},
+          {"question": "How long does hurricane flood restoration take?", "answer": "Full restoration after significant flooding can take weeks to months depending on damage extent. Initial water removal and drying typically take 5-10 days. Reconstruction timeline depends on material availability and extent of structural damage."},
+          {"question": "Should I wait for insurance before starting cleanup?", "answer": "No—begin documenting immediately with photos and video, but start water removal as soon as safely possible to prevent additional damage. Insurance companies expect policyholders to mitigate damage. Keep all receipts and records."}
+        ]
+      }
+    }
+  ],
+  "mold": [
+    {
+      "id": "mold-from-roof-leak",
+      "name": "Mold from Roof Leak",
+      "slug": "roof-leak-mold-remediation",
+      "description": "Mold remediation caused by roof leak water intrusion",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["mold-remediation"],
+      "bodyContent": {
+        "overview": "Roof leaks are one of the leading causes of mold growth in South Florida homes. The combination of water intrusion from above and Florida's high humidity creates ideal conditions for mold colonies to establish and spread rapidly through attic spaces, ceiling cavities, and interior walls.\n\nWhat makes roof leak mold particularly challenging is its hidden nature. Water from a roof leak often travels along rafters, roof decking, and through insulation before becoming visible. By the time you notice water stains on your ceiling, mold may have been growing in your attic for weeks or even months.\n\nAttic spaces provide perfect mold conditions: they're dark, warm, poorly ventilated, and—when a roof leak is present—consistently damp. Common mold species found after roof leaks include Aspergillus, Cladosporium, and in severe cases, Stachybotrys (black mold), all of which can cause respiratory issues and allergic reactions.\n\nOur certified mold remediation team specializes in roof leak mold situations, addressing both the visible mold and the hidden colonies that often extend well beyond what's immediately apparent.",
+        "whyActFast": "Mold from roof leaks spreads continuously as long as moisture is present. Each rain event feeds existing colonies and creates conditions for new growth. Spores travel through your HVAC system to other areas of your home, potentially affecting indoor air quality throughout. Early remediation limits the scope and cost of removal.",
+        "commonCauses": [
+          "Damaged or missing shingles allowing water entry",
+          "Deteriorated flashing around roof penetrations",
+          "Clogged gutters causing water backup under roofing",
+          "Hurricane or tropical storm damage",
+          "Age-related roofing material failure",
+          "Improper attic ventilation trapping moisture",
+          "Condensation from improperly vented bathroom fans",
+          "Skylight seal failures allowing water intrusion"
+        ],
+        "preventionTips": [
+          "Schedule annual professional roof inspections",
+          "Address minor roof repairs immediately—don't wait",
+          "Keep gutters and downspouts clean and flowing",
+          "Ensure bathroom exhaust fans vent outside, not into attic",
+          "Maintain proper attic ventilation to prevent condensation",
+          "Inspect attic periodically for signs of water intrusion",
+          "Have roof inspected after major storms",
+          "Install a moisture detection system in the attic"
+        ],
+        "warningSignals": [
+          "Water stains on ceilings or upper walls",
+          "Musty odors, especially after rain events",
+          "Visible mold growth on attic surfaces",
+          "Discoloration or sagging ceiling materials",
+          "Peeling paint or wallpaper on upper floors",
+          "Increased allergy symptoms at home",
+          "Dark spots on rafters or roof decking",
+          "Insulation that appears wet or compressed"
+        ],
+        "process": [
+          {"step": 1, "title": "Roof Repair Coordination", "description": "Before mold remediation can be effective, the roof leak must be stopped. We coordinate with roofing professionals to ensure the water source is eliminated."},
+          {"step": 2, "title": "Containment Setup", "description": "Affected areas are sealed with plastic sheeting and negative air pressure to prevent mold spores from spreading to other parts of your home during remediation."},
+          {"step": 3, "title": "Mold Assessment", "description": "We thoroughly inspect attic spaces, ceiling cavities, and wall interiors to map the full extent of mold growth, often using borescopes for hidden areas."},
+          {"step": 4, "title": "Safe Mold Removal", "description": "Mold-contaminated materials are carefully removed using HEPA filtration and proper containment. Insulation, drywall, and wood materials may need removal."},
+          {"step": 5, "title": "HEPA Cleaning & Treatment", "description": "Remaining structural surfaces are HEPA vacuumed and treated with antimicrobial solutions to eliminate residual spores and prevent regrowth."},
+          {"step": 6, "title": "Clearance & Restoration", "description": "Post-remediation testing confirms successful mold removal. We then restore affected areas with new insulation, drywall, and finishes as needed."}
+        ],
+        "faqs": [
+          {"question": "How do I know if my roof leak caused mold?", "answer": "If you've had a roof leak, there's a high probability mold has developed—especially if the leak persisted for more than a few days. Signs include musty odors, visible mold in the attic, water stains that have darkened over time, or increased allergy symptoms at home."},
+          {"question": "Can I just clean visible mold myself?", "answer": "Surface mold on small areas might be manageable for DIY, but roof leak mold almost always extends into hidden areas—inside walls, under insulation, throughout attic spaces. Professional remediation is needed to address the full extent of contamination."},
+          {"question": "How much does roof leak mold remediation cost?", "answer": "Costs vary significantly based on the extent of mold growth and affected area size. Small attic areas might cost $1,500-$3,500, while extensive growth requiring structural work can exceed $10,000. We provide detailed assessments before work begins."},
+          {"question": "Will my insurance cover roof leak mold remediation?", "answer": "Coverage depends on your policy and the circumstances. Many policies cover mold remediation if it resulted from a covered event (like storm damage). Gradual leaks from lack of maintenance may not be covered. We help document your claim thoroughly."},
+          {"question": "How long does roof leak mold remediation take?", "answer": "Most roof leak mold projects take 3-5 days for remediation, plus additional time for restoration work. Extensive attic mold may take longer. We work efficiently while ensuring thorough, safe removal."},
+          {"question": "Do I need to leave my home during mold remediation?", "answer": "In most cases, no—proper containment keeps spores isolated from living areas. However, if mold is extensive or you have respiratory sensitivities, temporary relocation may be recommended during the most intensive remediation phases."}
+        ]
+      }
+    },
+    {
+      "id": "mold-from-ac",
+      "name": "Mold from AC Condensation",
+      "slug": "ac-mold-remediation",
+      "description": "AC condensation mold removal and prevention",
+      "urgency": "moderate",
+      "seasonality": ["summer", "year-round"],
+      "parentServices": ["mold-remediation"],
+      "bodyContent": {
+        "overview": "In South Florida's subtropical climate, air conditioning runs nearly year-round—and that constant operation creates significant condensation. When AC systems aren't properly maintained or when leaks develop, this moisture becomes a breeding ground for mold growth in some of your home's most critical areas.\n\nAC-related mold typically develops in several locations: inside the air handler unit itself, in ductwork, around drain pans, and in ceiling or wall spaces where condensation or leaks have spread. What makes this particularly concerning is that your AC system circulates air throughout your entire home, potentially spreading mold spores to every room.\n\nMold growth inside AC systems often goes unnoticed until it becomes severe. Homeowners may notice musty odors when the AC runs, increased allergy symptoms, or visible mold around vents—by which point contamination may be extensive. The dark, damp environment inside ducts and air handlers is ideal for mold species like Aspergillus, Penicillium, and Cladosporium.\n\nOur team specializes in AC-related mold remediation, addressing contamination in the AC system itself while also treating affected building materials in surrounding areas.",
+        "whyActFast": "AC mold is particularly dangerous because your HVAC system actively distributes spores throughout your home every time it runs. Occupants breathe these spores constantly, potentially causing or worsening respiratory issues, allergies, and asthma. Prompt remediation stops this continuous exposure and prevents further spread.",
+        "commonCauses": [
+          "Clogged condensate drain lines causing overflow",
+          "Cracked or rusted drip pans",
+          "High humidity levels in the home",
+          "Dirty air filters restricting airflow",
+          "Improper AC sizing (oversized units short-cycle)",
+          "Lack of regular AC maintenance",
+          "Blocked or undersized return air vents",
+          "Ductwork leaks allowing condensation"
+        ],
+        "preventionTips": [
+          "Change or clean air filters monthly during peak AC season",
+          "Schedule professional AC maintenance twice yearly",
+          "Flush condensate drain with vinegar monthly",
+          "Keep indoor humidity below 60% (ideally 45-55%)",
+          "Ensure proper airflow to all supply and return vents",
+          "Consider UV light installation in air handler",
+          "Have ductwork cleaned every 3-5 years",
+          "Inspect drip pan regularly for cracks or rust"
+        ],
+        "warningSignals": [
+          "Musty or moldy odor when AC is running",
+          "Visible mold growth around AC vents",
+          "Black residue inside or around vents",
+          "Increased allergy or respiratory symptoms",
+          "Water stains near AC unit or air handler",
+          "Condensation on ductwork or vents",
+          "AC performance issues or reduced cooling",
+          "Family members experiencing unexplained health issues"
+        ],
+        "process": [
+          {"step": 1, "title": "AC System Inspection", "description": "We thoroughly inspect the air handler, evaporator coils, drain pan, and accessible ductwork to identify all mold contamination and moisture sources."},
+          {"step": 2, "title": "Containment & Air Control", "description": "The AC system is shut down and affected areas are contained to prevent spore spread. HEPA air scrubbers purify the air during remediation."},
+          {"step": 3, "title": "Mold Removal", "description": "Mold is removed from all affected surfaces including coils, drip pans, and interior components. Contaminated ductwork sections may need replacement."},
+          {"step": 4, "title": "HVAC Component Cleaning", "description": "Remaining HVAC components are thoroughly cleaned with antimicrobial solutions. Ductwork is professionally cleaned to remove spores and debris."},
+          {"step": 5, "title": "Building Material Remediation", "description": "Any mold growth in walls, ceilings, or other areas from AC moisture is addressed using standard mold remediation protocols."},
+          {"step": 6, "title": "Prevention Measures", "description": "We address the root cause—clogged drains, damaged components, or maintenance issues—and recommend ongoing prevention strategies."}
+        ],
+        "faqs": [
+          {"question": "How do I know if there's mold in my AC system?", "answer": "Key signs include musty odors when AC runs, visible mold around vents, black residue inside vents, and worsening allergy symptoms at home. If you notice any of these, professional inspection is recommended."},
+          {"question": "Can mold in my AC make me sick?", "answer": "Yes. AC mold constantly circulates spores throughout your home, which you breathe in. This can cause or worsen allergies, asthma, respiratory infections, headaches, and fatigue. People with compromised immune systems are at higher risk."},
+          {"question": "Should I clean AC mold myself?", "answer": "While you can clean visible mold around vents, mold inside the air handler, on coils, or in ductwork requires professional remediation. DIY attempts often spread spores further and don't address hidden contamination."},
+          {"question": "Will cleaning my ducts remove AC mold?", "answer": "Standard duct cleaning alone won't address significant mold contamination. Mold remediation requires antimicrobial treatment, potential component replacement, and addressing the moisture source. We coordinate with HVAC professionals for comprehensive treatment."},
+          {"question": "How can I prevent mold in my AC?", "answer": "Regular maintenance is key: change filters monthly, have the system professionally serviced twice yearly, keep the condensate drain clear, maintain proper humidity levels, and consider adding UV lights to the air handler."},
+          {"question": "How much does AC mold remediation cost?", "answer": "Costs vary based on contamination extent. Simple air handler mold might cost $500-$1,500 to remediate. Extensive duct contamination or mold in surrounding building materials can cost several thousand dollars. We provide detailed estimates before work begins."}
+        ]
+      }
+    },
+    {
+      "id": "bathroom-mold",
+      "name": "Bathroom Mold",
+      "slug": "bathroom-mold-removal",
+      "description": "Bathroom mold remediation and moisture control",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["mold-remediation"],
+      "bodyContent": {
+        "overview": "Bathrooms are the most common location for mold growth in any home, and in South Florida's humid climate, bathroom mold is nearly universal. The combination of frequent moisture from showers and baths, often poor ventilation, and warm temperatures creates ideal conditions for mold to thrive.\n\nBathroom mold ranges from surface-level growth on grout and caulk—often manageable with regular cleaning—to serious infestations hidden behind walls, under vanities, and in ceiling cavities. When bathroom mold penetrates beyond visible surfaces, professional remediation becomes necessary to fully address the problem.\n\nCommon bathroom mold species include Cladosporium (often appearing as dark spots on surfaces), Aspergillus, and in persistently damp conditions, Stachybotrys (black mold). These species can cause allergic reactions, respiratory issues, and other health concerns, particularly for sensitive individuals.\n\nOur bathroom mold remediation service addresses both visible mold and hidden growth behind walls and under fixtures, while also implementing moisture control solutions to prevent recurrence.",
+        "whyActFast": "Surface bathroom mold spreads quickly to hidden areas where it becomes much more difficult and expensive to remediate. Mold on grout today can be mold inside your walls tomorrow. Early intervention when mold is still surface-level saves significant remediation costs and prevents structural damage.",
+        "commonCauses": [
+          "Inadequate bathroom ventilation",
+          "Exhaust fan not vented outside or undersized",
+          "Failure to run exhaust fan during and after showers",
+          "Leaking plumbing fixtures or supply lines",
+          "Failed caulk or grout allowing water penetration",
+          "High humidity levels throughout the home",
+          "Slow dripping faucets or running toilets",
+          "Splash water accumulation behind toilets or vanities"
+        ],
+        "preventionTips": [
+          "Run exhaust fan during and 20-30 minutes after bathing",
+          "Ensure exhaust fan is properly sized and vented outside",
+          "Maintain caulk and grout in good condition",
+          "Wipe down shower walls after use",
+          "Fix dripping faucets and leaking fixtures promptly",
+          "Keep bathroom door open when not in use for air circulation",
+          "Use mold-resistant paint and building materials",
+          "Consider a humidity-sensing exhaust fan"
+        ],
+        "warningSignals": [
+          "Visible mold on grout, caulk, or surfaces",
+          "Musty or earthy odor in the bathroom",
+          "Discoloration or staining on walls or ceiling",
+          "Peeling or bubbling paint near shower areas",
+          "Soft or spongy drywall when pressed",
+          "Warped or damaged baseboards",
+          "Persistent condensation on surfaces",
+          "Black or dark spots on ceiling or walls"
+        ],
+        "process": [
+          {"step": 1, "title": "Comprehensive Inspection", "description": "We inspect visible areas and use moisture meters to identify hidden mold behind walls, under vanities, and in ceiling spaces. The full extent of growth is documented."},
+          {"step": 2, "title": "Containment Setup", "description": "Affected areas are isolated with plastic sheeting and negative air pressure to prevent spore spread to the rest of your home during remediation."},
+          {"step": 3, "title": "Mold Removal", "description": "Contaminated materials—drywall, insulation, vanity components—are carefully removed. Salvageable surfaces are treated with appropriate cleaning methods."},
+          {"step": 4, "title": "HEPA Cleaning", "description": "All surfaces in the contained area are HEPA vacuumed and treated with antimicrobial solutions to eliminate residual spores."},
+          {"step": 5, "title": "Moisture Source Correction", "description": "We address the underlying moisture problem—ventilation improvements, plumbing repairs, or other corrections—to prevent mold recurrence."},
+          {"step": 6, "title": "Restoration", "description": "Removed materials are replaced with mold-resistant alternatives. We recommend ongoing maintenance practices to keep your bathroom mold-free."}
+        ],
+        "faqs": [
+          {"question": "Is bathroom mold dangerous?", "answer": "Bathroom mold can cause allergic reactions, respiratory issues, and other health problems, especially for those with asthma, allergies, or weakened immune systems. While not all mold is toxic, any significant mold growth should be addressed."},
+          {"question": "Can I clean bathroom mold myself?", "answer": "Surface mold on tile, grout, and hard surfaces can often be cleaned with appropriate products. However, if mold has spread behind walls, under the vanity, or covers more than about 10 square feet, professional remediation is recommended."},
+          {"question": "How do I know if mold is behind my bathroom walls?", "answer": "Signs include musty odors, soft or spongy drywall, peeling or bubbling paint, discoloration spreading from shower areas, and visible mold in adjacent spaces. We use moisture meters to detect hidden water and mold without destructive testing."},
+          {"question": "Will painting over bathroom mold kill it?", "answer": "No—paint doesn't kill mold and may actually trap moisture underneath. The mold will continue growing beneath the paint and eventually show through. Mold must be properly removed before any painting or repairs."},
+          {"question": "How can I prevent bathroom mold from returning?", "answer": "Proper ventilation is essential—ensure your exhaust fan is adequately sized and vented outside, run it during and after showers, maintain caulk and grout, and wipe down wet surfaces. In Florida's humidity, these practices are critical."},
+          {"question": "How much does bathroom mold remediation cost?", "answer": "Costs depend on extent of growth. Surface mold cleaning may cost a few hundred dollars. Hidden mold behind walls requiring drywall removal can cost $1,500-$4,000 or more. We provide detailed estimates after inspection."}
+        ]
+      }
+    },
+    {
+      "id": "mold-after-flood",
+      "name": "Mold After Flood",
+      "slug": "post-flood-mold-remediation",
+      "description": "Post-flood mold remediation and prevention services",
+      "urgency": "high",
+      "seasonality": ["after-storms", "year-round"],
+      "parentServices": ["mold-remediation", "water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Flooding—whether from hurricanes, tropical storms, heavy rains, or plumbing catastrophes—creates the most severe conditions for mold growth. In South Florida's warm, humid environment, mold can begin developing within 24-48 hours after flooding and can become extensive within just a few days.\n\nPost-flood mold presents unique challenges. Floodwater is almost always contaminated, carrying bacteria, sewage, chemicals, and organic matter that feeds mold growth. This contamination spreads throughout flooded materials, and the mold that develops is often more hazardous than typical household mold.\n\nEven after visible water is removed, moisture remains trapped in building materials—inside walls, under flooring, within insulation. Without professional drying, this hidden moisture becomes a persistent mold source that can contaminate your home for months or years after the initial flooding event.\n\nOur post-flood mold remediation service addresses both the immediate contamination and the hidden moisture that continues to fuel mold growth long after floodwaters recede.",
+        "whyActFast": "The 24-48 hour window after flooding is critical. Once mold establishes in flood-saturated materials, it spreads rapidly and becomes increasingly expensive to remediate. Materials that could have been dried and saved may need complete removal if mold takes hold. Quick professional response saves both health and money.",
+        "commonCauses": [
+          "Hurricane and tropical storm flooding",
+          "Heavy rainfall overwhelming drainage",
+          "Storm surge in coastal areas",
+          "Sewage backup during heavy rains",
+          "Major plumbing failures flooding large areas",
+          "Appliance failures releasing significant water",
+          "Flash flooding from sudden storms",
+          "Rising groundwater during extended rain events"
+        ],
+        "preventionTips": [
+          "Ensure professional water extraction within 24 hours of flooding",
+          "Don't try to dry flood-damaged areas with fans alone",
+          "Remove wet carpet, padding, and porous materials promptly",
+          "Use commercial dehumidification, not household units",
+          "Don't seal or paint over flood-affected materials too soon",
+          "Have professional moisture testing before reconstruction",
+          "Address all water-damaged areas, not just visible ones",
+          "Consider flood-resistant materials for future renovations"
+        ],
+        "warningSignals": [
+          "Musty or earthy odors after flooding",
+          "Visible mold growth on any surfaces",
+          "Discoloration on walls or floors",
+          "Warped or buckled flooring materials",
+          "Peeling or bubbling paint",
+          "Persistent humidity despite drying efforts",
+          "Allergic symptoms or respiratory issues",
+          "Black, green, or white fuzzy growth on materials"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Assessment", "description": "We rapidly assess the extent of flooding, contamination level, and mold development to create an immediate action plan for your property."},
+          {"step": 2, "title": "Containment & Air Quality", "description": "Affected areas are sealed to prevent spore spread. HEPA air scrubbers and negative air pressure protect unaffected areas during remediation."},
+          {"step": 3, "title": "Contaminated Material Removal", "description": "Flood-damaged porous materials—drywall, insulation, carpet, padding—are removed according to contamination protocols. These materials cannot be saved."},
+          {"step": 4, "title": "Structural Cleaning", "description": "Remaining structural elements are HEPA cleaned, treated with antimicrobials, and prepared for drying. All surfaces are thoroughly addressed."},
+          {"step": 5, "title": "Professional Drying", "description": "Industrial dehumidifiers and air movers ensure complete moisture removal from structural materials, preventing future mold growth."},
+          {"step": 6, "title": "Clearance & Reconstruction", "description": "Post-remediation testing confirms successful mold removal before reconstruction begins. We rebuild with appropriate materials for your situation."}
+        ],
+        "faqs": [
+          {"question": "How soon does mold grow after flooding?", "answer": "In South Florida's conditions, mold can begin growing within 24-48 hours after flooding. Visible colonies often appear within 3-5 days. This is why immediate professional response to flooding is so important."},
+          {"question": "Can I stay in my home during post-flood mold remediation?", "answer": "This depends on the extent of contamination. Minor mold with proper containment may allow you to stay. Extensive post-flood mold or contaminated floodwater exposure typically requires temporary relocation for safety."},
+          {"question": "Is post-flood mold more dangerous than regular mold?", "answer": "Potentially, yes. Floodwater contamination introduces additional bacteria and pathogens into affected materials. The mold that grows on these materials may carry or produce additional toxins. Professional handling is especially important."},
+          {"question": "Will my insurance cover post-flood mold remediation?", "answer": "If you have flood insurance and respond promptly, mold remediation may be covered. Standard homeowner's policies typically don't cover flood damage. Documentation of rapid response is important for claims."},
+          {"question": "Can any flood-damaged materials be saved?", "answer": "Non-porous materials like metal, glass, and solid wood can often be cleaned and saved. Porous materials—drywall, carpet, insulation, particle board, fabric items—typically cannot be saved after flooding and must be removed."},
+          {"question": "How do I know if all the mold is gone after remediation?", "answer": "We conduct post-remediation verification, often including air quality testing, to confirm mold levels are within acceptable ranges before clearance is given. Clearance testing provides documentation that remediation was successful."}
+        ]
+      }
+    }
+  ],
+  "fire": [
+    {
+      "id": "kitchen-fire",
+      "name": "Kitchen Fire",
+      "slug": "kitchen-fire-damage-restoration",
+      "description": "Kitchen fire damage cleanup and restoration",
+      "urgency": "high",
+      "seasonality": ["holidays", "year-round"],
+      "parentServices": ["fire-damage-restoration"],
+      "bodyContent": {
+        "overview": "Kitchen fires are the leading cause of home fires nationwide, and they're particularly common during holiday cooking seasons. Even a small kitchen fire can cause extensive damage beyond the immediate burn area—smoke and soot travel throughout the home, contaminating surfaces, damaging electronics, and leaving persistent odors that require professional remediation.\n\nThe damage from a kitchen fire extends well beyond scorched cabinets and walls. Grease fires produce thick, oily smoke that coats every surface. The heat can warp countertops, damage appliances, and compromise structural elements. Firefighting efforts often add water damage to the equation. And the smell—that acrid mix of burned food, melted plastic, and smoke—permeates soft furnishings, clothing, and HVAC systems.\n\nKitchen fire restoration requires addressing multiple damage types simultaneously: fire damage to structures and contents, smoke and soot contamination throughout the home, water damage from firefighting, and the ever-present risk of mold from that water. Our comprehensive approach addresses all of these interconnected issues.\n\nOur fire damage specialists have extensive experience with kitchen fire restoration, from small stovetop incidents to major grease fires that spread beyond the kitchen.",
+        "whyActFast": "Smoke and soot are acidic and continue damaging surfaces after the fire is out. Within hours, soot begins etching into painted surfaces, metals, and fabrics. Within days, corrosion and permanent staining occur. Quick professional cleaning prevents secondary damage and reduces restoration costs.",
+        "commonCauses": [
+          "Unattended cooking on stovetop",
+          "Grease buildup catching fire",
+          "Flammable items too close to heat sources",
+          "Malfunctioning appliances",
+          "Overheated cooking oil",
+          "Electrical issues with kitchen equipment",
+          "Forgotten food in the oven or toaster",
+          "Children left unsupervised near cooking areas"
+        ],
+        "preventionTips": [
+          "Never leave cooking unattended, especially when frying",
+          "Keep flammable items away from stovetop",
+          "Clean grease buildup from stovetop and range hood regularly",
+          "Keep a fire extinguisher in the kitchen and know how to use it",
+          "Never throw water on a grease fire—use a lid or extinguisher",
+          "Ensure smoke detectors near kitchen are working",
+          "Turn pot handles inward to prevent accidental spills",
+          "Have a clear escape plan and practice it with family"
+        ],
+        "warningSignals": [
+          "Smoke or flames from cooking area",
+          "Burning smell from appliances",
+          "Unusual sounds from electrical equipment",
+          "Sparking or arcing from outlets or appliances",
+          "Grease smoke from stovetop",
+          "Discolored or melting materials near heat sources",
+          "Smoke detector activating during cooking",
+          "Appliances that feel unusually hot"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response & Assessment", "description": "We secure the property, document all damage for insurance purposes, and create a comprehensive restoration plan addressing fire, smoke, and water damage."},
+          {"step": 2, "title": "Board-Up & Security", "description": "If windows or doors are compromised, we secure the property to prevent weather damage and unauthorized entry during restoration."},
+          {"step": 3, "title": "Water Removal & Drying", "description": "Firefighting water is extracted and affected areas are dried to prevent mold growth, which can begin within 24-48 hours."},
+          {"step": 4, "title": "Smoke & Soot Cleaning", "description": "Professional cleaning techniques remove soot from all surfaces, including walls, ceilings, cabinets, and contents. HVAC systems are cleaned to remove smoke contamination."},
+          {"step": 5, "title": "Odor Elimination", "description": "Specialized equipment including ozone generators, thermal foggers, and hydroxyl generators eliminate smoke odor from the structure and contents."},
+          {"step": 6, "title": "Reconstruction & Restoration", "description": "Damaged structures are rebuilt, appliances replaced, and the kitchen restored to pre-fire condition or better."}
+        ],
+        "faqs": [
+          {"question": "Can my kitchen be fully restored after a fire?", "answer": "In most cases, yes. Even significant kitchen fires can be fully restored with professional remediation. The extent of work depends on the fire's severity—from cleaning and repainting for minor incidents to complete kitchen renovation for major fires."},
+          {"question": "Is kitchen fire damage covered by homeowner's insurance?", "answer": "Most homeowner's policies cover accidental fire damage, including kitchen fires. Coverage typically includes structural repairs, content replacement, smoke damage remediation, and additional living expenses if you must relocate temporarily."},
+          {"question": "How long does kitchen fire restoration take?", "answer": "Timeline varies with damage extent. Minor smoke damage may take 3-5 days to clean and restore. Significant fires requiring structural work can take 4-8 weeks or longer. We provide detailed timelines after assessment."},
+          {"question": "Why does the smoke smell spread throughout my house?", "answer": "Smoke is gaseous and travels wherever air flows. Your HVAC system circulates smoke throughout the home, and smoke particles penetrate porous materials everywhere. Professional cleaning of ducts, contents, and surfaces is needed for complete odor removal."},
+          {"question": "Can I clean smoke damage myself?", "answer": "Minor surface soot can sometimes be cleaned, but improper cleaning often drives soot deeper into materials, causing permanent staining. Professional cleaning uses specialized products and techniques for different surface types. DIY attempts often make damage worse."},
+          {"question": "What should I do immediately after a kitchen fire?", "answer": "Ensure everyone is safe, call 911, evacuate if needed, and don't re-enter until fire department clears the property. Don't clean or touch anything—soot and residue need professional assessment. Contact your insurance company and a restoration professional promptly."}
+        ]
+      }
+    },
+    {
+      "id": "electrical-fire",
+      "name": "Electrical Fire",
+      "slug": "electrical-fire-cleanup",
+      "description": "Electrical fire damage restoration and safety",
+      "urgency": "emergency",
+      "seasonality": ["year-round"],
+      "parentServices": ["fire-damage-restoration", "emergency-restoration"],
+      "bodyContent": {
+        "overview": "Electrical fires are among the most dangerous and unpredictable types of home fires. Unlike cooking fires that occur in a predictable location, electrical fires can start within walls, in attics, behind outlets, or anywhere wiring runs through your home. They often smolder undetected before erupting into visible flames, causing extensive damage before occupants are even aware of the problem.\n\nIn South Florida's older housing stock, electrical fires are a significant concern. Many homes built before the 1980s have outdated wiring that wasn't designed for today's electrical demands. Aluminum wiring, common in homes built between 1965-1973, is particularly prone to overheating at connections. Even newer homes can experience electrical fires from faulty appliances, overloaded circuits, or improper DIY electrical work.\n\nElectrical fire damage often includes burned wiring within walls, melted insulation, structural damage to framing, and smoke damage that extends throughout the home's interior spaces. The acrid smell of burned electrical components—melted plastic, copper, and insulation—is distinctive and persistent.\n\nOur electrical fire restoration process addresses the immediate damage while coordinating with licensed electricians to ensure your home's electrical system is safe before power is restored.",
+        "whyActFast": "Electrical fires may continue smoldering even after visible flames are extinguished. Hidden damage within walls can reignite if not properly addressed. Smoke and soot from burned electronics and wiring are particularly corrosive. Immediate professional assessment ensures safety and prevents secondary damage.",
+        "commonCauses": [
+          "Outdated or deteriorated wiring (especially aluminum)",
+          "Overloaded circuits from too many devices",
+          "Faulty electrical outlets or switches",
+          "Damaged extension cords or power strips",
+          "Improper DIY electrical work",
+          "Loose electrical connections generating heat",
+          "Appliance malfunctions",
+          "Rodent damage to wiring insulation"
+        ],
+        "preventionTips": [
+          "Have old homes inspected by a licensed electrician",
+          "Don't overload outlets or use too many extension cords",
+          "Replace damaged or frayed electrical cords immediately",
+          "Use surge protectors for sensitive electronics",
+          "Never run cords under rugs or through walls",
+          "Install arc-fault circuit interrupters (AFCIs) where required",
+          "Keep combustible materials away from electrical equipment",
+          "Hire licensed electricians for all electrical work"
+        ],
+        "warningSignals": [
+          "Burning smell with no visible source",
+          "Discolored or warm outlets and switch plates",
+          "Frequent circuit breaker trips",
+          "Flickering or dimming lights",
+          "Sparking from outlets when plugging in devices",
+          "Buzzing sounds from electrical panels or outlets",
+          "Visible scorch marks around outlets",
+          "Outlets or switches that don't work consistently"
+        ],
+        "process": [
+          {"step": 1, "title": "Safety Assessment", "description": "Power is secured and the property assessed for structural safety and hidden fire damage within walls and electrical systems."},
+          {"step": 2, "title": "Electrical Coordination", "description": "We coordinate with licensed electricians to assess and repair the electrical system before any restoration work begins or power is restored."},
+          {"step": 3, "title": "Fire & Smoke Damage Documentation", "description": "All damage is thoroughly documented for insurance purposes, including hidden damage discovered during assessment."},
+          {"step": 4, "title": "Water Extraction & Drying", "description": "If firefighting water was used, affected areas are extracted and dried to prevent mold growth."},
+          {"step": 5, "title": "Smoke & Soot Remediation", "description": "Specialized cleaning removes soot and residue from burned electronics and wiring. HVAC systems are cleaned to remove smoke particles."},
+          {"step": 6, "title": "Reconstruction", "description": "Damaged walls, wiring runs, and structural elements are rebuilt to code with proper electrical installation."}
+        ],
+        "faqs": [
+          {"question": "What should I do immediately after an electrical fire?", "answer": "Ensure everyone evacuates safely and call 911. Do not re-enter until the fire department clears the property. Do not turn on any electrical devices or attempt to reset breakers. Contact your insurance company and a professional restoration company."},
+          {"question": "Is my home safe to live in after an electrical fire?", "answer": "Not until a licensed electrician has inspected and repaired the electrical system, and all fire and smoke damage has been properly remediated. We coordinate with electricians to ensure safety before you return."},
+          {"question": "Will insurance cover electrical fire damage?", "answer": "Most homeowner's policies cover electrical fire damage, including repairs, content replacement, and additional living expenses during restoration. Coverage should also include bringing electrical systems up to current code during repairs."},
+          {"question": "How do I know if there's hidden electrical damage in my walls?", "answer": "Professional assessment uses thermal imaging, electrical testing, and careful inspection to identify hidden damage. We often find burned wiring, melted insulation, and charred framing that isn't visible without opening walls."},
+          {"question": "Should I have my entire electrical system replaced after an electrical fire?", "answer": "Not necessarily the entire system, but affected circuits and any outdated or damaged wiring should be replaced. A licensed electrician will assess and recommend the extent of repairs needed for safety."},
+          {"question": "How long does electrical fire restoration take?", "answer": "Timeline depends on damage extent. Minor incidents may take 1-2 weeks. Significant fires requiring electrical rewiring and structural repairs can take 4-8 weeks or longer. Electrical work must be inspected and approved before restoration is complete."}
+        ]
+      }
+    },
+    {
+      "id": "smoke-odor",
+      "name": "Smoke Odor",
+      "slug": "smoke-odor-removal",
+      "description": "Professional smoke odor removal and air purification",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["fire-damage-restoration"],
+      "bodyContent": {
+        "overview": "Smoke odor is one of the most challenging and persistent indoor air quality problems homeowners face. Whether from a house fire, kitchen incident, cigarette smoke buildup, or even smoke intrusion from nearby wildfires or burning, the smell permeates every porous surface in your home and lingers long after the source is gone.\n\nSmoke particles are incredibly small—many measuring just microns in size—and they penetrate deep into fabrics, carpets, drywall, wood, insulation, and even concrete. These particles don't just sit on surfaces; they're absorbed into materials and continuously release odor molecules into the air. That's why the smell seems to return even after surface cleaning.\n\nIn South Florida, smoke odor removal presents additional challenges. Our high humidity can reactivate dormant smoke odors, causing smells that seemed eliminated to return. Humidity also prevents some odor removal techniques from working effectively, requiring professional equipment and expertise.\n\nOur smoke odor removal service goes beyond surface cleaning to eliminate odors at their source using advanced technologies and proven techniques that address both particulate and gaseous smoke residue.",
+        "whyActFast": "Smoke odor becomes more difficult to remove the longer it sits. Smoke particles continue penetrating deeper into materials over time, and heat from sun exposure or HVAC operation can set odors more permanently. Early professional treatment achieves better results with less extensive measures.",
+        "commonCauses": [
+          "House fire or kitchen fire residue",
+          "Cigarette or cigar smoke accumulation",
+          "Fireplace or woodstove smoke",
+          "Smoke intrusion from nearby fires or controlled burns",
+          "Electrical fire with minimal visible damage",
+          "Candle soot accumulation",
+          "Incense or smoke from cooking",
+          "Smoke damage in purchased or rental properties"
+        ],
+        "preventionTips": [
+          "Install and maintain working smoke detectors",
+          "Never leave cooking unattended",
+          "Have fireplaces and chimneys cleaned annually",
+          "Ensure proper ventilation for any intentional burning",
+          "Address small smoke incidents immediately before odor sets",
+          "Maintain HVAC filters to reduce smoke particle circulation",
+          "Designate outdoor areas for smoking",
+          "Seal windows and doors during local burning events"
+        ],
+        "warningSignals": [
+          "Persistent smoky smell despite cleaning",
+          "Odor that intensifies in humid conditions",
+          "Smoke smell from HVAC system when running",
+          "Visible soot on walls, ceilings, or surfaces",
+          "Yellowed or discolored walls and fabrics",
+          "Smoke smell in clothing stored in closets",
+          "Odor complaints from visitors who notice what you've become used to",
+          "Respiratory irritation or headaches at home"
+        ],
+        "process": [
+          {"step": 1, "title": "Odor Source Assessment", "description": "We identify the source and type of smoke, assess which materials are affected, and determine the appropriate treatment methods for your situation."},
+          {"step": 2, "title": "HVAC Cleaning", "description": "Ductwork and HVAC components are professionally cleaned to remove smoke particles that circulate odor throughout the home."},
+          {"step": 3, "title": "Surface Cleaning", "description": "All affected surfaces are cleaned using appropriate methods for each material type—walls, ceilings, floors, and hard surfaces."},
+          {"step": 4, "title": "Content Cleaning", "description": "Affected contents—furniture, fabrics, electronics—are cleaned using specialized techniques. Some items may require off-site treatment."},
+          {"step": 5, "title": "Odor Elimination Treatment", "description": "Professional equipment including ozone generators, hydroxyl generators, and thermal foggers eliminate odor molecules from the air and materials."},
+          {"step": 6, "title": "Verification & Sealing", "description": "We verify odor elimination and apply sealing products to any materials that may continue to off-gas, ensuring long-term results."}
+        ],
+        "faqs": [
+          {"question": "Why can't I get rid of smoke smell with regular cleaning?", "answer": "Smoke particles penetrate deep into porous materials where surface cleaning can't reach. The particles continuously release odor molecules, and humidity can reactivate smells. Professional treatment reaches embedded particles and eliminates them at the molecular level."},
+          {"question": "How long does professional smoke odor removal take?", "answer": "Treatment typically takes 2-5 days depending on the extent of smoke penetration and size of the affected area. Heavy smoke damage may require multiple treatment cycles. We ensure complete odor elimination before finishing."},
+          {"question": "Is ozone treatment safe for my home?", "answer": "Ozone is highly effective for smoke odor but requires that all people, pets, and plants vacate during treatment. After proper ventilation, the home is completely safe. We follow strict safety protocols and verify air quality before you return."},
+          {"question": "Can smoke odor be removed from furniture and fabrics?", "answer": "Many items can be successfully deodorized using specialized cleaning and treatment methods. Heavily saturated items—especially porous materials from direct fire exposure—may not be salvageable. We assess each item and provide honest recommendations."},
+          {"question": "Will painting over smoke-damaged walls remove the odor?", "answer": "No—paint alone won't stop smoke odor. In fact, paint can trap odor and later allow it to permeate through. Walls must be properly cleaned and sealed with specialized smoke-blocking primers before painting for lasting results."},
+          {"question": "Can you remove cigarette smoke smell from a home?", "answer": "Yes, though heavy long-term cigarette smoke is one of the most challenging odors to eliminate. It requires thorough cleaning of all surfaces, HVAC treatment, possible replacement of some materials, and professional odor elimination. Complete removal is possible but may require extensive work."}
+        ]
+      }
+    }
+  ],
+  "storm": [
+    {
+      "id": "hurricane-roof-damage",
+      "name": "Hurricane Roof Damage",
+      "slug": "hurricane-roof-damage",
+      "description": "Hurricane roof damage repair and emergency tarping",
+      "urgency": "emergency",
+      "seasonality": ["hurricane-season"],
+      "parentServices": ["storm-damage-restoration", "roof-tarping"],
+      "bodyContent": {
+        "overview": "Living in South Florida means living with the annual reality of hurricane season. From June through November, the threat of tropical storms and hurricanes looms, and roof damage is one of the most common and costly consequences when these storms strike.\n\nHurricane-force winds can tear shingles and tiles from roofs, rip off sections of roofing, lift and damage flashing, and in severe cases, compromise the entire roof structure. Even without complete roof failure, high winds create pressure differentials that can lift roofing materials and allow water intrusion that causes extensive interior damage.\n\nThe aftermath of hurricane roof damage demands immediate action. Every rain event—and in Florida, afternoon storms are a daily occurrence—causes additional water damage to exposed structures. Emergency tarping and shrink-wrapping provide temporary protection while permanent repairs are arranged, often in a contractor market overwhelmed by demand.\n\nOur storm damage team has extensive experience responding to major hurricane events throughout South Florida. We understand the urgency, coordinate emergency roof protection, and provide comprehensive restoration services to get your property secured and restored as quickly as possible.",
+        "whyActFast": "With hurricane roof damage, every hour of exposure matters. Florida's daily afternoon thunderstorms mean rain is almost guaranteed, and each rain event causes cumulative interior damage—to ceilings, walls, insulation, flooring, and belongings. Emergency tarping within 24-48 hours dramatically reduces total damage and restoration costs.",
+        "commonCauses": [
+          "Hurricane and tropical storm wind damage",
+          "Flying debris striking the roof",
+          "Trees or branches falling on roof surfaces",
+          "Pressure differentials from high winds",
+          "Existing roof weaknesses failing under storm stress",
+          "Improper roof installation exposed by wind loads",
+          "Age-related roofing material failures",
+          "Inadequate roof tie-downs or connections"
+        ],
+        "preventionTips": [
+          "Have roof professionally inspected annually before hurricane season",
+          "Repair minor damage before it becomes vulnerable to storms",
+          "Ensure roof meets current Florida Building Code wind requirements",
+          "Trim trees that could fall on your roof",
+          "Consider impact-resistant roofing materials",
+          "Install hurricane straps or clips if not present",
+          "Document your roof's condition with photos for insurance",
+          "Review your insurance coverage annually before hurricane season"
+        ],
+        "warningSignals": [
+          "Missing, loose, or damaged shingles or tiles after storms",
+          "Visible daylight through roof boards from attic",
+          "Water stains appearing on ceilings after rain",
+          "Debris or roofing materials in yard after storms",
+          "Gutters filled with granules from asphalt shingles",
+          "Flashing lifted or pulled away from surfaces",
+          "Soft spots or sagging areas on the roof",
+          "Leaks during or after rain events"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response", "description": "We mobilize quickly after storms pass, assessing damage and prioritizing properties based on exposure level and ongoing water intrusion."},
+          {"step": 2, "title": "Emergency Tarping/Shrink-Wrap", "description": "Large-scale tarps or shrink-wrap systems are installed to protect exposed areas from further rain damage. This is critical before any interior work begins."},
+          {"step": 3, "title": "Interior Water Mitigation", "description": "Any water that has entered is extracted, and drying equipment is deployed to prevent mold growth in affected areas."},
+          {"step": 4, "title": "Damage Documentation", "description": "Comprehensive documentation including photos, measurements, and damage reports is prepared for insurance claims."},
+          {"step": 5, "title": "Permanent Roof Repair Coordination", "description": "We coordinate with licensed roofing contractors to schedule permanent repairs, which may take weeks to months after major storms due to demand."},
+          {"step": 6, "title": "Interior Restoration", "description": "Once the roof is permanently repaired, interior damage to ceilings, walls, insulation, and other affected areas is fully restored."}
+        ],
+        "faqs": [
+          {"question": "How quickly can you respond after a hurricane?", "answer": "We pre-position resources before major storms and mobilize as soon as conditions are safe—typically within 24-48 hours of storm passage. Response times may be longer after major hurricanes due to access restrictions and widespread damage."},
+          {"question": "Will my insurance cover hurricane roof damage?", "answer": "Most Florida homeowner's policies cover hurricane damage, though many have separate hurricane deductibles (often 2-5% of the dwelling coverage). Document all damage thoroughly. We work directly with insurance adjusters to ensure proper claim documentation."},
+          {"question": "How long will a tarp protect my roof?", "answer": "Professional tarps typically provide 30-90 days of protection depending on installation method and weather conditions. Shrink-wrap systems can last 6-12 months. We monitor protected properties and address any issues promptly."},
+          {"question": "Why is there such a wait for permanent roof repairs after hurricanes?", "answer": "Major hurricanes damage thousands of roofs simultaneously, overwhelming contractor capacity. Quality roofers are booked months out. Emergency tarping protects your property during this wait. Be wary of storm-chasing contractors offering immediate work."},
+          {"question": "What should I do if I see roof damage after a hurricane?", "answer": "Document damage with photos from the ground (don't climb on a damaged roof). Place containers to catch any leaks inside. Call for emergency tarping immediately. Contact your insurance company to start the claims process."},
+          {"question": "Can any of my belongings be saved if rain got in?", "answer": "Quick action is key. Many items can be saved if dried quickly. However, items soaked by rain coming through a damaged roof—especially if sitting for days—may be beyond salvage. We assess contents and recommend cleaning or replacement."}
+        ]
+      }
+    },
+    {
+      "id": "wind-damage",
+      "name": "Wind Damage",
+      "slug": "wind-damage-restoration",
+      "description": "Wind damage restoration and property protection",
+      "urgency": "high",
+      "seasonality": ["hurricane-season", "storm-season"],
+      "parentServices": ["storm-damage-restoration"],
+      "bodyContent": {
+        "overview": "Wind damage doesn't require a hurricane. South Florida experiences powerful thunderstorms year-round, and these storms frequently produce damaging straight-line winds, microbursts, and occasional tornadoes that can cause significant property damage.\n\nWind damage takes many forms: broken windows and doors, torn screens and awnings, damaged fencing and outdoor structures, compromised roof materials, and fallen trees or branches. Even without direct structural damage, wind can force rain into buildings through gaps it creates, causing secondary water damage.\n\nWhat makes wind damage particularly challenging is that it often creates multiple points of vulnerability simultaneously. A single storm might blow out a window, lift roof shingles, and topple a fence—each requiring different restoration approaches and potentially allowing water intrusion from multiple directions.\n\nOur wind damage restoration service addresses the full scope of storm damage, from emergency board-up and tarping to complete structural repairs. We secure your property immediately, prevent secondary damage, and restore everything the storm affected.",
+        "whyActFast": "Wind damage creates openings that expose your property to weather and security risks. In Florida's climate, afternoon storms occur almost daily, meaning any unprotected opening will quickly allow water intrusion. Immediate board-up and tarping prevents compounding damage from subsequent weather events.",
+        "commonCauses": [
+          "Hurricane and tropical storm winds",
+          "Severe thunderstorm straight-line winds",
+          "Microbursts creating sudden intense wind gusts",
+          "Tornadoes and waterspouts",
+          "Strong cold front passages",
+          "Coastal wind events",
+          "Flying debris propelled by high winds",
+          "Wind-driven rain forcing water through openings"
+        ],
+        "preventionTips": [
+          "Install impact-resistant windows or hurricane shutters",
+          "Secure loose outdoor items before storms",
+          "Trim trees and remove dead branches near structures",
+          "Ensure garage doors are wind-rated",
+          "Have roof inspected and secured properly",
+          "Install storm panels or shutters before hurricane season",
+          "Know how to quickly secure your property before storms",
+          "Keep emergency board-up materials on hand"
+        ],
+        "warningSignals": [
+          "Severe thunderstorm or tornado warnings for your area",
+          "Hurricane or tropical storm warnings",
+          "Sudden pressure drop and rapid wind increase",
+          "Sounds of breaking glass or impacts during storms",
+          "Visible debris flying during storms",
+          "Damage to fencing, screens, or outdoor structures after storms",
+          "Whistling sounds from windows or doors during wind",
+          "Water intrusion during or after storms"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Board-Up", "description": "Broken windows, doors, and other openings are immediately secured with professional boarding or temporary barriers to prevent further damage and intrusion."},
+          {"step": 2, "title": "Roof Protection", "description": "Any roof damage is addressed with emergency tarping or shrink-wrapping to prevent water intrusion from subsequent rain."},
+          {"step": 3, "title": "Water Mitigation", "description": "If wind-driven rain has entered the property, water is extracted and drying equipment deployed to prevent mold growth."},
+          {"step": 4, "title": "Damage Assessment", "description": "Comprehensive assessment and documentation of all wind damage, including structural, roofing, window/door, and content damage."},
+          {"step": 5, "title": "Temporary Repairs", "description": "Temporary repairs are made to secure the property and restore functionality while permanent repairs are coordinated."},
+          {"step": 6, "title": "Complete Restoration", "description": "Windows, doors, roofing, siding, fencing, and any other damaged elements are permanently repaired or replaced."}
+        ],
+        "faqs": [
+          {"question": "What's the difference between hurricane damage and regular wind damage?", "answer": "Legally and for insurance purposes, hurricane damage occurs when the National Weather Service declares a hurricane. This matters because many policies have separate, higher hurricane deductibles. Severe thunderstorm wind damage is usually covered under your regular deductible."},
+          {"question": "How quickly can you board up broken windows?", "answer": "We respond to emergency board-up calls quickly—typically within a few hours during normal conditions. After major storms, demand is high, and we prioritize based on severity and security risk. Call immediately to get in the queue."},
+          {"question": "Will my insurance cover wind damage?", "answer": "Most homeowner's policies cover wind damage. Coverage includes structural damage, content damage, and often additional living expenses if your home is uninhabitable. Document everything and contact your insurance promptly."},
+          {"question": "Can wind damage allow water into my home?", "answer": "Absolutely. Wind-driven rain can force water through the smallest openings, and any structural damage wind creates—broken windows, lifted shingles, damaged doors—allows rain entry. In Florida, this secondary water damage is often worse than the initial wind damage."},
+          {"question": "Should I try to cover a broken window myself?", "answer": "If you can do so safely, covering a broken window with plywood or plastic provides temporary protection. However, professional board-up is more secure and weather-resistant. Don't attempt to cover openings if there are continued storm risks or if access is dangerous."},
+          {"question": "How do I know if wind damaged my roof?", "answer": "After storms, look for missing or displaced shingles/tiles, debris in gutters, granules from asphalt shingles, or visible damage from the ground. Inside, check for new water stains or leaks. A professional inspection after significant storms is recommended."}
+        ]
+      }
+    },
+    {
+      "id": "tree-damage",
+      "name": "Tree Damage",
+      "slug": "tree-damage-restoration",
+      "description": "Tree damage cleanup and property restoration",
+      "urgency": "high",
+      "seasonality": ["storm-season", "year-round"],
+      "parentServices": ["storm-damage-restoration", "roof-tarping"],
+      "bodyContent": {
+        "overview": "South Florida's lush tropical landscape is beautiful, but those mature trees can become dangerous projectiles during storms. Fallen trees and large branches cause some of the most dramatic and severe property damage we see, often crashing through roofs, smashing vehicles, destroying fencing, and completely crushing outdoor structures.\n\nTree damage creates unique restoration challenges. The immediate priority is stabilizing the structure—a tree on your roof represents ongoing risk of collapse, continued water intrusion, and potential secondary damage with each passing hour. Only after the tree is safely removed can the full extent of structural damage be assessed.\n\nTree impacts often cause complex damage patterns: roof penetrations allow water entry, falling debris damages multiple areas, and the weight of the tree can compromise structural framing. Even after tree removal, extensive repairs are typically needed to roof, ceiling, walls, and sometimes the entire structural system.\n\nOur tree damage restoration team coordinates every aspect of recovery—from emergency tree removal and tarping to structural repairs and interior restoration—getting your property secure and restored as efficiently as possible.",
+        "whyActFast": "A tree on your roof creates constant risk of further collapse and continuous water intrusion. Every rain event—and in Florida, that's almost daily—causes additional interior damage. Emergency stabilization and tarping must happen immediately, before permanent repairs can even be assessed.",
+        "commonCauses": [
+          "Hurricane and tropical storm winds",
+          "Severe thunderstorm microbursts",
+          "Tornado touchdowns",
+          "Waterlogged soil causing root failure",
+          "Dead or diseased trees falling",
+          "Lightning strikes splitting or felling trees",
+          "Improper tree maintenance leaving weak structure",
+          "Trees planted too close to structures"
+        ],
+        "preventionTips": [
+          "Have trees professionally assessed annually for health and stability",
+          "Remove dead or dying trees near structures",
+          "Trim branches that overhang roofs or are within falling distance",
+          "Know the species—some trees are more wind-resistant than others",
+          "Maintain proper tree structure with regular pruning",
+          "Don't top trees—it creates weak, dangerous regrowth",
+          "Consider tree removal if roots are compromising foundation",
+          "After storms, have damaged trees evaluated by an arborist"
+        ],
+        "warningSignals": [
+          "Trees leaning after storms or heavy rain",
+          "Visible root upheaval or soil movement at tree base",
+          "Dead branches or limbs in tree canopy",
+          "Fungal growth or decay on trunk or roots",
+          "Cracks or splits in trunk or major branches",
+          "Trees with multiple trunks showing separation",
+          "Significant branch loss creating unbalanced canopy",
+          "Trees with compromised root systems from construction"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Stabilization", "description": "We coordinate emergency tree removal to eliminate the ongoing risk of further collapse. Structural supports may be installed if needed for safety."},
+          {"step": 2, "title": "Emergency Tarping", "description": "Once the tree is removed, damaged roof areas are immediately tarped or covered to prevent water intrusion."},
+          {"step": 3, "title": "Structural Assessment", "description": "With the tree removed, we assess the full extent of structural damage including roof, framing, walls, and other affected areas."},
+          {"step": 4, "title": "Water Mitigation", "description": "Any water that entered during the tree impact or before tarping is extracted, and affected areas are professionally dried."},
+          {"step": 5, "title": "Debris Removal & Cleanup", "description": "All debris from the tree and damaged building materials is removed from the property."},
+          {"step": 6, "title": "Complete Restoration", "description": "Structural repairs are completed including roof reconstruction, framing repair, drywall, painting, and any other damaged elements."}
+        ],
+        "faqs": [
+          {"question": "What should I do if a tree falls on my house?", "answer": "Evacuate immediately if anyone is inside near the impact area—structural collapse can occur. Stay clear of the damaged area and downed power lines. Call 911 if there's immediate danger. Then contact your insurance company and a restoration professional for emergency response."},
+          {"question": "Is tree damage covered by homeowner's insurance?", "answer": "Yes, most policies cover tree damage to your dwelling and structures. Coverage typically includes tree removal, structural repairs, and interior damage. Your policy may also cover debris removal costs. Document all damage thoroughly for your claim."},
+          {"question": "How quickly can you respond to tree damage emergencies?", "answer": "We respond to tree damage calls as quickly as possible—typically within hours during normal conditions. After major storms with widespread tree damage, we prioritize based on severity and ongoing risk. Call immediately to ensure prompt response."},
+          {"question": "Should I try to remove the tree myself?", "answer": "No—tree removal from structures is extremely dangerous and requires specialized equipment and expertise. Improper removal can cause additional structural damage or serious injury. Leave emergency tree removal to professionals with proper training and insurance."},
+          {"question": "How long does tree damage restoration take?", "answer": "Timeline depends on damage severity. Minor tree impacts might be restored in 2-4 weeks. Significant structural damage—trees crashing through roofs into living spaces—can require months of repair. We provide detailed timelines after assessment."},
+          {"question": "What if the tree came from my neighbor's property?", "answer": "In most cases, your own homeowner's insurance covers tree damage to your property regardless of where the tree originated—unless the neighbor was negligent (knew the tree was dangerous and did nothing). This is a common insurance scenario."}
+        ]
+      }
+    }
+  ]
+}
+

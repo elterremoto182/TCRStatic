@@ -18,7 +18,7 @@ This process is not intended to remove the source of the mold, but rather to red
 
 ## What is Mold Remediation?
 
-[Mold Remediation](/services/mold-remediation/) is the process of removing the source of the mold growth and restoring the area to a safe and healthy condition. This usually involves the removal of any materials that are contaminated by mold, such as [Tell Mold Behind Walls](/tell-mold-behind-walls/), insulation, and carpets. After the removal, the affected area is then treated with an anti-fungal agent to prevent further mold growth.
+[Mold Remediation](/mold-remediation/) is the process of removing the source of the mold growth and restoring the area to a safe and healthy condition. This usually involves the removal of any materials that are contaminated by mold, such as [Tell Mold Behind Walls](/tell-mold-behind-walls/), insulation, and carpets. After the removal, the affected area is then treated with an anti-fungal agent to prevent further mold growth.
 
 ## What causes mold in a home?
 

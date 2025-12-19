@@ -23,7 +23,7 @@ In this article, you will learn about:
 
 <iframe src="https://www.youtube.com/embed/CoEc6Lbjtz0?feature=oembed" width="500" height="375" frameborder="0" title="Stop Neglecting Water Damage Problems" allowfullscreen></iframe>
 
-> Many homeowners neglect to treat existing [Water Restoration](/services/water-restoration/) because the issue looks relatively small or insignificant. However, even the smallest leak can lead to some big problems.
+> Many homeowners neglect to treat existing [Water Damage Restoration](/water-damage-restoration/) because the issue looks relatively small or insignificant. However, even the smallest leak can lead to some big problems.
 > 
 > **Did you know that mold usually starts to grow within 24 to 48 hours when water is present?**
 
@@ -137,7 +137,7 @@ If you’ve noticed black mold symptoms or suspect mold through drywall due to s
 
 If you start experiencing allergy symptoms such as those listed above, it may be a sign that there is some mold growing out of sight in your home. In addition, mold, even behind the walls, still leaves a trademark odor. If you start to notice a strange smell, this may be another indication that you need to call an expert!
 
-Since mold is usually caused by water damage, it can be helpful to understand the different [Water Restoration](/services/water-restoration/) that can occur in the home. This will help to identify how serious the problem is and how it can be fixed.
+Since mold is usually caused by water damage, it can be helpful to understand the different [Water Damage Restoration](/water-damage-restoration/) that can occur in the home. This will help to identify how serious the problem is and how it can be fixed.
 
 ## **Water Damage Has Different Types**
 
@@ -155,7 +155,7 @@ A leaky roof is a specific type of water damage problem that can be a huge heada
 
 Replacing a roof is ultimately the best long-term solution, but this is a huge project and often it can’t be done right away. However, homeowners can’t simply leave the roof as it is and allow more water to get into the house.
 
-The best way to deal with this is by installing a [Roof Tarping](/services/roof-tarping/) as a temporary fix until the roof can be replaced. These tarps can be installed on any kind of roof, including skylights, and will buy homeowners some time to save up the money to do a full roof replacement. Be very cautious if you intend to install a roof tarp yourself, as this can be extremely dangerous. If in need of a same-day emergency roof tarp, contact us.
+The best way to deal with this is by installing a [Roof Tarping](/roof-tarping/) as a temporary fix until the roof can be replaced. These tarps can be installed on any kind of roof, including skylights, and will buy homeowners some time to save up the money to do a full roof replacement. Be very cautious if you intend to install a roof tarp yourself, as this can be extremely dangerous. If in need of a same-day emergency roof tarp, contact us.
 
 ## **What Happens Now?**
 
@@ -169,7 +169,7 @@ Not only do we believe in doing the most for our customers in the Miami area, bu
 
 ### Get An Inspection
 
-The first step in the [Water Restoration](/services/water-restoration/) process is an inspection. This will help experts to determine exactly how extensive the problem is and where water damage is present, as some types of mold and water damage can be difficult to spot. The more you know about your problem, the more you’ll be able to help the water damage restoration experts by giving them detailed information. Our staff will use moisture meters and other tools to ensure that we spot every bit of water damage.
+The first step in the [Water Damage Restoration](/water-damage-restoration/) process is an inspection. This will help experts to determine exactly how extensive the problem is and where water damage is present, as some types of mold and water damage can be difficult to spot. The more you know about your problem, the more you’ll be able to help the water damage restoration experts by giving them detailed information. Our staff will use moisture meters and other tools to ensure that we spot every bit of water damage.
 
 ### Remove Any Water
 
@@ -196,7 +196,7 @@ Florida and many states require two different licenses:
 -   Mold testing license
 -   Mold remediation license
 
-You will need two different companies. One to perform the [Mold Testing](https://totalleakdetection.com/services/mold-testing/), and the other to do the [Mold Remediation](/services/mold-remediation/).
+You will need two different companies. One to perform the [Mold Testing](https://totalleakdetection.com/services/mold-testing/), and the other to do the [Mold Remediation](/mold-remediation/).
 
 The following video will give you an idea of what the complete mold process looks like:
 
