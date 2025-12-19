@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
@@ -17,7 +17,7 @@ const SERVICE_SLUG = 'fire-damage-restoration';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Fire Damage Restoration Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Fire Damage Restoration Services | South Florida | Total Care Restoration'),
     description: 'Professional fire damage restoration for residential and commercial properties in South Florida. Smoke, soot cleanup & complete restoration. Call 24/7!',
     keywords: ['fire damage restoration', 'smoke damage cleanup', 'soot removal', 'fire restoration', 'South Florida'],
     path: `/${SERVICE_SLUG}`,

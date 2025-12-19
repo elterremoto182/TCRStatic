@@ -3,12 +3,12 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { Star, Quote, Home } from 'lucide-react';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import content from '@/config/content.json';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Customer Reviews & Testimonials - Total Care Restoration',
+    title: truncateMetaTitle('Customer Reviews & Testimonials - Total Care Restoration'),
     description: 'Read what our customers say about Total Care Restoration. Real reviews from homeowners and property owners in South Florida who trust us for water damage, mold remediation, and fire restoration.',
     keywords: ['testimonials', 'reviews', 'customer reviews', 'Total Care Restoration reviews', 'water damage reviews', 'mold remediation reviews'],
     path: '/testimonials',

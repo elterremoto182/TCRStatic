@@ -3,7 +3,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { 
   Wind, 
@@ -20,7 +20,7 @@ import {
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Indoor Air Quality Testing & Inspections | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Indoor Air Quality Testing & Inspections | South Florida | Total Care Restoration'),
     description: 'Professional indoor air quality testing and inspections in South Florida. Identify mold spores, allergens, and pollutants. Certified IAQ assessments for homes and businesses.',
     keywords: ['indoor air quality', 'air quality testing', 'air quality inspection', 'IAQ assessment', 'mold spores', 'South Florida'],
     path: '/indoor-air-quality',

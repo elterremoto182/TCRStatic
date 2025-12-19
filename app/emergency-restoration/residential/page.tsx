@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'residential';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: '24/7 Residential Emergency Restoration | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('24/7 Residential Emergency Restoration | South Florida | Total Care Restoration'),
     description: '24/7 residential emergency restoration services throughout South Florida. Rapid response for water, fire, and storm damage to your home. Call now!',
     keywords: ['residential emergency restoration', 'home emergency cleanup', '24/7 home restoration', 'residential disaster response'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

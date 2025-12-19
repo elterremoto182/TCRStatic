@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
@@ -17,7 +17,7 @@ const SERVICE_SLUG = 'roof-tarping';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Emergency Roof Tarping Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Emergency Roof Tarping Services | South Florida | Total Care Restoration'),
     description: 'Professional emergency roof tarping for residential and commercial properties in South Florida. 24/7 storm response. Protect your property from further damage. Call now!',
     keywords: ['roof tarping', 'emergency roof tarp', 'storm roof protection', 'roof leak repair', 'South Florida'],
     path: `/${SERVICE_SLUG}`,

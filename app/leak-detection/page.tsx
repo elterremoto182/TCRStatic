@@ -3,7 +3,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { 
   Search, 
@@ -22,7 +22,7 @@ import {
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Leak Detection Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Leak Detection Services | South Florida | Total Care Restoration'),
     description: 'Professional leak detection services in South Florida. Find hidden water leaks, slab leaks, and pipe damage with advanced technology. 24/7 emergency service available.',
     keywords: ['leak detection', 'water leak detection', 'slab leak', 'pipe leak', 'video inspection', 'South Florida'],
     path: '/leak-detection',

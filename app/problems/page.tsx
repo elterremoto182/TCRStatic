@@ -2,12 +2,12 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { getAllCauses, getAllCities, CauseConfig } from '@/lib/local-seo/data';
 import { AlertTriangle, Droplets, Flame, Wind, Bug, Zap } from 'lucide-react';
 
 export const metadata = generatePageMetadata({
-  title: 'Common Water & Property Damage Problems | Total Care Restoration',
+  title: truncateMetaTitle('Common Water & Property Damage Problems | Total Care Restoration'),
   description: 'Learn about common causes of water damage, mold, fire damage, and other property emergencies. Get professional restoration help 24/7 in South Florida.',
   keywords: ['water damage causes', 'mold problems', 'fire damage', 'storm damage', 'property damage restoration', 'South Florida'],
   path: '/problems',

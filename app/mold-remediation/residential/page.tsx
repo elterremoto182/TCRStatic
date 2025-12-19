@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'residential';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Residential Mold Remediation | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Residential Mold Remediation | South Florida | Total Care Restoration'),
     description: 'Residential mold remediation services throughout South Florida. Protect your family with professional mold inspection and removal. 24/7 emergency response.',
     keywords: ['residential mold remediation', 'home mold removal', 'house mold inspection', 'residential mold cleanup'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

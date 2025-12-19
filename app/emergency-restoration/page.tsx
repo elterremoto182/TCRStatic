@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
@@ -17,7 +17,7 @@ const SERVICE_SLUG = 'emergency-restoration';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: '24/7 Emergency Restoration Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('24/7 Emergency Restoration Services | South Florida | Total Care Restoration'),
     description: '24/7 emergency restoration for residential and commercial properties in South Florida. Rapid response for water, fire, and storm damage. Call now!',
     keywords: ['emergency restoration', '24/7 restoration', 'disaster restoration', 'emergency cleanup', 'South Florida'],
     path: `/${SERVICE_SLUG}`,

@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'commercial';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Commercial Sewage Cleanup | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Commercial Sewage Cleanup | South Florida | Total Care Restoration'),
     description: 'Commercial sewage cleanup and biohazard removal services throughout South Florida. OSHA-compliant protocols with full documentation. 24/7 emergency service.',
     keywords: ['commercial sewage cleanup', 'business biohazard removal', 'industrial sewage restoration', 'commercial sanitization'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

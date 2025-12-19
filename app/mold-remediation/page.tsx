@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
@@ -17,7 +17,7 @@ const SERVICE_SLUG = 'mold-remediation';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Mold Remediation Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Mold Remediation Services | South Florida | Total Care Restoration'),
     description: 'Professional mold remediation for residential and commercial properties in South Florida. Certified mold removal, inspection & prevention. Call 24/7!',
     keywords: ['mold remediation', 'mold removal', 'mold inspection', 'black mold removal', 'South Florida'],
     path: `/${SERVICE_SLUG}`,

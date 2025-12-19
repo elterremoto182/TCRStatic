@@ -8,13 +8,13 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 /**
- * Truncates meta titles to fit within the recommended 70 character limit.
+ * Truncates meta titles to fit within Google's ~60 character display limit.
  * Removes branding suffixes in order of priority:
  * 1. " | Total Care Restoration"
  * 2. " | South Florida"
  * If still too long, truncates at the last pipe separator.
  */
-export function truncateMetaTitle(title: string, maxLength: number = 70): string {
+export function truncateMetaTitle(title: string, maxLength: number = 60): string {
   if (title.length <= maxLength) {
     return title;
   }

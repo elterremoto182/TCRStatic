@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'residential';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Residential Fire Damage Restoration | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Residential Fire Damage Restoration | South Florida | Total Care Restoration'),
     description: 'Residential fire damage restoration services throughout South Florida. Protect your home and family with professional smoke and soot cleanup. 24/7 emergency response.',
     keywords: ['residential fire damage restoration', 'home fire damage', 'house smoke cleanup', 'residential soot removal'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

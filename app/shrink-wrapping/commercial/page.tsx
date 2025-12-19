@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'commercial';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Commercial Shrink Wrapping | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Commercial Shrink Wrapping | South Florida | Total Care Restoration'),
     description: 'Commercial shrink wrapping services throughout South Florida. Industrial-grade protection for buildings, construction sites, and large-scale projects. Professional installation.',
     keywords: ['commercial shrink wrapping', 'industrial shrink wrap', 'construction site protection', 'commercial weather protection'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'commercial';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Commercial Storm Damage Restoration | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Commercial Storm Damage Restoration | South Florida | Total Care Restoration'),
     description: 'Commercial storm and hurricane damage restoration services throughout South Florida. Minimize business downtime with rapid response and professional restoration. 24/7 emergency service.',
     keywords: ['commercial storm damage restoration', 'business hurricane damage', 'office storm cleanup', 'commercial flood repair'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

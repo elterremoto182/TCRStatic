@@ -3,14 +3,14 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { getAllCities, getPhase1Services } from '@/lib/local-seo/data';
 import { MapPin, Phone, Clock, ArrowRight, Home, Building2 } from 'lucide-react';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Service Areas | South Florida Restoration Services | Total Care Restoration',
+    title: truncateMetaTitle('Service Areas | South Florida Restoration Services | Total Care Restoration'),
     description: 'Total Care Restoration provides 24/7 water, fire & mold damage restoration services throughout South Florida. Serving Miami-Dade, Broward & Palm Beach Counties.',
     keywords: ['South Florida restoration services', 'Miami restoration', 'Broward County restoration', 'Palm Beach restoration', 'water damage', 'fire damage', 'mold remediation'],
     path: '/service-areas',

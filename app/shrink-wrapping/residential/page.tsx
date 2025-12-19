@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'residential';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Residential Shrink Wrapping | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Residential Shrink Wrapping | South Florida | Total Care Restoration'),
     description: 'Residential shrink wrapping services throughout South Florida. Protect your home with long-lasting, watertight roof and property protection. Professional installation.',
     keywords: ['residential shrink wrapping', 'home shrink wrap', 'roof shrink wrap protection', 'house weather protection'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

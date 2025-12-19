@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
@@ -17,7 +17,7 @@ const SERVICE_SLUG = 'storm-damage-restoration';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Storm Damage Restoration Services | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Storm Damage Restoration Services | South Florida | Total Care Restoration'),
     description: 'Professional storm and hurricane damage restoration for residential and commercial properties in South Florida. 24/7 emergency response. Licensed & insured. Call now!',
     keywords: ['storm damage restoration', 'hurricane damage repair', 'flood damage restoration', 'wind damage repair', 'South Florida'],
     path: `/${SERVICE_SLUG}`,

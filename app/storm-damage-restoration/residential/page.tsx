@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'residential';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Residential Storm Damage Restoration | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Residential Storm Damage Restoration | South Florida | Total Care Restoration'),
     description: 'Residential storm and hurricane damage restoration services throughout South Florida. Protect your home and family with fast, professional storm damage cleanup. 24/7 emergency response.',
     keywords: ['residential storm damage restoration', 'home hurricane damage', 'house flood cleanup', 'residential storm repair'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

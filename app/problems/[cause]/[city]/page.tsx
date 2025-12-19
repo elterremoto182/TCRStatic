@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { 
   getCauseBySlug, 
@@ -75,7 +75,7 @@ export async function generateMetadata({
   ];
 
   return generatePageMetadata({
-    title: `${cause.name} in ${city.name}, FL | Professional Restoration | Total Care Restoration`,
+    title: truncateMetaTitle(`${cause.name} in ${city.name}, FL | Professional Restoration | Total Care Restoration`),
     description: `${cause.description} in ${city.name}. ${city.responseTime} response time. Professional cleanup, restoration, and prevention. Licensed & insured. Call 24/7!`,
     keywords,
     path: `/problems/${causeSlug}/${citySlug}`,

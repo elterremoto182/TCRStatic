@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'commercial';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Commercial Roof Tarping | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Commercial Roof Tarping | South Florida | Total Care Restoration'),
     description: 'Commercial emergency roof tarping services throughout South Florida. Protect your business from water damage with rapid response and professional installation. 24/7 service.',
     keywords: ['commercial roof tarping', 'business roof tarp', 'industrial roof protection', 'commercial roof emergency'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,

@@ -1,6 +1,6 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
@@ -10,7 +10,7 @@ const SERVICE_TYPE = 'commercial';
 
 export async function generateMetadata() {
   return generatePageMetadata({
-    title: 'Commercial Mold Remediation | South Florida | Total Care Restoration',
+    title: truncateMetaTitle('Commercial Mold Remediation | South Florida | Total Care Restoration'),
     description: 'Commercial mold remediation services throughout South Florida. OSHA-compliant mold removal with minimal business disruption. 24/7 emergency service.',
     keywords: ['commercial mold remediation', 'business mold removal', 'office mold inspection', 'commercial mold cleanup'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,
