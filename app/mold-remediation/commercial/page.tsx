@@ -56,6 +56,8 @@ export default function CommercialMoldRemediationPage() {
           description="We provide professional mold remediation services designed for commercial properties. Our team ensures OSHA compliance, minimizes business disruption, and provides documentation for liability protection."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

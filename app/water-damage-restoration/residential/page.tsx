@@ -60,6 +60,8 @@ export default function ResidentialWaterDamagePage() {
           description="We provide professional water damage restoration services specifically designed for residential homeowners. Our compassionate team understands the stress of home water damage and works quickly to protect your family and property."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

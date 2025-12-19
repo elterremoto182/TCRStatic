@@ -60,6 +60,8 @@ export default function ResidentialRoofTarpingPage() {
           description="We provide professional emergency roof tarping services specifically designed for residential homeowners. Our team responds quickly to protect your home from further water damage while you arrange permanent roof repairs."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

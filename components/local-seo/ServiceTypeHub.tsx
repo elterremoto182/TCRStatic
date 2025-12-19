@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { Home, Building2, MapPin, ArrowRight } from 'lucide-react';
+import { Home, Building2, MapPin, ArrowRight, CheckCircle, Lightbulb } from 'lucide-react';
 
 interface City {
   name: string;
@@ -16,6 +16,8 @@ interface ServiceTypeHubProps {
   description: string;
   cities: City[];
   focusAreas: string[];
+  challenges?: string;
+  tips?: string[];
   className?: string;
 }
 
@@ -26,6 +28,8 @@ export function ServiceTypeHub({
   description,
   cities,
   focusAreas,
+  challenges,
+  tips,
   className = '',
 }: ServiceTypeHubProps) {
   const TypeIcon = type === 'residential' ? Home : Building2;
@@ -97,6 +101,58 @@ export function ServiceTypeHub({
           </AnimateOnScroll>
         </div>
       </section>
+
+      {/* Challenges Section */}
+      {challenges && (
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-4xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center justify-center gap-3 mb-6">
+                <CheckCircle className="w-6 h-6 text-primary" />
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+                  Why Choose Us for {typeLabel} {serviceName}
+                </h2>
+              </div>
+              <div className="prose prose-lg max-w-none text-gray-600 text-center">
+                {challenges.split('\n\n').map((paragraph, index) => (
+                  <p key={index} className="mb-4 last:mb-0">
+                    {paragraph}
+                  </p>
+                ))}
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </section>
+      )}
+
+      {/* Tips Section */}
+      {tips && tips.length > 0 && (
+        <section className="py-16 bg-white">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center justify-center gap-3 mb-8">
+                <Lightbulb className="w-6 h-6 text-primary" />
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+                  {typeLabel} {serviceName.split(' ')[0]} Tips
+                </h2>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto">
+                {tips.slice(0, 6).map((tip, index) => (
+                  <div
+                    key={index}
+                    className="flex items-start gap-3 p-4 bg-gray-50 rounded-lg"
+                  >
+                    <div className="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                      <span className="text-sm font-semibold text-primary">{index + 1}</span>
+                    </div>
+                    <span className="text-gray-700">{tip}</span>
+                  </div>
+                ))}
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </section>
+      )}
 
       {/* Cities Grid */}
       <section className="py-16 bg-gray-50">

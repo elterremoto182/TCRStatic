@@ -60,6 +60,8 @@ export default function ResidentialSewageCleanupPage() {
           description="We provide professional sewage cleanup services for residential homeowners facing sewage backup emergencies. Our team uses proper safety equipment and sanitization protocols to protect your family's health and restore your home."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

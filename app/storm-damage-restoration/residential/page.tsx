@@ -60,6 +60,8 @@ export default function ResidentialStormDamagePage() {
           description="We provide professional storm damage restoration services specifically designed for residential homeowners. Our experienced team understands the stress of storm damage and works quickly to secure and restore your home."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

@@ -60,6 +60,8 @@ export default function CommercialWaterDamagePage() {
           description="We provide professional water damage restoration services designed for commercial properties. Our team understands that downtime means lost revenue, so we work quickly and can schedule around your business operations."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

@@ -56,6 +56,8 @@ export default function CommercialFireDamagePage() {
           description="We provide professional fire damage restoration services designed for commercial properties. Our team understands that downtime means lost revenue, so we work quickly and provide comprehensive documentation for insurance claims."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

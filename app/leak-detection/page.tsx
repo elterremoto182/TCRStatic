@@ -118,7 +118,7 @@ export default function LeakDetectionPage() {
               </div>
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                Leak Detection Services
+                Find Hidden Leaks Before They Cause Damage
               </h1>
 
               <p className="text-xl text-gray-600 max-w-3xl mb-8">

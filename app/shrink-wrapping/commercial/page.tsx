@@ -60,6 +60,8 @@ export default function CommercialShrinkWrappingPage() {
           description="We provide industrial-grade shrink wrapping services for commercial buildings, construction sites, and large-scale projects. Our team has the equipment and expertise to wrap structures of any size with long-lasting weather protection."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

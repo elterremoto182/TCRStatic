@@ -106,7 +106,7 @@ export default function ServiceAreasPage() {
               </div>
 
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                Service Areas
+                Communities We Serve Across South Florida
               </h1>
 
               <p className="text-xl text-gray-600 max-w-3xl mb-8">

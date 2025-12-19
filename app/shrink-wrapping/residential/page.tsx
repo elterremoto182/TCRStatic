@@ -60,6 +60,8 @@ export default function ResidentialShrinkWrappingPage() {
           description="We provide professional shrink wrapping services for residential homeowners who need long-term protection. Shrink wrap offers superior weather resistance compared to tarps and is ideal when permanent repairs will take months."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

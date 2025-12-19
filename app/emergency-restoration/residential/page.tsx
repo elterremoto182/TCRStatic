@@ -56,6 +56,8 @@ export default function ResidentialEmergencyRestorationPage() {
           description="When disaster strikes your home, our 24/7 emergency restoration team responds fast. We understand the stress of home emergencies and provide compassionate, professional service to protect your family and property."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

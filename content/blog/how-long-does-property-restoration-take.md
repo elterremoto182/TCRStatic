@@ -5,7 +5,7 @@ excerpt: "Learn about the timelines for property restoration after damage, the f
 author: "Tomasz Alemany"
 category: "Water"
 image: "/wp-content/uploads/2025/07/image_de4f15dfe7699b57733fbc987f0babd5.jpeg"
-seo_title: "How Long Does Property Restoration Take? | Total Care Restoration"
+seo_title: "Restoration Timeline Guide: Expected Duration for Water, Fire & Mold Repair"
 seo_description: "Learn about the timelines for property restoration after damage, the factors that influence duration, and how to manage expectations effectively."
 keywords: ["property restoration timeline", "how long restoration takes"]
 ---

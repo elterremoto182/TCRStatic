@@ -141,13 +141,17 @@ export function generateHeroContent(
   city: CityConfig,
   serviceType: ServiceTypeConfig
 ): HeroContent {
-  const typePrefix = serviceType.name;
-  
   // Keep subheadline short and scannable with key selling points
   const subheadline = `${city.responseTime} response time. IICRC-certified technicians. Available 24/7 for ${city.name} ${serviceType.name.toLowerCase()} properties. Licensed, bonded, and insured.`;
   
+  // Create distinct H1 that differs from title to avoid over-optimization
+  // Title pattern: "${serviceType.name} ${service.name} in ${city.name}, FL | 24/7 Emergency Service | Total Care Restoration"
+  // H1 pattern: "Professional ${service.shortName} Experts for ${city.name} ${propertyType}"
+  const propertyType = serviceType.name === 'Residential' ? 'Homes' : 'Businesses';
+  const headline = `Professional ${service.shortName} Experts for ${city.name} ${propertyType}`;
+  
   return {
-    headline: `${typePrefix} ${service.name} in ${city.name}, FL`,
+    headline,
     subheadline,
     ctaText: serviceType.ctaText,
     ctaPhone: '(786) 610-6317',

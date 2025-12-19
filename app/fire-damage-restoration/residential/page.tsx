@@ -56,6 +56,8 @@ export default function ResidentialFireDamagePage() {
           description="We provide professional fire damage restoration services specifically designed for residential homeowners. Our compassionate team helps you recover from fire, smoke, and soot damage while handling insurance claims."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.residentialContent?.challenges}
+          tips={service.residentialContent?.tips}
         />
       </main>
       <Footer />

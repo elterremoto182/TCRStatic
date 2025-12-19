@@ -56,6 +56,8 @@ export default function CommercialEmergencyRestorationPage() {
           description="Business emergencies can't wait. Our 24/7 commercial emergency restoration team is equipped to handle large-scale disasters and works around the clock to minimize your downtime and revenue loss."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

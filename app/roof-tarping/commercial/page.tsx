@@ -60,6 +60,8 @@ export default function CommercialRoofTarpingPage() {
           description="We provide professional emergency roof tarping services designed for commercial properties. Our team has the equipment and expertise to tarp large commercial roofs, warehouses, and multi-story buildings quickly and safely."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

@@ -60,6 +60,8 @@ export default function CommercialSewageCleanupPage() {
           description="We provide professional sewage cleanup services for commercial properties following all health department and OSHA requirements. Our team minimizes business disruption while ensuring complete sanitization and documentation."
           cities={cityList}
           focusAreas={serviceType.focusAreas}
+          challenges={service.commercialContent?.challenges}
+          tips={service.commercialContent?.tips}
         />
       </main>
       <Footer />

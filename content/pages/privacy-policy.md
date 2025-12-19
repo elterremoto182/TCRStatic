@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 slug: "privacy-policy"
 menu_order: 0
-seo_title: "Privacy Policy - Total Care Restoration"
+seo_title: "Privacy Policy & Data Protection | Total Care Restoration"
 seo_description: "Explore our privacy policy total care restoration to understand how we collect and use your data when you visit our site."
 keywords: ["privacy policy total care restoration"]
 ---
