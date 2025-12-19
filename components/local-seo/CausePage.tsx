@@ -392,7 +392,7 @@ export function CausePage({
               {relatedBlogPosts.map((post, idx) => (
                 <AnimateOnScroll key={idx} animation="fade-in-up" duration={400} delay={idx * 100}>
                   <Link
-                    href={`/blog/${post.slug}`}
+                    href={`/${post.slug}/`}
                     className="group block p-6 bg-amber-50 rounded-xl hover:bg-amber-100 transition-colors"
                   >
                     <h3 className="font-bold text-gray-900 group-hover:text-amber-700 transition-colors mb-2 line-clamp-2">

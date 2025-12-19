@@ -326,7 +326,7 @@ export function CityServicePage({
                 What to Expect When You Call Us
               </h2>
               <p className="text-gray-600 max-w-3xl mx-auto text-lg">
-                We understand that dealing with property damage is stressful. Here's exactly what happens when you contact Total Care Restoration for help—from your first call to the final walkthrough.
+                Property damage is stressful. Here's what happens when you call us.
               </p>
             </div>
           </AnimateOnScroll>
@@ -345,10 +345,10 @@ export function CityServicePage({
                 </div>
                 <div className="space-y-4 text-gray-700">
                   <p>
-                    When you call our emergency line, you'll speak directly with a trained restoration specialist—not an answering service. We'll gather essential information about your situation, provide immediate guidance to minimize damage, and dispatch a crew to your location.
+                    You'll speak with a trained specialist—not a call center. We gather key details and send a crew your way.
                   </p>
                   <p>
-                    For {type === 'residential' ? 'homeowners' : 'business owners'}, we understand the urgency. That's why we maintain crews ready to respond around the clock, with fully-stocked vehicles containing all the equipment needed to begin work immediately upon arrival.
+                    Our trucks are fully stocked. We can start work as soon as we arrive.
                   </p>
                 </div>
               </div>
@@ -367,10 +367,10 @@ export function CityServicePage({
                 </div>
                 <div className="space-y-4 text-gray-700">
                   <p>
-                    Upon arrival, our certified technicians conduct a comprehensive inspection using advanced equipment including thermal imaging cameras and moisture meters. We identify visible damage and hidden moisture that could lead to future problems.
+                    We inspect with thermal cameras and moisture meters. We find visible damage and hidden moisture.
                   </p>
                   <p>
-                    You'll receive a detailed explanation of what we find, what needs to be done, and a clear estimate of costs and timeline. We document everything thoroughly for insurance purposes and answer all your questions before work begins.
+                    We explain what we find and give you a clear cost estimate. We document everything for insurance. We answer your questions before we start.
                   </p>
                 </div>
               </div>
@@ -389,10 +389,10 @@ export function CityServicePage({
                 </div>
                 <div className="space-y-4 text-gray-700">
                   <p>
-                    Our IICRC-certified technicians use industry-leading equipment and techniques to restore your property. We follow established protocols that ensure thorough, lasting results—not quick fixes that lead to future problems.
+                    Our IICRC-certified team uses top equipment. We follow proven methods for lasting results.
                   </p>
                   <p>
-                    Throughout the process, we maintain clear communication about progress, any unexpected findings, and schedule updates. We respect your {type === 'residential' ? 'home and family' : 'business operations'} and work efficiently to minimize disruption.
+                    We keep you updated on progress. We work fast to minimize disruption.
                   </p>
                 </div>
               </div>
@@ -411,10 +411,10 @@ export function CityServicePage({
                 </div>
                 <div className="space-y-4 text-gray-700">
                   <p>
-                    Before we consider the job complete, we conduct a final walkthrough with you to ensure every aspect of the restoration meets your expectations. We verify that all affected areas have been properly addressed and that you're completely satisfied with the results.
+                    We do a final walkthrough with you. We check that everything meets your standards.
                   </p>
                   <p>
-                    We also provide guidance on preventing future issues and are available for follow-up questions. Your complete satisfaction is our priority, and we stand behind our work with a quality guarantee.
+                    We share tips to prevent future issues. We back our work with a quality guarantee.
                   </p>
                 </div>
               </div>
@@ -437,7 +437,7 @@ export function CityServicePage({
                   We Know {content.neighborhoods.title.replace('Serving ', '').replace(' Neighborhoods', '')} Inside and Out
                 </h2>
                 <p className="text-gray-600 text-lg leading-relaxed">
-                  As a locally-owned company serving South Florida for years, we understand the unique challenges that {type === 'residential' ? 'homeowners' : 'businesses'} face in this area. From the impacts of our tropical climate to the specific building styles common in your neighborhood, our experience means faster, more effective restoration.
+                  We're local and know your area well. We understand Florida's climate and local building styles. Our experience means faster, better results.
                 </p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-4">
@@ -447,7 +447,7 @@ export function CityServicePage({
                     <div>
                       <h4 className="font-bold text-gray-900">Faster Response Times</h4>
                       <p className="text-gray-600 text-sm">
-                        Our local presence means we can reach your {type === 'residential' ? 'home' : 'business'} quickly. We know the fastest routes through your neighborhood and maintain equipment close by for rapid deployment.
+                        We're nearby. We know the fastest routes. We keep equipment ready for quick dispatch.
                       </p>
                     </div>
                   </div>
@@ -456,9 +456,9 @@ export function CityServicePage({
                       <Building2 className="w-5 h-5 text-primary" />
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Understanding of Local Construction</h4>
+                      <h4 className="font-bold text-gray-900">Local Building Know-How</h4>
                       <p className="text-gray-600 text-sm">
-                        We're familiar with the building methods, materials, and architectural styles common in your area. This knowledge helps us restore your property correctly the first time.
+                        We know local building styles and materials. This helps us restore your property right the first time.
                       </p>
                     </div>
                   </div>
@@ -467,9 +467,9 @@ export function CityServicePage({
                       <Users className="w-5 h-5 text-primary" />
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Established Local Relationships</h4>
+                      <h4 className="font-bold text-gray-900">Local Connections</h4>
                       <p className="text-gray-600 text-sm">
-                        We've built relationships with local insurance adjusters, contractors, and suppliers. These connections help streamline your restoration process and ensure quality results.
+                        We work with local adjusters, contractors, and suppliers. This speeds up your project.
                       </p>
                     </div>
                   </div>
@@ -490,7 +490,7 @@ export function CityServicePage({
                     <div>
                       <h4 className="font-bold text-gray-900 mb-1">Direct Insurance Billing</h4>
                       <p className="text-gray-600 text-sm">
-                        We work directly with all major insurance companies and can bill them directly, reducing your out-of-pocket hassle. Our documentation meets insurance requirements for smooth claim processing.
+                        We bill your insurance directly. Less hassle for you. Our paperwork meets all requirements.
                       </p>
                     </div>
                   </div>
@@ -501,7 +501,7 @@ export function CityServicePage({
                     <div>
                       <h4 className="font-bold text-gray-900 mb-1">Free Estimates</h4>
                       <p className="text-gray-600 text-sm">
-                        We provide detailed, written estimates at no cost and with no obligation. You'll know exactly what to expect before any work begins, with no hidden fees or surprise charges.
+                        Free written estimates. No obligation. No hidden fees.
                       </p>
                     </div>
                   </div>
@@ -512,7 +512,7 @@ export function CityServicePage({
                     <div>
                       <h4 className="font-bold text-gray-900 mb-1">Flexible Scheduling</h4>
                       <p className="text-gray-600 text-sm">
-                        We work around your schedule, including {type === 'commercial' ? 'after-hours and weekend service to minimize business disruption' : 'evening and weekend appointments when needed'}. Emergency service is available 24/7.
+                        We work around your schedule. {type === 'commercial' ? 'After-hours and weekend service available.' : 'Evenings and weekends available.'} 24/7 emergency service.
                       </p>
                     </div>
                   </div>

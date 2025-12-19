@@ -120,3 +120,9 @@
 /broward-county-restoration-services/ /water-damage-restoration/residential/fort-lauderdale/ 301
 /broward-county-restoration-services /water-damage-restoration/residential/fort-lauderdale/ 301
 
+# =============================================================================
+# BLOG URL REDIRECTS - /blog/[slug] → /[slug]
+# Blog posts are served at root level, not under /blog/ prefix
+# =============================================================================
+/blog/* /:splat 301
+

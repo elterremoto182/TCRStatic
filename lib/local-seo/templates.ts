@@ -141,16 +141,13 @@ export function generateHeroContent(
   serviceType: ServiceTypeConfig
 ): HeroContent {
   const typePrefix = serviceType.name;
-  const climateInfo = city.localFactors.climate;
   
-  // Generate a more detailed subheadline with local context
-  const subheadlineBase = `Fast, professional ${service.shortName.toLowerCase()} restoration for ${serviceType.name.toLowerCase()} properties in ${city.name} and ${city.county}.`;
-  const localContext = ` Our certified technicians understand the unique challenges of ${climateInfo.toLowerCase()}, providing rapid ${city.responseTime} response time 24 hours a day, 7 days a week.`;
-  const trustNote = ` Licensed, bonded, and insured with IICRC-certified professionals ready to protect your ${serviceType.name.toLowerCase()} property.`;
+  // Keep subheadline short and scannable with key selling points
+  const subheadline = `${city.responseTime} response time. IICRC-certified technicians. Available 24/7 for ${city.name} ${serviceType.name.toLowerCase()} properties. Licensed, bonded, and insured.`;
   
   return {
     headline: `${typePrefix} ${service.name} in ${city.name}, FL`,
-    subheadline: subheadlineBase + localContext + trustNote,
+    subheadline,
     ctaText: serviceType.ctaText,
     ctaPhone: '(786) 610-6317',
     backgroundType: 'service',
@@ -322,11 +319,10 @@ export function generateCTAContent(
   type: 'residential' | 'commercial'
 ): CTAContent {
   const typeLabel = type === 'residential' ? 'Home' : 'Business';
-  const audienceType = type === 'residential' ? 'homeowners' : 'business owners';
   
   return {
     headline: `Need ${service.shortName} Help in ${city.name}? We're Here 24/7`,
-    subheadline: `Our licensed and certified ${type} restoration team serves ${city.name} ${audienceType} around the clock. With ${city.responseTime} response time and direct insurance billing, we make the restoration process as smooth as possible. Get your free ${typeLabel.toLowerCase()} assessment and expert consultation today—no obligation, just honest answers.`,
+    subheadline: `${city.responseTime} response. Direct insurance billing. Free estimates with no obligation.`,
     primaryButton: {
       text: 'Call Now - 24/7',
       href: 'tel:7866106317',

@@ -5,7 +5,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata } from '@/lib/utils';
-import { StructuredData } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
@@ -46,11 +46,7 @@ export default function MoldRemediationPage() {
     '@type': 'Service',
     name: 'Mold Remediation',
     description: 'Professional mold remediation services for residential and commercial properties throughout South Florida.',
-    provider: {
-      '@type': 'LocalBusiness',
-      name: 'Total Care Restoration',
-      telephone: '(786) 610-6317',
-    },
+    provider: getLocalBusinessProvider(),
     areaServed: cityList.map(city => ({
       '@type': 'City',
       name: city.name,

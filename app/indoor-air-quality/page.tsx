@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata } from '@/lib/utils';
-import { StructuredData } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { 
   Wind, 
   Phone, 
@@ -37,11 +37,7 @@ export default function IndoorAirQualityPage() {
     '@type': 'Service',
     name: 'Indoor Air Quality Testing & Inspections',
     description: 'Professional indoor air quality testing and inspection services to identify mold spores, allergens, VOCs, and other pollutants in residential and commercial properties.',
-    provider: {
-      '@type': 'LocalBusiness',
-      name: 'Total Care Restoration',
-      telephone: '(786) 610-6317',
-    },
+    provider: getLocalBusinessProvider(),
     areaServed: {
       '@type': 'State',
       name: 'Florida',

@@ -1,7 +1,7 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata } from '@/lib/utils';
-import { StructuredData } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 
@@ -36,11 +36,7 @@ export default function ResidentialShrinkWrappingPage() {
     '@type': 'Service',
     name: 'Residential Shrink Wrapping',
     description: 'Professional residential shrink wrapping services for homeowners throughout South Florida requiring long-term roof and property protection.',
-    provider: {
-      '@type': 'LocalBusiness',
-      name: 'Total Care Restoration',
-      telephone: '(786) 610-6317',
-    },
+    provider: getLocalBusinessProvider(),
     audience: {
       '@type': 'Audience',
       audienceType: 'Residential Homeowners',

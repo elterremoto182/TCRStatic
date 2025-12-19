@@ -295,7 +295,7 @@ export function CausePageRelatedLinks({
                 {blogPosts.map((post, i) => (
                   <Link
                     key={i}
-                    href={`/blog/${post.slug}`}
+                    href={`/${post.slug}/`}
                     className="group block p-3 bg-amber-50 rounded-lg hover:bg-amber-100 transition-colors"
                   >
                     <div className="flex items-start gap-3">

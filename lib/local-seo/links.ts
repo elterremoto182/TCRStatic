@@ -265,10 +265,11 @@ export function generateInternalLinksData(
   }));
   
   // Related blog posts (limited to 2)
+  // Note: Blog posts are served at /{slug}/ not /blog/{slug}/
   const blogPosts = getRelatedBlogPosts(serviceSlug, citySlug, 2);
   const relatedBlogs: RelatedLink[] = blogPosts.map(post => ({
     label: post.title,
-    href: `/blog/${post.slug}`,
+    href: `/${post.slug}/`,
     description: post.excerpt,
     type: 'blog' as const,
   }));

@@ -61,10 +61,11 @@ export default function ServiceAreasPage() {
     telephone: '(786) 610-6317',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '7790 NW 55th St',
+      streetAddress: '7790 NW 55th St.',
       addressLocality: 'Doral',
       addressRegion: 'FL',
       postalCode: '33166',
+      addressCountry: 'US',
     },
     areaServed: Object.values(allCities).map((city) => ({
       '@type': 'City',

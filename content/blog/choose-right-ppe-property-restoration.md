@@ -221,4 +221,4 @@ Take respirators, for instance. They protect against airborne contaminants, ensu
 -   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)
 -   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)
--   [Air Quality Tests During Mold Removal](/air-quality-tests-during-mold-removal/)
+-   [5 Steps for Mold Decontamination](/5-steps-for-mold-decontamination/)

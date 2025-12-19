@@ -2,6 +2,26 @@ import siteConfig from '@/config/site.json';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
+/**
+ * Get the standard LocalBusiness provider object with address
+ * Use this in service schemas to ensure the address field is always included
+ */
+export function getLocalBusinessProvider() {
+  return {
+    '@type': 'LocalBusiness',
+    name: siteConfig.name,
+    telephone: siteConfig.phone,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: siteConfig.address,
+      addressLocality: 'Doral',
+      addressRegion: 'FL',
+      postalCode: '33166',
+      addressCountry: 'US',
+    },
+  };
+}
+
 export interface StructuredDataOptions {
   type: 'Organization' | 'LocalBusiness' | 'WebSite' | 'Article' | 'Service' | 'BreadcrumbList' | 'Review' | 'AggregateRating';
   data?: Record<string, any>;
