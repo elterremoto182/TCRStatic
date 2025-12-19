@@ -25,6 +25,21 @@ import {
   ArrowRight,
   AlertCircle,
   Camera,
+  MapPin,
+  Briefcase,
+  ClipboardCheck,
+  Zap,
+  BadgeCheck,
+  ThumbsUp,
+  Wallet,
+  Smile,
+  CheckCircle,
+  Users,
+  Heart,
+  Wrench,
+  Headphones,
+  Star,
+  CalendarCheck,
 } from 'lucide-react';
 import type { PageContent } from '@/lib/local-seo/templates';
 import type { InternalLinksData } from '@/lib/local-seo/links';
@@ -46,8 +61,18 @@ const iconMap: Record<string, React.ElementType> = {
   FileCheck,
   Home,
   Building2,
-  Users: Shield,
-  Heart: Home,
+  Users,
+  Heart,
+  Phone,
+  MapPin,
+  Briefcase,
+  ClipboardCheck,
+  Zap,
+  BadgeCheck,
+  ThumbsUp,
+  Wallet,
+  Smile,
+  CheckCircle,
 };
 
 export function CityServicePage({
@@ -291,6 +316,221 @@ export function CityServicePage({
 
       {/* Process Section */}
       <ServiceProcess title={content.process.title} steps={content.process.steps} />
+
+      {/* What to Expect Section - New detailed content section */}
+      <section className="py-16 bg-white">
+        <div className="max-w-6xl mx-auto px-4">
+          <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                What to Expect When You Call Us
+              </h2>
+              <p className="text-gray-600 max-w-3xl mx-auto text-lg">
+                We understand that dealing with property damage is stressful. Here's exactly what happens when you contact Total Care Restoration for help—from your first call to the final walkthrough.
+              </p>
+            </div>
+          </AnimateOnScroll>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              <div className="bg-gradient-to-br from-primary/5 to-primary/10 rounded-2xl p-8">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-14 h-14 bg-primary rounded-xl flex items-center justify-center">
+                    <Headphones className="w-7 h-7 text-white" />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold text-gray-900">Immediate Response</h3>
+                    <p className="text-gray-600">24/7 availability, every day</p>
+                  </div>
+                </div>
+                <div className="space-y-4 text-gray-700">
+                  <p>
+                    When you call our emergency line, you'll speak directly with a trained restoration specialist—not an answering service. We'll gather essential information about your situation, provide immediate guidance to minimize damage, and dispatch a crew to your location.
+                  </p>
+                  <p>
+                    For {type === 'residential' ? 'homeowners' : 'business owners'}, we understand the urgency. That's why we maintain crews ready to respond around the clock, with fully-stocked vehicles containing all the equipment needed to begin work immediately upon arrival.
+                  </p>
+                </div>
+              </div>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-2xl p-8">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-14 h-14 bg-green-600 rounded-xl flex items-center justify-center">
+                    <ClipboardCheck className="w-7 h-7 text-white" />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold text-gray-900">Thorough Assessment</h3>
+                    <p className="text-gray-600">Professional damage evaluation</p>
+                  </div>
+                </div>
+                <div className="space-y-4 text-gray-700">
+                  <p>
+                    Upon arrival, our certified technicians conduct a comprehensive inspection using advanced equipment including thermal imaging cameras and moisture meters. We identify visible damage and hidden moisture that could lead to future problems.
+                  </p>
+                  <p>
+                    You'll receive a detailed explanation of what we find, what needs to be done, and a clear estimate of costs and timeline. We document everything thoroughly for insurance purposes and answer all your questions before work begins.
+                  </p>
+                </div>
+              </div>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+              <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-14 h-14 bg-blue-600 rounded-xl flex items-center justify-center">
+                    <Wrench className="w-7 h-7 text-white" />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold text-gray-900">Professional Restoration</h3>
+                    <p className="text-gray-600">Expert execution of repairs</p>
+                  </div>
+                </div>
+                <div className="space-y-4 text-gray-700">
+                  <p>
+                    Our IICRC-certified technicians use industry-leading equipment and techniques to restore your property. We follow established protocols that ensure thorough, lasting results—not quick fixes that lead to future problems.
+                  </p>
+                  <p>
+                    Throughout the process, we maintain clear communication about progress, any unexpected findings, and schedule updates. We respect your {type === 'residential' ? 'home and family' : 'business operations'} and work efficiently to minimize disruption.
+                  </p>
+                </div>
+              </div>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={400}>
+              <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-2xl p-8">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-14 h-14 bg-orange-600 rounded-xl flex items-center justify-center">
+                    <Star className="w-7 h-7 text-white" />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold text-gray-900">Final Walkthrough</h3>
+                    <p className="text-gray-600">Your satisfaction guaranteed</p>
+                  </div>
+                </div>
+                <div className="space-y-4 text-gray-700">
+                  <p>
+                    Before we consider the job complete, we conduct a final walkthrough with you to ensure every aspect of the restoration meets your expectations. We verify that all affected areas have been properly addressed and that you're completely satisfied with the results.
+                  </p>
+                  <p>
+                    We also provide guidance on preventing future issues and are available for follow-up questions. Your complete satisfaction is our priority, and we stand behind our work with a quality guarantee.
+                  </p>
+                </div>
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </div>
+      </section>
+
+      {/* Local Expertise Section - New content highlighting city-specific knowledge */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-6xl mx-auto px-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="space-y-6">
+                <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 text-primary rounded-full">
+                  <MapPin className="w-5 h-5" />
+                  <span className="font-semibold">Local Expertise</span>
+                </div>
+                <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
+                  We Know {content.neighborhoods.title.replace('Serving ', '').replace(' Neighborhoods', '')} Inside and Out
+                </h2>
+                <p className="text-gray-600 text-lg leading-relaxed">
+                  As a locally-owned company serving South Florida for years, we understand the unique challenges that {type === 'residential' ? 'homeowners' : 'businesses'} face in this area. From the impacts of our tropical climate to the specific building styles common in your neighborhood, our experience means faster, more effective restoration.
+                </p>
+                <div className="space-y-4">
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Clock className="w-5 h-5 text-primary" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900">Faster Response Times</h4>
+                      <p className="text-gray-600 text-sm">
+                        Our local presence means we can reach your {type === 'residential' ? 'home' : 'business'} quickly. We know the fastest routes through your neighborhood and maintain equipment close by for rapid deployment.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Building2 className="w-5 h-5 text-primary" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900">Understanding of Local Construction</h4>
+                      <p className="text-gray-600 text-sm">
+                        We're familiar with the building methods, materials, and architectural styles common in your area. This knowledge helps us restore your property correctly the first time.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Users className="w-5 h-5 text-primary" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900">Established Local Relationships</h4>
+                      <p className="text-gray-600 text-sm">
+                        We've built relationships with local insurance adjusters, contractors, and suppliers. These connections help streamline your restoration process and ensure quality results.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </AnimateOnScroll>
+
+            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+                <h3 className="text-xl font-bold text-gray-900 mb-6">
+                  Insurance & Cost Information
+                </h3>
+                <div className="space-y-6">
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                      <FileCheck className="w-6 h-6 text-green-600" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900 mb-1">Direct Insurance Billing</h4>
+                      <p className="text-gray-600 text-sm">
+                        We work directly with all major insurance companies and can bill them directly, reducing your out-of-pocket hassle. Our documentation meets insurance requirements for smooth claim processing.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                      <Wallet className="w-6 h-6 text-blue-600" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900 mb-1">Free Estimates</h4>
+                      <p className="text-gray-600 text-sm">
+                        We provide detailed, written estimates at no cost and with no obligation. You'll know exactly what to expect before any work begins, with no hidden fees or surprise charges.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                      <CalendarCheck className="w-6 h-6 text-purple-600" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-900 mb-1">Flexible Scheduling</h4>
+                      <p className="text-gray-600 text-sm">
+                        We work around your schedule, including {type === 'commercial' ? 'after-hours and weekend service to minimize business disruption' : 'evening and weekend appointments when needed'}. Emergency service is available 24/7.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="mt-8 pt-6 border-t border-gray-200">
+                  <a
+                    href="tel:7866106317"
+                    className="flex items-center justify-center gap-2 w-full py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors"
+                  >
+                    <Phone className="w-5 h-5" />
+                    Get Your Free Estimate
+                  </a>
+                </div>
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </div>
+      </section>
 
       {/* Prevention Tips - New Section */}
       {content.preventionTips && content.preventionTips.tips.length > 0 && (

@@ -141,10 +141,16 @@ export function generateHeroContent(
   serviceType: ServiceTypeConfig
 ): HeroContent {
   const typePrefix = serviceType.name;
+  const climateInfo = city.localFactors.climate;
+  
+  // Generate a more detailed subheadline with local context
+  const subheadlineBase = `Fast, professional ${service.shortName.toLowerCase()} restoration for ${serviceType.name.toLowerCase()} properties in ${city.name} and ${city.county}.`;
+  const localContext = ` Our certified technicians understand the unique challenges of ${climateInfo.toLowerCase()}, providing rapid ${city.responseTime} response time 24 hours a day, 7 days a week.`;
+  const trustNote = ` Licensed, bonded, and insured with IICRC-certified professionals ready to protect your ${serviceType.name.toLowerCase()} property.`;
   
   return {
     headline: `${typePrefix} ${service.name} in ${city.name}, FL`,
-    subheadline: `Fast, professional ${service.shortName.toLowerCase()} restoration for ${serviceType.name.toLowerCase()} properties in ${city.name}. Available 24/7 with ${city.responseTime} response time.`,
+    subheadline: subheadlineBase + localContext + trustNote,
     ctaText: serviceType.ctaText,
     ctaPhone: '(786) 610-6317',
     backgroundType: 'service',
@@ -157,13 +163,22 @@ export function generateIntroContent(
   type: 'residential' | 'commercial'
 ): IntroContent {
   const cityContent = city[type];
+  const serviceContent = type === 'residential' ? service.residentialContent : service.commercialContent;
+  
+  // Create a more comprehensive title
+  const title = type === 'residential' 
+    ? `Trusted ${service.shortName} Restoration for ${city.name} Homes`
+    : `Professional ${service.shortName} Restoration for ${city.name} Businesses`;
+  
+  // Enhance the intro content with service-specific context
+  const enhancedIntro = cityContent.intro + (serviceContent?.challenges ? ` ${serviceContent.challenges}` : '');
   
   return {
-    title: `${type === 'residential' ? 'Protecting' : 'Serving'} ${city.name} ${type === 'residential' ? 'Homes' : 'Businesses'}`,
-    content: cityContent.intro,
+    title,
+    content: enhancedIntro,
     extendedContent: cityContent.extendedContent,
     localChallenges: cityContent.localChallenges,
-    focusPoints: cityContent.focusPoints,
+    focusPoints: [...cityContent.focusPoints, ...(serviceContent?.tips?.slice(0, 2) || [])], // Add service tips to focus points
   };
 }
 
@@ -195,13 +210,13 @@ export function generatePreventionTipsContent(
   const bodyContent = service.bodyContent;
   const typeContent = type === 'residential' ? service.residentialContent : service.commercialContent;
   
-  // Combine general prevention tips with type-specific tips
+  // Combine general prevention tips with type-specific tips - expanded for more content
   const generalTips = bodyContent?.preventionTips || [];
   const typeTips = typeContent?.tips || [];
   
   return {
-    title: `${service.shortName} Prevention Tips`,
-    tips: [...generalTips.slice(0, 4), ...typeTips.slice(0, 3)], // Limit to 7 total tips
+    title: `${service.shortName} Prevention Tips for ${type === 'residential' ? 'Homeowners' : 'Business Owners'}`,
+    tips: [...generalTips.slice(0, 8), ...typeTips.slice(0, 5)], // Expanded to 13 total tips for more content
   };
 }
 
@@ -260,22 +275,32 @@ export function generateTrustSignalsContent(
     { icon: 'Shield', text: 'Licensed, bonded & insured in Florida' },
     { icon: 'Award', text: 'IICRC certified technicians' },
     { icon: 'FileCheck', text: 'Direct insurance billing available' },
+    { icon: 'Phone', text: '24/7 emergency hotline - call anytime' },
+    { icon: 'MapPin', text: `Locally owned and serving ${city.county}` },
   ];
   
   if (type === 'commercial') {
     baseSignals.push(
       { icon: 'Building2', text: '24/7 service including nights & weekends' },
-      { icon: 'Users', text: 'Dedicated commercial project managers' }
+      { icon: 'Users', text: 'Dedicated commercial project managers' },
+      { icon: 'Briefcase', text: 'Large-scale commercial equipment fleet' },
+      { icon: 'ClipboardCheck', text: 'Detailed documentation for insurance claims' },
+      { icon: 'Zap', text: 'Minimal business interruption focus' },
+      { icon: 'BadgeCheck', text: 'EPA & OSHA compliance certified' }
     );
   } else {
     baseSignals.push(
       { icon: 'Home', text: 'Family-owned & operated since 2015' },
-      { icon: 'Heart', text: 'Serving South Florida families' }
+      { icon: 'Heart', text: 'Serving South Florida families' },
+      { icon: 'ThumbsUp', text: '5-star rated on Google and Yelp' },
+      { icon: 'Wallet', text: 'Free estimates with no obligation' },
+      { icon: 'Smile', text: 'Friendly, respectful technicians' },
+      { icon: 'CheckCircle', text: 'Satisfaction guaranteed on all work' }
     );
   }
   
   return {
-    title: `Why ${city.name} ${type === 'residential' ? 'Homeowners' : 'Businesses'} Trust Us`,
+    title: `Why ${city.name} ${type === 'residential' ? 'Homeowners' : 'Businesses'} Trust Total Care Restoration`,
     signals: baseSignals,
   };
 }
@@ -286,8 +311,8 @@ export function generateFAQContent(
   faqs: FAQItem[]
 ): FAQContent {
   return {
-    title: `${service.name} FAQs for ${city.name}`,
-    faqs: faqs.slice(0, 6), // Expanded to 6 FAQs for more content
+    title: `Frequently Asked Questions About ${service.name} in ${city.name}`,
+    faqs: faqs.slice(0, 10), // Expanded to 10 FAQs for significantly more content
   };
 }
 
@@ -297,10 +322,11 @@ export function generateCTAContent(
   type: 'residential' | 'commercial'
 ): CTAContent {
   const typeLabel = type === 'residential' ? 'Home' : 'Business';
+  const audienceType = type === 'residential' ? 'homeowners' : 'business owners';
   
   return {
-    headline: `Need ${service.shortName} Help in ${city.name}?`,
-    subheadline: `Our ${type} restoration team is ready to respond 24/7. Get your free ${typeLabel.toLowerCase()} assessment today.`,
+    headline: `Need ${service.shortName} Help in ${city.name}? We're Here 24/7`,
+    subheadline: `Our licensed and certified ${type} restoration team serves ${city.name} ${audienceType} around the clock. With ${city.responseTime} response time and direct insurance billing, we make the restoration process as smooth as possible. Get your free ${typeLabel.toLowerCase()} assessment and expert consultation today—no obligation, just honest answers.`,
     primaryButton: {
       text: 'Call Now - 24/7',
       href: 'tel:7866106317',
@@ -423,10 +449,10 @@ export function generatePageContent(
   const causes = getCausesForService(serviceSlug);
   const faqs = getPopulatedFAQs(serviceSlug, citySlug, type);
   
-  // Generate meta
+  // Generate meta with expanded content
   const meta = {
-    title: `${serviceType.name} ${service.name} in ${city.name}, FL | Total Care Restoration`,
-    description: `Professional ${type} ${service.name.toLowerCase()} in ${city.name}. ${city.responseTime} response time. Licensed, insured & IICRC certified. Call 24/7.`,
+    title: `${serviceType.name} ${service.name} in ${city.name}, FL | 24/7 Emergency Service | Total Care Restoration`,
+    description: `Professional ${type} ${service.name.toLowerCase()} in ${city.name}, ${city.county}. IICRC-certified technicians with ${city.responseTime} response time. Licensed, bonded, and insured. Direct insurance billing available. Serving all ${city.name} neighborhoods 24/7. Call (786) 610-6317 for your free assessment.`,
     keywords: [
       // Highest volume: "[service] [city]" pattern
       ...service.keywords.map(k => `${k} ${city.name}`),
@@ -437,6 +463,9 @@ export function generatePageContent(
       ...service.keywords.slice(0, 2).map(k => `${k} ${city.name} ${type}`),
       // County-level keywords
       `${service.shortName.toLowerCase()} ${city.county}`,
+      // Emergency keywords
+      `emergency ${service.shortName.toLowerCase()} ${city.name}`,
+      `24/7 ${service.shortName.toLowerCase()} ${city.name}`,
     ],
   };
   

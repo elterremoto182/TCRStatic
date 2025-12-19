@@ -8,6 +8,9 @@
 # Blog and upload images (preserves year/month structure)
 /wp-content/uploads/* /images/blog/:splat 301
 
+# Renamed images
+/images/blog/2024/03/db343aa8-c7e3-499e-b72f-f7fcf1988e3a-scaled.jpg /images/blog/2024/03/flairgun-water-damage-inspection.jpg 301
+
 # Theme assets
 /wp-content/themes/sk-theme-three/dist/images/assets/logo_997e8514.png /images/site/logo.png 301
 /wp-content/themes/sk-theme-three/dist/images/assets/favicon_3b0b47d4.png /images/site/favicon.png 301
