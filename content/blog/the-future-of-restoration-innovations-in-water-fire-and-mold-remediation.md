@@ -51,5 +51,5 @@ restoring the affected area to its pre-damaged condition. To gain more insights 
 you to read our article on [Mold Sanitization Vs Mold Remediation](/mold-sanitization-vs-mold-remediation/).
 
 At Total Care Restoration, we are dedicated to providing exceptional restoration services with a focus on  
-innovative techniques and customer satisfaction. If you require any assistance or have further inquiries, please feel free to [Contact Us](/contact) us. We are here to support you in any water, fire, or mold  
+innovative techniques and customer satisfaction. If you require any assistance or have further inquiries, please feel free to [Contact Us](/contact/) us. We are here to support you in any water, fire, or mold  
 restoration needs you may have!

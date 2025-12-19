@@ -182,11 +182,11 @@ To ensure air scrubbers operate at their best during a restoration project, regu
 It’s also important to check the **electrical components** for any issues, verify that the **ductwork remains intact**, and examine the **fan blades** for signs of damage or debris. Don’t overlook the exterior – keeping it clean can go a long way in maintaining efficient operation. Consistent care like this ensures your air scrubber runs smoothly, contributing to a more effective restoration process.
 
 ## Related Blog Posts
-- [Signs of Structural Damage After a Fire](/signs-of-structural-damage-after-a-fire)
-- [Should I Install a Roof Tarp Now or Wait to Replace My Roof?](/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof)
-- [Safe Disposal of Fire-Damaged Materials](/safe-disposal-of-fire-damaged-materials)
-- [Roof Tarping Completely Explained](/roof-tarping-completely-explained)
-- [Restoration Dehumidifiers: What You Should Know](/restoration-dehumidifiers)
+- [Signs of Structural Damage After a Fire](/signs-of-structural-damage-after-a-fire/)
+- [Should I Install a Roof Tarp Now or Wait to Replace My Roof?](/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/)
+- [Safe Disposal of Fire-Damaged Materials](/safe-disposal-of-fire-damaged-materials/)
+- [Roof Tarping Completely Explained](/roof-tarping-completely-explained/)
+- [Restoration Dehumidifiers: What You Should Know](/restoration-dehumidifiers/)
 
 -   [Emergency Water Damage Checklist First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)

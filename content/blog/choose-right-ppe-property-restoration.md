@@ -212,11 +212,11 @@ When tackling property restoration projects, choosing the right personal protect
 Take respirators, for instance. They protect against airborne contaminants, ensuring workers can breathe safely in environments with poor air quality. Meanwhile, gloves and protective suits act as barriers, keeping harmful substances away from the skin. Using the correct PPE not only safeguards the health of workers but also helps meet safety standards, making the restoration process smoother and more secure.
 
 ## Related Blog Posts
-- [The Miami Flood We Thought About](/the-2025-miami-flood-we-thought-about)
-- [Steps After Insurance Claim Denial](/steps-after-insurance-claim-denial)
-- [Step-by-Step Guide to Tarping a Roof After a Storm](/step-by-step-guide-to-tarping-a-roof-after-a-storm)
-- [Smoke Damage Restoration: Professional vs DIY Methods](/smoke-damage-restoration-professional-vs-diy-methods)
-- [Smoke Damage: Long-Term Effects and Restoration Techniques.](/smoke-damage-long-term-effects-and-restoration-techniques)
+- [The Miami Flood We Thought About](/the-2025-miami-flood-we-thought-about/)
+- [Steps After Insurance Claim Denial](/steps-after-insurance-claim-denial/)
+- [Step-by-Step Guide to Tarping a Roof After a Storm](/step-by-step-guide-to-tarping-a-roof-after-a-storm/)
+- [Smoke Damage Restoration: Professional vs DIY Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
+- [Smoke Damage: Long-Term Effects and Restoration Techniques.](/smoke-damage-long-term-effects-and-restoration-techniques/)
 
 -   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)

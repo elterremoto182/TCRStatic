@@ -49,6 +49,6 @@ After this, you can start looking for a provider. Note that when it comes to mak
 
 No one wants to pay for unnecessary services, but it’s tough to tell the difference between a minor water stain and major water damage. If you’re uncertain, it’s best to get a professional opinion from a water damage restoration service.
 
-At [Contact](/contact), we not only believe in doing the most for our customers. We work in the Miami Broward, and Palm Beach areas.
+At [Contact](/contact/), we not only believe in doing the most for our customers. We work in the Miami Broward, and Palm Beach areas.
 
 Our technitians are IICRC-certified. This means that when it comes to water damage restoration, you’re getting the top options in terms of handling both small and major water damage incidents.

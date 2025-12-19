@@ -21,7 +21,7 @@ The right provider offers quick response times, certified technicians, and help 
 - Look for providers with 24/7 availability, certified technicians, and direct insurance billing
 - Total Care Restoration offers reliable temporary power services alongside fire restoration
 
-For immediate help, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317](/contact)**.
+For immediate help, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317](/contact/)**.
 
 ## How to Choose a Temporary Power Provider
 
@@ -262,11 +262,11 @@ Powered equipment dries out damaged areas and assists with cleanup. This ensures
 Partnering with an experienced provider like Total Care Restoration simplifies the process and keeps costs in check.
 
 ## Related Blog Posts
-- [Post-Disaster Assessment for Commercial Properties](/post-disaster-assessment-for-commercial-properties)
-- [Ozone Air Treatment for Mold and Pathogens](/ozone-air-treatment-for-mold-and-pathogens)
-- [Mold Sanitization vs. Mold Remediation – The Better Choice](/mold-sanitization-vs-mold-remediation)
-- [Mold Risk Assessment Tool](/mold-risk-assessment-tool)
-- [Mold in Commercial Spaces: Causes and Solutions](/mold-in-commercial-spaces-causes-and-solutions)
+- [Post-Disaster Assessment for Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
+- [Ozone Air Treatment for Mold and Pathogens](/ozone-air-treatment-for-mold-and-pathogens/)
+- [Mold Sanitization vs. Mold Remediation – The Better Choice](/mold-sanitization-vs-mold-remediation/)
+- [Mold Risk Assessment Tool](/mold-risk-assessment-tool/)
+- [Mold in Commercial Spaces: Causes and Solutions](/mold-in-commercial-spaces-causes-and-solutions/)
 
 - [Post Disaster Assessment For Commercial Properties](/post-disaster-assessment-for-commercial-properties/)
 - [Air Quality Testing After Fire Damage](/air-quality-testing-after-fire-damage/)

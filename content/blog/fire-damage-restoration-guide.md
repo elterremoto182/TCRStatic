@@ -120,7 +120,7 @@ Our fire damage restoration team will provide you with assistance and guidance t
 
 A major component of recovery is knowing that your home and property have the right fire damage restoration services to ensure that you are safe and protected.
 
-Miami-area homeowners have the perfect option in the professionals at [Contact](/contact). On top of going above and beyond to help our customers, we’re also:
+Miami-area homeowners have the perfect option in the professionals at [Contact](/contact/). On top of going above and beyond to help our customers, we’re also:
 
 -   5 Star Rated on Yelp
 -    IICRC Certified

@@ -50,9 +50,9 @@ At Total Care Restoration, we specialize in identifying and solving mold problem
 ![Moisture meter for mold detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
 
 ## Related Links
-- [What is a Moisture Meter? The Best Measurement](/what-is-a-moisture-meter-the-best-measurement)
-- [Ultimate Guide to Water Extraction and Drying](/water-extraction-drying-guide)
-- [Step-by-step Water Restoration Guide](/water-damage-restoration-guide)
-- [The Process of a Water Damage Dry Out](/water-damage-dry-out-process)
+- [What is a Moisture Meter? The Best Measurement](/what-is-a-moisture-meter-the-best-measurement/)
+- [Ultimate Guide to Water Extraction and Drying](/water-extraction-drying-guide/)
+- [Step-by-step Water Restoration Guide](/water-damage-restoration-guide/)
+- [The Process of a Water Damage Dry Out](/water-damage-dry-out-process/)
 
-- [Water Damage Cost Calculator](/water-damage-cost-calculator)
+- [Water Damage Cost Calculator](/water-damage-cost-calculator/)

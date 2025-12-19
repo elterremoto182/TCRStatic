@@ -4,7 +4,8 @@ import {
   Droplet, 
   Wind, 
   Flame, 
-  AlertTriangle, 
+  AlertTriangle,
+  AlertCircle,
   Building2, 
   Home, 
   Package, 
@@ -19,6 +20,7 @@ const iconMap: Record<string, LucideIcon> = {
   Wind,
   Flame,
   AlertTriangle,
+  AlertCircle,
   Building2,
   Home,
   Package,
@@ -35,6 +37,7 @@ const serviceSlugMap: Record<string, string> = {
   'commercial': '/water-damage-restoration/commercial',
   'air-quality': '/indoor-air-quality',
   'home': '/water-damage-restoration',
+  'emergency-restoration': '/emergency-restoration',
 };
 
 export function Services() {

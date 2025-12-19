@@ -181,9 +181,9 @@ Coverage depends on your policy. Sudden damage may be covered, while long-term d
 Most cast iron pipe replacement projects take 2 to 5 days, depending on the size of the property and the scope of work involved
 
 ## Related Links
-- [Recognizing the Early Signs of Mold Allergies.](/recognizing-the-early-signs-of-mold-allergies)
-- [Real-Time Data in Water Damage Restoration](/real-time-data-in-water-damage-restoration)
-- [Property Restoration Checklist Generator](/property-restoration-checklist-generator)
-- [Preventing and Restoring Water Damage in Historical Homes](/preventing-and-restoring-water-damage-in-historical-homes)
+- [Recognizing the Early Signs of Mold Allergies.](/recognizing-the-early-signs-of-mold-allergies/)
+- [Real-Time Data in Water Damage Restoration](/real-time-data-in-water-damage-restoration/)
+- [Property Restoration Checklist Generator](/property-restoration-checklist-generator/)
+- [Preventing and Restoring Water Damage in Historical Homes](/preventing-and-restoring-water-damage-in-historical-homes/)
 
-- [Post-Fire Concrete Repairs: Moisture Effects](/post-fire-concrete-repairs-moisture-effects)
+- [Post-Fire Concrete Repairs: Moisture Effects](/post-fire-concrete-repairs-moisture-effects/)

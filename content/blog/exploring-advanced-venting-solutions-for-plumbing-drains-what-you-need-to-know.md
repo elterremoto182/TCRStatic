@@ -55,7 +55,7 @@ Traditional methods often require roof penetrations for vent stacks. These metho
 | **Skilled Labor** | Requires experts for proper sealing |
 | **Structural Damage Risk** | Roof penetrations can lead to leaks over time |
 
-For example, venting a kitchen sink traditionally means running a pipe through walls up to the roof. This adds complexity and cost. Extensive work increases the chance of structural damage. This could lead to [Tell Mold Behind Walls](/tell-mold-behind-walls) and pose health risks.
+For example, venting a kitchen sink traditionally means running a pipe through walls up to the roof. This adds complexity and cost. Extensive work increases the chance of structural damage. This could lead to [Tell Mold Behind Walls](/tell-mold-behind-walls/) and pose health risks.
 
 In such cases, [Roof Tarping](/roof-tarping/) can help protect damage temporarily while you find a permanent fix.
 
@@ -91,7 +91,7 @@ This prevents backflow of gases.
 - **Commercial properties** – Where extensive pipework would disrupt operations
 - **Renovations** – For updating older buildings without major work
 
-For more info on these solutions, visit our [Thanks](/thanks) page.
+For more info on these solutions, visit our [Thanks](/thanks/) page.
 
 ## Single Stack Systems Simplify Plumbing
 
@@ -150,7 +150,7 @@ Using advanced venting solutions requires following local building codes. These 
 - **Material standards** – Requirements for durability
 - **Testing and certification** – Products must be tested by recognized bodies
 
-Ignoring these rules can result in fines or required system changes. Poor ventilation can also cause mold growth and health risks. Learn more about [Health Risks Associated With Mold in Your Home](/health-risks-associated-with-mold-in-your-home).
+Ignoring these rules can result in fines or required system changes. Poor ventilation can also cause mold growth and health risks. Learn more about [Health Risks Associated With Mold in Your Home](/health-risks-associated-with-mold-in-your-home/).
 
 ### Integration Challenges
 

@@ -185,6 +185,18 @@
         "Insurance Coordination"
       ],
       "description": "Protect your property with professional shrink wrapping services from Total Care Restoration. Ideal for roofs, construction sites, and storm-damaged structures across South Florida."
+    },
+    {
+      "id": "emergency-restoration",
+      "icon": "AlertCircle",
+      "image": "/images/blog/2022/07/Water_damage-dryout-768x1024.jpg",
+      "title": "24/7 Emergency Restoration",
+      "features": [
+        "Available 24/7/365",
+        "30-60 Minute Response",
+        "Insurance Assistance"
+      ],
+      "description": "When disaster strikes, every minute counts. Our emergency team responds 24/7 to water damage, fire damage, and storm damage throughout South Florida."
     }
   ],
   "testimonials": [
