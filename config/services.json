@@ -415,7 +415,7 @@
     ],
     "causes": [],
     "bodyContent": {
-      "overview": "When disaster strikes—whether it's a burst pipe at 2 AM, a fire that's just been extinguished, or storm damage during a hurricane—you need a restoration company that responds immediately. Our 24/7 emergency restoration team is always ready, with technicians on-call every day of the year, including nights, weekends, and holidays.\n\nEvery minute counts in an emergency. Water damage spreads and worsens by the hour. Fire damage continues to deteriorate surfaces through acidic soot. Unsecured properties are vulnerable to further damage and security risks. Our rapid response team arrives equipped to immediately mitigate damage and begin the restoration process.\n\nOur emergency response capabilities include water extraction equipment that can remove thousands of gallons per hour, board-up materials to secure damaged windows and doors, temporary roof tarping supplies, commercial-grade dehumidifiers and air movers, and the expertise to assess damage quickly and develop effective restoration plans.\n\nWe understand that emergencies are stressful and overwhelming. Our team is trained not only in technical restoration skills but also in compassionate customer service. We explain what's happening, what we're doing, and what you can expect at every step. We help coordinate with insurance companies and can provide guidance on temporary housing or business relocation if needed.",
+      "overview": "Disasters don't wait. A burst pipe at 2 AM. A fire that just went out. Storm damage from a hurricane. You need help now.\n\nOur team is ready 24/7. We work every day of the year. Nights. Weekends. Holidays. No exception.\n\nEvery minute matters. Water spreads fast. It causes more damage each hour. Fire soot eats away at surfaces. Open buildings face more damage and theft.\n\nWe show up fast with the right tools. Our trucks carry pumps that remove water quickly. We bring boards and tarps to seal openings. We use strong dryers and dehumidifiers. We know how to check damage and make a plan.\n\nWe know this is hard. You're stressed. You have questions. Our team explains each step. We talk to your insurance company. We help you find a place to stay or work if needed.\n\nSpeed saves money. The first 24-48 hours matter most. Mold starts growing. Walls and floors break down. The longer you wait, the worse it gets. Act fast to save your property and your budget.",
       "commonCauses": [
         "Burst pipes and plumbing failures",
         "House fires and smoke damage",
@@ -430,21 +430,22 @@
         "Frozen pipes (rare but possible in Florida)"
       ],
       "preventionTips": [
-        "Create an emergency contact list including restoration companies",
-        "Know the location of water, gas, and electrical shutoffs",
-        "Have a family emergency plan and meeting place",
-        "Keep important documents in waterproof, fireproof storage",
-        "Install water leak detectors near appliances and water heaters",
-        "Review insurance coverage annually to ensure adequate protection",
-        "Keep emergency supplies including flashlights, batteries, and first aid kit",
-        "Maintain backup power options for sump pumps and critical systems",
-        "Program emergency numbers into all family members' phones",
-        "Take photos/video of your property and belongings for insurance documentation",
-        "Keep a go-bag ready with essential medications, documents, and supplies",
-        "Know your evacuation routes for different types of emergencies",
-        "Install smart home water shutoff valves for remote emergency control"
+        "Save the number of a good restoration company",
+        "Know where your water shutoff valve is",
+        "Know where your electrical panel is",
+        "Make a family plan for emergencies",
+        "Keep key papers in a safe, waterproof box",
+        "Put leak sensors near water heaters and washers",
+        "Check your insurance each year",
+        "Keep flashlights and first aid supplies handy",
+        "Add backup power for sump pumps",
+        "Save emergency numbers in all family phones",
+        "Take photos of your home and items for insurance",
+        "Pack a go-bag with medicine and documents",
+        "Know your escape routes",
+        "Add smart water shutoff valves you can control from your phone"
       ],
-      "whyActFast": "In restoration emergencies, the first 24-48 hours are critical. Water damage begins causing mold growth, structural damage, and permanent material deterioration within this window. Fire residue becomes increasingly difficult to remove and causes more damage as time passes. Every hour of delay increases restoration costs and extends the time until your property is restored. Insurance companies expect prompt mitigation—delays can affect your coverage and claim outcomes."
+      "whyActFast": "Time is money. The first 24-48 hours decide everything. Mold starts fast. Walls soften. Floors warp. Fire residue gets harder to remove. Costs go up every hour. Insurance also expects you to act fast. Delays can hurt your claim."
     },
     "residentialContent": {
       "challenges": "A home emergency is incredibly stressful for families. Beyond the physical damage, there's the emotional impact of seeing your home damaged and the uncertainty of what comes next. Our residential emergency team responds with both urgency and compassion, explaining each step of the process, coordinating with insurance, and doing everything possible to minimize disruption to your family's life. We understand that you may have elderly family members, young children, or pets that add complexity to emergency situations—we work with you to address all your family's needs.",
@@ -460,16 +461,22 @@
       ]
     },
     "commercialContent": {
-      "challenges": "Commercial emergencies impact not just your property but your business operations, employees, and customers. Our commercial emergency team understands that rapid response directly affects your revenue and reputation. We're equipped to handle large-scale emergencies, coordinate with multiple stakeholders, and develop restoration plans that prioritize getting your business operational as quickly as possible. We can work around your operations, during off-hours, and coordinate with landlords, tenants, and corporate offices as needed.",
+      "challenges": "When your business faces an emergency, every hour counts. Water damage means closed doors. Fire means lost sales. Storm damage means angry customers. You need help that moves fast.\n\nWe know business. We know downtime costs money. We know your staff and customers depend on you. That's why we respond quickly to commercial calls.\n\nOur team handles big jobs. We bring the right equipment. We work with property managers, landlords, and corporate offices. We can work nights and weekends to reduce lost time.\n\nWe protect your inventory. We save your equipment when possible. We document everything for insurance. We help you file claims and get paid faster.\n\nWe've helped offices, stores, restaurants, warehouses, and more. Each business is different. We adjust our approach to fit your needs.\n\nMany businesses lose money during repairs. We create plans to keep parts of your business running. We prioritize areas that matter most. We work in phases when needed.\n\nYour reputation matters. Customers notice when you're closed. Employees worry about their jobs. Fast restoration protects both. We help you get back to normal quickly.",
       "tips": [
-        "Establish relationships with restoration companies before you need them",
-        "Maintain emergency contact lists for key personnel and vendors",
-        "Document inventory and equipment with photos and serial numbers",
-        "Review business interruption insurance coverage regularly",
-        "Train managers on emergency response procedures",
-        "Have backup plans for critical business functions",
-        "Keep backup copies of essential business data off-site or in the cloud",
-        "Know your lease obligations regarding emergency response and restoration"
+        "Build a relationship with a restoration company before disaster strikes",
+        "Keep a list of key contacts for emergencies",
+        "Take photos of all equipment and inventory",
+        "Review your business interruption insurance yearly",
+        "Train managers on what to do in an emergency",
+        "Have a backup plan for key business functions",
+        "Store data backups off-site or in the cloud",
+        "Know what your lease says about repairs",
+        "Post emergency exit routes in visible areas",
+        "Keep a first aid kit and flashlights on-site",
+        "Check fire extinguishers regularly",
+        "Make sure smoke detectors work",
+        "Know the location of all utility shutoffs",
+        "Have a communication plan for employees and customers"
       ]
     },
     "images": {
@@ -535,35 +542,35 @@
     ],
     "causes": ["hurricane-damage", "wind-damage", "flood-damage", "tree-damage"],
     "bodyContent": {
-      "overview": "Living in South Florida means living with hurricane season. When storms hit, properties can suffer devastating damage from wind, rain, flooding, and flying debris. Our storm damage restoration team is specially trained and equipped to handle the unique challenges of hurricane and tropical storm damage, from emergency tarping to complete property restoration.\n\nWe understand that after a major storm, restoration resources can be stretched thin. That's why we pre-position equipment and personnel before storms arrive, ensuring we can respond quickly when our community needs us most. Our team has extensive experience with Florida's building codes and insurance requirements for storm damage claims.\n\nStorm damage often combines multiple types of damage that must be addressed in the proper sequence. Water intrusion from roof damage must be stopped before drying can begin. Structural stability must be verified before interior work proceeds. Flood water contamination requires proper handling and sanitization. Our experienced team coordinates all aspects of storm damage restoration to ensure efficient, complete restoration of your property.",
+      "overview": "South Florida means hurricane season. Storms bring wind, rain, floods, and flying debris. Your property can take a beating.\n\nOur team is ready. We train for storm damage. We know how to handle it.\n\nAfter big storms, everyone needs help. Restoration crews get stretched thin. That's why we prepare ahead of time. We move equipment and staff into position before the storm hits. This lets us respond faster when you call.\n\nWe know Florida's building codes. We know how insurance claims work. We help you through the whole process.\n\nStorm damage is often complex. Your roof may leak. Water gets inside. The structure may be weak. Flood water may be dirty. Each problem needs the right fix in the right order. We plan everything out so the job gets done right.",
       "commonCauses": [
-        "Hurricane-force winds damaging roofs and structures",
-        "Storm surge and coastal flooding",
-        "Heavy rainfall causing interior water damage",
-        "Flying debris impacting buildings",
-        "Fallen trees damaging roofs and structures",
-        "Power surge damage to electrical systems",
-        "Prolonged power outages causing secondary damage",
-        "Tornado damage during severe storms",
-        "Hail damage to roofs, windows, and vehicles",
-        "Wind-driven rain penetrating windows and doors"
+        "Hurricane winds tearing off roofs",
+        "Storm surge flooding coastal areas",
+        "Heavy rain leaking inside buildings",
+        "Debris hitting walls and windows",
+        "Trees falling on structures",
+        "Power surges damaging electronics",
+        "Long power outages spoiling goods",
+        "Tornado damage during storms",
+        "Hail cracking roofs and glass",
+        "Rain blowing through gaps in doors and windows"
       ],
       "preventionTips": [
-        "Install hurricane shutters or impact-resistant windows",
-        "Secure loose items around your property before storms",
-        "Trim trees and remove dead branches near structures",
-        "Know your evacuation zone and have a plan ready",
-        "Review your insurance coverage before hurricane season",
-        "Document your property with photos for insurance purposes",
-        "Keep emergency supplies including tarps and plywood on hand",
-        "Ensure garage doors are hurricane-rated or reinforced",
-        "Know how to shut off utilities in an emergency",
-        "Have a communication plan with family members",
-        "Fill vehicles with fuel before storms approach",
-        "Prepare a waterproof container with important documents",
-        "Consider a whole-house generator for extended power outages"
+        "Install storm shutters or impact windows",
+        "Secure loose items outside",
+        "Trim trees and cut dead branches",
+        "Know your evacuation zone",
+        "Review insurance before storm season",
+        "Take photos of your property for claims",
+        "Keep tarps and plywood on hand",
+        "Get hurricane-rated garage doors",
+        "Know how to turn off utilities",
+        "Have a plan to stay in touch with family",
+        "Fill up your gas tank early",
+        "Store key documents in a waterproof container",
+        "Consider a backup generator"
       ],
-      "whyActFast": "Storm damage requires immediate attention to prevent secondary damage. A damaged roof left uncovered allows continued water intrusion with every rainfall. Standing flood water creates mold conditions within 24-48 hours. Structural damage can worsen without proper stabilization. Quick response to storm damage minimizes total restoration costs and gets you back to normal faster. After major storms, restoration companies become overwhelmed—early callers get faster service."
+      "whyActFast": "Don't wait after a storm. An open roof lets in more rain. Standing water grows mold in 24-48 hours. Weak structures can get worse. Fast action saves money. It gets you back to normal sooner. After big storms, crews get busy. Call early to get help faster."
     },
     "residentialContent": {
       "challenges": "Hurricane damage to homes is particularly devastating because it often occurs when families are displaced or evacuated. Our residential storm damage team helps homeowners navigate the chaos after a storm—securing the property, documenting damage for insurance, coordinating with adjusters, and developing restoration plans that prioritize family safety and comfort. We understand the emotional toll of returning to find your home damaged and work with compassion while acting with urgency.",
@@ -580,16 +587,22 @@
       ]
     },
     "commercialContent": {
-      "challenges": "Commercial storm damage can shut down operations for weeks or months without proper restoration planning. Our commercial storm damage team works with property managers and business owners to develop aggressive restoration timelines, prioritize critical areas for business operations, and provide comprehensive documentation for business interruption claims. We understand that commercial properties often have additional considerations including lease obligations, regulatory compliance, and multi-tenant coordination.",
+      "challenges": "Storm damage can close your business for weeks. Or even months. Without a plan, recovery takes longer. Lost time means lost money.\n\nWe work with property managers and owners. We build fast restoration plans. We focus on areas that matter most. We document everything for insurance claims.\n\nCommercial buildings have extra concerns. You may have lease terms to follow. You may have rules to meet. You may have many tenants to coordinate. We handle all of it.\n\nOur team knows big jobs. We've restored offices, stores, warehouses, and more. We bring the right equipment. We work around your schedule when we can.\n\nWe protect your inventory. We save equipment when possible. We help you file claims faster. We provide the paperwork you need.\n\nWe plan for business continuity. We try to keep parts of your operation running. We work in phases. We tackle the most important areas first.\n\nYour employees need to know what's happening. Your customers may be waiting. We help you communicate and rebuild trust.\n\nAfter the job, we can help you prepare for next time. We review what went wrong. We suggest ways to prevent future damage.",
       "tips": [
-        "Develop a hurricane preparedness plan for your business",
-        "Backup critical data to cloud storage before storm season",
-        "Have pre-arranged restoration contracts ready to activate",
-        "Designate employees responsible for storm preparation duties",
-        "Maintain adequate business interruption insurance coverage",
-        "Know your lease requirements for storm damage responsibilities",
-        "Plan for employee communication during and after storms",
-        "Consider temporary relocation options for critical business functions"
+        "Make a hurricane plan for your business",
+        "Back up data to the cloud before storm season",
+        "Set up a restoration contract ahead of time",
+        "Assign staff to handle storm prep",
+        "Check your business interruption insurance",
+        "Know your lease terms for damage repairs",
+        "Plan how to contact employees after a storm",
+        "Find backup locations for key functions",
+        "Keep plywood and tarps at your building",
+        "Know where your utility shutoffs are",
+        "Take inventory photos for insurance",
+        "Test your backup generator regularly",
+        "Set up a group text or app for emergencies",
+        "Review your plan each year before June"
       ]
     },
     "images": {
@@ -898,44 +911,44 @@
     ],
     "causes": ["sewage-backup", "septic-overflow", "drain-backup"],
     "bodyContent": {
-      "overview": "Sewage backups are among the most hazardous situations homeowners and businesses can face. Raw sewage contains dangerous bacteria, viruses, parasites, and other pathogens that pose serious health risks to anyone exposed. This is not a cleanup you should attempt yourself—professional sewage cleanup requires specialized equipment, protective gear, and training to handle safely.\n\nOur certified sewage cleanup team responds 24/7 to contain, remove, and sanitize sewage-affected areas. We follow strict safety protocols and use hospital-grade disinfectants to ensure your property is thoroughly decontaminated and safe for occupancy.\n\nSewage cleanup is classified as Category 3 water damage—the most severe contamination level—requiring specific handling procedures and safety protocols. All porous materials that contact sewage typically must be removed and replaced, as they cannot be adequately sanitized. Hard surfaces require thorough cleaning with antimicrobial agents designed to kill the pathogens found in sewage.\n\nBeyond the immediate health hazards, sewage backup can cause lasting damage to your property if not addressed properly. Contamination can spread into wall cavities, under flooring, and into HVAC systems. Thorough professional cleaning and sanitization is essential to restore your property to a safe, healthy condition.",
+      "overview": "Sewage backups are dangerous. Raw sewage carries harmful germs. It has bacteria, viruses, and parasites. These can make people very sick.\n\nDon't try to clean this yourself. You need special gear and training. Our team knows how to do this safely.\n\nWe respond 24/7. We contain the mess. We remove the waste. We clean and sanitize every surface. We use hospital-grade products to kill germs.\n\nSewage is the worst type of water damage. Anything porous that touched sewage must go. Carpet, drywall, and padding can't be saved. Hard surfaces can be cleaned with strong products.\n\nSewage spreads if you don't act fast. It gets into walls. It goes under floors. It reaches your air ducts. Full cleaning is the only way to make your space safe again.\n\nSpeed matters. Germs spread as things dry. Carpet and drywall absorb the mess. Wait too long, and more items need to be replaced. The smell also gets worse each day.",
       "commonCauses": [
-        "Main sewer line blockages or collapses",
-        "Septic system failures or overflows",
-        "Heavy rainfall overwhelming municipal systems",
-        "Tree root intrusion into sewer lines",
-        "Grease and debris buildup in pipes",
-        "Toilet backups and overflows",
-        "Sump pump failures during flooding",
-        "Aging sewer infrastructure in older areas",
-        "Combined sewer overflows during storms",
-        "Broken or damaged sewer lateral connections"
+        "Main sewer line clogs or breaks",
+        "Septic tank overflows",
+        "Heavy rain flooding city sewers",
+        "Tree roots growing into pipes",
+        "Grease buildup in drains",
+        "Toilet clogs and overflows",
+        "Failed sump pumps during floods",
+        "Old sewer pipes in aging buildings",
+        "Storm runoff mixing with sewage",
+        "Cracked or broken pipe connections"
       ],
       "preventionTips": [
-        "Never flush anything except toilet paper down toilets",
-        "Avoid pouring grease or oil down drains",
-        "Schedule regular septic system maintenance and pumping",
-        "Install backwater valves in basement drains",
-        "Have sewer lines inspected if your home is older",
-        "Remove trees with invasive roots near sewer lines",
-        "Know the signs of slow drains indicating potential blockages",
-        "Don't use chemical drain cleaners excessively—they can damage pipes",
-        "Consider video inspection of sewer lines when buying an older home",
-        "Repair cracks in your foundation that could allow sewage intrusion",
-        "Install a sewage ejector pump with battery backup if you have basement plumbing",
-        "Know the location of your sewer cleanout for emergency access"
+        "Only flush toilet paper",
+        "Never pour grease down drains",
+        "Get septic tanks pumped on schedule",
+        "Install backwater valves in low drains",
+        "Have old pipes inspected",
+        "Remove trees near sewer lines",
+        "Watch for slow drains",
+        "Avoid harsh drain cleaners",
+        "Check pipes with a camera before buying old buildings",
+        "Fix cracks in your foundation",
+        "Add a battery backup to ejector pumps",
+        "Know where your sewer cleanout is"
       ],
-      "whyActFast": "Sewage contamination spreads quickly and poses immediate health risks. Bacteria and pathogens can become airborne as materials dry. Porous materials like carpet and drywall may become permanently contaminated if not addressed within 24-48 hours. The longer sewage sits, the more extensive and costly the cleanup becomes, and the greater the health risks to occupants. Additionally, sewage odors can permanently permeate materials that aren't promptly removed.",
+      "whyActFast": "Sewage spreads fast. Germs go airborne as things dry. Carpet and drywall soak it in. Wait more than 24-48 hours, and more needs to be ripped out. Costs go up. Health risks go up. The smell gets worse and harder to remove.",
       "healthRisks": [
-        "Bacterial infections including E. coli and Salmonella",
-        "Viral diseases including Hepatitis A",
-        "Parasitic infections from contaminated water",
-        "Respiratory issues from airborne contaminants",
-        "Skin infections and rashes from contact",
-        "Gastrointestinal illness from exposure",
+        "E. coli and Salmonella infections",
+        "Hepatitis A from contaminated water",
+        "Parasites that cause illness",
+        "Breathing problems from airborne germs",
+        "Skin rashes and infections",
+        "Stomach illness from exposure",
         "Eye and skin irritation",
-        "Allergic reactions to sewage components",
-        "Potential infection of open wounds"
+        "Allergic reactions",
+        "Infected cuts and wounds"
       ]
     },
     "residentialContent": {
@@ -952,16 +965,22 @@
       ]
     },
     "commercialContent": {
-      "challenges": "Commercial sewage incidents can force immediate closure and create significant liability concerns. Our commercial team responds rapidly with industrial equipment, follows all OSHA and health department requirements, and provides documentation needed for compliance and insurance. We work to minimize business interruption while ensuring complete decontamination. Restaurants, healthcare facilities, and other regulated businesses have specific requirements for sewage cleanup that our team is trained to meet.",
+      "challenges": "Sewage at your business is a crisis. You may need to close immediately. You face health rules and legal risks. Customers and staff can't be near the mess.\n\nWe respond fast with the right tools. We follow OSHA rules. We meet health department standards. We give you the paperwork you need for compliance and insurance.\n\nDifferent businesses have different rules. Restaurants must pass health inspections. Medical offices have strict standards. Warehouses have large areas to clean. We know the rules for each type of business.\n\nOur goal is to get you open again. We work fast. We work nights and weekends if needed. We focus on areas that matter most to your operations.\n\nWe document everything. Photos. Reports. Cleaning logs. You need this for insurance. You need it for liability protection. We make sure you have what you need.\n\nEmployees worry during sewage events. Customers notice when you're closed. We help protect your reputation by working quickly and quietly.\n\nAfter cleanup, we can help prevent future problems. Backwater valves stop backups. Regular inspections catch issues early. Good habits keep pipes clear.",
       "tips": [
-        "Close affected areas immediately and restrict access",
-        "Document the incident for insurance and health department reporting",
-        "Notify employees and customers as appropriate for your business type",
-        "Maintain records of professional cleanup for liability protection",
-        "Consider preventive measures like backwater valves after cleanup",
-        "Review your insurance coverage for sewage backup events",
-        "Know your regulatory reporting requirements for sewage incidents",
-        "Have emergency closure and communication plans ready"
+        "Close off affected areas right away",
+        "Take photos and notes for your records",
+        "Tell employees and customers as needed",
+        "Keep all cleanup records for legal protection",
+        "Think about adding backwater valves after cleanup",
+        "Check your insurance for sewage coverage",
+        "Know what the health department requires you to report",
+        "Have a plan ready for emergencies",
+        "Post clear signs near closed areas",
+        "Train staff on what to do if they see a backup",
+        "Keep a list of emergency contacts handy",
+        "Review your building's plumbing history",
+        "Schedule regular drain inspections",
+        "Don't let staff enter affected areas without gear"
       ]
     },
     "images": {

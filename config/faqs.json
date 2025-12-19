@@ -190,28 +190,36 @@
     ],
     "commercial": [
       {
-        "question": "Do you offer 24/7 commercial emergency response in {city}?",
-        "answer": "Yes, our commercial emergency team is available 24/7/365. We understand that commercial emergencies can't wait—every hour of downtime impacts your {city} business's bottom line."
+        "question": "Do you offer 24/7 commercial emergency response?",
+        "answer": "Yes. We respond any time, day or night. Weekends and holidays too. Downtime costs money. We get there fast."
       },
       {
-        "question": "Can you handle large-scale commercial emergencies?",
-        "answer": "Absolutely. Our {city} commercial team is equipped with industrial-grade equipment and can scale up quickly for large-loss situations, including multi-story buildings, warehouses, and multi-location emergencies."
+        "question": "Can you handle big commercial emergencies?",
+        "answer": "Yes. We have the equipment for large jobs. We handle warehouses, office towers, and multi-location events. Our team scales up fast."
       },
       {
-        "question": "How do you prioritize commercial emergency response?",
-        "answer": "We assess threat level, business impact, and safety risks. For {city} commercial emergencies, we deploy resources to stop ongoing damage first, then focus on mitigation and restoration to get your business operational."
+        "question": "How do you decide what to fix first?",
+        "answer": "We check safety first. Then we stop ongoing damage. Next, we focus on areas that affect your business most. We work to get you open again fast."
       },
       {
-        "question": "Do you have experience with {city} commercial building codes?",
-        "answer": "Yes, our commercial team is familiar with Miami-Dade and Broward County building codes and works with local inspectors. This expertise helps expedite restoration and ensures compliance for your {city} commercial property."
+        "question": "Do you know local building codes?",
+        "answer": "Yes. We work with Miami-Dade and Broward rules. We know what inspectors expect. This speeds up the process."
       },
       {
-        "question": "Can you provide project management for large commercial emergencies?",
-        "answer": "Yes, we assign dedicated project managers for large commercial restoration projects in {city}. They coordinate all aspects of restoration, communicate with stakeholders, and ensure timely completion."
+        "question": "Do you offer project managers for big jobs?",
+        "answer": "Yes. Large jobs get a dedicated project manager. They handle coordination. They talk to your team. They make sure things stay on track."
       },
       {
-        "question": "Do you offer priority response contracts for {city} businesses?",
-        "answer": "Yes, we offer priority service agreements for {city} commercial property owners and managers. These contracts ensure guaranteed response times and priority scheduling when emergencies occur."
+        "question": "Can we set up a priority response contract?",
+        "answer": "Yes. We offer service agreements for business owners. You get guaranteed response times. You get priority scheduling. It's peace of mind."
+      },
+      {
+        "question": "How fast can you get to our {city} business?",
+        "answer": "We typically arrive within {responseTime}. We're on call 24/7. We don't make you wait."
+      },
+      {
+        "question": "Do you work with insurance companies?",
+        "answer": "Yes. We document everything. We take photos. We write reports. We talk to adjusters. We can bill your insurer directly in many cases."
       }
     ]
   },
@@ -244,28 +252,36 @@
     ],
     "commercial": [
       {
-        "question": "Can you handle multi-building commercial storm damage in {city}?",
-        "answer": "Yes, our commercial storm damage team is equipped to handle large-scale and multi-location projects throughout {city}. We coordinate resources efficiently to minimize business interruption across all your affected properties."
+        "question": "Can you handle damage at multiple buildings?",
+        "answer": "Yes. We handle large jobs. We can send crews to several sites at once. We coordinate to reduce downtime across all your properties."
       },
       {
-        "question": "How do you prioritize commercial storm damage restoration?",
-        "answer": "We assess each {city} commercial property for safety risks, business impact, and damage severity. Critical operations areas are prioritized, and we can work in phases to allow partial business operations during restoration."
+        "question": "How do you decide what to fix first?",
+        "answer": "We look at safety, damage level, and business impact. We fix critical areas first. We work in stages so you can keep running if possible."
       },
       {
-        "question": "Do you provide business interruption documentation for storm claims?",
-        "answer": "Absolutely. Our {city} commercial team provides comprehensive documentation including damage assessments, photo evidence, and detailed restoration timelines for your business interruption insurance claims."
+        "question": "Do you help with business interruption claims?",
+        "answer": "Yes. We take photos. We write damage reports. We track timelines. You get the paperwork you need for insurance."
       },
       {
-        "question": "Can you secure a commercial building after hurricane damage in {city}?",
-        "answer": "Yes, we provide emergency board-up, tarping, and security services for {city} commercial properties. We work quickly to prevent further damage, protect assets, and deter unauthorized entry to damaged buildings."
+        "question": "Can you secure our building after a hurricane?",
+        "answer": "Yes. We board up openings. We tarp damaged roofs. We protect your assets. We keep out intruders. We move fast."
       },
       {
-        "question": "Do you pre-position resources before hurricanes hit {city}?",
-        "answer": "Yes, we monitor weather forecasts and pre-position equipment and personnel before major storms. This allows us to respond faster when the storm passes and help {city} businesses recover more quickly."
+        "question": "Do you prepare before storms hit?",
+        "answer": "Yes. We watch the forecast. We move crews and gear into position. When the storm passes, we respond fast."
       },
       {
-        "question": "Can you help with hurricane preparedness for {city} commercial properties?",
-        "answer": "Yes, we offer pre-storm services including property assessment, vulnerability identification, and emergency planning. Being prepared can significantly reduce damage and speed recovery time for your {city} business."
+        "question": "Can you help us plan for hurricanes?",
+        "answer": "Yes. We can check your property before the season. We find weak spots. We help you prepare. Good planning cuts damage and speeds recovery."
+      },
+      {
+        "question": "How fast can you get to our {city} business?",
+        "answer": "We typically arrive within {responseTime}. Storm season is busy, but we prioritize fast response. Call early to get help sooner."
+      },
+      {
+        "question": "Do you work with commercial insurance?",
+        "answer": "Yes. We document everything for your claim. We talk to adjusters. We often bill insurance directly. We help you recover faster."
       }
     ]
   },
@@ -406,28 +422,36 @@
     ],
     "commercial": [
       {
-        "question": "Can you minimize business disruption during commercial sewage cleanup?",
-        "answer": "Yes, our commercial team understands that sewage incidents impact business operations. We work efficiently and can schedule around your {city} business hours when possible while ensuring thorough decontamination."
+        "question": "Can you keep my business running during cleanup?",
+        "answer": "We try to limit disruption. We can work nights or weekends. We block off work areas. Our goal is to let you stay open if it's safe to do so."
       },
       {
-        "question": "Do you handle health department requirements for commercial sewage cleanup?",
-        "answer": "Absolutely. Our {city} commercial sewage cleanup follows all health department regulations. We provide documentation of our cleaning and sanitization procedures for your compliance records."
+        "question": "Do you meet health department rules?",
+        "answer": "Yes. We follow all health regulations. We use proper products. We document our steps. You get the paperwork inspectors want to see."
       },
       {
-        "question": "How do you ensure commercial spaces are safe after sewage cleanup?",
-        "answer": "We follow strict protocols including contaminated material removal, thorough sanitization, air quality testing, and professional-grade deodorization. Our {city} team ensures your commercial space meets all safety standards before reopening."
+        "question": "How do you make our space safe again?",
+        "answer": "We remove all contaminated materials. We clean every surface. We test the air. We deodorize. We don't finish until it's safe."
       },
       {
-        "question": "Can you handle large-scale commercial sewage cleanup in {city}?",
-        "answer": "Yes, our commercial team is equipped for sewage cleanup of any scale, from small retail spaces to large industrial facilities throughout {city}. We have industrial-grade extraction and sanitization equipment for large projects."
+        "question": "Can you handle big commercial sewage jobs?",
+        "answer": "Yes. We have industrial gear. We handle small shops and large warehouses. Our team scales up for big jobs."
       },
       {
-        "question": "Do you provide clearance testing after commercial sewage cleanup?",
-        "answer": "Yes, we provide professional clearance testing and documentation confirming that your {city} commercial property meets health and safety standards. This documentation is important for employee safety records and liability protection."
+        "question": "Do you test after cleanup?",
+        "answer": "Yes. We test and document. You get proof that your space is clean and safe. This protects you and your employees."
       },
       {
-        "question": "Can you help prevent future sewage backups at my {city} business?",
-        "answer": "Yes, after cleanup, we can recommend preventive measures such as backwater valve installation, regular drain maintenance, and plumbing inspections to help prevent future sewage incidents at your {city} commercial property."
+        "question": "Can you stop this from happening again?",
+        "answer": "Yes. We suggest steps like backwater valves and drain maintenance. Regular checks can catch problems early. Prevention saves money."
+      },
+      {
+        "question": "How fast can you get here?",
+        "answer": "We typically arrive within {responseTime}. Sewage is an emergency. We move fast."
+      },
+      {
+        "question": "Do you help with insurance claims?",
+        "answer": "Yes. We document everything. We take photos. We write reports. We talk to adjusters. We make the claims process easier."
       }
     ]
   }
