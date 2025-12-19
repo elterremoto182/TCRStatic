@@ -190,20 +190,25 @@ export function CityServicePage({
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                 {content.intro.title}
               </h2>
-              <p className="text-gray-600 text-lg leading-relaxed mb-4">
-                {content.intro.content}
-              </p>
-              {content.intro.extendedContent && (
-                <p className="text-gray-600 leading-relaxed mb-4">
-                  {content.intro.extendedContent}
+              {/* Split intro content into paragraphs for better readability */}
+              {content.intro.content.split('\n\n').filter(p => p.trim()).map((paragraph, index) => (
+                <p key={`intro-${index}`} className="text-gray-600 text-lg leading-relaxed mb-4">
+                  {paragraph}
                 </p>
-              )}
+              ))}
+              {content.intro.extendedContent && content.intro.extendedContent.split('\n\n').filter(p => p.trim()).map((paragraph, index) => (
+                <p key={`extended-${index}`} className="text-gray-600 leading-relaxed mb-4">
+                  {paragraph}
+                </p>
+              ))}
               {content.intro.localChallenges && (
                 <div className="mt-6 p-4 bg-blue-50 border border-blue-100 rounded-lg">
                   <h3 className="font-semibold text-blue-900 mb-2">Local Challenges</h3>
-                  <p className="text-blue-800 text-sm leading-relaxed">
-                    {content.intro.localChallenges}
-                  </p>
+                  {content.intro.localChallenges.split('\n\n').filter(p => p.trim()).map((paragraph, index) => (
+                    <p key={`challenges-${index}`} className="text-blue-800 text-sm leading-relaxed mb-2 last:mb-0">
+                      {paragraph}
+                    </p>
+                  ))}
                 </div>
               )}
               <div className="space-y-3 mt-6">

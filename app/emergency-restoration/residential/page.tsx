@@ -33,7 +33,7 @@ export default function ResidentialEmergencyRestorationPage() {
 
   const serviceSchema = {
     '@context': 'https://schema.org',
-    '@type': ['Service', 'EmergencyService'],
+    '@type': 'Service',
     name: '24/7 Residential Emergency Restoration',
     description: 'Professional 24/7 residential emergency restoration services for homeowners throughout South Florida.',
     provider: getLocalBusinessProvider(),

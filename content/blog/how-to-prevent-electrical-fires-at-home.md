@@ -145,7 +145,7 @@ Extension cords are convenient but can be dangerous if misused. In fact, they ac
 
 To use them safely:
 
--   Choose cords certified by [UL](https://www.ul.com/solutions), [Intertek](https://www.intertek.com/product-certification-marks/etl/), or (https://www.csagroup.org/?srsltid=AfmBOorUpCr7WD6rUa9klo0R0gN0mt0-g6RyNiMHJrCS0E6is-x98xq_).
+-   Choose cords certified by [UL](https://www.ul.com/solutions), [Intertek](https://www.intertek.com/product-certification-marks/etl/), or [CSA](https://www.csagroup.org/).
 -   Match the cord’s amperage rating to the appliance you’re powering.
 -   Never run cords under rugs or through walls.
 -   Replace cords that are damaged or frayed immediately.

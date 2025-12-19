@@ -11,6 +11,7 @@ import {
   type FAQItem,
   type ServiceImages,
 } from './data';
+import { truncateMetaTitle } from '@/lib/utils';
 
 // Content block types
 export interface HeroContent {
@@ -167,8 +168,8 @@ export function generateIntroContent(
     ? `Trusted ${service.shortName} Restoration for ${city.name} Homes`
     : `Professional ${service.shortName} Restoration for ${city.name} Businesses`;
   
-  // Enhance the intro content with service-specific context
-  const enhancedIntro = cityContent.intro + (serviceContent?.challenges ? ` ${serviceContent.challenges}` : '');
+  // Use city-specific intro only (challenges are shown in ServiceOverview section)
+  const enhancedIntro = cityContent.intro;
   
   return {
     title,
@@ -447,7 +448,7 @@ export function generatePageContent(
   
   // Generate meta with expanded content
   const meta = {
-    title: `${serviceType.name} ${service.name} in ${city.name}, FL | 24/7 Emergency Service | Total Care Restoration`,
+    title: truncateMetaTitle(`${serviceType.name} ${service.name} in ${city.name}, FL | 24/7 Emergency Service | Total Care Restoration`),
     description: `Professional ${type} ${service.name.toLowerCase()} in ${city.name}, ${city.county}. IICRC-certified technicians with ${city.responseTime} response time. Licensed, bonded, and insured. Direct insurance billing available. Serving all ${city.name} neighborhoods 24/7. Call (786) 610-6317 for your free assessment.`,
     keywords: [
       // Highest volume: "[service] [city]" pattern

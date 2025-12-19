@@ -7,6 +7,40 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
+/**
+ * Truncates meta titles to fit within the recommended 70 character limit.
+ * Removes branding suffixes in order of priority:
+ * 1. " | Total Care Restoration"
+ * 2. " | South Florida"
+ * If still too long, truncates at the last pipe separator.
+ */
+export function truncateMetaTitle(title: string, maxLength: number = 70): string {
+  if (title.length <= maxLength) {
+    return title;
+  }
+
+  // First, try removing " | Total Care Restoration"
+  let truncated = title.replace(/ \| Total Care Restoration$/, '');
+  if (truncated.length <= maxLength) {
+    return truncated;
+  }
+
+  // Next, try removing " | South Florida"
+  truncated = truncated.replace(/ \| South Florida$/, '');
+  if (truncated.length <= maxLength) {
+    return truncated;
+  }
+
+  // If still too long, find the last pipe and truncate there
+  const lastPipeIndex = truncated.lastIndexOf(' | ');
+  if (lastPipeIndex > 0 && lastPipeIndex <= maxLength) {
+    return truncated.substring(0, lastPipeIndex);
+  }
+
+  // Final fallback: hard truncate (shouldn't normally reach here)
+  return truncated.substring(0, maxLength);
+}
+
 export function generatePageMetadata({
   title,
   description,
