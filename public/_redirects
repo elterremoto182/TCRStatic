@@ -75,14 +75,14 @@
 /miami-restoration-services /water-damage-restoration/residential/miami/ 301
 /miami-beach-restoration-services/ /water-damage-restoration/residential/miami-beach/ 301
 /miami-beach-restoration-services /water-damage-restoration/residential/miami-beach/ 301
-/miami-lakes-restoration-services/ /water-damage-restoration/residential/miami/ 301
-/miami-lakes-restoration-services /water-damage-restoration/residential/miami/ 301
+/miami-lakes-restoration-services/ /water-damage-restoration/residential/miami-lakes/ 301
+/miami-lakes-restoration-services /water-damage-restoration/residential/miami-lakes/ 301
 /total-care-restoration-doral-fl/ /water-damage-restoration/residential/doral/ 301
 /total-care-restoration-doral-fl /water-damage-restoration/residential/doral/ 301
-/kendall-restoration-services/ /water-damage-restoration/residential/miami/ 301
-/kendall-restoration-services /water-damage-restoration/residential/miami/ 301
-/pinecrest-restoration-services/ /water-damage-restoration/residential/miami/ 301
-/pinecrest-restoration-services /water-damage-restoration/residential/miami/ 301
+/kendall-restoration-services/ /water-damage-restoration/residential/kendall/ 301
+/kendall-restoration-services /water-damage-restoration/residential/kendall/ 301
+/pinecrest-restoration-services/ /water-damage-restoration/residential/pinecrest/ 301
+/pinecrest-restoration-services /water-damage-restoration/residential/pinecrest/ 301
 
 # Broward County
 /fort-lauderdale-restoration-service/ /water-damage-restoration/residential/fort-lauderdale/ 301
@@ -101,24 +101,32 @@
 /coral-springs-restoration-services /water-damage-restoration/residential/coral-springs/ 301
 /pompano-beach-restoration-services/ /water-damage-restoration/residential/pompano-beach/ 301
 /pompano-beach-restoration-services /water-damage-restoration/residential/pompano-beach/ 301
-/sunrise-restoration-services/ /water-damage-restoration/residential/coral-springs/ 301
-/sunrise-restoration-services /water-damage-restoration/residential/coral-springs/ 301
-/parkland-restoration-services/ /water-damage-restoration/residential/coral-springs/ 301
-/parkland-restoration-services /water-damage-restoration/residential/coral-springs/ 301
-/deerfield-beach-restoration-services/ /water-damage-restoration/residential/pompano-beach/ 301
-/deerfield-beach-restoration-services /water-damage-restoration/residential/pompano-beach/ 301
+/sunrise-restoration-services/ /water-damage-restoration/residential/sunrise/ 301
+/sunrise-restoration-services /water-damage-restoration/residential/sunrise/ 301
+/parkland-restoration-services/ /water-damage-restoration/residential/parkland/ 301
+/parkland-restoration-services /water-damage-restoration/residential/parkland/ 301
+/deerfield-beach-restoration-services/ /water-damage-restoration/residential/deerfield-beach/ 301
+/deerfield-beach-restoration-services /water-damage-restoration/residential/deerfield-beach/ 301
 
 # Palm Beach County
 /boca-raton-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
 /boca-raton-restoration-services /water-damage-restoration/residential/boca-raton/ 301
-/west-palm-beach-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
-/west-palm-beach-restoration-services /water-damage-restoration/residential/boca-raton/ 301
-/delray-beach-restoration-services/ /water-damage-restoration/residential/boca-raton/ 301
-/delray-beach-restoration-services /water-damage-restoration/residential/boca-raton/ 301
+/west-palm-beach-restoration-services/ /water-damage-restoration/residential/west-palm-beach/ 301
+/west-palm-beach-restoration-services /water-damage-restoration/residential/west-palm-beach/ 301
+/delray-beach-restoration-services/ /water-damage-restoration/residential/delray-beach/ 301
+/delray-beach-restoration-services /water-damage-restoration/residential/delray-beach/ 301
 
 # County-level pages
 /broward-county-restoration-services/ /water-damage-restoration/residential/fort-lauderdale/ 301
 /broward-county-restoration-services /water-damage-restoration/residential/fort-lauderdale/ 301
+
+# =============================================================================
+# ORPHANED PAGE REDIRECTS - Clean up legacy pages
+# =============================================================================
+/landing-page-preview/ / 301
+/landing-page-preview / 301
+/our-blog/ /blog/ 301
+/our-blog /blog/ 301
 
 # =============================================================================
 # BLOG URL REDIRECTS - /blog/[slug] → /[slug]

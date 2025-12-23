@@ -44,7 +44,7 @@ keywords: ["water mitigation company"]
 - [Reviews](/reviews)
 - [Promotions](/promotions)
 - [Privacy Policy](/privacy-policy)
-- [Blog](/our-blog)
+- [Blog](/blog/)
 - [Health & Safety](/health-and-safety)
 - [Financing](/financing)
 - [Careers](/careers)
