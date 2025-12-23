@@ -4,7 +4,7 @@ date: "2025-09-22"
 excerpt: "Estimate fire damage repair costs fast with our free tool. Input area size and damage extent for a detailed breakdown. Try it now!"
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/09/image_a0ca70aab6a0277e04ff1c67d388957d.jpeg"
+image: "/images/blog/2025/09/image_a0ca70aab6a0277e04ff1c67d388957d.jpeg"
 seo_title: "Fire Damage Repair Estimator | Total Care Restoration"
 seo_description: "Estimate fire damage repair costs fast with our free tool. Input area size and damage extent for a detailed breakdown. Try it now!"
 keywords: ["fire damage repair cost", "fire restoration estimator"]

@@ -4,7 +4,7 @@ date: "2025-06-30"
 excerpt: "Learn essential steps to take after your insurance claim is denied, including how to appeal and gather supporting evidence."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/06/image_76964b2add79727c7791d48f06cf75ee.jpeg"
+image: "/images/blog/2025/06/image_76964b2add79727c7791d48f06cf75ee.jpeg"
 seo_title: "Steps After Insurance Claim Denial | Total Care Restoration"
 seo_description: "Learn essential steps to take after your insurance claim is denied, including how to appeal and gather supporting evidence."
 keywords: ["insurance claim denial steps", "appeal denied restoration claim"]

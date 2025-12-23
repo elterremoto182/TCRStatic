@@ -4,7 +4,7 @@ date: "2025-07-26"
 excerpt: "Ozone generators can neutralize fire damage odors, but they pose health risks and may not fully eliminate contaminants. Explore safer alternatives."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_3ea9c83b7a96f4aae30c26da52502eb1.jpeg"
+image: "/images/blog/2025/07/image_3ea9c83b7a96f4aae30c26da52502eb1.jpeg"
 seo_title: "Do Ozone Generators Work for Fire Damage Odors? | Total Care Restoration"
 seo_description: "Ozone generators can neutralize fire damage odors, but they pose health risks and may not fully eliminate contaminants. Explore safer alternatives."
 keywords: ["ozone generators fire damage", "smoke odor removal ozone"]

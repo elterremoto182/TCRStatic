@@ -4,7 +4,7 @@ date: "2025-01-12"
 excerpt: "Understanding water damage restoration costs in Broward County helps you budget for emergencies and avoid overpaying. Learn average costs by damage type, what factors affect pricing, and how to work with insurance for water damage restoration in Fort Lauderdale, Pembroke Pines, and surrounding areas."
 author: "Total Care Restoration"
 category: "Water"
-image: "/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg"
+image: "/images/blog/2023/01/Water-damage-wood-floor-1.jpg"
 seo_title: "Water Damage Restoration Cost in Broward County | 2025 Pricing Guide"
 seo_description: "What does water damage restoration cost in Broward County? Complete pricing guide for Fort Lauderdale, Pembroke Pines, Coral Springs, and all of Broward. Get informed before you call."
 keywords: ["water damage restoration cost", "broward county water damage", "fort lauderdale water damage cost", "water damage repair pricing", "restoration cost florida", "water damage estimate broward"]

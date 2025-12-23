@@ -4,7 +4,7 @@ date: "2025-08-21"
 excerpt: "Learn essential techniques for assessing, cleaning, and repairing fire-damaged concrete to ensure safety and durability."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/08/image_01ed48a07bfbe00ddf8799808735371d.jpeg"
+image: "/images/blog/2025/08/image_01ed48a07bfbe00ddf8799808735371d.jpeg"
 seo_title: "Best Practices for Restoring Fire-Affected Concrete"
 seo_description: "Learn essential techniques for assessing, cleaning, and repairing fire-damaged concrete to ensure safety and durability."
 keywords: ["fire damaged concrete repair", "restoring fire affected concrete"]

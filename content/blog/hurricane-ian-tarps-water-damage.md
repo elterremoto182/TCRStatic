@@ -4,7 +4,7 @@ date: "2022-10-05"
 excerpt: "At Total Care Restoration, we understand the devastation that severe weather events can cause to homes and businesses. We are here to help you in your time of need and provide you with the necessary services to repair and restore your property back to its former glory. We have already helped hundreds of residents in … Continued"
 author: "Tomasz Alemany"
 category: "Tarp"
-image: "/wp-content/uploads/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
+image: "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
 seo_title: "Hurricane Ian Damage Tarp Installation Services"
 seo_description: "Secure your property from hurricane damage with tarp installation services. Professional & reliable help to protect your home from water damage caused by Hurricane Ian"
 keywords: ["hurricane ian tarp"]

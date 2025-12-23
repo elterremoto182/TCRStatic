@@ -4,7 +4,7 @@ date: "2025-01-15"
 excerpt: "Recognizing the Early Signs of Mold Allergies Introduction The vitality of your home is important. It’s more than just a gorgeous setting overlooking the Atlantic, more than the comfortable place where you live, unwind and create memories. Your space is your sanctuary. Therefore, its healthiness, from the nestled reading nook to the cozy master bed, … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
-image: "/wp-content/uploads/2021/09/AF1QipMc3DgrvsEcQ7bGlrAJcvoPbcW4UCuqnpc2J5OJs1024-2.jpg"
+image: "/images/blog/2021/09/AF1QipMc3DgrvsEcQ7bGlrAJcvoPbcW4UCuqnpc2J5OJs1024-2.jpg"
 seo_title: "Recognizing Early Signs of Mold Allergies"
 seo_description: "Are you sensitive to mold? Learn how to recognize the early signs of mold allergies, from sneezing and coughing to fatigue and skin irritation—plus what to do next."
 keywords: ["Signs of mold allergies"]

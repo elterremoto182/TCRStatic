@@ -4,7 +4,7 @@ date: "2025-07-04"
 excerpt: "Learn essential steps for safely reentering fire-damaged properties, including safety checks, protective gear, and professional restoration tips."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_5e13a5720e556da146e04947dd967a26.jpeg"
+image: "/images/blog/2025/07/image_5e13a5720e556da146e04947dd967a26.jpeg"
 seo_title: "How to Safely Reenter Fire-Damaged Properties | Total Care Restoration"
 seo_description: "Learn essential steps for safely reentering fire-damaged properties, including safety checks, protective gear, and professional restoration tips."
 keywords: ["reenter fire damaged property safely", "fire damage safety tips"]

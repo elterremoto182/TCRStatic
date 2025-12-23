@@ -4,7 +4,7 @@ date: "2023-02-01"
 excerpt: "Air scrubbers are air purifiers that work to reduce levels of indoor air pollutants and allergens. They are designed to remove airborne contaminants such as: They remove these from the air in your home or business. Air scrubbers are becoming increasingly popular in homes and businesses as people become more aware of the potential health … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
-image: "/wp-content/uploads/2023/02/air-scrubber-scaled.jpeg"
+image: "/images/blog/2023/02/air-scrubber-scaled.jpeg"
 seo_title: "What is an Air Scrubber? [Benefits & Tips]"
 seo_description: "Air scrubbers are commonly used in water restoration and mold restoration. They help reduce levels of mold and other airborne contaminants ..."
 keywords: ["air scrubber"]

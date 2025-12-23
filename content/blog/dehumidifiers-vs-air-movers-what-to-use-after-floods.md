@@ -4,7 +4,7 @@ date: "2025-06-15"
 excerpt: "Learn how air movers and dehumidifiers work together to effectively manage moisture and prevent mold after flood damage."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/06/image_8a777e2a7a49fcbb66e2cc8da361910a.jpeg"
+image: "/images/blog/2025/06/image_8a777e2a7a49fcbb66e2cc8da361910a.jpeg"
 seo_title: "Flood Drying Equipment Guide | When to Use Each Tool for Best Results"
 seo_description: "Learn how air movers and dehumidifiers work together to effectively manage moisture and prevent mold after flood damage."
 keywords: ["dehumidifiers vs air movers", "flood drying equipment"]

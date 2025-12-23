@@ -4,7 +4,7 @@ date: "2025-07-22"
 excerpt: "Explore the five main types of moisture meters essential for identifying water damage and preventing costly repairs in your home."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_f7434e10441eb54e5034ea25b0675756.jpeg"
+image: "/images/blog/2025/07/image_f7434e10441eb54e5034ea25b0675756.jpeg"
 seo_title: "5 Types of Moisture Meters for Water Damage | Total Care Restoration"
 seo_description: "Explore the five main types of moisture meters essential for identifying water damage and preventing costly repairs in your home."
 keywords: ["moisture meters for water damage", "types of moisture meters"]

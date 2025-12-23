@@ -4,7 +4,7 @@ date: "2025-06-02"
 excerpt: "Air quality can remain hazardous long after fire cleanup. Learn about lingering toxins and essential restoration methods for safety."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/06/image_b8c14a586aaf86ec37cc4fe4583cc864.jpeg"
+image: "/images/blog/2025/06/image_b8c14a586aaf86ec37cc4fe4583cc864.jpeg"
 seo_title: "Hidden Indoor Air Hazards After Fires: What Toxins Linger & How to Fix Them"
 seo_description: "Air quality can remain hazardous long after fire cleanup. Learn about lingering toxins and essential restoration methods for safety."
 keywords: ["air quality issues after fire", "post-fire cleanup air quality"]

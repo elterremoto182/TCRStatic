@@ -4,7 +4,7 @@ date: "2025-05-18"
 excerpt: "Learn essential tips to prevent electrical fires at home and ensure safety with effective maintenance and emergency planning."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/05/image_c5b16cd30b6d988320fa5a4dc3275c2a.jpeg"
+image: "/images/blog/2025/05/image_c5b16cd30b6d988320fa5a4dc3275c2a.jpeg"
 seo_title: "Home Safety Guide: Essential Electrical Fire Prevention Tips & Warning Signs"
 seo_description: "Learn essential tips to prevent electrical fires at home and ensure safety with effective maintenance and emergency planning."
 keywords: ["prevent electrical fires at home", "electrical fire prevention tips"]

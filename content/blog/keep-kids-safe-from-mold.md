@@ -4,7 +4,7 @@ date: "2021-10-22"
 excerpt: "For most people, buying a home of your own is an essential step towards creating that dream family life. However, along with getting that home comes the responsibility of maintaining it. There are a lot of different elements that come into maintaining a home, but one that often gets missed is mold, at least, until … Continued"
 author: "sk admin"
 category: "Mold"
-image: "/wp-content/uploads/2021/10/How-To-Keep-Kids-Safe-From-Mold-768x485-1-e1634929501962.jpeg"
+image: "/images/blog/2021/10/How-To-Keep-Kids-Safe-From-Mold-768x485-1-e1634929501962.jpeg"
 seo_title: "How To Keep Kids Safe From Mold - Simple Tips"
 seo_description: "Statistically speaking, roughly 10% of children have some sort of sensitivity to mold. Children with asthma can be particularly at risk..."
 keywords: ["mold symptoms in kids"]

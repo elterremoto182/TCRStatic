@@ -4,7 +4,7 @@ date: "2025-01-11"
 excerpt: "In South Florida's year-round cooling climate, AC leaks are one of the most common causes of water damage. Learn how to prevent AC-related water damage, recognize early warning signs, and what to do when your AC starts leaking in Miami, Fort Lauderdale, and surrounding areas."
 author: "Total Care Restoration"
 category: "Water"
-image: "/wp-content/uploads/2023/01/ac-unit-leak.jpg"
+image: "/images/blog/2021/10/Water-damage-wood-floor.jpeg"
 seo_title: "AC Leak Water Damage Prevention in South Florida | Expert Guide"
 seo_description: "Prevent AC leak water damage in South Florida. Learn the warning signs, maintenance tips, and what to do when your AC leaks. Expert advice for Miami-Dade, Broward, and Palm Beach homeowners."
 keywords: ["ac leak water damage", "ac leak prevention", "south florida ac problems", "air conditioner leak", "ac water damage miami", "hvac leak prevention", "condensation damage florida"]

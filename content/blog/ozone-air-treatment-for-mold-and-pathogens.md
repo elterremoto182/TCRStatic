@@ -4,7 +4,7 @@ date: "2025-07-25"
 excerpt: "Explore how ozone air treatment effectively eliminates mold, bacteria, and viruses, ensuring cleaner air without harmful residues."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_51941152b6268988ca4cbd751aa36169.jpeg"
+image: "/images/blog/2025/07/image_51941152b6268988ca4cbd751aa36169.jpeg"
 seo_title: "Ozone Air Treatment for Mold and Pathogens | Total Care Restoration"
 seo_description: "Explore how ozone air treatment effectively eliminates mold, bacteria, and viruses, ensuring cleaner air without harmful residues."
 keywords: ["ozone treatment for mold", "pathogen air treatment"]

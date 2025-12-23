@@ -4,7 +4,7 @@ date: "2024-03-26"
 excerpt: "Miami’s historical homes are not just structures; they are a testament to our city’s rich heritage and beauty. However, these timeless treasures are susceptible to the forces of nature, including water damage, which can pose a unique set of challenges. If you’re facing water damage in your historical home, it’s crucial to approach the situation … Continued"
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg"
+image: "/images/blog/2023/01/Water-damage-wood-floor-1.jpg"
 seo_title: "Preventing and Restoring Water Damage in Historical Homes"
 seo_description: "Protect the beauty of Miami's historical homes from water damage. Discover the challenges and solutions for preserving these timeless treasures."
 keywords: ["Water Damage in Historical Homes"]
@@ -24,7 +24,7 @@ When water damage occurs, time is of the essence. Prompt action can prevent furt
 
 At Total Care Restoration, we understand the value of your historical home. Our approach combines modern techniques with a deep respect for the architectural integrity and historical significance of your property.
 
-![Technician with a moisture meter](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+![Technician with a moisture meter](/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
 ### **Assessment and Planning**
 

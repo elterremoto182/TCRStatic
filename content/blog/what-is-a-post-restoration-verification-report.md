@@ -4,7 +4,7 @@ date: "2025-08-18"
 excerpt: "Post-restoration verification reports ensure properties are safe and compliant after damage restoration, crucial for insurance claims and peace of mind."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/08/image_435402034d00ad6617b40d0d5b7403d9.jpeg"
+image: "/images/blog/2025/08/image_435402034d00ad6617b40d0d5b7403d9.jpeg"
 seo_title: "What Is a Post-Restoration Verification Report? | Total Care Restoration"
 seo_description: "Post-restoration verification reports ensure properties are safe and compliant after damage restoration, crucial for insurance claims and peace of mind."
 keywords: ["post-restoration verification report", "restoration completion documentation"]

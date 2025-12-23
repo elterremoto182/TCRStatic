@@ -4,7 +4,7 @@ date: "2023-01-31"
 excerpt: "Introduction When it comes to water damage restoration, a restoration dehumidifier is a critical tool. But what exactly is a restoration dehumidifier, and why is it so important? In this blog post, we’ll explain what a restoration dehumidifier is, why it’s used, the types of dehumidifiers available, and how to use them. What is a … Continued"
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2023/01/Two-employees.png"
+image: "/images/blog/2023/01/Two-employees.png"
 seo_title: "Restoration Dehumidifiers: What You Should Know | Total Care Restoration"
 seo_description: "We’ll explain what a restoration dehumidifier is, why it’s used, the types of dehumidifiers available, and how to use them. Learn more about the benefits of using a restoration dehumidifier and how to use it properly."
 keywords: ["restoration dehumidifier"]
@@ -18,7 +18,7 @@ When it comes to water damage restoration, a restoration dehumidifier is a criti
 
 A restoration dehumidifier is a machine designed to remove excess moisture from the air. It can be used to help mitigate water damage from a flood, leaky roof, or other source of water intrusion. The dehumidifier works by sucking in the moist air, cooling it, and then collecting the condensation. The condensation is then pumped out of the machine, and the now drier air is circulated back into the room.
 
-![Water dryout dehumidifier](/wp-content/uploads/2023/01/Water-dryout-dehumidifier.jpg)
+![Water dryout dehumidifier](/images/blog/2023/01/Water-dryout-dehumidifier.jpg)
 
 ## Reasons to Use a Restoration Dehumidifier
 

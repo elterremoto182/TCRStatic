@@ -4,7 +4,7 @@ date: "2025-10-23"
 excerpt: "Worried about mold after water damage? Use our free Mold Growth Risk Calculator to check your home’s risk level and get prevention tips!"
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/10/image_a01f5e5a9af89199b869a56712ef7573.jpeg"
+image: "/images/blog/2025/10/image_a01f5e5a9af89199b869a56712ef7573.jpeg"
 seo_title: "Mold Growth Risk Calculator | Total Care Restoration"
 seo_description: "Worried about mold after water damage? Use our free Mold Growth Risk Calculator to check your home’s risk level and get prevention tips!"
 keywords: ["mold growth risk calculator", "mold risk assessment"]

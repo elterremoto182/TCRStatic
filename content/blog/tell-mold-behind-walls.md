@@ -4,7 +4,7 @@ date: "2021-11-26"
 excerpt: "Mold may be a part of nature, but it’s one natural thing that you never want to see in your home. Even the most minor examples of mold can be visually unappealing and potentially cause health issues. Children and the elderly are especially vulnerable. Also, it can be very dangerous for people who are allergic. … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
-image: "/wp-content/uploads/2021/11/mold-behind-walls.jpg"
+image: "/images/blog/2021/11/mold-behind-walls.jpg"
 seo_title: "How to Detect Mold Behind Your Drywall? [Hidden Signs]"
 seo_description: "Musty smell but no visible mold? Learn how to tell if mold is growing behind your walls, what causes it, and when to call a professional for testing."
 keywords: ["mold behind drywall"]
@@ -111,7 +111,7 @@ Wondering how to test for mold behind drywall? A few methods can help:
 -   Conduct a surface test where possible
 -   Engage professional mold inspection services for comprehensive testing
 
-If you want to be thorough, consider getting a mold test and a mold remediation expert to assess any mold you might find.
+If you want to be thorough, consider getting a professional [mold inspection](/mold-inspection/) and a mold remediation expert to assess any mold you might find. Learn more about [how we test for mold in walls](/mold-inspection/) and what our inspection process involves.
 
 ## **How Can I Tell If I Have Mold Behind My Walls?**
 

@@ -4,7 +4,7 @@ date: "2021-11-29"
 excerpt: "Now and then, you may hear about a particularly deadly house fire in your local news, but the frightening truth is that these are more common than you think. Statistics from the National Fire Protection Association said that roughly 375,000 homes catch fire each year. Nearly 2,600 lives are lost each year due to these fires, and … Continued"
 author: "Tomasz Alemany"
 category: "Fire"
-image: "/wp-content/uploads/2021/11/fire-hazard-header-image.jpg"
+image: "/images/blog/2021/11/fire-hazard-header-image.jpg"
 seo_title: "Understanding The Basics of Fire Damage Restoration Services"
 seo_description: "This blog post provides an in-depth guide to fire damage restoration, including tips on safety and insurance, risk assessment, and cleanup. Read on to learn more about effective ways to restore your property after a fire."
 keywords: ["fire damage restoration"]

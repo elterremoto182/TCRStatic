@@ -4,7 +4,7 @@ date: "2024-08-26"
 excerpt: "Understanding Mold on Wood Surfaces Mold on wood surfaces can pose various health and structural risks. Identifying and understanding the types of mold commonly found on wood is crucial for effective removal and prevention. Common Types of Mold Here are some of the most common types of mold that you may encounter on wood surfaces: … Continued"
 author: "ramandeep.kaur@imarkinfotech.com"
 category: "Uncategorized"
-image: "/wp-content/uploads/2024/08/shutterstock_2312353049-1-scaled.jpg"
+image: "/images/blog/2024/08/shutterstock_2312353049-1-scaled.jpg"
 seo_title: "How to Remove Mold from Wood: Step-by-Step Guide"
 seo_description: "Struggling with mold on wood surfaces? Discover safe, effective strategies to remove mold from wood and prevent regrowth with this comprehensive guide from Total Care Restoration."
 keywords: ["Removing mold from wood"]
@@ -12,7 +12,7 @@ keywords: ["Removing mold from wood"]
 
 ## Understanding Mold on Wood Surfaces
 
-![Mold on wood surface](/wp-content/uploads/2024/08/shutterstock_2312353049-1.jpg)
+![Mold on wood surface](/images/blog/2024/08/shutterstock_2312353049-1.jpg)
 
 Mold on wood surfaces can pose various health and structural risks. Identifying and understanding the types of mold commonly found on wood is crucial for effective removal and prevention.
 
@@ -101,7 +101,7 @@ Effective humidity control is crucial for preventing mold growth on wood surface
 -   **Houseplants Management:** While houseplants can improve indoor air quality, overwatering them can increase humidity levels. Use well-draining pots and avoid excessive watering to mitigate this risk
 -   **Indoor Air Quality Management:** For a comprehensive approach to controlling humidity and preventing mold, consider professional services that focus on enhancing indoor air quality.
 
-![Professional mold removal from wood](/wp-content/uploads/2024/08/shutterstock_2065410104.jpg)
+![Professional mold removal from wood](/images/blog/2024/08/shutterstock_2065410104.jpg)
 
 Fixing Leaks Promptly: A Key Prevention Measure Against Mold Growth on Wood Surfaces
 

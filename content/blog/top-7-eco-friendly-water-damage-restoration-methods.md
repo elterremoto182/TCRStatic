@@ -4,7 +4,7 @@ date: "2025-11-21"
 excerpt: "Explore eco-friendly methods for water damage restoration that protect health, save money, and benefit the environment."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/11/image_b0e623e797d618336b567d0e9f892fd2.jpeg"
+image: "/images/blog/2025/11/image_b0e623e797d618336b567d0e9f892fd2.jpeg"
 seo_title: "Top 7 Eco-Friendly Water Damage Restoration Methods"
 seo_description: "Explore eco-friendly methods for water damage restoration that protect health, save money, and benefit the environment."
 keywords: ["eco-friendly water damage restoration", "green restoration methods"]

@@ -4,7 +4,7 @@ date: "2025-06-13"
 excerpt: "Learn effective steps for mold decontamination to protect your health and property from mold damage and prevent its return."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/06/image_20cfdd8f21f708c6de3c0b67faad5bab.jpeg"
+image: "/images/blog/2025/06/image_20cfdd8f21f708c6de3c0b67faad5bab.jpeg"
 seo_title: "5 Steps for Mold Decontamination | Total Care Restoration"
 seo_description: "Learn effective steps for mold decontamination to protect your health and property from mold damage and prevent its return."
 keywords: ["mold decontamination steps", "mold removal guide"]

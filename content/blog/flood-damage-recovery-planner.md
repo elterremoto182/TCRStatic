@@ -4,7 +4,7 @@ date: "2025-09-23"
 excerpt: "Struggling after a flood? Use our free Flood Damage Recovery Planner to get a custom step-by-step plan to rebuild and recover with ease."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/09/image_c384bad84a3445bc2c0ccc424b2d7977.jpeg"
+image: "/images/blog/2025/09/image_c384bad84a3445bc2c0ccc424b2d7977.jpeg"
 seo_title: "Flood Damage Recovery Planner | Total Care Restoration"
 seo_description: "Struggling after a flood? Use our free Flood Damage Recovery Planner to get a custom step-by-step plan to rebuild and recover with ease."
 keywords: ["flood damage recovery planner", "flood restoration steps"]

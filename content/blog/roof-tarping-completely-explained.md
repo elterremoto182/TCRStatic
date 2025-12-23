@@ -4,7 +4,7 @@ date: "2021-10-22"
 excerpt: "Step 1: Damage Assessment and Safety Preparations Before the tarp goes on, our restoration professionals follow a strict safety and evaluation protocol: 1. Initial Damage Evaluation We begin by assessing the visible damage from the ground and, if safe, from a ladder. This includes looking for: Missing or broken shingles Holes or punctures Warped or … Continued"
 author: "sk admin"
 category: "Tarp"
-image: "/wp-content/uploads/2021/10/installing-a-roof-tarp-e1595882236151-1-e1635367691497.jpeg"
+image: "/images/blog/2021/10/installing-a-roof-tarp-e1595882236151-1-e1635367691497.jpeg"
 seo_title: "Emergency Roof Tarping in Miami"
 seo_description: "Secure your roof with expert tarp installation. Total Care Restoration provides 24/7 emergency roof tarping, leak containment, and insurance assistance in Miami. Safeguard your home today!"
 keywords: ["emergency roof tarping"]

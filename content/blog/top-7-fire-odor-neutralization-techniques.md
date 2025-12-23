@@ -4,7 +4,7 @@ date: "2025-06-20"
 excerpt: "Explore effective techniques for eliminating lingering fire odors, ensuring a safe and healthy home environment post-fire damage."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg"
+image: "/images/blog/2025/06/image_eaa43577537b89ef8b370feded939a04.jpeg"
 seo_title: "Top 7 Fire Odor Neutralization Techniques | Total Care Restoration"
 seo_description: "Explore effective techniques for eliminating lingering fire odors, ensuring a safe and healthy home environment post-fire damage."
 keywords: ["fire odor neutralization", "smoke smell removal techniques"]

@@ -9,7 +9,7 @@ seo_description: "Explore advanced venting solutions for plumbing drains. Learn 
 keywords: ["Advanced venting solutions for plumbing drains"]
 ---
 
-![Plumbing drain venting system](/wp-content/uploads/2024/08/shutterstock_1539537257-1.jpg)
+![Plumbing drain venting system](/images/blog/2024/08/shutterstock_1539537257-1.jpg)
 
 ## Understanding Plumbing Venting and Its Challenges
 
@@ -136,7 +136,7 @@ A major advantage is the ability to retrofit existing buildings. Building owners
 
 **Note:** Improper installation can lead to serious issues like fire hazards. For such cases, [Fire Damage Restoration](/fire-damage-restoration/) services can help manage smoke damage and ensure safety.
 
-![Advanced plumbing vent installation](/wp-content/uploads/2024/08/shutterstock_1615829110.jpg)
+![Advanced plumbing vent installation](/images/blog/2024/08/shutterstock_1615829110.jpg)
 
 ## Compliance and Integration Challenges
 

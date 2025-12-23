@@ -4,7 +4,7 @@ date: "2025-07-03"
 excerpt: "Explore the top 5 professional soot cleaning services to restore your property after fire or smoke damage, ensuring safety and compliance."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_ac4acfc2ec8e9500c99195ee282f65c0.jpeg"
+image: "/images/blog/2025/07/image_ac4acfc2ec8e9500c99195ee282f65c0.jpeg"
 seo_title: "Top 5 Soot Cleaning Services | Total Care Restoration"
 seo_description: "Explore the top 5 professional soot cleaning services to restore your property after fire or smoke damage, ensuring safety and compliance."
 keywords: ["soot cleaning services", "professional soot removal"]

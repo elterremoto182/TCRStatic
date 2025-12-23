@@ -15,11 +15,11 @@ Dealing with water damage in a home or business can be confusing and frustrating
 
 ## **Categories of Water Damage**
 
-![Categories of water damage](/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg)
+![Categories of water damage](/images/blog/2021/10/Water-damage-wood-floor.jpeg)
 
 ## **Classes of Water Damage**
 
-![Classes of water damage](/wp-content/uploads/2022/07/Water_damage-dryout-768x1024.jpg)
+![Classes of water damage](/images/blog/2022/07/Water_damage-dryout-768x1024.jpg)
 
 ## **Causes of Water Damage**
 
@@ -108,9 +108,9 @@ Having your home damaged by water is an incredibly stressful and emotional exper
 
 Ways to keep yourself safe in the event of water damage.
 
-![Water damage safety equipment](/wp-content/uploads/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+![Water damage safety equipment](/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
-![Water damage restoration process](/wp-content/uploads/2022/07/drying-floors-scaled.jpg)
+![Water damage restoration process](/images/blog/2022/07/drying-floors-scaled.jpg)
 
 ## **What to Expect After the Cleanup Process**
 
@@ -140,6 +140,6 @@ Deciding whether or not to hire an adjuster for your claim will depend on a vari
 
 For comprehensive planning, use our [Flood Damage Recovery Planner](/flood-damage-recovery-planner/) to organize your restoration timeline and tasks. If you're interested in sustainable approaches, check out our guide on [Top 7 Eco-Friendly Water Damage Restoration Methods](/top-7-eco-friendly-water-damage-restoration-methods/).
 
-![Water damage restoration checklist](/wp-content/uploads/2022/07/Employee-Holding-IPAD-1024x772.png)
+![Water damage restoration checklist](/images/blog/2022/07/Employee-Holding-IPAD-1024x772.png)
 
-![Water restoration tips](/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg)
+![Water restoration tips](/images/blog/2023/01/Water-damage-wood-floor-1.jpg)

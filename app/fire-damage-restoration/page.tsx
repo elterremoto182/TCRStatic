@@ -295,6 +295,73 @@ export default function FireDamageRestorationPage() {
           </div>
         </section>
 
+        {/* Related Resources Section */}
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Fire Damage Resources & Guides
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Learn more about fire damage assessment, smoke cleanup, and our restoration process.
+              </p>
+            </AnimateOnScroll>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+                <Link
+                  href="/fire-damage-inspection-steps/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Fire Damage Inspection Steps
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Understand how professionals assess fire damage and what to expect during the inspection process.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                <Link
+                  href="/7-steps-to-clean-smoke-damaged-items/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Cleaning Smoke-Damaged Items
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Learn the professional approach to cleaning and restoring items affected by smoke damage.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+                <Link
+                  href="/top-5-soot-cleaning-services/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Professional Soot Removal
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Discover why professional soot cleaning is essential and what techniques restore surfaces effectively.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">

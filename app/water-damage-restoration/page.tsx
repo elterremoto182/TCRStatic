@@ -363,6 +363,73 @@ export default function WaterDamageRestorationPage() {
           </div>
         </section>
 
+        {/* Related Resources Section */}
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Water Damage Resources & Guides
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Learn more about water damage causes, prevention, and our restoration process.
+              </p>
+            </AnimateOnScroll>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+                <Link
+                  href="/cast-iron-pipes/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Cast Iron Pipe Replacement
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Florida homes built before 1975 often have corroding cast iron pipes. Learn about replacement options and insurance coverage.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                <Link
+                  href="/water-damage-dry-out-process/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Water Damage Dry Out Process
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Understand how professional drying works, why it takes 3-5 days, and how we prevent mold growth.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+                <Link
+                  href="/water-damage-restoration-guide/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Complete Restoration Guide
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Our comprehensive guide to water damage restoration covers everything from initial steps to final repairs.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">

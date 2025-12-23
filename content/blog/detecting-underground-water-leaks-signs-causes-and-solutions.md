@@ -4,7 +4,7 @@ date: "2024-10-09"
 excerpt: "Introduction Detecting underground water leaks is crucial for maintaining the integrity of your property. These leaks, often hidden from view, can lead to significant damage if not addressed promptly. Recognizing the early signs and understanding the underlying causes can save you time, money, and potential health hazards. Undetected leaks can wreak havoc on your property. … Continued"
 author: "Klyver"
 category: "Water"
-image: "/wp-content/uploads/2019/11/slab-leak-basement-floor-9ac948edf3.jpg"
+image: "/images/blog/2019/11/slab-leak-basement-floor-9ac948edf3.jpg"
 seo_title: "Detecting Underground Water Leaks: Signs, Causes & Solutions"
 seo_description: "Learn how to detect underground water leaks with expert tips from Total Care Restoration. Discover common signs, causes, and solutions to prevent costly water damage in your home or business."
 keywords: ["Detecting underground water leaks"]

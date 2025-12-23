@@ -4,7 +4,7 @@ date: "2025-07-27"
 excerpt: "Learn essential tips for cleaning air purifier filters and maintaining optimal air quality in your home for better health and efficiency."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_e8fee95e1fc4f5881036111ddb842d9d.jpeg"
+image: "/images/blog/2025/07/image_e8fee95e1fc4f5881036111ddb842d9d.jpeg"
 seo_title: "How to Clean Air Purifier Filters | Total Care Restoration"
 seo_description: "Learn essential tips for cleaning air purifier filters and maintaining optimal air quality in your home for better health and efficiency."
 keywords: ["clean air purifier filters", "air purifier maintenance"]

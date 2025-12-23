@@ -4,7 +4,7 @@ date: "2025-10-20"
 excerpt: "Explore cutting-edge dehumidification technologies that enhance water damage restoration, improving efficiency, speed, and environmental sustainability."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/10/image_bf8b5982f86e24642a8b33ab82c0d5de.jpeg"
+image: "/images/blog/2025/10/image_bf8b5982f86e24642a8b33ab82c0d5de.jpeg"
 seo_title: "Innovations in Dehumidification for Faster Drying | Total Care Restoration"
 seo_description: "Explore cutting-edge dehumidification technologies that enhance water damage restoration, improving efficiency, speed, and environmental sustainability."
 keywords: ["dehumidification technology", "faster drying innovations"]

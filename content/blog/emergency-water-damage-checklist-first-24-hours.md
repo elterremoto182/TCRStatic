@@ -4,7 +4,7 @@ date: "2025-04-23"
 excerpt: "Quickly respond to water damage within the first 24 hours to minimize loss, prevent mold, and streamline insurance claims."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8.jpeg"
+image: "/images/blog/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8.jpeg"
 seo_title: "Emergency Water Damage Checklist: First 24 Hours | Total Care Restoration"
 seo_description: "Quickly respond to water damage within the first 24 hours to minimize loss, prevent mold, and streamline insurance claims."
 keywords: ["emergency water damage checklist", "first 24 hours water damage"]

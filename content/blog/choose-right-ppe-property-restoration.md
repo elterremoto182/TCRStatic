@@ -4,7 +4,7 @@ date: "2025-11-24"
 excerpt: "Learn how to select the appropriate PPE for property restoration to ensure worker safety against various hazards like mold, chemicals, and debris."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/11/image_aab90594b59e1a84607a1c0d18b56cc2.jpeg"
+image: "/images/blog/2025/11/image_aab90594b59e1a84607a1c0d18b56cc2.jpeg"
 seo_title: "Essential Safety Gear Guide for Restoration Workers | PPE Selection Tips"
 seo_description: "Learn how to select the appropriate PPE for property restoration to ensure worker safety against various hazards like mold, chemicals, and debris."
 keywords: ["PPE for restoration work", "protective equipment property restoration"]

@@ -4,7 +4,7 @@ date: "2025-10-25"
 excerpt: "Learn how thermal fogging effectively eliminates smoke odors and improves indoor air quality after fire damage, ensuring a healthier living environment."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/10/image_1b583eddddc17687638e89ae0f7a8cb6.jpeg"
+image: "/images/blog/2025/10/image_1b583eddddc17687638e89ae0f7a8cb6.jpeg"
 seo_title: "How Thermal Fogging Restores Indoor Air Quality | Total Care Restoration"
 seo_description: "Learn how thermal fogging effectively eliminates smoke odors and improves indoor air quality after fire damage, ensuring a healthier living environment."
 keywords: ["thermal fogging odor removal", "smoke damage thermal fogging"]

@@ -4,7 +4,7 @@ date: "2024-07-18"
 excerpt: "Introduction Identifying and repairing ceiling water damage is crucial for maintaining the structural integrity of your home. Ignoring the signs can lead to severe problems, including health risks associated with mold and mildew. Timely repair not only preserves your property but also ensures a safe living environment. Key points covered in this article include: ●  … Continued"
 author: "Tomasz Alemany"
 category: "Uncategorized"
-image: "/wp-content/uploads/2024/07/sfdgverfda-scaled.jpg"
+image: "/images/blog/2024/07/sfdgverfda-scaled.jpg"
 seo_title: "Ceiling Water Damage: Identification, Repair & Prevention Guide"
 seo_description: "Learn how to identify and repair ceiling water damage to maintain your home's integrity. Discover causes, repair steps, and insurance guidance."
 keywords: ["ceiling water damage"]
@@ -50,7 +50,7 @@ Early detection of these signs helps mitigate extensive repairs. For a more deta
 
 ## **2\. Causes of Ceiling Water Damage**
 
-![Ceiling water damage](/wp-content/uploads/2024/07/shutterstock_2357173865-2.jpg)
+![Ceiling water damage](/images/blog/2024/07/shutterstock_2357173865-2.jpg)
 
 Identifying the root causes of ceiling water damage is crucial for effective repair and prevention. Several factors can contribute to this problem:
 
@@ -70,7 +70,7 @@ To learn more about related restoration services like [Fire Damage Restoration](
 
 Maintaining vigilance and conducting regular inspections are key strategies in addressing these common causes of ceiling water damage.
 
-![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
+![Moisture meter for water damage detection](/images/blog/2023/01/Moisture-meter-1.jpg)
 
 ## **3\. Steps for Repairing Ceiling Water Damage**
 

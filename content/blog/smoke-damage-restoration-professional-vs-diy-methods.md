@@ -4,7 +4,7 @@ date: "2025-04-25"
 excerpt: "Explore the pros and cons of professional smoke damage restoration versus DIY methods to safeguard your health and property."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/05/image_e8cb1772f2a4907dc347f8cd93a46015.jpeg"
+image: "/images/blog/2025/05/image_e8cb1772f2a4907dc347f8cd93a46015.jpeg"
 seo_title: "Smoke Damage Restoration: Professional vs DIY Methods"
 seo_description: "Explore the pros and cons of professional smoke damage restoration versus DIY methods to safeguard your health and property."
 keywords: ["professional vs DIY smoke restoration", "smoke damage cleanup methods"]

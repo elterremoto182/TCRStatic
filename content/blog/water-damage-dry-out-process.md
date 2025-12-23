@@ -9,7 +9,7 @@ seo_description: "We’ll explain the steps for water damage restoration and the
 keywords: ["water dry out"]
 ---
 
-![Water damage dry out process](/wp-content/uploads/2022/07/drying-floors-1024x576.jpg)
+![Water damage dry out process](/images/blog/2022/07/drying-floors-1024x576.jpg)
 
 ### **Introduction**
 
@@ -44,7 +44,7 @@ In smaller cases, where only a room is affected, this preparation might not be n
 
 In restoring a space that has suffered water damage, a range of specialized equipment is deployed to efficiently manage moisture and maintain a healthy environment. Here we outline the vital tools professionals use during the **water damage restoration steps**:
 
-![Moisture meter for water damage detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
+![Moisture meter for water damage detection](/images/blog/2023/01/Moisture-meter-1.jpg)
 
 1.  **Detection Tools**:
     

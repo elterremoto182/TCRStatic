@@ -4,7 +4,7 @@ date: "2023-08-25"
 excerpt: "As a homeowner, you may encounter situations where you’re unsure whether to install a roof tarp or wait for a roof replacement. This article will provide valuable insights to help you make an informed decision. We’ll cover the pros and cons of each option, factors to consider, and tips for making the best choice for … Continued"
 author: "Tomasz Alemany"
 category: "Tarp"
-image: "/wp-content/uploads/2021/09/Trap-Roof-banner.jpg"
+image: "/images/blog/2021/09/Trap-Roof-banner.jpg"
 seo_title: "Should I Install a Roof Tarp Now or Wait to Replace My Roof?"
 seo_description: "Confused about whether to install a roof tarp or wait for a roof replacement? Discover the pros and cons of both options to make an informed decision for your home."
 keywords: ["Roof Tarp vs Roof Replacement"]

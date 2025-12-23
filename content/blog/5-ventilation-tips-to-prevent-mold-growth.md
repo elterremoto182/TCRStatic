@@ -4,7 +4,7 @@ date: "2025-08-25"
 excerpt: "Learn essential tips for improving ventilation and controlling humidity to effectively prevent mold growth in your home."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/08/image_bdf5c1424d62b760ab844c4e707b8769.jpeg"
+image: "/images/blog/2025/08/image_bdf5c1424d62b760ab844c4e707b8769.jpeg"
 seo_title: "Stop Mold Before It Starts: Airflow & Humidity Control Strategies"
 seo_description: "Learn essential tips for improving ventilation and controlling humidity to effectively prevent mold growth in your home."
 keywords: ["ventilation tips for mold prevention", "prevent mold growth"]

@@ -296,6 +296,73 @@ export default function MoldRemediationPage() {
           </div>
         </section>
 
+        {/* Related Resources Section */}
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Mold Resources & Guides
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Learn more about mold detection, prevention, and our remediation process.
+              </p>
+            </AnimateOnScroll>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+                <Link
+                  href="/mold-inspection/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Mold Inspection Process
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Learn how we test for mold in walls, what inspectors look for, and how inspection fits into remediation.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                <Link
+                  href="/tell-mold-behind-walls/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Signs of Mold Behind Walls
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Discover how to tell if mold is hiding behind your drywall and what warning signs to watch for.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+                <Link
+                  href="/health-risks-associated-with-mold-in-your-home/"
+                  className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    Health Risks of Mold
+                  </h3>
+                  <p className="text-gray-600 text-sm mb-3">
+                    Understand the health hazards of mold exposure and why quick remediation is essential.
+                  </p>
+                  <span className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              </AnimateOnScroll>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">

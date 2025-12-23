@@ -4,7 +4,7 @@ date: "2025-01-13"
 excerpt: "Mold damage claims in Florida are complicated. Learn when homeowner's insurance covers mold remediation, what's typically excluded, and how to maximize your coverage for mold-related damage in South Florida's humid climate."
 author: "Total Care Restoration"
 category: "Mold"
-image: "/wp-content/uploads/2023/01/mold-inspection.jpg"
+image: "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png"
 seo_title: "Does Insurance Cover Mold in Florida? | Complete Coverage Guide"
 seo_description: "Understanding Florida homeowner's insurance mold coverage. Learn what's covered, what's excluded, and how to file successful mold claims in South Florida."
 keywords: ["mold insurance florida", "mold remediation insurance", "florida mold coverage", "homeowner insurance mold", "mold claim florida", "mold damage coverage"]

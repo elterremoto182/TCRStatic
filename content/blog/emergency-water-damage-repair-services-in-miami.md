@@ -4,7 +4,7 @@ date: "2024-03-26"
 excerpt: "Facing a water damage emergency in your Miami home can be overwhelming, leaving you uncertain about the next steps to take. Immediate action is critical to mitigating the damage, preserving your property, and ensuring the safety and comfort of your home environment. Total Care Restoration specializes in emergency water damage repair services in Miami, offering … Continued"
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2024/03/South-Beach-Miami-scaled.jpg"
+image: "/images/blog/2024/03/South-Beach-Miami-scaled.jpg"
 seo_title: "Emergency Water Damage Repair Services in Miami | Total Care Restoration"
 seo_description: "Facing water damage in Miami? Total Care Restoration offers expert emergency repair services to restore your home quickly."
 keywords: ["Emergency Water Damage Repair Services in Miami"]
@@ -20,7 +20,7 @@ Water damage can escalate quickly, leading to more significant issues such as st
 
 The first 24 hours after water damage occurs are crucial. During this time, taking swift action can significantly reduce the overall impact and cost of restoration. Total Care Restoration is ready to respond at a moment’s notice, ensuring that your emergency doesn’t turn into a disaster.
 
-![Water damage on wood floor](/wp-content/uploads/2023/01/Water-damage-wood-floor-1.jpg)
+![Water damage on wood floor](/images/blog/2023/01/Water-damage-wood-floor-1.jpg)
 
 Water leaking and flooded on wood parquet floor. Room floor will damage after the water flooded.
 

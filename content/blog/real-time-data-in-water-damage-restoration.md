@@ -4,7 +4,7 @@ date: "2025-11-20"
 excerpt: "Explore how real-time data is revolutionizing water damage restoration, enhancing efficiency, safety, and documentation for better outcomes."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/11/image_73401f0ff3d01e246aae882c7bc7cc01.jpeg"
+image: "/images/blog/2025/11/image_73401f0ff3d01e246aae882c7bc7cc01.jpeg"
 seo_title: "Real-Time Data in Water Damage Restoration | Total Care Restoration"
 seo_description: "Explore how real-time data is revolutionizing water damage restoration, enhancing efficiency, safety, and documentation for better outcomes."
 keywords: ["real-time moisture monitoring", "water damage restoration technology"]

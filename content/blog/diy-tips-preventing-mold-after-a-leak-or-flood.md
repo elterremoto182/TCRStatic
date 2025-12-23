@@ -4,7 +4,7 @@ date: "2024-01-27"
 excerpt: "DIY Tips: Preventing Mold After a Leak or Flood Water damage can be a nightmare for homeowners, especially in a city like Miami, Florida where heavy rains and flooding are common. When faced with a leak or flood, one of the most critical concerns is preventing mold growth. Mold not only damages your property but … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
-image: "/wp-content/uploads/2022/07/Tech-with-a-moisture-meter.png"
+image: "/images/blog/2022/07/Tech-with-a-moisture-meter.png"
 seo_title: "DIY Tips for Preventing Mold After a Leak or Flood"
 seo_description: "Act fast after a leak or flood! Follow these DIY tips from Total Care Restoration to prevent mold growth and protect your home from long-term damage in humid South Florida"
 keywords: ["Preventing mold after a leak"]

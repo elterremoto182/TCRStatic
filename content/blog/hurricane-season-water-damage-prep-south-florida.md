@@ -4,7 +4,7 @@ date: "2025-01-14"
 excerpt: "Hurricane season in South Florida runs from June to November, bringing the threat of devastating water damage. Learn how to prepare your home, what to do during a storm, and how to respond quickly after impact to minimize damage and restoration costs."
 author: "Total Care Restoration"
 category: "Storm"
-image: "/wp-content/uploads/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
+image: "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
 seo_title: "Hurricane Season Water Damage Preparation Guide | South Florida"
 seo_description: "Protect your South Florida home from hurricane water damage. Complete preparation checklist, storm response guide, and recovery tips from restoration experts."
 keywords: ["hurricane season south florida", "hurricane water damage", "storm damage restoration", "hurricane preparation", "flood damage prevention", "south florida hurricane prep"]

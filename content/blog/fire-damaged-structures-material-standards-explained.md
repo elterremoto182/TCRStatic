@@ -4,7 +4,7 @@ date: "2025-11-19"
 excerpt: "Learn how fire damage affects various building materials and the standards for safe restoration to ensure structural integrity and compliance."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/11/image_489ae455b2b226b1905d67cc81ac3304.jpeg"
+image: "/images/blog/2025/11/image_489ae455b2b226b1905d67cc81ac3304.jpeg"
 seo_title: "Fire-Damaged Structures: Material Standards Explained"
 seo_description: "Learn how fire damage affects various building materials and the standards for safe restoration to ensure structural integrity and compliance."
 keywords: ["fire damaged building materials", "fire restoration standards"]

@@ -4,7 +4,7 @@ date: "2024-03-19"
 excerpt: "Discovering mold in your home can be a concerning experience. With Miami’s warm and humid climate, mold is a common issue many homeowners face. However, there’s a lot of misinformation out there that can lead to unnecessary worry or, worse, incorrect handling of mold problems. At Total Care Restoration, we’re committed to providing clear, accurate … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
-image: "/wp-content/uploads/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg"
+image: "/images/blog/2024/03/C2428CDF-E32A-4592-A4E0-043F0337EB26.jpg"
 seo_title: "Common Misconceptions About Mold in Homes | Total Care Restoration"
 seo_description: "Struggling with mold in your Miami home? Discover the truth behind common mold misconceptions and learn why professional mold remediation is essential. Total Care Restoration provides expert insights and solutions to safeguard your home and health."
 keywords: ["Mold in Miami homes"]
@@ -47,7 +47,7 @@ Mold in homes is a common issue, especially in climates like Miami’s. However,
 
 At Total Care Restoration, we specialize in identifying and solving mold problems with effective, long-lasting solutions. Whether you’re dealing with a current mold issue or want to prevent future problems, our team is here to help. 
 
-![Moisture meter for mold detection](/wp-content/uploads/2023/01/Moisture-meter-1.jpg)
+![Moisture meter for mold detection](/images/blog/2023/01/Moisture-meter-1.jpg)
 
 ## Related Links
 - [What is a Moisture Meter? The Best Measurement](/what-is-a-moisture-meter-the-best-measurement/)

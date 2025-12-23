@@ -4,7 +4,7 @@ date: "2021-10-22"
 excerpt: "We are heading into hurricane season here in Florida, and that means preventing water damage should be on every home and property owner’s mind. Navigating what to do right away after a water intrusion event should be a phone call to an expert company, but if you’re curious about getting the whole picture because you … Continued"
 author: "sk admin"
 category: "Water"
-image: "/wp-content/uploads/2021/10/Water-damage-wood-floor.jpeg"
+image: "/images/blog/2021/10/Water-damage-wood-floor.jpeg"
 seo_title: "Water Damage Clean Up | Total Care Restoration"
 seo_description: "We are heading into hurricane season here in Florida, and that means preventing water damage should be on every home and property owner’s mind. Navigating what to do right away after a water intrusion event should be a phone call to an expert company, but if you’re curious about getting the whole picture because you &hellip;  Continued"
 keywords: ["water damage cleanup guide", "water damage restoration"]
@@ -42,7 +42,7 @@ Water damage clean up professionals have access to more effective tools than you
 
 Note that companies may use different methods for water damage clean up, from vacuums to dehumidifiers to a combination of these and other options.
 
-![Water damage dryout process](/wp-content/uploads/2022/07/Water_damage-dryout.jpg)
+![Water damage dryout process](/images/blog/2022/07/Water_damage-dryout.jpg)
 
 ## The Water Damage Clean Up Process
 

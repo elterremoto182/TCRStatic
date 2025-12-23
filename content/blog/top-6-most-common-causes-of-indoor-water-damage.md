@@ -4,7 +4,7 @@ date: "2025-04-24"
 excerpt: "Learn about the top causes of indoor water damage and how to prevent costly repairs with simple maintenance tips."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/05/image_344d241ba7b91c0474f5b59473e7d3ec.jpeg"
+image: "/images/blog/2025/05/image_344d241ba7b91c0474f5b59473e7d3ec.jpeg"
 seo_title: "Top 6 Most Common Causes of Indoor Water Damage | Total Care Restoration"
 seo_description: "Learn about the top causes of indoor water damage and how to prevent costly repairs with simple maintenance tips."
 keywords: ["common causes of water damage", "indoor water damage prevention"]

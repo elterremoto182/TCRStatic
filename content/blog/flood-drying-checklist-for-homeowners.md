@@ -4,7 +4,7 @@ date: "2025-07-20"
 excerpt: "Quick action is essential after flooding to minimize damage and health risks. Follow this comprehensive checklist for effective recovery."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/07/image_cafd4f103eb2f040f3c760fffe22932c.jpeg"
+image: "/images/blog/2025/07/image_cafd4f103eb2f040f3c760fffe22932c.jpeg"
 seo_title: "Flood Drying Checklist for Homeowners | Total Care Restoration"
 seo_description: "Quick action is essential after flooding to minimize damage and health risks. Follow this comprehensive checklist for effective recovery."
 keywords: ["flood drying checklist", "homeowner flood recovery"]

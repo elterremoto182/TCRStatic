@@ -4,7 +4,7 @@ date: "2025-11-22"
 excerpt: "Learn how to effectively complete a Standardized Damage Assessment Form for accurate insurance claims and restoration planning."
 author: "Tomasz Alemany"
 category: "Water"
-image: "/wp-content/uploads/2025/11/image_04260de251b489805be7e7b138823bf4.jpeg"
+image: "/images/blog/2025/11/image_04260de251b489805be7e7b138823bf4.jpeg"
 seo_title: "How to Fill Out a Standardized Damage Assessment Form"
 seo_description: "Learn how to effectively complete a Standardized Damage Assessment Form for accurate insurance claims and restoration planning."
 keywords: ["damage assessment form guide", "fill out damage assessment"]
