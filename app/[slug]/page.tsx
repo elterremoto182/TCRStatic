@@ -8,7 +8,7 @@ import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
 import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
 import { Home, Calendar, User, ArrowLeft } from 'lucide-react';
-import { generatePageMetadata } from '@/lib/utils';
+import { generatePageMetadata, ensureTrailingSlash } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { generateArticleSchema } from '@/lib/structured-data';
 
@@ -85,7 +85,7 @@ export async function generateMetadata({
       title: post.seo_title || post.title,
       description: post.excerpt || post.title,
       keywords: post.category ? [post.category, 'blog'] : ['blog'],
-      path: `/${post.slug}`,
+      path: `/${post.slug}/`,
       ogImage: post.image,
     });
   }
@@ -100,7 +100,7 @@ export async function generateMetadata({
     });
   }
 
-  const urlPath = `/${slug}`;
+  const urlPath = `/${slug}/`;
   
   return generatePageMetadata({
     title: page.seo_title || page.title || 'Total Leak Detection',
@@ -137,7 +137,7 @@ export default async function DynamicPage({
   const post = getPostBySlug(slug);
   if (post) {
     const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
-    const url = `${baseUrl}/${post.slug}`;
+    const url = `${baseUrl}/${post.slug}/`;
     
     // Generate Article schema
     const articleSchema = generateArticleSchema({
@@ -153,8 +153,8 @@ export default async function DynamicPage({
 
     // Generate breadcrumbs
     const breadcrumbItems = [
-      { label: 'Blog', href: '/blog' },
-      { label: post.title, href: `/${post.slug}` },
+      { label: 'Blog', href: '/blog/' },
+      { label: post.title, href: `/${post.slug}/` },
     ];
 
     return (
@@ -210,7 +210,7 @@ export default async function DynamicPage({
 
               <div className="mt-12 pt-8 border-t border-gray-200">
                 <Link
-                  href="/blog"
+                  href="/blog/"
                   className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
                 >
                   <ArrowLeft className="w-4 h-4 mr-2" />
@@ -234,7 +234,7 @@ export default async function DynamicPage({
   // Generate breadcrumbs for regular pages
   const normalizedSlug = page.slug.replace(/^\/+|\/+$/g, '');
   const breadcrumbItems = [
-    { label: page.title, href: `/${normalizedSlug}` },
+    { label: page.title, href: `/${normalizedSlug}/` },
   ];
 
   return (

@@ -272,7 +272,7 @@ export function CausePageRelatedLinks({
               {parentServices.map((service, i) => (
                 <Link
                   key={i}
-                  href={`/${service.slug}/residential/${citySlug}`}
+                  href={`/${service.slug}/residential/${citySlug}/`}
                   className="group flex items-center gap-3 p-3 bg-gray-50 rounded-lg hover:bg-primary/5 transition-colors"
                 >
                   <Home className="w-5 h-5 text-primary" />

@@ -1,5 +1,6 @@
 import siteConfig from '@/config/site.json';
 import { getService, getCity, getServiceType, type FAQItem } from './data';
+import { ensureTrailingSlash } from '@/lib/utils';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
@@ -31,7 +32,7 @@ export function generateLocalBusinessSchemaForCity(
   
   if (!city || !service || !serviceType) return null;
   
-  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}`;
+  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}/`;
   
   return {
     '@context': 'https://schema.org',
@@ -110,7 +111,7 @@ export function generateServiceSchemaWithAudience(options: ServiceSchemaOptions)
   
   if (!service || !city || !serviceType) return null;
   
-  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}`;
+  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}/`;
   
   return {
     '@context': 'https://schema.org',
@@ -156,7 +157,7 @@ export function generateServiceSchemaWithAudience(options: ServiceSchemaOptions)
       servicePhone: siteConfig.phone,
       availableLanguage: ['English', 'Spanish'],
     },
-    termsOfService: `${baseUrl}/privacy-policy`,
+    termsOfService: `${baseUrl}/privacy-policy/`,
     offers: {
       '@type': 'Offer',
       availability: 'https://schema.org/InStock',
@@ -213,9 +214,9 @@ export function generateBreadcrumbSchemaForServiceCity(
   
   const items = [
     { label: 'Home', href: '/' },
-    { label: service.name, href: `/${serviceSlug}` },
-    { label: serviceType.name, href: `/${serviceSlug}/${type}` },
-    { label: city.name, href: `/${serviceSlug}/${type}/${citySlug}` },
+    { label: service.name, href: `/${serviceSlug}/` },
+    { label: serviceType.name, href: `/${serviceSlug}/${type}/` },
+    { label: city.name, href: `/${serviceSlug}/${type}/${citySlug}/` },
   ];
   
   return {
@@ -261,7 +262,7 @@ export function generateHowToSchema(serviceSlug: string) {
       position: index + 1,
       name: step.title,
       text: step.description,
-      url: `${baseUrl}/${serviceSlug}#step-${step.step}`,
+      url: `${baseUrl}/${serviceSlug}/#step-${step.step}`,
     })),
   };
 }
@@ -278,7 +279,7 @@ export function generateWebPageSchema(
   
   if (!service || !city || !serviceType) return null;
   
-  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}`;
+  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}/`;
   const pageName = `${serviceType.name} ${service.name} in ${city.name}, FL`;
   
   return {

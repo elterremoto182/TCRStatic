@@ -15,7 +15,7 @@ export async function generateMetadata() {
     title: page?.seo_title || page?.title || 'Blog - Total Care Restoration',
     description: page?.seo_description || 'Expert tips, guides, and insights for maintaining your home plumbing and leak detection.',
     keywords: page?.seo_title ? ['blog', 'plumbing tips', 'leak detection'] : undefined,
-    path: '/blog',
+    path: '/blog/',
   });
 }
 
@@ -29,7 +29,7 @@ export default function BlogPage() {
         <section className="pt-32 pb-20 md:pb-28 bg-gradient-to-br from-primary/10 via-background to-accent/10">
           <div className="max-w-6xl mx-auto px-4">
             <div className="mb-8">
-              <Breadcrumbs items={[{ label: 'Blog', href: '/blog' }]} />
+              <Breadcrumbs items={[{ label: 'Blog', href: '/blog/' }]} />
             </div>
             <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">
@@ -102,7 +102,7 @@ export default function BlogPage() {
                       </p>
 
                       <Link
-                        href={`/${post.slug}`}
+                        href={`/${post.slug}/`}
                         className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
                       >
                         Read More

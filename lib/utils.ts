@@ -8,6 +8,20 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 /**
+ * Ensures a path has a trailing slash, except for root path
+ * @param path - The path to normalize
+ * @returns Path with trailing slash (except root)
+ */
+export function ensureTrailingSlash(path: string): string {
+  // Root path should never have trailing slash
+  if (path === '' || path === '/') {
+    return '/';
+  }
+  // Add trailing slash if not present
+  return path.endsWith('/') ? path : `${path}/`;
+}
+
+/**
  * Truncates meta titles to fit within Google's ~60 character display limit.
  * Removes branding suffixes in order of priority:
  * 1. " | Total Care Restoration"
@@ -55,7 +69,9 @@ export function generatePageMetadata({
   ogImage?: string;
 }): Metadata {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
-  const url = `${baseUrl}${path}`;
+  // Ensure trailing slash for all paths except root
+  const normalizedPath = ensureTrailingSlash(path);
+  const url = `${baseUrl}${normalizedPath}`;
   const finalDescription = description || siteConfig.seo.description;
   const finalOgImage = ogImage || siteConfig.seo.ogImage;
   const ogImageUrl = finalOgImage.startsWith('http') 

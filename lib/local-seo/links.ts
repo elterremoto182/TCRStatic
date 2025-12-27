@@ -14,6 +14,7 @@ import {
   getAllServices,
   type CauseConfig 
 } from './data';
+import { ensureTrailingSlash } from '@/lib/utils';
 
 // Blog post relevance keywords for each service
 const SERVICE_KEYWORDS: Record<string, string[]> = {
@@ -243,7 +244,7 @@ export function generateInternalLinksData(
   // Parent service link
   const parentService: RelatedLink = {
     label: service.name,
-    href: `/${serviceSlug}`,
+    href: `/${serviceSlug}/`,
     description: `Learn about our ${service.name.toLowerCase()} services`,
     type: 'service',
   };
@@ -251,7 +252,7 @@ export function generateInternalLinksData(
   // Service hub link
   const serviceHub: RelatedLink = {
     label: `${type === 'residential' ? 'Residential' : 'Commercial'} Services`,
-    href: `/${serviceSlug}/${type}`,
+    href: `/${serviceSlug}/${type}/`,
     description: `All ${type} ${service.shortName.toLowerCase()} locations`,
     type: 'hub',
   };
@@ -259,7 +260,7 @@ export function generateInternalLinksData(
   // Related causes (limited to 3)
   const relatedCauses: RelatedLink[] = causes.slice(0, 3).map((cause: CauseConfig) => ({
     label: `${cause.name} in ${city.name}`,
-    href: `/problems/${cause.slug}/${citySlug}`,
+    href: `/problems/${cause.slug}/${citySlug}/`,
     description: cause.description,
     type: 'cause' as const,
   }));
@@ -280,7 +281,7 @@ export function generateInternalLinksData(
     const nearbyCity = allCities[slug];
     return {
       label: `${service.shortName} in ${nearbyCity.name}`,
-      href: `/${serviceSlug}/${type}/${slug}`,
+      href: `/${serviceSlug}/${type}/${slug}/`,
       description: `${nearbyCity.responseTime} response time`,
       type: 'city' as const,
     };
@@ -335,7 +336,7 @@ export function getSuggestedLinksForBlogPost(post: BlogPost): RelatedLink[] {
     // Add link to main service page
     links.push({
       label: service.name,
-      href: `/${bestService.slug}`,
+      href: `/${bestService.slug}/`,
       description: `Professional ${service.name.toLowerCase()} services`,
       type: 'service',
     });
@@ -347,7 +348,7 @@ export function getSuggestedLinksForBlogPost(post: BlogPost): RelatedLink[] {
       if (cityScore > 0) {
         links.push({
           label: `${service.name} in ${city.name}`,
-          href: `/${bestService.slug}/residential/${citySlug}`,
+          href: `/${bestService.slug}/residential/${citySlug}/`,
           description: `Local ${service.name.toLowerCase()} in ${city.name}`,
           type: 'city',
         });

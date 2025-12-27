@@ -1,4 +1,5 @@
 import siteConfig from '@/config/site.json';
+import { ensureTrailingSlash } from './utils';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
@@ -266,7 +267,7 @@ export function generateBreadcrumbSchema(items: Array<{ label: string; href: str
       };
       // Only add 'item' for non-last items (current page shouldn't have item URL)
       if (!isLast) {
-        listItem.item = `${baseUrl}${item.href}`;
+        listItem.item = `${baseUrl}${ensureTrailingSlash(item.href)}`;
       }
       return listItem;
     }),

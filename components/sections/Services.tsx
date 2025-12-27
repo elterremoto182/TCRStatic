@@ -29,15 +29,15 @@ const iconMap: Record<string, LucideIcon> = {
 
 // Map service IDs to their new local SEO URLs
 const serviceSlugMap: Record<string, string> = {
-  'water': '/water-damage-restoration',
-  'fire': '/fire-damage-restoration',
-  'mold': '/mold-remediation',
-  'roof-tarping': '/roof-tarping',
-  'shrink-wrapping': '/shrink-wrapping',
-  'commercial': '/water-damage-restoration/commercial',
-  'air-quality': '/indoor-air-quality',
-  'home': '/water-damage-restoration',
-  'emergency-restoration': '/emergency-restoration',
+  'water': '/water-damage-restoration/',
+  'fire': '/fire-damage-restoration/',
+  'mold': '/mold-remediation/',
+  'roof-tarping': '/roof-tarping/',
+  'shrink-wrapping': '/shrink-wrapping/',
+  'commercial': '/water-damage-restoration/commercial/',
+  'air-quality': '/indoor-air-quality/',
+  'home': '/water-damage-restoration/',
+  'emergency-restoration': '/emergency-restoration/',
 };
 
 export function Services() {

@@ -71,7 +71,7 @@ export function Testimonials() {
         {/* View All Link */}
         <div className="text-center mt-12">
           <Link
-            href="/testimonials"
+            href="/testimonials/"
             className="inline-flex items-center gap-2 text-primary font-semibold text-lg hover:text-primary/80 transition-colors duration-200 group"
           >
             Read All Reviews

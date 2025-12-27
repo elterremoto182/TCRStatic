@@ -68,7 +68,7 @@ export function Footer() {
               ))}
               <li>
                 <Link
-                  href="/service-areas"
+                  href="/service-areas/"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Service Areas
@@ -129,7 +129,7 @@ export function Footer() {
               &copy; {currentYear} {siteConfig.name}. All rights reserved. License # CFC1430460
             </p>
             <Link
-              href="/privacy-policy"
+              href="/privacy-policy/"
               className="text-gray-300 hover:text-white transition-colors duration-200"
             >
               Privacy Policy

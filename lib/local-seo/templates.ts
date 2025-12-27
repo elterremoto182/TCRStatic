@@ -11,7 +11,7 @@ import {
   type FAQItem,
   type ServiceImages,
 } from './data';
-import { truncateMetaTitle } from '@/lib/utils';
+import { truncateMetaTitle, ensureTrailingSlash } from '@/lib/utils';
 
 // Content block types
 export interface HeroContent {
@@ -352,14 +352,14 @@ export function generateInternalLinksContent(
   // Link to parent service page
   links.push({
     label: service.name,
-    href: `/${serviceSlug}`,
+    href: `/${serviceSlug}/`,
     description: `Learn more about our ${service.name.toLowerCase()} services`,
   });
   
   // Link to type hub
   links.push({
     label: `${type === 'residential' ? 'Residential' : 'Commercial'} Services`,
-    href: `/${serviceSlug}/${type}`,
+    href: `/${serviceSlug}/${type}/`,
     description: `All ${type} ${service.shortName.toLowerCase()} services`,
   });
   
@@ -368,7 +368,7 @@ export function generateInternalLinksContent(
   for (const cause of relevantCauses) {
     links.push({
       label: `${cause.name} in ${city.name}`,
-      href: `/problems/${cause.slug}/${citySlug}`,
+      href: `/problems/${cause.slug}/${citySlug}/`,
       description: cause.description,
     });
   }

@@ -134,3 +134,12 @@
 # =============================================================================
 /blog/* /:splat 301
 
+# =============================================================================
+# TRAILING SLASH REDIRECTS - Redirect URLs without trailing slashes to trailing-slash versions
+# This ensures consistency and prevents Google Search Console redirect issues
+# =============================================================================
+# Catch-all redirect for paths without trailing slashes
+# Note: Netlify will serve files directly, so file paths won't hit this redirect
+# This redirects all non-file paths without trailing slashes to their trailing-slash equivalents
+/* /:splat/ 301
+
