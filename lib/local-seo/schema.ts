@@ -212,6 +212,7 @@ export function generateBreadcrumbSchemaForServiceCity(
   
   if (!service || !city || !serviceType) return null;
   
+  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}/`;
   const items = [
     { label: 'Home', href: '/' },
     { label: service.name, href: `/${serviceSlug}/` },
@@ -222,18 +223,14 @@ export function generateBreadcrumbSchemaForServiceCity(
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#BreadcrumbList`,
     itemListElement: items.map((item, index) => {
-      const isLast = index === items.length - 1;
       const listItem: Record<string, unknown> = {
         '@type': 'ListItem',
         position: index + 1,
         name: item.label,
+        item: `${baseUrl}${ensureTrailingSlash(item.href)}`,
       };
-      
-      // Only add 'item' for non-last items
-      if (!isLast) {
-        listItem.item = `${baseUrl}${item.href}`;
-      }
       
       return listItem;
     }),

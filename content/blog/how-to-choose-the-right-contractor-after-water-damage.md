@@ -64,7 +64,7 @@ When hiring a contractor, make sure they:
 
 ### 4\. **Avoid High-Pressure Sales Tactics**
 
-Emergencies can be overwhelming, and some companies exploit this by pressuring clients into immediate decisions. While time is a factor in water damage, it’s essential to pause, evaluate your options, and choose a contractor you trust.
+Emergencies can be overwhelming, and some companies exploit this by pressuring clients into immediate decisions. While time is a factor in water damage, it's essential to pause, evaluate your options, and choose a contractor you trust. For more comprehensive guidance on protecting yourself from restoration scams, see our guide on [How to Avoid Scams in Restoration Services](/how-to-avoid-scams-in-restoration-services/).
 
 In the video, the speaker emphasized the importance of taking a day to interview multiple companies and compare their approaches. While immediate extraction of standing water is necessary, the actual repair and mitigation work can wait until you’ve selected a reliable contractor.
 

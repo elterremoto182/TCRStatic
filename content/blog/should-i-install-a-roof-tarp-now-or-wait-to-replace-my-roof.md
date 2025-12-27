@@ -5,7 +5,7 @@ excerpt: "As a homeowner, you may encounter situations where you’re unsure whe
 author: "Tomasz Alemany"
 category: "Tarp"
 image: "/images/blog/2021/09/Trap-Roof-banner.jpg"
-seo_title: "Should I Install a Roof Tarp Now or Wait to Replace My Roof?"
+seo_title: "Roof Tarp vs Replacement: When to Use Each Option"
 seo_description: "Confused about whether to install a roof tarp or wait for a roof replacement? Discover the pros and cons of both options to make an informed decision for your home."
 keywords: ["Roof Tarp vs Roof Replacement"]
 ---

@@ -159,6 +159,8 @@ Call an HVAC professional if you notice:
 - Water damage from AC leak
 - Strange noises from the unit
 
+If you can't locate the source of water damage from your AC, professional [leak detection services](/leak-detection/) can use thermal imaging and moisture detection to find hidden leaks in walls, ceilings, or ductwork.
+
 ## What to Do When Your AC Leaks
 
 ### Immediate Steps
@@ -182,6 +184,7 @@ Call an HVAC professional if you notice:
 
 **For significant leaks with water damage:**
 - Call a professional restoration company
+- If you can't find the leak source, consider [professional leak detection services](/leak-detection/) to locate hidden leaks in walls, ceilings, or ductwork
 - Have HVAC technician repair the system
 - Don't turn AC back on until both issues are resolved
 

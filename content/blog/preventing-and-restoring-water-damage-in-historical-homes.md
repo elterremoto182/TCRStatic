@@ -5,7 +5,7 @@ excerpt: "Miami’s historical homes are not just structures; they are a testame
 author: "Tomasz Alemany"
 category: "Water"
 image: "/images/blog/2023/01/Water-damage-wood-floor-1.jpg"
-seo_title: "Preventing and Restoring Water Damage in Historical Homes"
+seo_title: "Water Damage in Historical Homes: Prevention & Repair"
 seo_description: "Protect the beauty of Miami's historical homes from water damage. Discover the challenges and solutions for preserving these timeless treasures."
 keywords: ["Water Damage in Historical Homes"]
 ---

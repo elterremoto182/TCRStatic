@@ -205,7 +205,7 @@ For businesses, safeguarding equipment and inventory is often a top priority. As
 
 Choosing a company that offers **insurance claim assistance** can also save you time and stress. Experienced restoration companies often know how to navigate the claims process efficiently, helping you get the compensation you need to rebuild.
 
-Be cautious of scams. Avoid companies that demand upfront payments, and always verify their licensing and insurance. It’s also wise to contact your insurance provider before signing on with any restoration service.
+Be cautious of scams. Avoid companies that demand upfront payments, and always verify their licensing and insurance. It's also wise to contact your insurance provider before signing on with any restoration service. For detailed information on recognizing and avoiding restoration scams, see our guide on [How to Avoid Scams in Restoration Services](/how-to-avoid-scams-in-restoration-services/).
 
 ### Example: (/)
 

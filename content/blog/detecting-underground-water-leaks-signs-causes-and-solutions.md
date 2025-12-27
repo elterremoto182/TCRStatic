@@ -44,7 +44,7 @@ Addressing these causes requires a proactive approach. Regular inspections and u
 
 ## Detection Methods for Underground Water Leaks
 
-Detecting underground water leaks requires a variety of methods to accurately locate and address the issue. Here are several effective **leak detection methods**:
+Detecting underground water leaks requires a variety of methods to accurately locate and address the issue. For professional leak detection services using advanced technology, consider [Total Care Restoration's leak detection services](/leak-detection/). Here are several effective **leak detection methods**:
 
 1\. Visual Inspection
 
@@ -80,7 +80,7 @@ If you’re also facing problems with [clogged drains](https://totalleakdetectio
 
 **Proper pipe installation techniques** are essential for long-term durability. Ensuring that pipes are installed correctly reduces the risk of vulnerabilities that could lead to leaks. This involves using suitable materials, adhering to industry standards, and employing experienced professionals for the job.
 
-For minor leaks, **DIY repairs** can be a viable solution. Simple fixes like sealing small cracks or replacing worn-out washers can often address less severe issues effectively. However, if the leak is extensive or difficult to access, **professional help** is advisable. Professionals have the tools and expertise to manage complex repairs, minimizing further damage and ensuring the integrity of your plumbing system.
+For minor leaks, **DIY repairs** can be a viable solution. Simple fixes like sealing small cracks or replacing worn-out washers can often address less severe issues effectively. However, if the leak is extensive or difficult to access, **professional help** is advisable. For hidden leaks that are hard to locate, professional [leak detection services](/leak-detection/) use thermal imaging, acoustic devices, and video pipe inspection to pinpoint the exact source without invasive testing. Professionals have the tools and expertise to manage complex repairs, minimizing further damage and ensuring the integrity of your plumbing system.
 
 Persistent leaks can lead to **mold growth**, posing health hazards such as respiratory issues and allergies. Mold thrives in moist environments created by prolonged leaks, affecting indoor air quality and potentially causing structural damage. Addressing leaks promptly helps prevent these health risks and maintains a safe living environment.
 

@@ -74,8 +74,10 @@ export async function generateMetadata({
     city.county,
   ];
 
+  // Meta title differs from H1 by omitting ", FL" and using different suffix
+  // H1 is: "{cause.name} in {city.name}, FL"
   return generatePageMetadata({
-    title: truncateMetaTitle(`${cause.name} in ${city.name}, FL | Professional Restoration | Total Care Restoration`),
+    title: truncateMetaTitle(`${cause.name} in ${city.name} | Pro Restoration`),
     description: `${cause.description} in ${city.name}. ${city.responseTime} response time. Professional cleanup, restoration, and prevention. Licensed & insured. Call 24/7!`,
     keywords,
     path: `/problems/${causeSlug}/${citySlug}`,

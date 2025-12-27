@@ -130,7 +130,7 @@ Routine inspections can help you spot potential issues early, but some situation
 -   **Ongoing dampness**: If moisture lingers even after repairs, it often signals hidden issues. This trapped moisture can encourage mold growth and lead to structural damage.
 -   **Visible mold**: Mold growth is a clear sign you need professional help. Not only does mold spread quickly, but it also releases spores that can harm indoor air quality. DIY attempts to clean mold can disturb these spores, spreading the problem further.
 -   **Persistent musty odors**: A lingering musty smell, even after cleaning, often points to hidden moisture or mold in areas like wall cavities or beneath flooring – places that are hard to inspect without specialized tools.
--   **Unexplained spikes in your water bill**: A sudden increase in your water bill might indicate a hidden leak. Professionals use [Detecting Underground Water Leaks Signs Causes And Solutions](/detecting-underground-water-leaks-signs-causes-and-solutions/) to pinpoint the problem quickly, saving you time and preventing further damage.
+-   **Unexplained spikes in your water bill**: A sudden increase in your water bill might indicate a hidden leak. Professionals use [professional leak detection services](/leak-detection/) with thermal imaging, acoustic devices, and video pipe inspection to pinpoint the problem quickly, saving you time and preventing further damage.
 -   **After severe weather or flooding**: Storms and floods can cause damage that isn’t immediately visible, such as compromised foundations, roofs, or windows. A professional assessment ensures nothing is overlooked.
 -   **When electrical systems are involved**: Water and electricity are a dangerous combination. Repairs involving electrical components should always be handled by certified experts trained in both restoration and electrical safety.
 
@@ -138,7 +138,7 @@ Routine inspections can help you spot potential issues early, but some situation
 
 Professional restoration companies bring specialized tools and expertise to address water damage effectively. Here’s what they provide:
 
--   **Advanced detection tools**: Equipment like thermal imaging cameras and industrial moisture meters can uncover hidden damage that would otherwise go unnoticed during a basic visual inspection.
+-   **Advanced detection tools**: Equipment like thermal imaging cameras and industrial moisture meters can uncover hidden damage that would otherwise go unnoticed during a basic visual inspection. For locating hidden leaks, professional [leak detection services](/leak-detection/) use these same advanced technologies to find leaks behind walls, under floors, and in plumbing systems without invasive testing.
 -   **Rapid response with industrial-grade equipment**: With 24/7 emergency services, professionals act quickly to minimize damage. They use powerful water extractors, commercial-grade dehumidifiers, and air movers to thoroughly dry your property in a matter of days, preventing mold growth and further deterioration.
 -   **Insurance claim assistance**: Certified companies handle direct billing and provide documentation, photographs, and moisture readings required by insurance providers, making the claims process smoother for you.
 -   **Comprehensive restoration services**: From water extraction and structural drying to [Mold Remediation](/mold-remediation/) and reconstruction, these companies manage every aspect of restoration. Their goal is to return your property to its original condition efficiently and effectively.

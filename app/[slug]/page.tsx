@@ -81,8 +81,23 @@ export async function generateMetadata({
   // Check for blog post first
   const post = getPostBySlug(slug);
   if (post) {
+    // Differentiate meta title from H1 (which uses post.title)
+    // Only add suffix if seo_title matches title AND there's room under 60 chars
+    let metaTitle = post.seo_title || post.title;
+    const titleMatchesH1 = !post.seo_title || post.seo_title === post.title;
+    
+    if (titleMatchesH1) {
+      // Add differentiating suffix based on available space (60 char limit)
+      if (post.title.length <= 52) {
+        metaTitle = `${post.title} | Guide`;  // 8 chars
+      } else if (post.title.length <= 55) {
+        metaTitle = `${post.title} - Tips`;   // 7 chars  
+      }
+      // Titles > 55 chars stay as-is (rare edge cases)
+    }
+    
     return generatePageMetadata({
-      title: post.seo_title || post.title,
+      title: metaTitle,
       description: post.excerpt || post.title,
       keywords: post.category ? [post.category, 'blog'] : ['blog'],
       path: `/${post.slug}/`,

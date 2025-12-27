@@ -201,6 +201,34 @@ export default function EmergencyRestorationPage() {
           />
         )}
 
+        {/* Leak Detection Callout */}
+        <section className="py-12 bg-blue-50">
+          <div className="max-w-4xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex flex-col md:flex-row items-center gap-6 p-6 bg-white rounded-2xl shadow-sm border border-blue-100">
+                <div className="w-16 h-16 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                  <AlertCircle className="w-8 h-8 text-blue-600" />
+                </div>
+                <div className="flex-1 text-center md:text-left">
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">
+                    Can&apos;t Find the Source of Water Damage?
+                  </h3>
+                  <p className="text-gray-600">
+                    Our advanced <Link href="/leak-detection/" className="text-primary font-semibold hover:underline">leak detection services</Link> use thermal imaging, electronic detection, and video pipe inspection to pinpoint hidden leaks behind walls, under floors, and in ceilings—preventing recurring damage.
+                  </p>
+                </div>
+                <Link
+                  href="/leak-detection/"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-lg hover:bg-primary/90 transition-colors whitespace-nowrap"
+                >
+                  Learn More
+                  <ArrowRight className="w-4 h-4" />
+                </Link>
+              </div>
+            </AnimateOnScroll>
+          </div>
+        </section>
+
         {/* Process Section */}
         <ServiceProcess 
           title="Our Emergency Response Process" 

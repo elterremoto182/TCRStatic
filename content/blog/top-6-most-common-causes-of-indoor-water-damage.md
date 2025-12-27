@@ -55,7 +55,9 @@ Leaving water damage untreated can lead to mold growth, structural problems, and
 
 Burst pipes often happen due to freezing, high water pressure, or old infrastructure. Homes over 25 years old with galvanized pipes are especially prone to rust and corrosion.
 
-To help prevent this, keep your home’s indoor temperature above 55°F during winter. Maintain water pressure between 30–50 PSI and avoid exceeding 60 PSI. Consider upgrading to copper pipes, which can last up to 100 years without rusting.
+To help prevent this, keep your home's indoor temperature above 55°F during winter. Maintain water pressure between 30–50 PSI and avoid exceeding 60 PSI. Consider upgrading to copper pipes, which can last up to 100 years without rusting.
+
+If you notice signs of a leak but can't find the source—such as unexplained water bills, sounds of running water, or damp spots—professional [leak detection services](/leak-detection/) can locate hidden leaks behind walls, under slabs, or in your plumbing system using non-invasive technology.
 
 But pipes aren’t the only culprits – your roof can also lead to hidden water damage.
 
@@ -95,6 +97,8 @@ Here are some options:
 -   **Water Flow Monitors**: These devices alert you via an app and can automatically shut off the water if abnormal flow is detected on the main line.
 
 The cost of these systems varies, from budget-friendly battery-powered sensors to advanced smart setups that can cost a few hundred dollars.
+
+If you suspect a hidden leak that your sensors can't pinpoint, professional [leak detection services](/leak-detection/) use thermal imaging, video pipe inspection, and electronic detection to locate leaks accurately without tearing up walls or floors.
 
 ### When to Call Experts
 

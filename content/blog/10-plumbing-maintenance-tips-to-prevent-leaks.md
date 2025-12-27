@@ -33,6 +33,8 @@ Spend 20 minutes each month checking your home's plumbing. Inspect visible pipes
 
 **Quick toilet test:** Add food coloring to the tank. If color appears in the bowl within 10 minutes without flushing, you have a leak.
 
+If you suspect a hidden leak but can't locate it, professional [leak detection services](/leak-detection/) can use advanced technology like thermal imaging and acoustic devices to find leaks behind walls, under floors, or in your foundation without invasive testing.
+
 ## 2. Test and Control Water Pressure
 
 Excessive water pressure strains pipes and causes premature wear. Use a pressure gauge (available at hardware stores) to test your water pressure. It should be between 40–60 PSI. Anything above 80 PSI needs a pressure regulator.
@@ -84,6 +86,8 @@ Call a plumber for:
 - Main water line or sewer issues
 - Water stains on walls or ceilings
 - Sewage odors
+
+If you can't find the source of a leak, consider professional [leak detection services](/leak-detection/) that use thermal imaging, video pipe inspection, and electronic detection equipment to locate hidden leaks accurately.
 
 ---
 
