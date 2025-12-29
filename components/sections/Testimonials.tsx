@@ -69,7 +69,7 @@ export function Testimonials() {
         </div>
 
         {/* View All Link */}
-        <div className="text-center mt-12">
+        <div className="text-center mt-12 space-y-3">
           <Link
             href="/testimonials/"
             className="inline-flex items-center gap-2 text-primary font-semibold text-lg hover:text-primary/80 transition-colors duration-200 group"
@@ -77,6 +77,9 @@ export function Testimonials() {
             Read All Reviews
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" />
           </Link>
+          <p className="text-gray-600">
+            Or explore <Link href="/reviews/" className="text-primary font-medium hover:underline">detailed customer experiences</Link> with our services.
+          </p>
         </div>
       </div>
     </section>

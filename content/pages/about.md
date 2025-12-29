@@ -26,4 +26,12 @@ We strive to give the highest level of service and leave each home completely sa
 
 As we care about our customers, we are one of the few companies that will assign a specialized account representative to go out with the technicians to educate you on the process. You will get personalized service tailored to what you really need. Your account representative will guide you through every aspect of the job and answer any questions along the way.
 
+## What Our Customers Say
+
+Don't just take our word for it — see what homeowners and businesses throughout South Florida have to say about working with us. [Read our customer reviews](/reviews/) to learn about real experiences with our restoration team.
+
+## Save on Restoration Services
+
+We offer discounts for seniors, military, veterans, and first responders. [Check our current promotions](/promotions/) for deals on inspections, leak detection, and restoration services.
+
 <iframe src="https://www.youtube.com/embed/aFbrhj_jQgw?feature=oembed" width="500" height="281" frameborder="0" title="About Us - Total Care Restoration" allowfullscreen></iframe>

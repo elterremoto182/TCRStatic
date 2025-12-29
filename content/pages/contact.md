@@ -27,3 +27,5 @@ When you contact us, our team will gather information about your situation and d
 ## Free Inspections
 
 Not sure if you need restoration services? We offer free inspections for water damage, mold concerns, and other property damage. Our certified technicians will assess the situation and provide honest recommendations with no obligation.
+
+We also offer special discounts for seniors, military, and first responders. [View our current promotions](/promotions/) to see available deals.

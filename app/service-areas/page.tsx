@@ -109,12 +109,15 @@ export default function ServiceAreasPage() {
                 Communities We Serve Across South Florida
               </h1>
 
-              <p className="text-xl text-gray-600 max-w-3xl mb-8">
+              <p className="text-xl text-gray-600 max-w-3xl mb-4">
                 Total Care Restoration proudly serves communities throughout{' '}
                 <strong>Miami-Dade County, Broward County, and Palm Beach County</strong>. Our
                 certified restoration experts provide{' '}
                 <strong>24/7 emergency response</strong> for water damage, fire damage, and mold
                 remediation.
+              </p>
+              <p className="text-gray-600 max-w-3xl mb-8">
+                <Link href="/reviews/" className="text-primary font-medium hover:underline">See what our customers say</Link> or check out <Link href="/promotions/" className="text-primary font-medium hover:underline">current promotions</Link> on restoration services.
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4">

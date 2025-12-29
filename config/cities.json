@@ -518,5 +518,187 @@
       "localChallenges": "The Intracoastal can flood during storms. Buildings near the water are at risk. We respond fast.\n\nDowntown buildings range from old to new. Each needs a different approach. We adapt.\n\nGovernment facilities have security rules. We follow protocols. We work with staff.\n\nClematis Street is competitive. A closed bar loses customers. We work nights when needed.\n\nHistoric buildings need gentle restoration. Modern methods can damage old materials. We know the difference.",
       "focusPoints": ["Government building specialists", "Downtown office restoration", "Retail and hospitality expertise", "Healthcare facility compliance", "Clematis Street experience", "City Place coverage", "Institutional facility service", "County facility coordination"]
     }
+  },
+  "hialeah": {
+    "name": "Hialeah",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.8576, "lng": -80.2781 },
+    "neighborhoods": ["Palm Springs North", "Hialeah Gardens", "Miami Lakes border", "Westland", "Palm Springs", "Country Club", "Hialeah Acres", "Flamingo Park"],
+    "zipCodes": ["33010", "33011", "33012", "33013", "33014", "33015", "33016", "33018"],
+    "responseTime": "15-25 minutes",
+    "localFactors": {
+      "climate": "Urban Miami-Dade with older infrastructure",
+      "risks": ["Aging plumbing in older homes", "Flat terrain flooding", "Commercial building water damage", "Hurricane impacts on dense neighborhoods"],
+      "characteristics": "Second-largest city in Miami-Dade with strong Latino heritage and working-class neighborhoods"
+    },
+    "residential": {
+      "intro": "Hialeah is our neighbor. We respond fast here. From Palm Springs to Westland, we know these streets. We protect hardworking families from water damage.",
+      "extendedContent": "Hialeah is Miami-Dade's second-largest city. Families here work hard and take pride in their homes. Many properties have been in families for generations. We understand this community. Our team includes Spanish-speaking technicians who communicate clearly with homeowners. We respect Hialeah's culture and values while providing professional restoration services.",
+      "localChallenges": "Many Hialeah homes were built in the 1950s through 1970s. Plumbing systems are aging. Cast iron pipes corrode. Flat roofs leak. The city's flat terrain floods during heavy rain. Older AC units fail and cause water damage. Dense neighborhoods mean water can spread between properties. We know these challenges. We've restored thousands of Hialeah homes.",
+      "focusPoints": ["Rapid response from nearby Doral", "Spanish-speaking technicians", "Older home expertise", "Multi-generational family homes", "Affordable restoration options", "Insurance claim assistance", "Cast iron pipe specialists", "Dense neighborhood experience"]
+    },
+    "commercial": {
+      "intro": "Hialeah is a business hub. Warehouses, factories, and shops fill the city. We keep them running. Fast response. Less downtime. We speak your language.",
+      "extendedContent": "Hialeah has one of the largest concentrations of businesses in Miami-Dade. Industrial parks line the Palmetto Expressway. Small businesses serve the community. Warehouses store goods for distribution. Factories produce products.\n\nWe've worked with Hialeah businesses for years. We know the industrial parks. We know the shopping centers. We coordinate with property managers.\n\nMany business owners here are immigrants who built their companies from scratch. We respect that. We work to minimize disruption so you can keep earning.\n\nOur proximity in Doral means we can have crews on-site in minutes. That speed saves inventory. It saves equipment. It saves your business.",
+      "localChallenges": "Older industrial buildings have aging roofs. A leak can damage inventory worth millions. We respond fast.\n\nDense commercial areas create parking and access challenges. We plan around them.\n\nMany businesses operate on tight margins. Extended closures hurt. We work efficiently to minimize downtime.\n\nSome buildings have outdated fire suppression systems. When they fail, flooding follows. We handle these emergencies.\n\nRestaurants and food businesses face health codes. We follow the right steps for compliance.",
+      "focusPoints": ["Industrial park specialists", "Warehouse water damage", "Manufacturing facility expertise", "Small business focus", "Rapid Doral-based response", "Bilingual service team", "Loading dock flooding", "Commercial roof leak experts"]
+    }
+  },
+  "coral-gables": {
+    "name": "Coral Gables",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.7215, "lng": -80.2684 },
+    "neighborhoods": ["Coral Gables Riviera", "Cocoplum", "Gables Estates", "Ponce-Davis", "South Gables", "North Gables", "Crafts Section", "Golden Triangle"],
+    "zipCodes": ["33114", "33124", "33134", "33143", "33146", "33156", "33158"],
+    "responseTime": "25-40 minutes",
+    "localFactors": {
+      "climate": "Historic planned community with Mediterranean architecture",
+      "risks": ["Historic building preservation needs", "Banyan tree root intrusion", "Luxury property water intrusion", "Strict building code compliance"],
+      "characteristics": "The City Beautiful - affluent planned community with historic architecture and University of Miami"
+    },
+    "residential": {
+      "intro": "Coral Gables homes are architectural treasures. From historic Riviera estates to Cocoplum waterfront properties, we restore with the care these homes deserve. We know the City Beautiful's strict standards.",
+      "extendedContent": "Coral Gables is South Florida's original planned community. George Merrick's vision created the City Beautiful with Mediterranean Revival architecture, lush landscaping, and strict aesthetic standards. Homes here aren't just properties—they're pieces of history. Many feature original coral rock, barrel tile roofs, and custom ironwork. Our team understands that restoring a Coral Gables home means preserving its character. We work with materials and techniques appropriate for historic properties while meeting modern performance standards.",
+      "localChallenges": "Historic homes require specialized restoration. Modern methods can damage original materials. We know the difference. Coral Gables' famous banyan trees create beautiful canopies but roots invade plumbing. Clay tile roofs are beautiful but complex. The city has some of South Florida's strictest building codes. Waterfront properties in Cocoplum and Gables Estates face storm surge. Many homes have wine cellars, home theaters, and other high-value spaces below grade that flood.",
+      "focusPoints": ["Historic preservation specialists", "Mediterranean Revival expertise", "Luxury property restoration", "Strict code compliance", "Coral rock and original materials", "Waterfront estate experience", "University of Miami area coverage", "High-value content protection"]
+    },
+    "commercial": {
+      "intro": "Coral Gables is a global business center. Miracle Mile has upscale retail. Downtown has corporate headquarters. We provide restoration that meets the City Beautiful's high standards.",
+      "extendedContent": "Coral Gables is more than a residential community. It's an international business hub. Major corporations have their Latin American headquarters here. Miracle Mile features upscale shopping and dining. The University of Miami brings students, faculty, and research facilities.\n\nCommercial properties in Coral Gables must meet strict aesthetic standards. Restoration work can't compromise the city's character. We understand these requirements.\n\nMany buildings here are historic. They need careful restoration that preserves architectural details. We match materials. We protect ornamental features.\n\nMiracle Mile retailers depend on foot traffic. A closed store loses customers. We work quickly and discretely.\n\nCorporate offices serve international clients. Professional appearance matters. We restore to the highest standards.",
+      "localChallenges": "The city has strict codes. Restoration must meet aesthetic standards. We know the requirements.\n\nHistoric buildings need gentle treatment. We use appropriate methods for period construction.\n\nMiracle Mile is competitive. Quick restoration protects your business.\n\nInternational companies need documentation in multiple formats. We provide what corporate offices require.\n\nUniversity facilities have scheduling constraints. We work around academic calendars.",
+      "focusPoints": ["Corporate headquarters expertise", "Miracle Mile retail specialists", "Historic commercial preservation", "University facility restoration", "International business documentation", "Luxury retail protection", "Professional office restoration", "Code compliance specialists"]
+    }
+  },
+  "aventura": {
+    "name": "Aventura",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9565, "lng": -80.1392 },
+    "neighborhoods": ["Aventura Lakes", "The Waterways", "Turnberry", "Williams Island", "Porto Vita", "Mystic Pointe", "The Point"],
+    "zipCodes": ["33160", "33180"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Coastal high-rise community with luxury developments",
+      "risks": ["High-rise plumbing failures", "Hurricane wind damage on upper floors", "Underground parking flooding", "Salt air corrosion"],
+      "characteristics": "Upscale city dominated by high-rise condos, Aventura Mall, and international residents"
+    },
+    "residential": {
+      "intro": "Aventura's luxury high-rises and waterfront condos deserve expert restoration. From Williams Island to Turnberry, we protect high-value properties with skill and discretion.",
+      "extendedContent": "Aventura is South Florida's premier high-rise community. Towers line the Intracoastal Waterway with stunning views. Developments like Williams Island, Porto Vita, and Turnberry offer resort-style living. Many residents are international—from South America, Europe, and beyond. Our team includes multilingual technicians who communicate clearly with diverse clientele. We understand the unique challenges of high-rise restoration: coordinating with building management, accessing upper floors, and protecting common areas during work.",
+      "localChallenges": "High-rise buildings present unique challenges. A leak on an upper floor can damage multiple units below. Building associations have strict rules. Access requires coordination. Parking garages flood during storms. The Intracoastal location means hurricane exposure. Many residents travel frequently or live part-time. We coordinate restoration while owners are away. Luxury finishes—marble, custom cabinetry, smart home systems—require expert handling.",
+      "focusPoints": ["High-rise condo specialists", "Luxury property expertise", "Multilingual service team", "Building association coordination", "Absentee owner management", "International client experience", "Underground parking flooding", "Premium finish restoration"]
+    },
+    "commercial": {
+      "intro": "Aventura Mall is one of America's largest shopping centers. The city has upscale offices and hotels. We provide the quality restoration these properties demand.",
+      "extendedContent": "Aventura Mall anchors the city's commercial center. It's one of the country's largest and most successful malls. Millions of shoppers visit each year. Water damage here is high-stakes.\n\nBeyond the mall, Aventura has corporate offices, medical facilities, and luxury hotels. These properties serve an upscale clientele. Restoration must match their standards.\n\nThe city's international character means many business owners are based overseas. We provide detailed documentation for remote owners. We coordinate across time zones.\n\nAventura's newer construction is generally well-built. But even new buildings experience water heater failures, pipe bursts, and storm damage. Modern building systems require modern restoration techniques.",
+      "localChallenges": "Aventura Mall's massive roof covers acres. A leak can affect multiple stores. We respond rapidly.\n\nHigh-end retail can't tolerate visible damage. We work after hours. We contain work areas.\n\nInternational owners need documentation in multiple languages. We provide it.\n\nMedical facilities here serve an upscale clientele. Standards are high. We meet them.\n\nHotels can't close for restoration. We work around guests. We minimize disruption.",
+      "focusPoints": ["Major mall restoration", "Luxury retail specialists", "Hotel and hospitality expertise", "Medical facility compliance", "International owner coordination", "High-rise commercial buildings", "After-hours service availability", "Premium property standards"]
+    }
+  },
+  "homestead": {
+    "name": "Homestead",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.4687, "lng": -80.4776 },
+    "neighborhoods": ["Homestead Air Reserve Base area", "Downtown Homestead", "Leisure City", "Naranja", "Princeton", "Redland", "Florida City border"],
+    "zipCodes": ["33030", "33031", "33032", "33033", "33034", "33035", "33039"],
+    "responseTime": "50-65 minutes",
+    "localFactors": {
+      "climate": "Southern Miami-Dade with agricultural surroundings and hurricane exposure",
+      "risks": ["Direct hurricane impacts", "Agricultural property flooding", "Older mobile home damage", "Well and septic issues"],
+      "characteristics": "Gateway to the Keys with agricultural heritage, military base, and growing residential development"
+    },
+    "residential": {
+      "intro": "Homestead families face unique challenges. Hurricane Andrew taught this community about water damage. We help protect homes from the Keys to the Redland. Fast response despite the distance.",
+      "extendedContent": "Homestead sits at Miami-Dade's southern edge. It's the gateway to the Florida Keys. The community has agricultural roots but is growing rapidly. Hurricane Andrew devastated the area in 1992, and that experience shaped how residents think about storms and water damage. Our team respects this history. We serve established neighborhoods, new developments, and the unique agricultural properties in the Redland. Many homes here are more affordable, and we work with families on tight budgets to navigate insurance claims and restoration options.",
+      "localChallenges": "Homestead is directly in hurricane paths. Andrew proved that. Homes here must be prepared. Many properties rely on wells and septic systems rather than municipal utilities. The agricultural Redland area has unique structures—farmhouses, nursery buildings, packing houses—that require specialized restoration. Mobile homes are common and vulnerable to water damage. Distance from our Doral base means response times are longer, but we have the equipment and crews to handle major jobs in this area.",
+      "focusPoints": ["Hurricane preparedness experts", "Agricultural property restoration", "Affordable home focus", "Well and septic experience", "Mobile home specialists", "New development coverage", "Military family service", "Keys-adjacent response capability"]
+    },
+    "commercial": {
+      "intro": "Homestead is growing fast. New shops and restaurants serve the community. Agricultural businesses support the region. We help keep them all running.",
+      "extendedContent": "Homestead's economy mixes agriculture, military, and retail. The Homestead Air Reserve Base brings jobs and families. Nurseries and farms in the Redland feed South Florida. New shopping centers serve a growing population.\n\nAgricultural businesses face unique water damage challenges. Nurseries have irrigation systems. Packing houses process produce. Greenhouses trap moisture. We understand these operations.\n\nRetail and restaurants serve both locals and visitors heading to the Keys. These businesses depend on steady traffic. A closure during key season hurts.\n\nThe Homestead-Miami Speedway brings major events. Surrounding businesses boom during race weekends. Water damage at the wrong time is devastating.\n\nWe cover the full Homestead area, from downtown to Florida City to the Redland.",
+      "localChallenges": "Agricultural buildings have specialized systems. Irrigation, climate control, processing equipment. We know how to work around them.\n\nDistance from our base means we bring everything we need. Our trucks are fully equipped.\n\nHurricane damage hits this area hard. When storms come, we deploy crews for rapid response.\n\nNewer commercial development may still be under warranty. We coordinate with builders and developers.\n\nThe Keys-bound tourist traffic creates economic pressure. Businesses can't afford extended closures.",
+      "focusPoints": ["Agricultural facility specialists", "Nursery and greenhouse expertise", "New retail development", "Military base adjacent service", "Speedway area coverage", "Tourist corridor businesses", "Large-scale hurricane response", "Keys gateway service"]
+    }
+  },
+  "hollywood": {
+    "name": "Hollywood",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.0112, "lng": -80.1495 },
+    "neighborhoods": ["Hollywood Beach", "Downtown Hollywood", "Emerald Hills", "Hollywood Hills", "Oakwood", "Boulevard Gardens", "Liberia", "Dania Beach border"],
+    "zipCodes": ["33019", "33020", "33021", "33022", "33023", "33024", "33025", "33081", "33083"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Coastal Broward with beach and inland neighborhoods",
+      "risks": ["Beachfront storm surge", "Older neighborhood plumbing", "Boardwalk commercial flooding", "Mixed-era construction challenges"],
+      "characteristics": "Diverse beach city with famous boardwalk, historic downtown, and varied residential neighborhoods"
+    },
+    "residential": {
+      "intro": "Hollywood's diverse neighborhoods—from beachfront condos to Hollywood Hills homes—trust our restoration team. We know the Broadwalk area, historic downtown, and family communities throughout the city.",
+      "extendedContent": "Hollywood offers remarkable diversity. The famous Broadwalk draws visitors from around the world. Hollywood Beach features oceanfront condos and hotels. Historic downtown has charming homes and vibrant culture. Inland neighborhoods like Hollywood Hills and Emerald Hills provide suburban family living. Our team has experience across all these areas. We understand that Hollywood Beach properties face salt air and storm surge, while inland homes deal with aging infrastructure. This variety requires restoration specialists who can adapt to different construction styles and challenges.",
+      "localChallenges": "Hollywood's beach properties face hurricane exposure and salt corrosion. The Broadwalk area floods during storms and king tides. Historic downtown has homes built in the 1920s with original systems. Hollywood Hills and other mid-century neighborhoods have aging cast iron pipes. The city's diversity means each job is different. Multi-family buildings along the beach require coordination with associations. Single-family homes in established neighborhoods need expertise with vintage construction. We handle both.",
+      "focusPoints": ["Beachfront condo expertise", "Historic downtown knowledge", "Suburban neighborhood coverage", "Salt damage specialists", "Boardwalk area response", "Vintage home restoration", "Multi-family building experience", "Diverse community service"]
+    },
+    "commercial": {
+      "intro": "Hollywood has the famous Broadwalk. It has vibrant downtown dining. It has shopping centers serving families. We keep them all running with fast, professional restoration.",
+      "extendedContent": "The Hollywood Broadwalk is iconic. Hotels, restaurants, and shops line the beach. Tourism drives the local economy. Water damage here threatens livelihoods.\n\nDowntown Hollywood has transformed into a dining and entertainment destination. Young Avenue draws crowds. Restaurants and bars fill the streets. These businesses run on reputation.\n\nShopping centers serve Hollywood's diverse families. Big-box stores and local shops meet daily needs. A closure affects the whole neighborhood.\n\nHollywood is also an industrial hub. Warehouses and distribution centers line major corridors. Businesses here need fast restoration to keep goods moving.\n\nThe city's location between Fort Lauderdale and Miami makes it accessible. We respond quickly from our Doral base.",
+      "localChallenges": "Beachfront businesses face salt, wind, and flooding. The Broadwalk area is particularly exposed.\n\nRestaurants along Young Avenue must meet health codes. A water leak can shut you down. We help you reopen fast.\n\nHistoric buildings have character but old systems. We restore without compromising the look.\n\nIndustrial buildings have large roof areas. A leak can damage significant inventory.\n\nTourist season adds pressure. Hotels and restaurants can't afford downtime when visitors arrive.",
+      "focusPoints": ["Broadwalk hotel and restaurant specialists", "Downtown entertainment district", "Industrial corridor coverage", "Shopping center restoration", "Beach tourism business expertise", "Health code compliance", "Historic commercial buildings", "Rapid tourist-season response"]
+    }
+  },
+  "coconut-creek": {
+    "name": "Coconut Creek",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 26.2518, "lng": -80.1789 },
+    "neighborhoods": ["Coconut Creek Village", "Mainlands", "Winston Park", "Palm Beach Farms", "Wynmoor", "Country Woods", "Regency Lakes"],
+    "zipCodes": ["33063", "33066", "33073", "33097"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Northern Broward suburban community",
+      "risks": ["Lake and canal overflow", "Active adult community needs", "Newer development settling", "AC condensation issues"],
+      "characteristics": "Butterfly capital of the world - family-friendly city with Promenade shopping and excellent schools"
+    },
+    "residential": {
+      "intro": "Coconut Creek families enjoy great schools and safe neighborhoods. When water damage threatens, we respond fast. From Winston Park to Wynmoor, we protect homes throughout the Butterfly Capital.",
+      "extendedContent": "Coconut Creek has earned its reputation as a great place to raise a family. The city's commitment to green space, good schools, and community values shows in every neighborhood. Wynmoor serves active adults with resort-style living. Winston Park and Country Woods house young families. Our team serves this diversity with respect for each community's character. We understand that Coconut Creek residents chose this city deliberately and expect restoration services that match their community's quality standards.",
+      "localChallenges": "Coconut Creek's extensive lakes and waterways are beautiful but can overflow during heavy rains. Active adult communities like Wynmoor have residents who may need extra assistance during restoration—mobility considerations, medical equipment protection, and clear communication are essential. Newer developments may experience settling that affects plumbing. Air conditioning runs constantly, making AC condensation line problems common. The city borders Parkland and Coral Springs, sharing similar terrain and drainage challenges.",
+      "focusPoints": ["Family community focus", "Active adult expertise (Wynmoor)", "School-schedule accommodation", "Lake property knowledge", "Newer construction experience", "Medical equipment protection", "Mobility-conscious service", "Quality-focused restoration"]
+    },
+    "commercial": {
+      "intro": "The Promenade at Coconut Creek draws shoppers from across Broward. Local businesses serve families. We help keep them all running with professional restoration.",
+      "extendedContent": "The Promenade at Coconut Creek is the city's commercial hub. Major retailers, restaurants, and entertainment draw crowds. Local shops and services fill surrounding plazas.\n\nCoconut Creek businesses serve a family-focused community. Parents shop here. Kids eat here. The community depends on these businesses.\n\nMedical offices and professional services are common. Doctors, dentists, and specialists serve local families. These spaces must stay clean and safe.\n\nThe city's newer development means many commercial buildings are modern. But even new construction experiences water damage from storms, plumbing issues, and equipment failures.\n\nWe've built relationships with property managers throughout Coconut Creek. We know the buildings. We respond fast.",
+      "localChallenges": "The Promenade's large roof areas are vulnerable to leaks. We inspect thoroughly.\n\nFamily-focused businesses can't afford long closures. Parents depend on them. We work fast.\n\nMedical offices must meet strict standards. We document our work for compliance.\n\nNewer buildings may still be under warranty. We coordinate with builders.\n\nCommunity reputation matters here. Visible damage hurts your business. We work discretely.",
+      "focusPoints": ["Promenade shopping center expertise", "Family business specialists", "Medical office compliance", "Professional service buildings", "Restaurant restoration", "Retail plaza experience", "New construction coordination", "Community-focused service"]
+    }
+  },
+  "hallandale-beach": {
+    "name": "Hallandale Beach",
+    "county": "Broward County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9812, "lng": -80.1484 },
+    "neighborhoods": ["Golden Isles", "Gulfstream Park", "Three Islands", "Diplomat area", "Foster Road", "Hallandale Beach Boulevard"],
+    "zipCodes": ["33008", "33009"],
+    "responseTime": "35-50 minutes",
+    "localFactors": {
+      "climate": "Southern Broward coastal city",
+      "risks": ["High-rise condo plumbing", "Beachfront storm exposure", "Older building infrastructure", "Casino and entertainment venue needs"],
+      "characteristics": "Beach city with Gulfstream Park casino, high-rise condos, and mix of old and new development"
+    },
+    "residential": {
+      "intro": "Hallandale Beach sits between Hollywood and Aventura. High-rise condos line the beach. Established homes fill inland neighborhoods. We serve both with fast, professional restoration.",
+      "extendedContent": "Hallandale Beach offers diverse housing from oceanfront high-rises to inland single-family homes. The beach area features condo towers with ocean views. Neighborhoods like Golden Isles and Three Islands provide waterfront living along canals. Inland areas have more affordable homes that serve working families. Our team has experience across this range. We coordinate with condo associations for tower work and provide personal service to individual homeowners. The city's compact size means we can respond quickly to any neighborhood.",
+      "localChallenges": "High-rise condos present unique challenges. A leak on one floor affects units below. Building associations have rules and approval processes. Beachfront properties face salt corrosion and storm surge. Older condos built in the 1970s and 1980s have aging plumbing. Many units are owned by international investors or seasonal residents who aren't present during emergencies. We coordinate restoration while owners are away, providing detailed documentation and regular updates.",
+      "focusPoints": ["High-rise condo specialists", "Beachfront property expertise", "Building association experience", "Absentee owner coordination", "International client service", "Older infrastructure knowledge", "Canal home restoration", "Compact city quick response"]
+    },
+    "commercial": {
+      "intro": "Gulfstream Park draws millions of visitors. Hotels serve the beach crowd. Shops line the boulevard. We keep Hallandale Beach businesses running with expert restoration.",
+      "extendedContent": "Gulfstream Park Racing and Casino is Hallandale Beach's anchor. The complex includes gaming, dining, shopping, and entertainment. Millions visit each year. Water damage here is high-stakes.\n\nBeachfront hotels serve tourists and seasonal residents. Occupancy runs high during winter. A closed hotel loses significant revenue.\n\nHallandale Beach Boulevard has retail, restaurants, and services. Local businesses serve both residents and visitors.\n\nThe city's entertainment focus means businesses operate on tight schedules. Events can't be canceled. Dining reservations can't be lost.\n\nWe respond quickly to protect businesses in this competitive market. Our proximity and experience mean fast, effective restoration.",
+      "localChallenges": "Casino and entertainment venues operate 24/7. Restoration must work around schedules.\n\nHotels can't close rooms for long. Every empty night costs money. We work fast.\n\nBeachfront businesses face salt and storms. We understand coastal restoration.\n\nOlder commercial buildings have aging systems. We check for hidden damage.\n\nSpecial events and racing seasons add pressure. Water damage at the wrong time is devastating.",
+      "focusPoints": ["Casino and entertainment venue specialists", "Hotel restoration expertise", "Beachfront commercial buildings", "Racing and gaming facility experience", "Retail corridor restoration", "High-volume tourism business focus", "24/7 operation accommodation", "Seasonal urgency response"]
+    }
   }
 }
