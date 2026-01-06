@@ -5,6 +5,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
+import { RelatedLinks } from '@/components/blog/RelatedLinks';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
 import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
 import { Home, Calendar, User, ArrowLeft } from 'lucide-react';
@@ -222,6 +223,11 @@ export default async function DynamicPage({
               )}
 
               <MarkdownRenderer content={post.content} />
+
+              {/* Related Links Widget */}
+              {post.category && (
+                <RelatedLinks category={post.category} currentSlug={post.slug} />
+              )}
 
               <div className="mt-12 pt-8 border-t border-gray-200">
                 <Link

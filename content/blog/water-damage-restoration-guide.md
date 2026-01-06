@@ -3,7 +3,7 @@ title: "Step-by-step Water Restoration Guide"
 date: "2021-11-26"
 excerpt: "The Basics of Water Damage Restoration Dealing with water damage in a home or business can be confusing and frustrating; the water damage restoration process is just a pain! Water causes a lot of damage and makes a huge mess that can turn into a major headache.  It may seem like all hope is lost … Continued"
 author: "sk admin"
-category: "home"
+category: "Water"
 seo_title: "Step By Step Guide To Water Restoration: Everything You Need To Know"
 seo_description: "Learn how to properly restore water damage step by step with expert advice. Everything you need to know to repair water damaged homes & businesses easily."
 keywords: ["step by step water restoration"]

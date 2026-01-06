@@ -1,0 +1,108 @@
+{
+  "categoryToService": {
+    "Water": {
+      "service": "/water-damage-restoration/",
+      "serviceName": "Water Damage Restoration",
+      "pillarPosts": [
+        "/water-damage-restoration-guide/",
+        "/water-damage-dry-out-process/",
+        "/emergency-water-damage-checklist-first-24-hours/",
+        "/dehumidifiers-vs-air-movers-what-to-use-after-floods/",
+        "/the-role-of-air-movers-in-drying-out-a-flooded-space/"
+      ]
+    },
+    "Mold": {
+      "service": "/mold-remediation/",
+      "serviceName": "Mold Remediation",
+      "pillarPosts": [
+        "/tell-mold-behind-walls/",
+        "/mold-inspection/",
+        "/health-risks-associated-with-mold-in-your-home/",
+        "/effective-strategies-for-removing-mold-from-wood-a-comprehensive-guide/",
+        "/common-misconceptions-about-mold-in-homes/"
+      ]
+    },
+    "Fire": {
+      "service": "/fire-damage-restoration/",
+      "serviceName": "Fire Damage Restoration",
+      "pillarPosts": [
+        "/fire-damage-restoration-guide/",
+        "/fire-damage-inspection-steps/",
+        "/7-steps-to-clean-smoke-damaged-items/",
+        "/top-5-soot-cleaning-services/",
+        "/smoke-damage-long-term-effects-and-restoration-techniques/"
+      ]
+    },
+    "Tarp": {
+      "service": "/roof-tarping/",
+      "serviceName": "Roof Tarping",
+      "pillarPosts": [
+        "/roof-tarping-completely-explained/",
+        "/benefits-shrink-wrapping-roof-blue-tarps/",
+        "/emergency-roof-tarping/",
+        "/step-by-step-guide-to-tarping-a-roof-after-a-storm/",
+        "/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/"
+      ]
+    },
+    "Storm": {
+      "service": "/storm-damage-restoration/",
+      "serviceName": "Storm Damage Restoration",
+      "pillarPosts": [
+        "/hurricane-season-water-damage-prep-south-florida/",
+        "/how-roof-maintenance-prevents-storm-damage/",
+        "/hurricane-ian-tarps-water-damage/"
+      ]
+    },
+    "Air Quality": {
+      "service": "/indoor-air-quality/",
+      "serviceName": "Indoor Air Quality",
+      "pillarPosts": [
+        "/ozone-air-treatment-for-mold-and-pathogens/",
+        "/air-quality-testing-after-fire-damage/",
+        "/how-thermal-fogging-restores-indoor-air-quality/",
+        "/what-is-an-air-scrubber/"
+      ]
+    },
+    "Roofing": {
+      "service": "/roof-tarping/",
+      "serviceName": "Roof Tarping",
+      "pillarPosts": [
+        "/emergency-roofing-miami/",
+        "/roof-tarping-completely-explained/",
+        "/benefits-shrink-wrapping-roof-blue-tarps/"
+      ]
+    },
+    "Sewage": {
+      "service": "/sewage-cleanup/",
+      "serviceName": "Sewage Cleanup",
+      "pillarPosts": [
+        "/effective-strategies-for-handling-toilet-overflow-and-preventing-future-incidents/"
+      ]
+    },
+    "Emergency": {
+      "service": "/emergency-restoration/",
+      "serviceName": "Emergency Restoration",
+      "pillarPosts": [
+        "/emergency-water-damage-checklist-first-24-hours/",
+        "/how-long-does-property-restoration-take/"
+      ]
+    },
+    "Commercial": {
+      "service": "/commercial-restoration/",
+      "serviceName": "Commercial Restoration",
+      "pillarPosts": [
+        "/commercial-restoration-guide/",
+        "/business-continuity-after-water-damage/"
+      ]
+    }
+  },
+  "defaultService": {
+    "service": "/",
+    "serviceName": "Total Care Restoration",
+    "pillarPosts": [
+      "/how-long-does-property-restoration-take/",
+      "/total-care-restoration-why-trust-us-with-your-homes-recovery/"
+    ]
+  }
+}
+
