@@ -7,6 +7,7 @@ import {
   CheckCircle,
   type LucideIcon 
 } from 'lucide-react';
+import { generateAltText } from '@/lib/seo-utils';
 import content from '@/config/content.json';
 
 // Map icon names from config to actual icon components
@@ -38,7 +39,7 @@ export function About() {
             <div className="relative aspect-[21/9] rounded-2xl overflow-hidden shadow-xl">
               <OptimizedImage
                 src={about.teamImage}
-                alt="Our Professional Team"
+                alt={generateAltText({ type: 'team' })}
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) calc(100vw - 32px), 1120px"

@@ -4,6 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
+import { generateAltText } from '@/lib/seo-utils';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
@@ -72,7 +73,7 @@ export default function EmergencyRestorationPage() {
             <div className="absolute inset-0 z-0">
               <OptimizedImage
                 src={service.images.hero}
-                alt="24/7 Emergency Restoration"
+                alt={generateAltText({ type: 'hero', serviceName: '24/7 Emergency Restoration' })}
                 fill
                 sizes="100vw"
                 className="object-cover opacity-30"

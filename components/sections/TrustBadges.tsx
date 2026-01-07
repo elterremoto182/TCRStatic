@@ -1,5 +1,6 @@
 import OptimizedImage from '@/components/OptimizedImage';
 import { Shield, Award, CheckCircle, BadgeCheck, FileCheck, Users, type LucideIcon } from 'lucide-react';
+import { generateAltText } from '@/lib/seo-utils';
 import content from '@/config/content.json';
 
 // Map icon names to components for badges that don't have images
@@ -94,7 +95,7 @@ export function TrustBadges() {
                     <div className="w-20 h-20 rounded-full overflow-hidden bg-white shadow-md mb-4 group-hover:shadow-lg transition-shadow duration-200 border-2 border-gray-100">
                       <OptimizedImage
                         src={badge.image}
-                        alt={badge.name}
+                        alt={generateAltText({ type: 'badge', badgeName: badge.name })}
                         width={80}
                         height={80}
                         className="object-contain p-2"

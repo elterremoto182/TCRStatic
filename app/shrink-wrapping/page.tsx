@@ -11,6 +11,7 @@ import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
+import { generateAltText } from '@/lib/seo-utils';
 import { Package, Home, Building2, ArrowRight, Phone, MapPin, Camera } from 'lucide-react';
 
 const SERVICE_SLUG = 'shrink-wrapping';
@@ -66,7 +67,7 @@ export default function ShrinkWrappingPage() {
             <div className="absolute inset-0 z-0">
               <OptimizedImage
                 src={service.images.hero}
-                alt="Shrink Wrapping Services"
+                alt={generateAltText({ type: 'hero', serviceName: 'Shrink Wrapping' })}
                 fill
                 sizes="100vw"
                 className="object-cover opacity-30"
@@ -275,7 +276,7 @@ export default function ShrinkWrappingPage() {
                     <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
                       <OptimizedImage
                         src={image}
-                        alt={`Shrink wrapping work example ${index + 1}`}
+                        alt={generateAltText({ type: 'gallery-item', serviceName: 'Shrink Wrapping', index })}
                         fill
                         sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover group-hover:scale-105 transition-transform duration-500"

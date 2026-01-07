@@ -12,6 +12,7 @@ import {
   Wrench,
   type LucideIcon 
 } from 'lucide-react';
+import { generateAltText, generateImageTitle } from '@/lib/seo-utils';
 import content from '@/config/content.json';
 
 // Map icon names from config to actual icon components
@@ -70,7 +71,8 @@ export function Services() {
                   <div className="relative aspect-[4/3] overflow-hidden">
                     <OptimizedImage
                       src={service.image}
-                      alt={service.title}
+                      alt={generateAltText({ type: 'service', serviceName: service.title })}
+                      title={generateImageTitle({ type: 'service', serviceName: service.title })}
                       fill
                       className="object-cover group-hover:scale-110 transition-transform duration-300"
                       sizes="(max-width: 768px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 48px), 280px"

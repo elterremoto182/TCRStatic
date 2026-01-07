@@ -3,6 +3,7 @@
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { AlertTriangle, Clock, Info } from 'lucide-react';
+import { generateAltText } from '@/lib/seo-utils';
 
 interface ServiceOverviewSectionProps {
   title: string;
@@ -49,7 +50,7 @@ export function ServiceOverviewSection({
                 <div className="relative aspect-[16/9] rounded-xl overflow-hidden shadow-lg mb-8">
                   <OptimizedImage
                     src={overviewImage}
-                    alt={title}
+                    alt={generateAltText({ type: 'overview', serviceName: title })}
                     fill
                     sizes="(max-width: 1024px) 100vw, 66vw"
                     className="object-cover"

@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import OptimizedImage from '@/components/OptimizedImage';
+import { generateAltText } from '@/lib/seo-utils';
 import content from '@/config/content.json';
 
 export function CTABanner() {
@@ -12,7 +13,7 @@ export function CTABanner() {
           <div className="absolute inset-0 z-0">
             <OptimizedImage
               src={cta.backgroundImage}
-              alt="CTA background"
+              alt={generateAltText({ type: 'cta' })}
               fill
               className="object-cover"
               sizes="100vw"

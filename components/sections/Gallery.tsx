@@ -4,6 +4,7 @@ import { useState } from 'react';
 import OptimizedImage from '@/components/OptimizedImage';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
+import { generateAltText, generateImageTitle } from '@/lib/seo-utils';
 import content from '@/config/content.json';
 
 interface Project {
@@ -100,7 +101,13 @@ export function Gallery() {
                 <div className="relative aspect-[4/3] overflow-hidden">
                   <OptimizedImage
                     src={project.afterImage}
-                    alt={project.title}
+                    alt={generateAltText({ 
+                      type: 'gallery', 
+                      projectTitle: project.title, 
+                      category: project.category,
+                      beforeAfter: 'after'
+                    })}
+                    title={generateImageTitle({ type: 'gallery', projectTitle: project.title })}
                     fill
                     className="object-cover group-hover:scale-110 transition-transform duration-300 brightness-75 saturate-90"
                     sizes="(max-width: 768px) calc(100vw - 32px), (max-width: 1024px) calc(50vw - 48px), 400px"
@@ -175,7 +182,12 @@ export function Gallery() {
                 >
                   <OptimizedImage
                     src={selectedProject.beforeImage}
-                    alt={`${selectedProject.title} - Before`}
+                    alt={generateAltText({ 
+                      type: 'gallery', 
+                      projectTitle: selectedProject.title, 
+                      category: selectedProject.category,
+                      beforeAfter: 'before'
+                    })}
                     fill
                     className="object-contain"
                     sizes="(max-width: 768px) calc(100vw - 32px), 800px"
@@ -191,7 +203,12 @@ export function Gallery() {
                 >
                   <OptimizedImage
                     src={selectedProject.afterImage}
-                    alt={`${selectedProject.title} - After`}
+                    alt={generateAltText({ 
+                      type: 'gallery', 
+                      projectTitle: selectedProject.title, 
+                      category: selectedProject.category,
+                      beforeAfter: 'after'
+                    })}
                     fill
                     className="object-contain"
                     sizes="(max-width: 768px) calc(100vw - 32px), 800px"

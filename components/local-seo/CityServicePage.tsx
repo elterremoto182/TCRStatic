@@ -14,6 +14,7 @@ import { ServiceOverview } from './ServiceOverview';
 import { PreventionTips } from './PreventionTips';
 import { CommonCausesList } from './CommonCausesList';
 import { RelatedLinks } from './RelatedLinks';
+import { generateAltText } from '@/lib/seo-utils';
 import {
   Phone,
   Clock,
@@ -96,7 +97,11 @@ export function CityServicePage({
           <div className="absolute inset-0 z-0">
             <OptimizedImage
               src={content.images.hero}
-              alt={content.hero.headline}
+              alt={generateAltText({ 
+                type: 'hero',
+                serviceName: content.hero.headline.split(' in ')[0],
+                cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, '')
+              })}
               fill
               sizes="100vw"
               className="object-cover opacity-10"
@@ -162,7 +167,11 @@ export function CityServicePage({
                 <div className="hidden lg:block relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                   <OptimizedImage
                     src={content.images.hero}
-                    alt={`${content.hero.headline} - Professional restoration services`}
+                    alt={generateAltText({ 
+                      type: 'service',
+                      serviceName: content.hero.headline.split(' in ')[0],
+                      cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, '')
+                    })}
                     fill
                     sizes="(max-width: 1024px) 0vw, 50vw"
                     className="object-cover"
@@ -240,7 +249,11 @@ export function CityServicePage({
                   <div className="relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg mb-6">
                     <OptimizedImage
                       src={content.images.overview}
-                      alt={`${content.intro.title} - Service overview`}
+                      alt={generateAltText({ 
+                        type: 'overview',
+                        serviceName: content.intro.title,
+                        cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, '')
+                      })}
                       fill
                       sizes="(max-width: 1024px) 100vw, 50vw"
                       className="object-cover"
@@ -615,7 +628,12 @@ export function CityServicePage({
                   <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
                     <OptimizedImage
                       src={image}
-                      alt={`Restoration work example ${index + 1}`}
+                      alt={generateAltText({ 
+                        type: 'gallery-item',
+                        serviceName: content.hero.headline.split(' in ')[0],
+                        cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
+                        index
+                      })}
                       fill
                       sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
