@@ -11,6 +11,7 @@ import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
+import { ServiceVideo } from '@/components/local-seo/ServiceVideo';
 import { generateAltText } from '@/lib/seo-utils';
 import { Package, Home, Building2, ArrowRight, Phone, MapPin, Camera } from 'lucide-react';
 
@@ -237,6 +238,11 @@ export default function ShrinkWrappingPage() {
           title="Our Shrink Wrapping Process" 
           steps={service.process} 
         />
+
+        {/* Service Video */}
+        {service.video && (
+          <ServiceVideo videoId={service.video.youtubeId} title={service.video.title} />
+        )}
 
         {/* General FAQs Section */}
         {service.mainPageContent?.generalFaqs && (

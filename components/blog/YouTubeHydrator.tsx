@@ -23,13 +23,14 @@ export function YouTubeHydrator({ children }: { children: React.ReactNode }) {
       
       if (!videoId) return;
 
-      // Use custom thumbnail if provided, otherwise use YouTube's default
-      const thumbnailUrl = customThumb || `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+      // Use custom thumbnail if provided, otherwise use YouTube's hqdefault (more reliable than maxresdefault)
+      const thumbnailUrl = customThumb || `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+      const fallbackUrl = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
 
       // Create the facade element
       const facadeWrapper = document.createElement('div');
       facadeWrapper.className = 'youtube-facade';
-      facadeWrapper.innerHTML = `<button type="button" class="youtube-facade-button" aria-label="Play ${title}" data-video-id="${videoId}"><img src="${thumbnailUrl}" alt="${title}" class="youtube-facade-thumb" loading="lazy" /><div class="youtube-facade-overlay"></div><div class="youtube-facade-play"><div class="youtube-facade-play-btn"><svg class="youtube-facade-play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg></div></div></button>`;
+      facadeWrapper.innerHTML = `<button type="button" class="youtube-facade-button" aria-label="Play ${title}" data-video-id="${videoId}"><img src="${thumbnailUrl}" alt="${title}" class="youtube-facade-thumb" loading="lazy" onerror="if(this.src.includes('hqdefault')){this.src='${fallbackUrl}'}" /><div class="youtube-facade-overlay"></div><div class="youtube-facade-play"><div class="youtube-facade-play-btn"><svg class="youtube-facade-play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg></div></div></button>`;
 
       // Add click handler
       const button = facadeWrapper.querySelector('button');

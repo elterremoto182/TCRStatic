@@ -10,6 +10,7 @@ import {
   getServiceType,
   getPopulatedFAQs,
   getServiceCityBreadcrumbs,
+  getServiceVideo,
 } from '@/lib/local-seo/data';
 import { generatePageContent } from '@/lib/local-seo/templates';
 import { generateAllSchemasForServiceCityPage } from '@/lib/local-seo/schema';
@@ -83,6 +84,7 @@ export default async function ResidentialShrinkWrappingCityPage({
   const breadcrumbs = getServiceCityBreadcrumbs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
   const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, faqs);
   const relatedLinksData = generateInternalLinksData(SERVICE_SLUG, citySlug, SERVICE_TYPE);
+  const video = getServiceVideo(SERVICE_SLUG, citySlug);
 
   return (
     <>
@@ -98,6 +100,7 @@ export default async function ResidentialShrinkWrappingCityPage({
           type={SERVICE_TYPE}
           breadcrumbs={breadcrumbs}
           relatedLinksData={relatedLinksData}
+          video={video}
         />
       </main>
       <Footer />

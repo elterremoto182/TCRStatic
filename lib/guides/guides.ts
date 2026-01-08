@@ -27,7 +27,8 @@ const pillarToCategoryMap: Record<string, string[]> = {
   'water-damage-restoration': ['Water'],
   'fire-damage-restoration': ['Fire'],
   'mold-remediation': ['Mold', 'Air Quality'],
-  'storm-damage-restoration': ['Storm', 'Tarp'],
+  'storm-damage-restoration': ['Storm'],
+  'roof-tarping-shrink-wrapping': ['Tarp'],
 };
 
 /**

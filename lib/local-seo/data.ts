@@ -34,6 +34,11 @@ export interface MainPageContent {
   generalFaqs: MainPageFAQ[];
 }
 
+export interface ServiceVideo {
+  youtubeId: string;
+  title: string;
+}
+
 export interface ServiceConfig {
   name: string;
   shortName: string;
@@ -50,6 +55,7 @@ export interface ServiceConfig {
   residentialContent?: TypeSpecificContent;
   commercialContent?: TypeSpecificContent;
   images?: ServiceImages;
+  video?: ServiceVideo;
   mainPageContent?: MainPageContent;
 }
 
@@ -84,6 +90,7 @@ export interface CityConfig {
   };
   residential: CityTypeContent;
   commercial: CityTypeContent;
+  video?: Record<string, ServiceVideo>; // Optional city-specific video overrides by service slug
 }
 
 export interface CauseBodyContent {
@@ -136,6 +143,26 @@ export function getAllServices(): Record<string, ServiceConfig> {
 export function getService(serviceSlug: string): ServiceConfig | null {
   const services = getAllServices();
   return services[serviceSlug] || null;
+}
+
+/**
+ * Get video configuration for a service, optionally with city-specific override
+ * @param serviceSlug - The service slug (e.g., 'mold-remediation')
+ * @param citySlug - Optional city slug for city-specific video override
+ * @returns ServiceVideo configuration or null if no video configured
+ */
+export function getServiceVideo(serviceSlug: string, citySlug?: string): ServiceVideo | null {
+  // Check for city-specific video override first
+  if (citySlug) {
+    const city = getCity(citySlug);
+    if (city?.video?.[serviceSlug]) {
+      return city.video[serviceSlug];
+    }
+  }
+  
+  // Fall back to service default video
+  const service = getService(serviceSlug);
+  return service?.video || null;
 }
 
 export function getPhase1Services(): Record<string, ServiceConfig> {

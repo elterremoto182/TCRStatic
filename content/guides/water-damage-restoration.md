@@ -15,6 +15,8 @@ Water damage is one of the most common and potentially devastating problems home
 
 This comprehensive guide will walk you through everything you need to know about water damage restoration—from understanding the different categories and classes of water damage to navigating the insurance claims process and preventing future incidents.
 
+<iframe src="https://www.youtube.com/embed/KYhIbuCjExY" width="560" height="315" frameborder="0" title="Water Damage Restoration Process" allowfullscreen></iframe>
+
 ## Categories of Water Damage
 
 The Institute of Inspection, Cleaning and Restoration Certification (IICRC) classifies water damage into three categories based on the contamination level of the water source:

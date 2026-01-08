@@ -147,7 +147,8 @@ The site includes specialized pages for specific damage causes:
 │   │   ├── ServiceOverviewSection.tsx
 │   │   ├── PreventionTips.tsx
 │   │   ├── CommonCausesList.tsx
-│   │   └── CommonCausesSection.tsx
+│   │   ├── CommonCausesSection.tsx
+│   │   └── ServiceVideo.tsx
 │   ├── sections/                 # Page sections
 │   │   ├── Header.tsx
 │   │   ├── Hero.tsx
@@ -242,6 +243,49 @@ Comprehensive service definitions:
 - General FAQs for each service
 - Related causes and keywords
 - Image references
+- Video references (YouTube)
+
+### Service Videos
+
+YouTube videos can be added to service pages and city pages. Videos appear after the hero section with lazy-loading for optimal performance.
+
+#### Adding a Video to a Service
+
+Add a `video` property to any service in `config/services.json`:
+
+```json
+{
+  "mold-remediation": {
+    "name": "Mold Remediation",
+    "video": {
+      "youtubeId": "PvoujvUxfsU",
+      "title": "Mold Remediation Process"
+    }
+  }
+}
+```
+
+The `youtubeId` is the video ID from YouTube URLs (e.g., `youtube.com/watch?v=PvoujvUxfsU`).
+
+#### City-Specific Video Overrides
+
+To show a different video on specific city pages, add a `video` property to that city in `config/cities.json`:
+
+```json
+{
+  "miami": {
+    "name": "Miami",
+    "video": {
+      "mold-remediation": {
+        "youtubeId": "DIFFERENT_VIDEO_ID",
+        "title": "Mold Remediation in Miami"
+      }
+    }
+  }
+}
+```
+
+The city video will override the service default only for that city's pages. Other cities will continue to show the service's default video.
 
 ### Cities Configuration (`config/cities.json`)
 

@@ -11,7 +11,8 @@ import {
   Droplet, 
   Flame, 
   AlertTriangle, 
-  CloudLightning 
+  CloudLightning,
+  Home 
 } from 'lucide-react';
 
 // Map guide slugs to icons
@@ -20,6 +21,7 @@ const iconMap: Record<string, React.ReactNode> = {
   'fire-damage-restoration': <Flame className="w-8 h-8" />,
   'mold-remediation': <AlertTriangle className="w-8 h-8" />,
   'storm-damage-restoration': <CloudLightning className="w-8 h-8" />,
+  'roof-tarping-shrink-wrapping': <Home className="w-8 h-8" />,
 };
 
 // Map guide slugs to colors
@@ -43,6 +45,11 @@ const colorMap: Record<string, { bg: string; text: string; border: string }> = {
     bg: 'bg-purple-50', 
     text: 'text-purple-600', 
     border: 'border-purple-200 hover:border-purple-400' 
+  },
+  'roof-tarping-shrink-wrapping': { 
+    bg: 'bg-amber-50', 
+    text: 'text-amber-600', 
+    border: 'border-amber-200 hover:border-amber-400' 
   },
 };
 

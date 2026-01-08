@@ -14,7 +14,9 @@ import { ServiceOverview } from './ServiceOverview';
 import { PreventionTips } from './PreventionTips';
 import { CommonCausesList } from './CommonCausesList';
 import { RelatedLinks } from './RelatedLinks';
+import { ServiceVideo } from './ServiceVideo';
 import { generateAltText } from '@/lib/seo-utils';
+import type { ServiceVideo as ServiceVideoType } from '@/lib/local-seo/data';
 import {
   Phone,
   Clock,
@@ -52,6 +54,7 @@ interface CityServicePageProps {
   type: 'residential' | 'commercial';
   breadcrumbs: { label: string; href: string }[];
   relatedLinksData?: InternalLinksData;
+  video?: ServiceVideoType | null;
 }
 
 // Icon mapping for trust signals
@@ -83,6 +86,7 @@ export function CityServicePage({
   type,
   breadcrumbs,
   relatedLinksData,
+  video,
 }: CityServicePageProps) {
   const TypeIcon = type === 'residential' ? Home : Building2;
   const oppositeType = type === 'residential' ? 'commercial' : 'residential';
@@ -334,6 +338,11 @@ export function CityServicePage({
 
       {/* Process Section */}
       <ServiceProcess title={content.process.title} steps={content.process.steps} />
+
+      {/* Service Video - Watch our process in action */}
+      {video && (
+        <ServiceVideo videoId={video.youtubeId} title={video.title} />
+      )}
 
       {/* What to Expect Section - New detailed content section */}
       <section className="py-16 bg-white">

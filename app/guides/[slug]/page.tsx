@@ -17,8 +17,10 @@ import {
   Flame, 
   AlertTriangle, 
   CloudLightning,
-  ChevronRight
+  ChevronRight,
+  Play
 } from 'lucide-react';
+import { YouTubeFacade } from '@/components/YouTubeFacade';
 
 // Map guide slugs to icons
 const iconMap: Record<string, React.ReactNode> = {
@@ -26,6 +28,14 @@ const iconMap: Record<string, React.ReactNode> = {
   'fire-damage-restoration': <Flame className="w-8 h-8" />,
   'mold-remediation': <AlertTriangle className="w-8 h-8" />,
   'storm-damage-restoration': <CloudLightning className="w-8 h-8" />,
+};
+
+// Map guide slugs to video IDs
+const videoMap: Record<string, { youtubeId: string; title: string }> = {
+  'storm-damage-restoration': {
+    youtubeId: 'Lsp6hleZ-Qk',
+    title: 'Professional Roof Tarping & Storm Protection'
+  },
 };
 
 // Map guide slugs to gradient colors
@@ -98,6 +108,7 @@ export default async function GuidePage({
   const { clusterPosts, ...guide } = guideWithPosts;
   const icon = iconMap[slug] || <BookOpen className="w-8 h-8" />;
   const gradient = gradientMap[slug] || 'from-primary/10 via-background to-accent/10';
+  const video = videoMap[slug];
 
   // Generate structured data
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
@@ -214,6 +225,19 @@ export default async function GuidePage({
             <div className="prose prose-lg max-w-none prose-headings:scroll-mt-24 prose-h2:text-3xl prose-h2:font-bold prose-h2:text-gray-900 prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-xl prose-h3:font-semibold prose-h3:text-gray-800 prose-p:text-gray-600 prose-li:text-gray-600">
               <MarkdownRenderer content={guide.content} />
             </div>
+
+            {/* Video Section */}
+            {video && (
+              <div className="mt-12">
+                <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center gap-3">
+                  <Play className="w-6 h-6 text-primary" />
+                  Watch: {video.title}
+                </h3>
+                <div className="rounded-2xl overflow-hidden shadow-lg">
+                  <YouTubeFacade videoId={video.youtubeId} title={video.title} />
+                </div>
+              </div>
+            )}
 
             {/* Service CTA in Content */}
             <div className="mt-12 p-8 bg-gradient-to-r from-primary/5 to-primary/10 rounded-2xl border border-primary/20">

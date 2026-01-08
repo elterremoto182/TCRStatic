@@ -15,9 +15,17 @@ interface YouTubeFacadeProps {
  */
 export function YouTubeFacade({ videoId, title = 'YouTube video', className = '' }: YouTubeFacadeProps) {
   const [isLoaded, setIsLoaded] = useState(false);
+  // Use hqdefault as default since it's more reliable (maxresdefault returns 404 placeholder for many videos)
+  const [thumbnailUrl, setThumbnailUrl] = useState(
+    `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`
+  );
 
-  // Use maxresdefault for best quality, with fallback to hqdefault
-  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+  // Fallback to mqdefault if hqdefault doesn't exist
+  const handleThumbnailError = () => {
+    if (thumbnailUrl.includes('hqdefault')) {
+      setThumbnailUrl(`https://img.youtube.com/vi/${videoId}/mqdefault.jpg`);
+    }
+  };
 
   if (isLoaded) {
     return (
@@ -46,6 +54,7 @@ export function YouTubeFacade({ videoId, title = 'YouTube video', className = ''
         alt={title}
         className="absolute inset-0 w-full h-full object-cover rounded-lg"
         loading="lazy"
+        onError={handleThumbnailError}
       />
       
       {/* Dark overlay */}

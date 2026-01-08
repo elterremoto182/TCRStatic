@@ -93,6 +93,10 @@
         "/images/blog/2024/03/flairgun-water-damage-inspection.jpg"
       ]
     },
+    "video": {
+      "youtubeId": "KYhIbuCjExY",
+      "title": "Water Damage Restoration Process"
+    },
     "mainPageContent": {
       "generalFaqs": [
         {
@@ -358,6 +362,10 @@
         "/images/services/mold-remediation.jpg",
         "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png"
       ]
+    },
+    "video": {
+      "youtubeId": "PvoujvUxfsU",
+      "title": "Mold Remediation Process"
     },
     "mainPageContent": {
       "generalFaqs": [
@@ -656,6 +664,10 @@
     "shortName": "Roof Tarp",
     "icon": "Home",
     "phase": 2,
+    "video": {
+      "youtubeId": "Lsp6hleZ-Qk",
+      "title": "Professional Roof Tarping Services"
+    },
     "metaTitleTemplate": "Emergency {type} Roof Tarping in {city}, FL | 24/7 Storm Response",
     "metaDescTemplate": "Professional {type_lower} roof tarping in {city}. Protect your property from further damage after storms, hurricanes, or roof leaks. Fast response.",
     "h1Template": "Emergency {type} Roof Tarping in {city}, FL",
@@ -780,6 +792,10 @@
     "shortName": "Shrink Wrap",
     "icon": "Package",
     "phase": 2,
+    "video": {
+      "youtubeId": "Lsp6hleZ-Qk",
+      "title": "Professional Roof Protection Services"
+    },
     "metaTitleTemplate": "{type} Shrink Wrapping Services in {city}, FL | Roof & Property Protection",
     "metaDescTemplate": "Professional {type_lower} shrink wrapping in {city}. Superior protection for roofs, construction sites, and storm-damaged structures.",
     "h1Template": "{type} Shrink Wrapping Services in {city}, FL",

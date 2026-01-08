@@ -6,7 +6,8 @@ import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities } from '@/lib/local-seo/data';
+import { getService, getAllCities, getServiceVideo } from '@/lib/local-seo/data';
+import { ServiceVideo } from '@/components/local-seo/ServiceVideo';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
@@ -28,6 +29,7 @@ export async function generateMetadata() {
 export default function WaterDamageRestorationPage() {
   const service = getService(SERVICE_SLUG);
   const cities = getAllCities();
+  const video = getServiceVideo(SERVICE_SLUG);
   
   if (!service) {
     return null;
@@ -265,6 +267,11 @@ export default function WaterDamageRestorationPage() {
           title="Our Water Damage Restoration Process" 
           steps={service.process} 
         />
+
+        {/* Service Video - Watch our process in action */}
+        {video && (
+          <ServiceVideo videoId={video.youtubeId} title={video.title} />
+        )}
 
         {/* General FAQs Section */}
         {service.mainPageContent?.generalFaqs && (
