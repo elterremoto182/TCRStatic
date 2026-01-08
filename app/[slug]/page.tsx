@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Image from 'next/image';
+import OptimizedImage from '@/components/OptimizedImage';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
@@ -8,7 +8,8 @@ import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { RelatedLinks } from '@/components/blog/RelatedLinks';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
 import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
-import { Home, Calendar, User, ArrowLeft } from 'lucide-react';
+import { getPillarGuideInfo } from '@/lib/guides';
+import { Home, Calendar, User, ArrowLeft, BookOpen, ArrowRight } from 'lucide-react';
 import { generatePageMetadata, ensureTrailingSlash } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { generateArticleSchema } from '@/lib/structured-data';
@@ -211,7 +212,7 @@ export default async function DynamicPage({
 
               {post.image && (
                 <div className="aspect-video rounded-xl overflow-hidden mb-12 relative">
-                  <Image
+                  <OptimizedImage
                     src={post.image}
                     alt={post.title}
                     fill
@@ -223,6 +224,38 @@ export default async function DynamicPage({
               )}
 
               <MarkdownRenderer content={post.content} />
+
+              {/* Pillar Guide Link Banner */}
+              {(() => {
+                const pillarInfo = getPillarGuideInfo(post.category);
+                if (pillarInfo) {
+                  return (
+                    <div className="mt-12 p-6 bg-gradient-to-r from-primary/5 to-primary/10 rounded-2xl border border-primary/20">
+                      <div className="flex items-start gap-4">
+                        <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                          <BookOpen className="w-6 h-6 text-primary" />
+                        </div>
+                        <div className="flex-1">
+                          <h3 className="text-lg font-bold text-gray-900 mb-1">
+                            Want to Learn More?
+                          </h3>
+                          <p className="text-gray-600 text-sm mb-3">
+                            Read our comprehensive guide covering everything you need to know about this topic.
+                          </p>
+                          <Link
+                            href={pillarInfo.href}
+                            className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
+                          >
+                            {pillarInfo.title}
+                            <ArrowRight className="w-4 h-4" />
+                          </Link>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                }
+                return null;
+              })()}
 
               {/* Related Links Widget */}
               {post.category && (

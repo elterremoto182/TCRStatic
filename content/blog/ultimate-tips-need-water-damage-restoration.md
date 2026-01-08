@@ -4,6 +4,7 @@ date: "2021-11-29"
 excerpt: "As a homeowner, you are always trying to safeguard your valuables and property. Water damage can take many forms, such as the emergence of water stains on furniture or floors if left unchecked for some time due to even small leaks. It is thus essential that every measure be taken immediately in order to prevent … Continued"
 author: "Tomasz Alemany"
 category: "Water"
+pillar: "water-damage-restoration"
 seo_title: "Water Damage Restoration Tips & Tricks"
 seo_description: "Learn how to restore your home after water damage with these ultimate tips. Understand how to assess the damage, clean up, and protect your home. Get your home back to its original condition with these water damage restoration tips."
 keywords: ["water damage restoration tips"]

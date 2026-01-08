@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/blog/posts';
 import { getAllPages } from '@/lib/pages/pages';
+import { getAllGuides } from '@/lib/guides';
 import { 
   getPhase1Services,
   getPhase2Services, 
@@ -28,6 +29,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
+
+  // Guide/Pillar page routes
+  const guides = getAllGuides();
+  const guideRoutes = guides.map((guide) => ({
+    url: `${baseUrl}/guides/${guide.slug}/`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.9,
+  }));
+
+  // Guides index page
+  const guidesIndexRoute = {
+    url: `${baseUrl}/guides/`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.85,
+  };
 
   // Static main routes
   const staticRoutes = [
@@ -165,6 +183,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     ...staticRoutes,
+    guidesIndexRoute,
+    ...guideRoutes,
     ...coreServiceRoutes,
     ...typeHubRoutes,
     ...serviceCityRoutes,

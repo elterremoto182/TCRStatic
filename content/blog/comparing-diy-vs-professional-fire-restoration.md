@@ -4,6 +4,7 @@ date: "2023-12-06"
 excerpt: "Comparing DIY vs. Professional Fire Restoration Introduction Experiencing a fire in your home can be an overwhelming and devastating event. As a homeowner in Miami, Florida, it’s crucial to understand the importance of prompt and effective fire restoration. After a fire, you might find yourself considering whether to tackle the restoration process on your own … Continued"
 author: "Tomasz Alemany"
 category: "Fire"
+pillar: "fire-damage-restoration"
 seo_title: "Comparing DIY vs. Professional Fire Restoration. | Total Care Restoration"
 seo_description: "DIY fire restoration can be cost-effective, but with professional fire restoration, homeowners in Miami,FL receive the expertise & care they need. Learn the advantages and disadvantages of DIY vs Total Care Restoration."
 keywords: ["professional fire restoration"]

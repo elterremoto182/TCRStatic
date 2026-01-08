@@ -4,6 +4,7 @@ date: "2023-11-28"
 excerpt: "Health Risks Associated with Mold in Your Home Introduction As a homeowner in Miami, Florida, you may be unaware of the potential health risks associated with mold in your home. Mold growth is a common consequence of water damage, whether from a leaky pipe or a major flood. In this article, we will explore the … Continued"
 author: "Tomasz Alemany"
 category: "Mold"
+pillar: "mold-remediation"
 seo_title: "Unexplored Health Risks of Mold: What You Need to Know"
 seo_description: "Uncover the health risks of mold and the importance of mold remediation with Total Care Restoration in Miami, Florida. Protect your home and family with our help."
 keywords: ["health risks of mold"]

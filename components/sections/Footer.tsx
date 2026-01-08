@@ -44,7 +44,7 @@ export function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-200 py-12">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-8">
           <div>
             <h3 className="text-white font-bold text-lg mb-4">
               {siteConfig.name}
@@ -72,6 +72,44 @@ export function Footer() {
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Service Areas
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 className="text-white font-semibold mb-4">Guides</h4>
+            <ul className="space-y-2">
+              <li>
+                <Link
+                  href="/guides/water-damage-restoration/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Water Damage Guide
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/guides/fire-damage-restoration/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Fire Damage Guide
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/guides/mold-remediation/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Mold Remediation Guide
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/guides/storm-damage-restoration/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Storm Damage Guide
                 </Link>
               </li>
             </ul>

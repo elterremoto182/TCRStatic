@@ -12,6 +12,7 @@ export interface BlogPost {
   excerpt: string;
   author: string;
   category: string;
+  pillar?: string; // Links to pillar guide page (e.g., "water-damage-restoration" -> /guides/water-damage-restoration/)
   image?: string;
   content: string;
 }
@@ -38,6 +39,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
       excerpt: data.excerpt || '',
       author: data.author || '',
       category: data.category || '',
+      pillar: data.pillar || '',
       image: data.image || '',
       content,
     };

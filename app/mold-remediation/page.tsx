@@ -297,6 +297,34 @@ export default function MoldRemediationPage() {
           </div>
         </section>
 
+        {/* Pillar Guide Banner */}
+        <section className="py-12 bg-green-50">
+          <div className="max-w-4xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <Link
+                href="/guides/mold-remediation/"
+                className="group flex flex-col md:flex-row items-center gap-6 p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-200 border border-green-100"
+              >
+                <div className="w-16 h-16 bg-green-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                  <AlertTriangle className="w-8 h-8 text-green-600" />
+                </div>
+                <div className="flex-1 text-center md:text-left">
+                  <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+                    The Complete Guide to Mold Remediation in Florida
+                  </h3>
+                  <p className="text-gray-600">
+                    Learn everything about mold types, health risks, the remediation process, prevention tips, and insurance coverage in our comprehensive guide.
+                  </p>
+                </div>
+                <span className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-lg group-hover:bg-primary/90 transition-colors whitespace-nowrap">
+                  Read Guide
+                  <ArrowRight className="w-4 h-4" />
+                </span>
+              </Link>
+            </AnimateOnScroll>
+          </div>
+        </section>
+
         {/* Related Resources Section */}
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">

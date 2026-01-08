@@ -3,6 +3,7 @@
     "Water": {
       "service": "/water-damage-restoration/",
       "serviceName": "Water Damage Restoration",
+      "pillarGuide": "/guides/water-damage-restoration/",
       "pillarPosts": [
         "/water-damage-restoration-guide/",
         "/water-damage-dry-out-process/",
@@ -14,6 +15,7 @@
     "Mold": {
       "service": "/mold-remediation/",
       "serviceName": "Mold Remediation",
+      "pillarGuide": "/guides/mold-remediation/",
       "pillarPosts": [
         "/tell-mold-behind-walls/",
         "/mold-inspection/",
@@ -22,9 +24,21 @@
         "/common-misconceptions-about-mold-in-homes/"
       ]
     },
+    "Air Quality": {
+      "service": "/indoor-air-quality/",
+      "serviceName": "Indoor Air Quality",
+      "pillarGuide": "/guides/mold-remediation/",
+      "pillarPosts": [
+        "/ozone-air-treatment-for-mold-and-pathogens/",
+        "/air-quality-testing-after-fire-damage/",
+        "/how-thermal-fogging-restores-indoor-air-quality/",
+        "/what-is-an-air-scrubber/"
+      ]
+    },
     "Fire": {
       "service": "/fire-damage-restoration/",
       "serviceName": "Fire Damage Restoration",
+      "pillarGuide": "/guides/fire-damage-restoration/",
       "pillarPosts": [
         "/fire-damage-restoration-guide/",
         "/fire-damage-inspection-steps/",
@@ -33,9 +47,20 @@
         "/smoke-damage-long-term-effects-and-restoration-techniques/"
       ]
     },
+    "Storm": {
+      "service": "/storm-damage-restoration/",
+      "serviceName": "Storm Damage Restoration",
+      "pillarGuide": "/guides/storm-damage-restoration/",
+      "pillarPosts": [
+        "/hurricane-season-water-damage-prep-south-florida/",
+        "/how-roof-maintenance-prevents-storm-damage/",
+        "/hurricane-ian-tarps-water-damage/"
+      ]
+    },
     "Tarp": {
       "service": "/roof-tarping/",
       "serviceName": "Roof Tarping",
+      "pillarGuide": "/guides/storm-damage-restoration/",
       "pillarPosts": [
         "/roof-tarping-completely-explained/",
         "/benefits-shrink-wrapping-roof-blue-tarps/",
@@ -44,28 +69,10 @@
         "/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/"
       ]
     },
-    "Storm": {
-      "service": "/storm-damage-restoration/",
-      "serviceName": "Storm Damage Restoration",
-      "pillarPosts": [
-        "/hurricane-season-water-damage-prep-south-florida/",
-        "/how-roof-maintenance-prevents-storm-damage/",
-        "/hurricane-ian-tarps-water-damage/"
-      ]
-    },
-    "Air Quality": {
-      "service": "/indoor-air-quality/",
-      "serviceName": "Indoor Air Quality",
-      "pillarPosts": [
-        "/ozone-air-treatment-for-mold-and-pathogens/",
-        "/air-quality-testing-after-fire-damage/",
-        "/how-thermal-fogging-restores-indoor-air-quality/",
-        "/what-is-an-air-scrubber/"
-      ]
-    },
     "Roofing": {
       "service": "/roof-tarping/",
       "serviceName": "Roof Tarping",
+      "pillarGuide": "/guides/storm-damage-restoration/",
       "pillarPosts": [
         "/emergency-roofing-miami/",
         "/roof-tarping-completely-explained/",
@@ -75,6 +82,7 @@
     "Sewage": {
       "service": "/sewage-cleanup/",
       "serviceName": "Sewage Cleanup",
+      "pillarGuide": "/guides/water-damage-restoration/",
       "pillarPosts": [
         "/effective-strategies-for-handling-toilet-overflow-and-preventing-future-incidents/"
       ]
@@ -82,6 +90,7 @@
     "Emergency": {
       "service": "/emergency-restoration/",
       "serviceName": "Emergency Restoration",
+      "pillarGuide": null,
       "pillarPosts": [
         "/emergency-water-damage-checklist-first-24-hours/",
         "/how-long-does-property-restoration-take/"
@@ -90,19 +99,42 @@
     "Commercial": {
       "service": "/commercial-restoration/",
       "serviceName": "Commercial Restoration",
+      "pillarGuide": null,
       "pillarPosts": [
         "/commercial-restoration-guide/",
         "/business-continuity-after-water-damage/"
       ]
     }
   },
+  "pillarGuides": {
+    "water-damage-restoration": {
+      "title": "The Complete Guide to Water Damage Restoration in South Florida",
+      "categories": ["Water", "Sewage"],
+      "servicePage": "/water-damage-restoration/"
+    },
+    "fire-damage-restoration": {
+      "title": "The Complete Guide to Fire Damage Restoration",
+      "categories": ["Fire"],
+      "servicePage": "/fire-damage-restoration/"
+    },
+    "mold-remediation": {
+      "title": "The Complete Guide to Mold Remediation in Florida",
+      "categories": ["Mold", "Air Quality"],
+      "servicePage": "/mold-remediation/"
+    },
+    "storm-damage-restoration": {
+      "title": "The Complete Guide to Storm Damage Restoration and Roof Protection in Florida",
+      "categories": ["Storm", "Tarp", "Roofing"],
+      "servicePage": "/storm-damage-restoration/"
+    }
+  },
   "defaultService": {
     "service": "/",
     "serviceName": "Total Care Restoration",
+    "pillarGuide": null,
     "pillarPosts": [
       "/how-long-does-property-restoration-take/",
       "/total-care-restoration-why-trust-us-with-your-homes-recovery/"
     ]
   }
 }
-

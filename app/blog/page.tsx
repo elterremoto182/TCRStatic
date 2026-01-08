@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Image from 'next/image';
+import OptimizedImage from '@/components/OptimizedImage';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
@@ -59,7 +59,7 @@ export default function BlogPage() {
                   >
                     {post.image && (
                       <div className="aspect-video relative">
-                        <Image
+                        <OptimizedImage
                           src={post.image}
                           alt={post.title}
                           fill
