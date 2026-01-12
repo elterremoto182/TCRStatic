@@ -87,7 +87,7 @@ Stock these supplies before hurricane season to avoid last-minute shortages:
 
 ### Know Your Zone
 
-- [ ] Identify your evacuation zone at [KnowYourZoneFL.com](https://knowyourzonefl.com)
+- [ ] Identify your evacuation zone at [FloridaDisaster.org/knowyourzone](https://www.floridadisaster.org/knowyourzone)
 - [ ] Plan multiple evacuation routes
 - [ ] Identify pet-friendly shelters and hotels
 - [ ] Discuss family communication plan
