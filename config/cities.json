@@ -700,5 +700,161 @@
       "localChallenges": "Casino and entertainment venues operate 24/7. Restoration must work around schedules.\n\nHotels can't close rooms for long. Every empty night costs money. We work fast.\n\nBeachfront businesses face salt and storms. We understand coastal restoration.\n\nOlder commercial buildings have aging systems. We check for hidden damage.\n\nSpecial events and racing seasons add pressure. Water damage at the wrong time is devastating.",
       "focusPoints": ["Casino and entertainment venue specialists", "Hotel restoration expertise", "Beachfront commercial buildings", "Racing and gaming facility experience", "Retail corridor restoration", "High-volume tourism business focus", "24/7 operation accommodation", "Seasonal urgency response"]
     }
+  },
+  "miami-gardens": {
+    "name": "Miami Gardens",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9420, "lng": -80.2456 },
+    "neighborhoods": ["Carol City", "Norland", "Bunche Park", "Andover", "Scott Lake", "Lake Lucerne", "Opa-locka North", "Rolling Oaks"],
+    "zipCodes": ["33054", "33055", "33056", "33169", "33179"],
+    "responseTime": "30-45 minutes",
+    "localFactors": {
+      "climate": "Urban community with typical South Florida subtropical conditions",
+      "risks": ["Aging infrastructure in older neighborhoods", "Slab foundation issues", "AC-related water damage", "Storm drainage challenges"],
+      "characteristics": "Miami-Dade's third-largest city with Hard Rock Stadium, diverse neighborhoods, and growing commercial development"
+    },
+    "residential": {
+      "intro": "Miami Gardens is Miami-Dade's third-largest city. From Carol City to Andover, we serve families across this vibrant community. When water damage strikes, our fast response protects your home and family.",
+      "extendedContent": "Miami Gardens spans diverse neighborhoods with their own character. Carol City features established homes from the 1960s and 1970s. Bunche Park has seen recent revitalization. Andover and Rolling Oaks offer newer construction. Lake Lucerne provides waterfront living. Our team knows these neighborhoods and their unique restoration needs. We've served Miami Gardens families for years, building trust through quality work and responsive service. Whether you're in an older Carol City home or a newer Andover property, we bring the right approach for your situation.",
+      "localChallenges": "Many Miami Gardens homes date from the 1960s through 1980s. Older plumbing, particularly galvanized pipes, fails with age. Slab foundations common in this era can develop leaks. AC systems work overtime year-round, leading to condensate line problems. Some areas experience drainage issues during heavy rains. Older roofs need attention, especially after storms. We understand these challenges from experience serving the community.",
+      "focusPoints": ["Established neighborhood expertise", "Older home plumbing knowledge", "Slab leak detection and repair", "Family home restoration", "Senior homeowner assistance", "Affordable restoration solutions", "Community-focused service", "24/7 emergency response"]
+    },
+    "commercial": {
+      "intro": "Hard Rock Stadium puts Miami Gardens on the global map. Local businesses serve over 100,000 residents. We provide fast, reliable restoration to keep Miami Gardens commerce moving.",
+      "extendedContent": "Miami Gardens hosts major events at Hard Rock Stadium—NFL games, concerts, tennis, and more. Millions visit annually. The surrounding commercial areas support these events and serve the large residential population.\n\nRetail centers line major corridors. Shopping centers serve daily needs. Restaurants and services dot every neighborhood.\n\nHealthcare facilities serve the community. Churches and community centers are vital gathering places.\n\nThe city's growth has brought new commercial development. Distribution and logistics businesses benefit from the location.\n\nWe serve all these businesses with professional restoration that minimizes downtime.",
+      "localChallenges": "Stadium events create urgency. Nearby businesses can't be closed during game days or concerts.\n\nOlder commercial buildings in Carol City and Norland have aging systems. Plumbing and roofing need attention.\n\nRetail centers face high foot traffic. Restoration must work around customers.\n\nChurches and community centers serve many families. They need to stay open.\n\nNew commercial construction requires different approaches than older buildings.",
+      "focusPoints": ["Stadium area specialists", "Retail center restoration", "Commercial plaza expertise", "Healthcare facility compliance", "Church and community center experience", "Distribution facility restoration", "Event timing accommodation", "Rapid commercial response"]
+    }
+  },
+  "north-miami": {
+    "name": "North Miami",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.8901, "lng": -80.1867 },
+    "neighborhoods": ["Griffing", "Keystone Point", "Sans Souci", "Biscayne Gardens", "Enchanted Lake", "Arch Creek"],
+    "zipCodes": ["33161", "33162", "33168", "33181"],
+    "responseTime": "30-40 minutes",
+    "localFactors": {
+      "climate": "Suburban coastal community near Biscayne Bay",
+      "risks": ["Waterfront property flooding", "Older building plumbing", "Storm surge in eastern areas", "University area building density"],
+      "characteristics": "Historic city with Johnson & Wales University, waterfront neighborhoods, and diverse cultural community"
+    },
+    "residential": {
+      "intro": "North Miami's waterfront neighborhoods and established communities need expert restoration. From Keystone Point to Biscayne Gardens, we protect homes across this historic city.",
+      "extendedContent": "North Miami offers distinctive neighborhoods with unique charm. Keystone Point features waterfront homes on finger islands with private docks. Sans Souci provides a similar waterfront lifestyle. Griffing and Biscayne Gardens have established single-family homes on larger lots. Enchanted Lake lives up to its name with homes surrounding a scenic lake. The city's historic character means many homes date from the 1950s through 1970s. Our team appreciates these older homes and knows how to restore them properly. We've helped North Miami families through water damage, fire damage, and storm recovery for years.",
+      "localChallenges": "Waterfront homes in Keystone Point and Sans Souci face unique challenges. Seawall maintenance, boat lift areas, and salt exposure affect properties. Older homes throughout the city have aging plumbing and electrical. The city's low elevation in some areas creates flooding risk during heavy rains and king tides. Johnson & Wales University brings rental properties with unique landlord-tenant coordination needs. The diverse community benefits from our multilingual team.",
+      "focusPoints": ["Waterfront home specialists", "Historic home restoration", "Seawall-adjacent property expertise", "Multi-generational home focus", "University area landlord service", "Multilingual team available", "Island neighborhood access", "Older plumbing expertise"]
+    },
+    "commercial": {
+      "intro": "North Miami's business community serves residents, students, and visitors. From university facilities to local shops, we provide professional restoration with minimal disruption.",
+      "extendedContent": "Johnson & Wales University anchors North Miami's commercial activity. The culinary school draws students and events. Educational facilities need careful restoration.\n\nNorth Miami Boulevard and 125th Street feature retail, dining, and services. Local businesses serve the diverse community.\n\nMedical offices and clinics dot the city. Healthcare compliance matters.\n\nThe city's cultural venues—Museum of Contemporary Art, performing arts spaces—require specialized care.\n\nWe serve this mix with adaptable expertise and community connection.",
+      "localChallenges": "University facilities require academic schedule coordination. Student housing has turnover challenges.\n\nOlder commercial buildings have aging infrastructure. Systems need assessment.\n\nCultural venues have irreplaceable contents. Art and equipment need protection.\n\nRetail must stay open to serve the community. We minimize disruption.\n\nThe diverse business community benefits from our multilingual capabilities.",
+      "focusPoints": ["University facility expertise", "Cultural venue restoration", "Healthcare compliance", "Retail business focus", "Restaurant and culinary space experience", "Older commercial building knowledge", "Community business support", "Multilingual commercial service"]
+    }
+  },
+  "north-miami-beach": {
+    "name": "North Miami Beach",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.9331, "lng": -80.1626 },
+    "neighborhoods": ["Eastern Shores", "Skylake", "Uleta", "Winston Park", "Ojus", "Highland Village"],
+    "zipCodes": ["33160", "33162", "33179", "33180", "33181"],
+    "responseTime": "30-40 minutes",
+    "localFactors": {
+      "climate": "Diverse suburban community with waterfront and inland areas",
+      "risks": ["Eastern Shores waterfront flooding", "Older condominium plumbing", "Aging infrastructure", "Commercial corridor water damage"],
+      "characteristics": "Growing city with Eastern Shores waterfront living, diverse population, and mix of residential and commercial development"
+    },
+    "residential": {
+      "intro": "North Miami Beach stretches from Intracoastal waterfront to suburban neighborhoods. We serve families throughout with fast, professional water damage restoration.",
+      "extendedContent": "North Miami Beach offers diverse housing options. Eastern Shores provides Intracoastal waterfront living with single-family homes and docks. Skylake and Highland Village feature mid-century homes on larger lots. Ojus has grown with newer townhome and condo development. Uleta maintains an established neighborhood feel. The city's growth has brought young families seeking value while longtime residents age in place. Our team serves both with understanding and professionalism. We know the neighborhood characteristics and adjust our approach accordingly.",
+      "localChallenges": "Eastern Shores waterfront homes face flooding from king tides and storms. Seawall and dock areas require attention. Many North Miami Beach homes date from the 1950s through 1970s with aging plumbing and electrical. The city has many condo and townhome associations with their own requirements. Some areas experience drainage challenges. The diverse population speaks many languages—we have multilingual team members to serve everyone effectively.",
+      "focusPoints": ["Intracoastal waterfront expertise", "Mid-century home knowledge", "Condo association experience", "Townhome community service", "Multilingual team", "Growing family focus", "Senior homeowner assistance", "Diverse neighborhood knowledge"]
+    },
+    "commercial": {
+      "intro": "North Miami Beach's commercial corridors serve a growing population. We help businesses recover quickly from water damage with minimal disruption.",
+      "extendedContent": "163rd Street and Biscayne Boulevard form major commercial corridors. Retail centers, restaurants, and services line these routes.\n\nThe Intracoastal area has waterfront dining and entertainment. Tourism adds to the business mix.\n\nMedical and professional offices serve the diverse population. Healthcare facilities need compliance focus.\n\nWarehouses and light industrial spaces occupy inland areas. Distribution businesses value our quick response.\n\nThe growing population drives commercial growth. New businesses open regularly.",
+      "localChallenges": "Major corridors have older buildings mixed with new development. Each requires different approaches.\n\nWaterfront restaurants face weather exposure. Quick restoration is essential.\n\nDiverse ownership includes absentee landlords and local operators. Communication varies.\n\nHigh competition among businesses means every day closed hurts. We work fast.\n\nThe diverse customer base benefits from our multilingual service.",
+      "focusPoints": ["Major corridor expertise", "Waterfront dining restoration", "Medical facility compliance", "Retail center specialists", "Restaurant and food service", "Warehouse and light industrial", "Growing market response", "Multilingual commercial service"]
+    }
+  },
+  "key-biscayne": {
+    "name": "Key Biscayne",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.6937, "lng": -80.1628 },
+    "neighborhoods": ["Key Colony", "Ocean Club", "Grand Bay", "The Towers", "Village of Key Biscayne", "Crandon Park Area"],
+    "zipCodes": ["33149"],
+    "responseTime": "40-55 minutes",
+    "localFactors": {
+      "climate": "Barrier island with high hurricane and flooding exposure",
+      "risks": ["Hurricane and storm surge vulnerability", "High-rise building water damage", "Salt air corrosion", "Limited access during emergencies"],
+      "characteristics": "Exclusive barrier island community with luxury condos, tennis facilities, and beach lifestyle"
+    },
+    "residential": {
+      "intro": "Key Biscayne's island lifestyle requires specialized restoration expertise. From oceanfront condos to single-family estates, we serve this exclusive community with discretion and excellence.",
+      "extendedContent": "Key Biscayne is one of South Florida's most desirable addresses. The barrier island offers stunning ocean and bay views from luxury high-rise condos and single-family homes. Key Colony and Ocean Club condos attract international residents. Single-family homes in the Village area provide island living with privacy. The community values discretion and quality. Our team understands this. We provide white-glove service with attention to detail that Key Biscayne residents expect. Many properties feature high-end finishes that require specialized restoration techniques. We have experience with these luxury materials and treat every home with appropriate care.",
+      "localChallenges": "As a barrier island, Key Biscayne faces significant hurricane and flooding risk. Storm surge can affect properties island-wide. Access via the Rickenbacker Causeway may be limited during emergencies. High-rise condos have complex building systems and association requirements. Salt air accelerates corrosion of plumbing and fixtures. The international resident base includes seasonal occupants who may be away during water damage events. We coordinate restoration while owners are abroad, providing detailed documentation and progress reports.",
+      "focusPoints": ["Luxury property specialists", "High-rise condo expertise", "International resident coordination", "Hurricane and surge response", "White-glove service standards", "High-end finish restoration", "Absentee owner management", "Building association experience"]
+    },
+    "commercial": {
+      "intro": "Key Biscayne's world-class resorts, tennis facilities, and village shops demand excellence. We deliver restoration service that matches the island's exceptional standards.",
+      "extendedContent": "Crandon Park Tennis Center hosts major tournaments. The Ritz-Carlton provides luxury accommodations. These facilities have international reputations to protect.\n\nThe Village commercial area serves residents and visitors with restaurants, shops, and services. Island businesses know their customers by name.\n\nKey Biscayne's exclusivity extends to its businesses. Every establishment maintains high standards.\n\nResort and hospitality properties can't afford extended closures. Their guests expect perfection.\n\nWe serve this market with the quality and discretion it demands.",
+      "localChallenges": "World-class facilities require world-class restoration. Tennis tournament schedules can't change. Hotel bookings can't be canceled.\n\nIsland access means coordinating equipment and materials in advance. Emergency response requires advance planning.\n\nHigh-end restaurants and shops have sophisticated systems. Restoration must match their quality.\n\nInternational visitors expect seamless service. Any disruption affects reputation.\n\nWe bring mainland resources to the island with island-appropriate service.",
+      "focusPoints": ["Luxury resort specialists", "Tennis and sports facility expertise", "High-end restaurant restoration", "Village retail experience", "International hospitality standards", "Tournament schedule coordination", "VIP service approach", "Island logistics management"]
+    }
+  },
+  "cutler-bay": {
+    "name": "Cutler Bay",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.5808, "lng": -80.3467 },
+    "neighborhoods": ["Cutler Ridge", "Lakes by the Bay", "Saga Bay", "Whispering Pines", "Cutler Cay", "Colonial Drive"],
+    "zipCodes": ["33157", "33189", "33190"],
+    "responseTime": "45-60 minutes",
+    "localFactors": {
+      "climate": "South Miami-Dade suburban community",
+      "risks": ["Hurricane flooding", "Canal and lake overflow", "Older home plumbing", "Tropical storm vulnerability"],
+      "characteristics": "Growing family community with established neighborhoods, lakes, and convenient South Miami-Dade location"
+    },
+    "residential": {
+      "intro": "Cutler Bay families deserve responsive, reliable restoration. From Lakes by the Bay to Cutler Ridge, we protect homes throughout this growing South Miami-Dade community.",
+      "extendedContent": "Cutler Bay offers suburban living with South Miami-Dade convenience. Lakes by the Bay features waterfront homes around scenic lakes. Cutler Ridge provides established neighborhoods with mature trees. Saga Bay offers canal-front living. Whispering Pines and Colonial Drive have well-maintained family homes. The community has grown as families seek value and quality of life. Many residents commute north for work while enjoying the quieter suburban environment. Our team serves these hardworking families with restoration that fits their schedules and budgets. We understand the importance of getting families back to normal life quickly.",
+      "localChallenges": "South Miami-Dade's location brings unique storm and flooding concerns. Hurricane paths often affect this area. The canal system can overflow during heavy rain events. Many Cutler Bay homes date from the 1970s and 1980s with aging plumbing infrastructure. Lake-front and canal-front properties face periodic flooding. The community's growing population strains older drainage systems during major rain events. We understand these challenges and respond appropriately.",
+      "focusPoints": ["Family home focus", "Lakes and canal expertise", "Older home knowledge", "Affordable restoration options", "Working family schedules", "Storm and hurricane response", "South Dade quick response", "Community-oriented service"]
+    },
+    "commercial": {
+      "intro": "Cutler Bay's growing commercial areas serve an expanding population. We help local businesses recover from water damage quickly and affordably.",
+      "extendedContent": "Southland Mall anchors Cutler Bay retail. The surrounding commercial corridors serve the growing population.\n\nUS-1 brings traffic and business opportunity. Retail, restaurants, and services line the corridor.\n\nMedical offices and urgent care facilities serve families. Healthcare needs quick restoration.\n\nThe Town Center development adds modern commercial space. New construction brings new tenants.\n\nLocal businesses—dry cleaners, salons, repair shops—serve daily needs. They're the community's backbone.",
+      "localChallenges": "South Miami-Dade location affects response logistics. We position resources accordingly.\n\nOlder commercial buildings have aging systems. Inspection reveals hidden problems.\n\nMall and retail environments have continuous foot traffic. Work must accommodate shoppers.\n\nGrowing commercial base means new business relationships. We earn trust through quality work.\n\nStorm and flooding events can affect wide areas. We scale response as needed.",
+      "focusPoints": ["Retail and mall experience", "US-1 corridor expertise", "Healthcare facility compliance", "Local business support", "Affordable commercial restoration", "South Dade positioning", "Storm response capability", "Growing community relationships"]
+    }
+  },
+  "palmetto-bay": {
+    "name": "Palmetto Bay",
+    "county": "Miami-Dade County",
+    "state": "FL",
+    "coordinates": { "lat": 25.6215, "lng": -80.3242 },
+    "neighborhoods": ["Palmetto Bay Village Center", "Perrine", "Coral Reef", "Old Cutler Road Area", "Lakes of Palmetto", "Saga Lake"],
+    "zipCodes": ["33157", "33158", "33176", "33177"],
+    "responseTime": "40-55 minutes",
+    "localFactors": {
+      "climate": "Upscale South Miami-Dade suburban community with mature landscaping",
+      "risks": ["Older infrastructure in historic areas", "Tree damage during storms", "Lake and canal flooding", "Hurricane vulnerability"],
+      "characteristics": "Affluent incorporated village with excellent schools, historic sites, and family-focused community"
+    },
+    "residential": {
+      "intro": "Palmetto Bay's beautiful homes and family focus deserve expert restoration. We serve this distinguished community with quality and care that matches its standards.",
+      "extendedContent": "Palmetto Bay incorporated to preserve its village character. The community succeeded. Tree-lined streets, excellent schools, and well-maintained homes create an ideal family environment. Old Cutler Road estates offer luxury living amid historic beauty. Neighborhoods around Coral Reef and the village center provide upscale family homes. Lakes of Palmetto features waterfront living. The community takes pride in its appearance. Our restoration services match that pride. We return properties to their beautiful pre-damage condition. We respect landscaping, work cleanly, and communicate professionally. Palmetto Bay families deserve nothing less.",
+      "localChallenges": "Palmetto Bay's mature tree canopy is beautiful but creates storm damage risk. Fallen trees and branches cause roof damage and water intrusion. Older homes along Old Cutler Road have historic character but aging systems. The community's low-lying areas experience flooding during heavy rains. Lake and canal properties face water table and seepage issues. HOA communities have appearance standards to maintain. We work with these requirements while performing thorough restoration.",
+      "focusPoints": ["Upscale home specialists", "Historic property experience", "Tree and storm damage expertise", "Lake-front home restoration", "Family-focused service", "School schedule accommodation", "HOA-conscious work practices", "High-quality finish restoration"]
+    },
+    "commercial": {
+      "intro": "Palmetto Bay's village center and professional offices serve an affluent community. We provide restoration that meets their high expectations.",
+      "extendedContent": "The Village Center provides shops, dining, and services for residents. Local businesses value their community relationships.\n\nProfessional offices—medical, legal, financial—serve the affluent population. These businesses maintain high standards.\n\nSchools are central to Palmetto Bay identity. Facilities must stay operational.\n\nOld Cutler Road has historic commercial properties. Restoration must respect their character.\n\nThe community's standards apply to businesses too. Our work meets them.",
+      "localChallenges": "Village-scale businesses serve regular customers. Extended closures damage relationships.\n\nProfessional offices need confidentiality and security. We protect documents and data.\n\nSchool restoration requires holiday and summer scheduling. Student safety is paramount.\n\nHistoric properties need specialized restoration approaches.\n\nThe affluent clientele expects quality. We deliver it.",
+      "focusPoints": ["Village center expertise", "Professional office restoration", "School and educational facilities", "Historic commercial properties", "Upscale service standards", "Community relationship focus", "Confidential document protection", "High-quality commercial restoration"]
+    }
   }
 }

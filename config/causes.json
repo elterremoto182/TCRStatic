@@ -409,6 +409,360 @@
           {"question": "Should I wait for insurance before starting cleanup?", "answer": "No—begin documenting immediately with photos and video, but start water removal as soon as safely possible to prevent additional damage. Insurance companies expect policyholders to mitigate damage. Keep all receipts and records."}
         ]
       }
+    },
+    {
+      "id": "water-heater-leak",
+      "name": "Water Heater Leak",
+      "slug": "water-heater-leak-damage",
+      "description": "Emergency water heater leak and failure restoration",
+      "urgency": "emergency",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration", "emergency-restoration"],
+      "bodyContent": {
+        "overview": "A water heater leak or failure is one of the most devastating water damage events a homeowner can experience. Whether your water heater is in a garage, utility closet, or inside the living space, a catastrophic tank failure can release 40-80 gallons of hot water in minutes, causing extensive damage to flooring, walls, and belongings.\n\nIn South Florida, water heaters work overtime due to our hard water and year-round demand for hot water. The average tank-style water heater lasts 8-12 years, but many fail earlier due to sediment buildup, corrosion, or excessive pressure. When they fail, they often fail catastrophically—bursting at seams, developing large leaks at fittings, or rupturing completely.\n\nThe hot water from a failed water heater causes accelerated damage compared to cold water. Heat opens pores in materials, allowing faster water absorption. It can also cause thermal damage to certain flooring types. Our emergency response team specializes in water heater failure restoration, arriving quickly to stop the damage and begin professional water extraction and drying.",
+        "whyActFast": "Water heater failures combine the urgency of a burst pipe with the added complication of hot water damage. Hot water absorbs into materials faster and can cause additional thermal damage. The large volume released—often 40-80 gallons—quickly spreads throughout the home. Within hours, water travels under flooring, into walls, and saturates subfloors. Mold can begin growing within 24-48 hours. Immediate professional intervention is critical.",
+        "commonCauses": [
+          "Aging tank with internal corrosion",
+          "Excessive sediment buildup from hard water",
+          "Faulty or corroded pressure relief valve",
+          "High water pressure in the home",
+          "Rust and deterioration of tank lining",
+          "Loose or corroded water line connections",
+          "Failed anode rod allowing tank corrosion",
+          "Improper installation or maintenance"
+        ],
+        "preventionTips": [
+          "Flush your water heater annually to remove sediment",
+          "Replace the anode rod every 3-5 years",
+          "Install a water heater pan with drain line",
+          "Check the pressure relief valve annually",
+          "Monitor for rust around fittings and base",
+          "Consider replacing units older than 10 years",
+          "Install a water leak detector near the heater",
+          "Maintain proper water pressure (below 80 psi)"
+        ],
+        "warningSignals": [
+          "Rust or corrosion visible on tank exterior",
+          "Water pooling around the water heater base",
+          "Rusty or discolored hot water from faucets",
+          "Rumbling or popping sounds during heating",
+          "Age of unit exceeding 10 years",
+          "Visible moisture or dampness near unit",
+          "Musty odors near the water heater area",
+          "Decreased hot water output or temperature"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Response", "description": "Our team arrives within 30-60 minutes to shut off water supply and assess the full extent of damage from the water heater failure."},
+          {"step": 2, "title": "Water Extraction", "description": "We use commercial-grade pumps and extractors to remove all standing water quickly, minimizing absorption into flooring and structures."},
+          {"step": 3, "title": "Moisture Mapping", "description": "Using moisture meters and thermal imaging, we identify all affected areas including water that has traveled under flooring and into walls."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial air movers and dehumidifiers are strategically placed to thoroughly dry all affected materials over 3-5 days."},
+          {"step": 5, "title": "Sanitization", "description": "Antimicrobial treatments are applied to prevent mold growth and eliminate any bacteria from the water damage."},
+          {"step": 6, "title": "Restoration", "description": "We restore damaged flooring, drywall, and other materials to pre-loss condition, including coordinating with plumbers for new water heater installation."}
+        ],
+        "faqs": [
+          {"question": "How much damage can a water heater leak cause?", "answer": "A failed water heater can release 40-80 gallons of water rapidly, enough to flood an entire room and cause thousands of dollars in damage. Water travels quickly under flooring and into wall cavities, often affecting multiple rooms."},
+          {"question": "Does insurance cover water heater leak damage?", "answer": "Most homeowner's insurance policies cover sudden and accidental water heater failures. However, gradual leaks or damage from lack of maintenance may not be covered. We help document your claim for maximum coverage."},
+          {"question": "How do I know if my water heater is about to fail?", "answer": "Warning signs include age over 10 years, rusty water, rumbling sounds, visible corrosion, pooled water at the base, or decreased hot water performance. If you notice any of these, have a plumber inspect immediately."},
+          {"question": "Should I turn off the water heater after a leak?", "answer": "Yes, turn off the water supply to the heater immediately. For gas heaters, turn off the gas valve. For electric heaters, turn off the breaker. Do not restart until inspected by a professional."},
+          {"question": "How long does water heater damage restoration take?", "answer": "Drying typically takes 3-5 days depending on the extent of damage. Full restoration including flooring and wall repairs usually takes 1-2 weeks. We work efficiently to minimize disruption."},
+          {"question": "Can I prevent water heater failures?", "answer": "Regular maintenance greatly reduces failure risk. Flush the tank annually, replace the anode rod every 3-5 years, check the pressure relief valve, and consider replacement after 10 years. Install a drain pan as added protection."}
+        ]
+      }
+    },
+    {
+      "id": "dishwasher-leak",
+      "name": "Dishwasher Leak",
+      "slug": "dishwasher-leak-water-damage",
+      "description": "Dishwasher leak and overflow water damage restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Dishwasher leaks are among the most common and insidious sources of water damage in kitchens. Because dishwashers are typically enclosed in cabinetry, leaks often go unnoticed until significant damage has already occurred to flooring, subfloors, and cabinets.\n\nIn South Florida homes, dishwashers face unique challenges. The combination of hard water, high humidity, and constant use accelerates wear on hoses, seals, and connections. Many leaks start small—a worn door gasket, a loose connection, or a cracked supply line—but the confined space under and around the dishwasher allows water to pool, soak into flooring, and travel unseen.\n\nBy the time homeowners notice warped flooring, cabinet damage, or musty odors, the water has often been leaking for days or weeks. This makes dishwasher leaks particularly prone to causing mold growth, wood rot, and structural damage to kitchen flooring. Our restoration team specializes in kitchen water damage, including the careful removal and drying of materials in this critical living space.",
+        "whyActFast": "Dishwasher leaks often mean water has been present longer than you realize. By the time visible damage appears, moisture has likely penetrated subfloors, cabinet backs, and potentially the wall behind the unit. Every additional day allows more water absorption, wood swelling, and mold growth. Quick professional assessment and drying is essential to save flooring and cabinetry.",
+        "commonCauses": [
+          "Worn or damaged door gasket seal",
+          "Cracked or loose water supply line",
+          "Clogged or damaged drain hose",
+          "Faulty water inlet valve",
+          "Damaged door latch not creating proper seal",
+          "Overloaded dishwasher causing overflow",
+          "Improper installation of drain connection",
+          "Cracked tub or internal component failure"
+        ],
+        "preventionTips": [
+          "Inspect the door gasket monthly for wear or damage",
+          "Check supply and drain hoses annually for cracks",
+          "Run the dishwasher when home to catch leaks early",
+          "Don't overload—follow manufacturer guidelines",
+          "Clean the filter and drain regularly",
+          "Check under the dishwasher monthly for moisture",
+          "Replace supply hoses every 5 years",
+          "Have appliance connections inspected annually"
+        ],
+        "warningSignals": [
+          "Water pooling in front of or beside dishwasher",
+          "Warped or buckling flooring near dishwasher",
+          "Musty or moldy odors in kitchen area",
+          "Visible water stains on adjacent cabinets",
+          "Soft or spongy spots in flooring",
+          "Dishwasher not cleaning dishes as well",
+          "Unusual sounds during wash cycles",
+          "Cabinets showing water damage or swelling"
+        ],
+        "process": [
+          {"step": 1, "title": "Assessment & Detection", "description": "We identify the leak source and use moisture meters to map the full extent of water damage, including hidden areas under flooring and behind cabinets."},
+          {"step": 2, "title": "Appliance Disconnection", "description": "The dishwasher is safely disconnected and moved to access affected areas. We coordinate with appliance repair if needed."},
+          {"step": 3, "title": "Water Extraction", "description": "Standing water and absorbed moisture are extracted from flooring, subfloors, and cabinet materials using professional equipment."},
+          {"step": 4, "title": "Structural Drying", "description": "Air movers and dehumidifiers are placed to dry all affected materials. Kitchen drying requires careful setup to maintain livability."},
+          {"step": 5, "title": "Mold Prevention", "description": "Antimicrobial treatments are applied to prevent mold growth in the humid cabinet and under-floor environment."},
+          {"step": 6, "title": "Restoration", "description": "Damaged flooring, cabinets, and drywall are repaired or replaced to restore your kitchen to pre-damage condition."}
+        ],
+        "faqs": [
+          {"question": "How do I know if my dishwasher is leaking?", "answer": "Signs include water pooling around the unit, warped or soft flooring, musty odors, staining on adjacent cabinets, or visible moisture when you pull out the bottom rack. Check under and around the dishwasher regularly."},
+          {"question": "Can dishwasher leaks cause mold?", "answer": "Yes, because leaks are often hidden and ongoing, they create perfect conditions for mold growth. The dark, humid space under a dishwasher can develop mold within 24-48 hours of water exposure."},
+          {"question": "Will insurance cover dishwasher leak damage?", "answer": "Most policies cover sudden and accidental water damage from appliance failures. Long-term slow leaks may be considered maintenance issues. We help document damage to support your insurance claim."},
+          {"question": "Do I need to replace my flooring after a dishwasher leak?", "answer": "It depends on the material and exposure duration. Laminate and engineered wood often need replacement. Tile may survive with proper drying. We assess each situation and restore or replace as needed."},
+          {"question": "How long does kitchen water damage restoration take?", "answer": "Drying typically takes 3-4 days. Flooring and cabinet restoration can take 1-2 weeks depending on extent of damage and material availability. We work to minimize disruption to your kitchen use."},
+          {"question": "Should I run the dishwasher while I'm away from home?", "answer": "It's safest to run dishwashers when you're home and awake. This allows you to catch any leaks immediately. Consider adding a water leak detector near the dishwasher for added protection."}
+        ]
+      }
+    },
+    {
+      "id": "refrigerator-leak",
+      "name": "Refrigerator Water Line Leak",
+      "slug": "refrigerator-water-line-leak-damage",
+      "description": "Refrigerator ice maker and water line leak restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Refrigerator water line leaks are a silent threat that causes significant water damage in thousands of homes each year. The small plastic or copper water line that supplies your ice maker and water dispenser runs behind or under the refrigerator, often out of sight and out of mind—until it fails.\n\nIn South Florida, refrigerator water lines face additional stress from our hard water, which can cause mineral buildup and corrosion. The lines also endure repeated stress from moving the refrigerator for cleaning or repairs. Over time, connections loosen, lines crack, or fittings fail, releasing a steady stream of water that goes unnoticed.\n\nBecause refrigerators typically sit against walls and over flooring, water from these leaks pools underneath, soaking into subfloors and traveling behind walls. Many homeowners don't discover the damage until they smell mold, notice warped flooring, or move the refrigerator and find extensive damage. Our team specializes in detecting and restoring this often hidden water damage.",
+        "whyActFast": "Refrigerator water line leaks are particularly damaging because they often go undetected for extended periods. Water continuously seeps under the unit, saturating subfloors and traveling into wall cavities. By the time you notice signs like warped flooring or odors, significant damage and mold growth may have occurred. Immediate professional inspection and drying is crucial.",
+        "commonCauses": [
+          "Cracked or worn plastic supply line",
+          "Loose connection at water valve or refrigerator",
+          "Corroded copper tubing from hard water",
+          "Damaged fitting from moving the refrigerator",
+          "Defective ice maker water inlet valve",
+          "Kinked line causing pressure buildup",
+          "Frozen and burst water line",
+          "Improper original installation"
+        ],
+        "preventionTips": [
+          "Inspect the water line annually for wear or damage",
+          "Replace plastic lines with braided steel supply lines",
+          "Check connections when cleaning behind refrigerator",
+          "Don't kink the line when pushing refrigerator back",
+          "Install a water leak detector behind the refrigerator",
+          "Turn off water supply when away for extended periods",
+          "Replace water lines every 5-7 years proactively",
+          "Have connections checked during kitchen remodels"
+        ],
+        "warningSignals": [
+          "Puddles of water behind or beside refrigerator",
+          "Reduced ice production or slow water dispenser",
+          "Musty odors near the refrigerator area",
+          "Warped, buckled, or soft flooring nearby",
+          "Visible water stains on floor or baseboards",
+          "Ice buildup in freezer around ice maker",
+          "Higher than normal humidity in kitchen",
+          "Unexplained increase in water bill"
+        ],
+        "process": [
+          {"step": 1, "title": "Inspection & Shutoff", "description": "We locate the leak source, shut off the water supply, and move the refrigerator to access affected areas for thorough assessment."},
+          {"step": 2, "title": "Damage Assessment", "description": "Moisture meters and thermal imaging reveal the full extent of water damage, including under flooring and behind walls that may appear dry."},
+          {"step": 3, "title": "Water Extraction", "description": "All accessible water is extracted, and affected materials are prepared for drying or removal depending on damage extent."},
+          {"step": 4, "title": "Structural Drying", "description": "Industrial air movers and dehumidifiers are positioned to dry subfloors, wall cavities, and any other affected areas."},
+          {"step": 5, "title": "Mold Prevention Treatment", "description": "Antimicrobial treatments prevent mold growth in areas that have been wet, especially important for hidden spaces behind walls."},
+          {"step": 6, "title": "Flooring & Wall Restoration", "description": "Damaged flooring, baseboards, and drywall are repaired or replaced. We coordinate with plumbers for proper water line replacement."}
+        ],
+        "faqs": [
+          {"question": "How do I check for refrigerator water line leaks?", "answer": "Pull your refrigerator out periodically (every few months) and check for moisture on the floor, at connections, and along the water line. Look for warped flooring, staining, or musty odors in the area."},
+          {"question": "What type of water line is least likely to leak?", "answer": "Braided stainless steel supply lines are most reliable. Plastic lines become brittle over time and crack. Copper can corrode from hard water. We recommend upgrading to braided steel if you have an older line."},
+          {"question": "Can a refrigerator leak cause mold under flooring?", "answer": "Yes, this is very common with refrigerator leaks because they go unnoticed for extended periods. The dark, moist environment under flooring is ideal for mold growth. Professional inspection is important."},
+          {"question": "Will insurance cover refrigerator water line damage?", "answer": "Most homeowner's policies cover sudden water damage from appliance lines. However, long-term slow leaks may be denied as maintenance issues. Documentation of the damage is critical."},
+          {"question": "How often should I replace the refrigerator water line?", "answer": "Proactively replace water supply lines every 5-7 years, or immediately if you see any wear, kinks, or discoloration. Upgrading from plastic to braided steel is a worthwhile investment."},
+          {"question": "Should I turn off the ice maker when I'm on vacation?", "answer": "Yes, turning off the water supply to your refrigerator when away for more than a few days reduces the risk of unattended leaks. Locate your supply valve (usually under the sink or behind the refrigerator) before your trip."}
+        ]
+      }
+    },
+    {
+      "id": "pool-leak",
+      "name": "Swimming Pool Leak",
+      "slug": "swimming-pool-leak-damage",
+      "description": "Swimming pool and spa leak water damage restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "In South Florida, swimming pools are nearly as common as air conditioners. But when pool equipment fails, lines crack, or shells deteriorate, the resulting water damage can be extensive. A pool leak can release thousands of gallons of water, saturating surrounding soil, undermining foundations, flooding garages, and damaging pool decks and structures.\n\nPool leaks present unique restoration challenges. The water is chemically treated with chlorine and other chemicals that can damage plants, corrode materials, and create different drying requirements than freshwater damage. Pool equipment areas are particularly vulnerable—heaters, pumps, and filters involve multiple water connections that can fail.\n\nMany South Florida homes have pools located near the main structure, meaning pool leaks can travel under pool decks and into the home's foundation, garage, or living areas. Underground pipe failures are especially problematic, as water saturates soil for extended periods before visible signs appear. Our team has extensive experience with pool-related water damage throughout the region.",
+        "whyActFast": "Pool leaks involve significant water volume—a pool can lose hundreds of gallons per day through a major leak. This water saturates soil around your home's foundation, potentially causing erosion, settling, and structural issues. The chlorinated water can also damage plants and pool equipment. Early detection and repair prevents escalating damage and costly foundation problems.",
+        "commonCauses": [
+          "Cracked or deteriorated pool shell",
+          "Failed underground plumbing lines",
+          "Damaged pool equipment connections",
+          "Deteriorated pump seals or fittings",
+          "Cracked or loose tile and grout",
+          "Damaged skimmer or return fittings",
+          "Filter tank or valve failures",
+          "Heater corrosion and connection failures"
+        ],
+        "preventionTips": [
+          "Monitor water level daily—unexplained drops indicate leaks",
+          "Perform the bucket test monthly to check for leaks",
+          "Have pool equipment inspected annually",
+          "Address small tile or grout issues before they worsen",
+          "Check equipment pad for standing water regularly",
+          "Maintain proper water chemistry to prevent corrosion",
+          "Don't ignore constantly running auto-fill systems",
+          "Have unexplained wet areas in yard investigated"
+        ],
+        "warningSignals": [
+          "Pool water level dropping faster than normal",
+          "Constantly running auto-fill system",
+          "Wet or soggy areas in yard near pool",
+          "Cracks in pool deck or settling",
+          "Algae growth from chemical imbalance",
+          "Air bubbles in return lines",
+          "Standing water around pool equipment",
+          "Higher than normal water bill"
+        ],
+        "process": [
+          {"step": 1, "title": "Leak Detection", "description": "We work with pool professionals to identify the leak source—whether shell, plumbing, or equipment—before beginning water damage restoration."},
+          {"step": 2, "title": "Damage Assessment", "description": "We assess all affected areas including structures, landscaping, and foundations. Moisture mapping identifies water travel paths."},
+          {"step": 3, "title": "Water Mitigation", "description": "Standing water is removed from affected structures. Saturated soil may require drainage solutions to prevent ongoing damage."},
+          {"step": 4, "title": "Structural Drying", "description": "Any affected structures—garages, pool houses, decks—are dried using appropriate equipment for each material type."},
+          {"step": 5, "title": "Foundation Assessment", "description": "We evaluate any foundation impacts and coordinate with structural specialists if settling or erosion has occurred."},
+          {"step": 6, "title": "Restoration", "description": "Damaged structures, decking, and landscaping are repaired or replaced. We coordinate with pool repair professionals for a complete solution."}
+        ],
+        "faqs": [
+          {"question": "How do I know if my pool is leaking?", "answer": "Perform the bucket test: place a bucket of pool water on a step and mark both water levels. After 24 hours, if the pool dropped more than the bucket, you likely have a leak. Also watch for constantly running auto-fill, wet spots in the yard, or dropping water levels."},
+          {"question": "Can a pool leak damage my home's foundation?", "answer": "Yes, significant pool leaks can saturate soil around foundations, causing erosion, settling, and structural problems. This is especially concerning in South Florida's sandy soil. Early leak detection prevents these serious issues."},
+          {"question": "Will insurance cover pool leak water damage?", "answer": "Coverage varies by policy. Damage to surrounding structures from sudden failures may be covered, but the pool itself and gradual deterioration typically are not. Review your policy and document all damage for claims."},
+          {"question": "How much water can a pool lose to a leak?", "answer": "Pool leaks can lose 100-500+ gallons per day depending on severity. A quarter-inch drop per day equals about 200 gallons lost. This adds up quickly to thousands of gallons affecting surrounding areas."},
+          {"question": "Is pool water damage different from regular water damage?", "answer": "Yes, pool water contains chlorine and other chemicals that can affect plants, corrode certain materials differently, and require specific cleaning approaches. Our team is experienced with the unique aspects of pool water damage."},
+          {"question": "Should I drain my pool if there's a leak?", "answer": "No, don't drain the pool without professional guidance. An empty pool can actually cause more structural damage—the shell can crack or even 'pop' out of the ground from groundwater pressure. Have leaks properly diagnosed and repaired."}
+        ]
+      }
+    },
+    {
+      "id": "sprinkler-system",
+      "name": "Sprinkler System Water Damage",
+      "slug": "sprinkler-system-water-damage",
+      "description": "Irrigation and sprinkler system leak and flood restoration",
+      "urgency": "moderate",
+      "seasonality": ["year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Irrigation and sprinkler systems are essential for maintaining South Florida's lush landscapes, but when they fail, the resulting water damage can be extensive. Broken heads, cracked pipes, stuck valves, and controller malfunctions can release thousands of gallons of water—often continuously until discovered.\n\nSprinkler system failures present unique challenges. They often occur underground or in areas not regularly monitored, allowing water to flow for hours or even days before anyone notices. Water from these failures saturates landscaping, erodes soil, floods hardscapes, and can intrude into homes through foundations, garages, and exterior walls.\n\nSouth Florida's sandy soil and high water table make sprinkler leaks particularly problematic. Water travels quickly through sand, often reaching structures before visible pooling occurs. During rainy season, irrigation problems may be masked by normal rainfall until extensive damage has developed. Our restoration team understands these regional challenges and responds quickly to sprinkler-related water damage.",
+        "whyActFast": "Sprinkler system failures can release enormous volumes of water—a stuck zone valve can discharge thousands of gallons before the next scheduled run reveals the problem. This water saturates foundation soils, floods low-lying areas, and can intrude into homes. Early detection and professional water extraction prevents foundation damage and mold growth.",
+        "commonCauses": [
+          "Broken or damaged sprinkler heads",
+          "Cracked underground PVC piping",
+          "Stuck or failed zone valves",
+          "Controller malfunction causing continuous run",
+          "Damaged backflow preventer",
+          "Root intrusion into underground pipes",
+          "Freeze damage from rare cold events",
+          "Poor installation or improper repairs"
+        ],
+        "preventionTips": [
+          "Walk your system monthly while it runs to check all zones",
+          "Check for unusually wet areas that might indicate underground leaks",
+          "Monitor water bills for unexpected increases",
+          "Have your irrigation system professionally serviced annually",
+          "Replace aging system components proactively",
+          "Install a smart controller with leak detection features",
+          "Protect backflow preventers and valves from damage",
+          "Winterize system during cold weather advisories"
+        ],
+        "warningSignals": [
+          "Unexplained wet or soggy areas in landscaping",
+          "Sprinkler head spraying erratically or continuously",
+          "Significant increase in water bill",
+          "Sinkholes or settling in yard areas",
+          "Water pooling near foundation or in garage",
+          "Visible water bubbling from ground",
+          "System pressure drop affecting spray patterns",
+          "Sounds of running water when system is off"
+        ],
+        "process": [
+          {"step": 1, "title": "Emergency Shutoff", "description": "We locate and shut off the irrigation water supply immediately to stop ongoing water flow while assessing the full scope of damage."},
+          {"step": 2, "title": "Damage Mapping", "description": "We identify all affected areas—structures, foundations, hardscapes, and landscaping—to develop a comprehensive restoration plan."},
+          {"step": 3, "title": "Water Extraction", "description": "Standing water is extracted from any affected structures. Saturated landscaping may require drainage or grading solutions."},
+          {"step": 4, "title": "Structural Drying", "description": "Any affected structures including garages, exterior walls, or interior spaces are dried using professional equipment."},
+          {"step": 5, "title": "Foundation Assessment", "description": "We evaluate soil saturation around foundations and coordinate with specialists if erosion or settling has occurred."},
+          {"step": 6, "title": "Restoration", "description": "All damaged materials, hardscapes, and landscaping are repaired or replaced. We coordinate with irrigation professionals for system repair."}
+        ],
+        "faqs": [
+          {"question": "How much water can a sprinkler system leak waste?", "answer": "A broken main line or stuck valve can release 5-15 gallons per minute—that's 7,000-20,000+ gallons per day. Even a leaking head might waste hundreds of gallons daily. This explains the dramatic water bill increases many homeowners experience."},
+          {"question": "Can sprinkler system leaks damage my foundation?", "answer": "Yes, especially in South Florida's sandy soil. Water from irrigation leaks saturates soil around foundations, potentially causing erosion, settling, and water intrusion. Regular system checks help prevent this serious issue."},
+          {"question": "Will homeowner's insurance cover sprinkler system water damage?", "answer": "Most policies cover sudden and accidental water damage to structures from irrigation failures. Landscape damage and the system repair itself typically aren't covered. Document all damage thoroughly for your claim."},
+          {"question": "How do I know if I have an underground irrigation leak?", "answer": "Watch for unexplained wet spots, lush grass patches amid dry lawn, sinkholes, a running water meter when nothing is on, or sudden water bill increases. Have your irrigation company perform a pressure test if you suspect problems."},
+          {"question": "Should I turn off my sprinklers when I go on vacation?", "answer": "Consider reducing frequency or turning off the system, especially during rainy season. A failure while you're away could run for days undetected. Smart irrigation controllers can alert you to unusual water use remotely."},
+          {"question": "How can I detect sprinkler problems early?", "answer": "Walk each zone while it runs at least monthly. Check your water meter before and after timed runs. Consider installing a smart controller with flow sensors that alert you to unusual water usage patterns."}
+        ]
+      }
+    },
+    {
+      "id": "foundation-seepage",
+      "name": "Foundation Water Seepage",
+      "slug": "foundation-water-seepage-damage",
+      "description": "Foundation water intrusion and seepage restoration",
+      "urgency": "high",
+      "seasonality": ["rainy-season", "hurricane-season", "year-round"],
+      "parentServices": ["water-damage-restoration"],
+      "bodyContent": {
+        "overview": "Foundation water seepage is a persistent problem for many South Florida homeowners. With our high water table, frequent heavy rains, and sandy soil, water finds its way into homes through cracks, joints, and porous concrete. This intrusion causes ongoing damage to flooring, walls, and belongings while creating conditions for mold growth.\n\nUnlike sudden water damage events, foundation seepage is often gradual. Water may only appear during heavy rains or when the water table rises. This intermittent nature makes it easy to ignore—but each occurrence adds moisture to your home, damages materials, and encourages mold. Over time, foundation seepage can cause significant structural and health concerns.\n\nSouth Florida construction typically uses slab-on-grade foundations, which sit directly on the ground. When hydrostatic pressure builds during wet periods, water can push up through cracks in the slab, through the slab-wall joint, or through porous concrete. Proper remediation requires both addressing the water intrusion source and restoring any damage caused by repeated seepage events.",
+        "whyActFast": "Foundation seepage indicates ongoing water intrusion that worsens with each rain event. Even 'minor' seepage introduces moisture that damages flooring, promotes mold growth, and creates musty odors. Addressing seepage early—before it causes widespread damage—is far more cost-effective than major restoration later. Untreated seepage also reduces your home's value and can affect sale prospects.",
+        "commonCauses": [
+          "Cracks in the concrete slab foundation",
+          "Gaps at the slab-wall joint",
+          "Porous or deteriorating concrete",
+          "High water table during wet season",
+          "Poor drainage around foundation",
+          "Clogged or failed French drain system",
+          "Negative grading directing water toward home",
+          "Window well or entry point failures"
+        ],
+        "preventionTips": [
+          "Ensure grading slopes away from foundation on all sides",
+          "Keep gutters clean and extend downspouts away from house",
+          "Repair foundation cracks as soon as they appear",
+          "Install or maintain French drains around foundation",
+          "Consider waterproof coatings on basement walls if applicable",
+          "Address standing water in landscaping promptly",
+          "Maintain sump pump if your home has one",
+          "Check and seal expansion joints regularly"
+        ],
+        "warningSignals": [
+          "Water appearing on floor during or after heavy rain",
+          "Damp or wet spots on interior walls near floor level",
+          "Musty or moldy odors especially after rain",
+          "Efflorescence (white mineral deposits) on concrete",
+          "Stained or damaged baseboards",
+          "Warped, buckling, or damaged flooring",
+          "Visible cracks in foundation walls or floor",
+          "Increased humidity levels in home during wet weather"
+        ],
+        "process": [
+          {"step": 1, "title": "Seepage Assessment", "description": "We identify the source and extent of water intrusion, including moisture mapping to find affected areas that may not be visibly wet."},
+          {"step": 2, "title": "Water Extraction", "description": "Any standing water is extracted and affected materials are prepared for drying or removal depending on damage extent."},
+          {"step": 3, "title": "Structural Drying", "description": "We thoroughly dry all affected materials including flooring, subfloors, drywall, and wall cavities using professional equipment."},
+          {"step": 4, "title": "Mold Assessment", "description": "Given that seepage is often recurring, we carefully inspect for mold growth and treat any affected areas with antimicrobial solutions."},
+          {"step": 5, "title": "Source Remediation Coordination", "description": "We coordinate with waterproofing and foundation specialists to address the underlying cause and prevent future seepage."},
+          {"step": 6, "title": "Restoration", "description": "Damaged flooring, baseboards, drywall, and other materials are repaired or replaced once the seepage source has been addressed."}
+        ],
+        "faqs": [
+          {"question": "Why does my home only have water intrusion during heavy rain?", "answer": "This typically indicates the water table rises during rain, increasing hydrostatic pressure that pushes water through cracks or joints. The foundation may be fine in dry conditions but vulnerable when groundwater pressure increases."},
+          {"question": "Can foundation seepage cause mold?", "answer": "Absolutely. Repeated moisture intrusion creates ideal conditions for mold growth—especially behind baseboards, under flooring, and in wall cavities where moisture lingers. Even intermittent seepage can lead to mold problems over time."},
+          {"question": "Will insurance cover foundation water seepage damage?", "answer": "Generally, no. Most homeowner's policies exclude groundwater intrusion and gradual seepage. Some policies cover sudden, accidental water damage resulting from seepage issues. Review your policy carefully and document all damage."},
+          {"question": "How do I permanently stop foundation seepage?", "answer": "Stopping seepage typically requires professional waterproofing solutions—interior sealants, exterior drainage systems, crack injection, or sump pump installation. We coordinate with waterproofing specialists to ensure lasting results."},
+          {"question": "Should I be worried about small amounts of seepage?", "answer": "Yes. Small seepage problems typically worsen over time. Each moisture intrusion event damages materials and promotes mold growth. Addressing seepage early is more cost-effective than waiting for major damage."},
+          {"question": "Can foundation seepage affect my home's value?", "answer": "Definitely. Signs of water intrusion—staining, odors, damage—are red flags for home buyers. Documented water issues can significantly reduce property value. Addressing seepage and restoring damage protects your investment."}
+        ]
+      }
     }
   ],
   "mold": [
