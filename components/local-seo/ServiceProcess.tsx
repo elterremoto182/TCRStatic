@@ -1,7 +1,8 @@
 'use client';
 
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import * as LucideIcons from 'lucide-react';
+import { Search, Droplets, Wind, Shield, Hammer, CheckCircle } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 
 interface ProcessStep {
   step: number;
@@ -16,13 +17,13 @@ interface ServiceProcessProps {
 }
 
 // Map step numbers to icons
-const stepIcons: Record<number, keyof typeof LucideIcons> = {
-  1: 'Search',
-  2: 'Droplets',
-  3: 'Wind',
-  4: 'Shield',
-  5: 'Hammer',
-  6: 'CheckCircle',
+const stepIcons: Record<number, LucideIcon> = {
+  1: Search,
+  2: Droplets,
+  3: Wind,
+  4: Shield,
+  5: Hammer,
+  6: CheckCircle,
 };
 
 export function ServiceProcess({ title, steps, className = '' }: ServiceProcessProps) {
@@ -40,9 +41,7 @@ export function ServiceProcess({ title, steps, className = '' }: ServiceProcessP
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {steps.map((step, index) => {
-            const iconName = stepIcons[step.step] || 'CheckCircle';
-            const IconComponent = (LucideIcons[iconName] ||
-              LucideIcons.CheckCircle) as React.ElementType;
+            const IconComponent = stepIcons[step.step] || CheckCircle;
 
             return (
               <AnimateOnScroll
