@@ -97,12 +97,14 @@
       ]
     },
     "Commercial": {
-      "service": "/commercial-restoration/",
+      "service": "/water-damage-restoration/commercial/",
       "serviceName": "Commercial Restoration",
-      "pillarGuide": null,
+      "pillarGuide": "/guides/water-damage-restoration/",
       "pillarPosts": [
-        "/commercial-restoration-guide/",
-        "/business-continuity-after-water-damage/"
+        "/post-disaster-assessment-for-commercial-properties/",
+        "/how-long-does-property-restoration-take/",
+        "/emergency-water-damage-checklist-first-24-hours/",
+        "/water-damage-restoration-guide/"
       ]
     }
   },
