@@ -5,7 +5,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
@@ -43,22 +43,59 @@ export default function ShrinkWrappingPage() {
     { label: 'Shrink Wrapping', href: `/${SERVICE_SLUG}` },
   ];
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+  const video = service.video;
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${baseUrl}/${SERVICE_SLUG}/#Service`,
     name: 'Shrink Wrapping Services',
     description: 'Professional shrink wrapping services for roofs and properties throughout South Florida, providing superior long-term protection for storm-damaged structures.',
+    url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
     areaServed: cityList.map(city => ({
       '@type': 'City',
       name: city.name,
     })),
     serviceType: 'Shrink Wrapping',
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Shrink Wrapping Services',
+      itemListElement: service.process.map((step) => ({
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: step.title,
+          description: step.description,
+        },
+      })),
+    },
   };
+
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
+  // Generate FAQ schema if FAQs exist
+  const faqSchema = service.mainPageContent?.generalFaqs 
+    ? generateFAQPageSchema(service.mainPageContent.generalFaqs)
+    : null;
+
+  // Generate video schema if video exists
+  const videoSchema = video 
+    ? generateYouTubeVideoSchema({
+        videoId: video.youtubeId,
+        title: video.title,
+        description: `Learn about our professional shrink wrapping process. Long-term property protection services by Total Care Restoration.`,
+      })
+    : null;
+
+  // Combine all schemas
+  const schemas = [serviceSchema, breadcrumbSchema, faqSchema, videoSchema].filter(Boolean);
 
   return (
     <>
-      <StructuredData data={serviceSchema} />
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}

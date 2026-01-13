@@ -5,6 +5,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { getPageBySlug } from '@/lib/pages/pages';
 import { generatePageMetadata } from '@/lib/utils';
+import { StructuredData, generateAboutPageSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 import OptimizedImage from '@/components/OptimizedImage';
 
 export async function generateMetadata() {
@@ -33,13 +34,27 @@ export default async function AboutPage() {
     notFound();
   }
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+  
+  const breadcrumbs = [{ label: 'About', href: '/about' }];
+  
+  // Generate schemas
+  const aboutPageSchema = generateAboutPageSchema({
+    url: `${baseUrl}/about/`,
+    name: page.title,
+    description: page.seo_description,
+  });
+  
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
   return (
     <>
+      <StructuredData data={[aboutPageSchema, breadcrumbSchema]} />
       <Header />
       <main className="min-h-screen pt-20">
         <article className="max-w-4xl mx-auto px-4 py-12">
           <div className="mb-8">
-            <Breadcrumbs items={[{ label: 'About', href: '/about' }]} />
+            <Breadcrumbs items={breadcrumbs} />
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-6">

@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema } from '@/lib/structured-data';
 import { 
   Search, 
   Phone, 
@@ -34,11 +34,15 @@ export default function LeakDetectionPage() {
     { label: 'Leak Detection', href: '/leak-detection' },
   ];
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${baseUrl}/leak-detection/#Service`,
     name: 'Leak Detection Services',
     description: 'Professional leak detection services using advanced technology to locate hidden water leaks, slab leaks, and pipe damage in residential and commercial properties.',
+    url: `${baseUrl}/leak-detection/`,
     provider: getLocalBusinessProvider(),
     areaServed: {
       '@type': 'State',
@@ -46,6 +50,12 @@ export default function LeakDetectionPage() {
     },
     serviceType: 'Leak Detection',
   };
+
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
+  // Combine all schemas
+  const schemas = [serviceSchema, breadcrumbSchema];
 
   const services = [
     {
@@ -102,7 +112,7 @@ export default function LeakDetectionPage() {
 
   return (
     <>
-      <StructuredData data={serviceSchema} />
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}

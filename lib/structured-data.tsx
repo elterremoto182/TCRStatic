@@ -35,46 +35,73 @@ export function generateOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': `${baseUrl}#Organization`,
     name: siteConfig.name,
     url: baseUrl,
-    logo: `${baseUrl}${siteConfig.logo}`,
+    telephone: siteConfig.phone,
+    email: siteConfig.email,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${baseUrl}${siteConfig.logo}`,
+    },
     description: siteConfig.description,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: siteConfig.address,
+      streetAddress: '7790 NW 55th St.',
       addressLocality: 'Doral',
       addressRegion: 'FL',
       postalCode: '33166',
       addressCountry: 'US',
     },
-    contactPoint: {
-      '@type': 'ContactPoint',
-      telephone: siteConfig.phone,
-      contactType: 'Customer Service',
-      areaServed: 'US',
-      availableLanguage: 'English',
-    },
+    contactPoint: [
+      {
+        '@type': 'ContactPoint',
+        telephone: siteConfig.phone,
+        contactType: 'Customer Service',
+        areaServed: 'US',
+        availableLanguage: ['English', 'Spanish'],
+        contactOption: 'TollFree',
+      },
+      {
+        '@type': 'ContactPoint',
+        telephone: siteConfig.phone,
+        contactType: 'Emergency',
+        areaServed: 'US',
+        availableLanguage: ['English', 'Spanish'],
+        hoursAvailable: {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+          opens: '00:00',
+          closes: '23:59',
+        },
+      },
+    ],
     sameAs: Object.values(siteConfig.social).filter(Boolean) as string[],
   };
 }
 
 /**
  * Generate LocalBusiness schema
+ * Uses multiple types for better categorization: LocalBusiness, EmergencyService, HomeAndConstructionBusiness
  */
 export function generateLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
+    '@type': ['LocalBusiness', 'EmergencyService', 'HomeAndConstructionBusiness'],
     '@id': `${baseUrl}#LocalBusiness`,
     name: siteConfig.name,
     image: `${baseUrl}${siteConfig.logo}`,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${baseUrl}${siteConfig.logo}`,
+    },
     description: siteConfig.description,
     url: baseUrl,
     telephone: siteConfig.phone,
     email: siteConfig.email,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: siteConfig.address,
+      streetAddress: '7790 NW 55th St.',
       addressLocality: 'Doral',
       addressRegion: 'FL',
       postalCode: '33166',
@@ -85,13 +112,36 @@ export function generateLocalBusinessSchema() {
       latitude: '25.8195',
       longitude: '-80.3553',
     },
-    openingHoursSpecification: {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-      opens: '09:00',
-      closes: '17:00',
-    },
+    // 24/7 Emergency Service availability
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: '00:00',
+        closes: '23:59',
+      },
+    ],
+    areaServed: [
+      {
+        '@type': 'State',
+        name: 'Florida',
+      },
+      {
+        '@type': 'City',
+        name: 'Miami',
+      },
+      {
+        '@type': 'City',
+        name: 'Doral',
+      },
+      {
+        '@type': 'City',
+        name: 'Fort Lauderdale',
+      },
+    ],
     priceRange: '$$',
+    paymentAccepted: ['Cash', 'Credit Card', 'Debit Card', 'Insurance'],
+    currenciesAccepted: 'USD',
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: siteConfig.reviews.google.rating.toString(),
@@ -99,21 +149,7 @@ export function generateLocalBusinessSchema() {
       bestRating: '5',
       worstRating: '1',
     },
-    review: [
-      {
-        '@type': 'Review',
-        author: {
-          '@type': 'Organization',
-          name: 'Google Reviews',
-        },
-        reviewRating: {
-          '@type': 'Rating',
-          ratingValue: siteConfig.reviews.google.rating.toString(),
-          bestRating: '5',
-        },
-        reviewBody: 'Highly rated restoration services',
-      },
-    ],
+    sameAs: Object.values(siteConfig.social).filter(Boolean) as string[],
   };
 }
 
@@ -139,6 +175,7 @@ export function generateWebSiteSchema() {
 
 /**
  * Generate Article schema for blog posts
+ * Uses BlogPosting for better specificity
  */
 export function generateArticleSchema({
   title,
@@ -149,6 +186,8 @@ export function generateArticleSchema({
   dateModified,
   author,
   category,
+  wordCount,
+  content,
 }: {
   title: string;
   description?: string;
@@ -158,21 +197,29 @@ export function generateArticleSchema({
   dateModified?: string;
   author?: string;
   category?: string;
+  wordCount?: number;
+  content?: string;
 }) {
-  return {
+  // Calculate word count if content provided but no explicit wordCount
+  const calculatedWordCount = wordCount || (content ? content.split(/\s+/).length : undefined);
+  
+  const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
+    '@id': `${url}#Article`,
     headline: title,
     description: description || title,
     image: image ? (image.startsWith('http') ? image : `${baseUrl}${image}`) : `${baseUrl}${siteConfig.seo.ogImage}`,
     datePublished: datePublished || new Date().toISOString(),
     dateModified: dateModified || datePublished || new Date().toISOString(),
     author: {
-      '@type': 'Person',
+      '@type': 'Organization',
+      '@id': `${baseUrl}#Organization`,
       name: author || siteConfig.name,
     },
     publisher: {
       '@type': 'Organization',
+      '@id': `${baseUrl}#Organization`,
       name: siteConfig.name,
       logo: {
         '@type': 'ImageObject',
@@ -184,7 +231,29 @@ export function generateArticleSchema({
       '@id': url,
     },
     articleSection: category,
+    inLanguage: 'en-US',
+    isPartOf: {
+      '@type': 'WebSite',
+      '@id': `${baseUrl}#WebSite`,
+      name: siteConfig.name,
+      url: baseUrl,
+    },
   };
+
+  // Add wordCount if available
+  if (calculatedWordCount) {
+    schema.wordCount = calculatedWordCount;
+  }
+
+  // Add about property to strengthen topical relevance
+  if (category) {
+    schema.about = {
+      '@type': 'Thing',
+      name: category,
+    };
+  }
+
+  return schema;
 }
 
 /**
@@ -252,25 +321,18 @@ export function generateServiceSchema({
 
 /**
  * Generate BreadcrumbList schema
- * Note: The last item (current page) should not have the 'item' property per Google's guidelines
+ * Google now recommends including the item URL for all items including the last one
  */
 export function generateBreadcrumbSchema(items: Array<{ label: string; href: string }>) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: items.map((item, index) => {
-      const isLast = index === items.length - 1;
-      const listItem: Record<string, any> = {
-        '@type': 'ListItem',
-        position: index + 1,
-        name: item.label,
-      };
-      // Only add 'item' for non-last items (current page shouldn't have item URL)
-      if (!isLast) {
-        listItem.item = `${baseUrl}${ensureTrailingSlash(item.href)}`;
-      }
-      return listItem;
-    }),
+    itemListElement: items.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.label,
+      item: `${baseUrl}${ensureTrailingSlash(item.href)}`,
+    })),
   };
 }
 
@@ -289,6 +351,229 @@ export function generateAggregateRatingSchema() {
   ];
 
   return ratings;
+}
+
+/**
+ * Generate FAQPage schema for pages with FAQ sections
+ */
+export function generateFAQPageSchema(faqs: Array<{ question: string; answer: string }>) {
+  if (!faqs || faqs.length === 0) return null;
+  
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(faq => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  };
+}
+
+/**
+ * Generate VideoObject schema for YouTube embeds
+ */
+export function generateVideoSchema({
+  name,
+  description,
+  thumbnailUrl,
+  uploadDate,
+  duration,
+  contentUrl,
+  embedUrl,
+}: {
+  name: string;
+  description?: string;
+  thumbnailUrl?: string;
+  uploadDate?: string;
+  duration?: string;
+  contentUrl?: string;
+  embedUrl?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name,
+    description: description || name,
+    thumbnailUrl: thumbnailUrl || `${baseUrl}${siteConfig.seo.ogImage}`,
+    uploadDate: uploadDate || new Date().toISOString(),
+    duration: duration,
+    contentUrl: contentUrl,
+    embedUrl: embedUrl,
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${baseUrl}${siteConfig.logo}`,
+      },
+    },
+  };
+}
+
+/**
+ * Generate YouTube VideoObject schema from video ID
+ */
+export function generateYouTubeVideoSchema({
+  videoId,
+  title,
+  description,
+}: {
+  videoId: string;
+  title: string;
+  description?: string;
+}) {
+  return generateVideoSchema({
+    name: title,
+    description: description || `${title} - Professional restoration services by ${siteConfig.name}`,
+    thumbnailUrl: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+    contentUrl: `https://www.youtube.com/watch?v=${videoId}`,
+    embedUrl: `https://www.youtube.com/embed/${videoId}`,
+  });
+}
+
+/**
+ * Generate CollectionPage schema for blog listing, guides listing, etc.
+ */
+export function generateCollectionPageSchema({
+  name,
+  description,
+  url,
+  items,
+}: {
+  name: string;
+  description?: string;
+  url: string;
+  items?: Array<{ name: string; url: string }>;
+}) {
+  const schema: Record<string, unknown> = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name,
+    description: description || name,
+    url,
+    isPartOf: {
+      '@type': 'WebSite',
+      '@id': `${baseUrl}#WebSite`,
+      name: siteConfig.name,
+      url: baseUrl,
+    },
+  };
+
+  if (items && items.length > 0) {
+    schema.mainEntity = {
+      '@type': 'ItemList',
+      numberOfItems: items.length,
+      itemListElement: items.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.name,
+        url: item.url,
+      })),
+    };
+  }
+
+  return schema;
+}
+
+/**
+ * Generate AboutPage schema
+ */
+export function generateAboutPageSchema({
+  url,
+  name,
+  description,
+}: {
+  url: string;
+  name?: string;
+  description?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: name || `About ${siteConfig.name}`,
+    description: description || siteConfig.description,
+    url,
+    mainEntity: {
+      '@type': 'Organization',
+      '@id': `${baseUrl}#Organization`,
+    },
+    isPartOf: {
+      '@type': 'WebSite',
+      '@id': `${baseUrl}#WebSite`,
+      name: siteConfig.name,
+      url: baseUrl,
+    },
+  };
+}
+
+/**
+ * Generate ContactPage schema
+ */
+export function generateContactPageSchema({
+  url,
+  name,
+  description,
+}: {
+  url: string;
+  name?: string;
+  description?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ContactPage',
+    name: name || `Contact ${siteConfig.name}`,
+    description: description || `Get in touch with ${siteConfig.name} for emergency restoration services.`,
+    url,
+    mainEntity: {
+      '@type': 'LocalBusiness',
+      '@id': `${baseUrl}#LocalBusiness`,
+    },
+    isPartOf: {
+      '@type': 'WebSite',
+      '@id': `${baseUrl}#WebSite`,
+      name: siteConfig.name,
+      url: baseUrl,
+    },
+  };
+}
+
+/**
+ * Generate WebPage schema for generic pages
+ */
+export function generateWebPageSchema({
+  url,
+  name,
+  description,
+  datePublished,
+  dateModified,
+}: {
+  url: string;
+  name: string;
+  description?: string;
+  datePublished?: string;
+  dateModified?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${url}#WebPage`,
+    name,
+    description: description || name,
+    url,
+    isPartOf: {
+      '@type': 'WebSite',
+      '@id': `${baseUrl}#WebSite`,
+      name: siteConfig.name,
+      url: baseUrl,
+    },
+    datePublished: datePublished || new Date().toISOString(),
+    dateModified: dateModified || new Date().toISOString(),
+    inLanguage: 'en-US',
+  };
 }
 
 /**

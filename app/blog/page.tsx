@@ -7,6 +7,7 @@ import { getAllPosts } from '@/lib/blog/posts';
 import { Calendar, User, ArrowRight } from 'lucide-react';
 import { getPageBySlug } from '@/lib/pages/pages';
 import { generatePageMetadata } from '@/lib/utils';
+import { StructuredData, generateCollectionPageSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 
 export async function generateMetadata() {
   const page = getPageBySlug('blog');
@@ -21,15 +22,32 @@ export async function generateMetadata() {
 
 export default function BlogPage() {
   const posts = getAllPosts();
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+  
+  const breadcrumbs = [{ label: 'Blog', href: '/blog/' }];
+  
+  // Generate CollectionPage schema with blog post items
+  const collectionPageSchema = generateCollectionPageSchema({
+    name: 'Blog',
+    description: 'Expert tips, guides, and insights for maintaining your home plumbing and leak detection.',
+    url: `${baseUrl}/blog/`,
+    items: posts.slice(0, 50).map(post => ({
+      name: post.title,
+      url: `${baseUrl}/${post.slug}/`,
+    })),
+  });
+  
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
 
   return (
     <>
+      <StructuredData data={[collectionPageSchema, breadcrumbSchema]} />
       <Header />
       <main className="min-h-screen">
         <section className="pt-32 pb-20 md:pb-28 bg-gradient-to-br from-primary/10 via-background to-accent/10">
           <div className="max-w-6xl mx-auto px-4">
             <div className="mb-8">
-              <Breadcrumbs items={[{ label: 'Blog', href: '/blog/' }]} />
+              <Breadcrumbs items={breadcrumbs} />
             </div>
             <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">

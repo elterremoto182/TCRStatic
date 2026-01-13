@@ -11,8 +11,7 @@ import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
 import { getPillarGuideInfo } from '@/lib/guides';
 import { Home, Calendar, User, ArrowLeft, BookOpen, ArrowRight } from 'lucide-react';
 import { generatePageMetadata, ensureTrailingSlash } from '@/lib/utils';
-import { StructuredData } from '@/lib/structured-data';
-import { generateArticleSchema } from '@/lib/structured-data';
+import { StructuredData, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 
 // Routes that have their own handlers and should not be handled by this catch-all
 const reservedRoutes = [
@@ -156,7 +155,13 @@ export default async function DynamicPage({
     const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
     const url = `${baseUrl}/${post.slug}/`;
     
-    // Generate Article schema
+    // Generate breadcrumbs
+    const breadcrumbItems = [
+      { label: 'Blog', href: '/blog/' },
+      { label: post.title, href: `/${post.slug}/` },
+    ];
+
+    // Generate Article schema with wordCount
     const articleSchema = generateArticleSchema({
       title: post.title,
       description: post.excerpt || post.title,
@@ -166,17 +171,15 @@ export default async function DynamicPage({
       dateModified: post.date,
       author: post.author,
       category: post.category,
+      content: post.content,
     });
 
-    // Generate breadcrumbs
-    const breadcrumbItems = [
-      { label: 'Blog', href: '/blog/' },
-      { label: post.title, href: `/${post.slug}/` },
-    ];
+    // Generate Breadcrumb schema
+    const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbItems);
 
     return (
       <>
-        <StructuredData data={articleSchema} />
+        <StructuredData data={[articleSchema, breadcrumbSchema]} />
         <Header />
         <main className="min-h-screen">
           <article className="pt-32 pb-20">

@@ -5,7 +5,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema } from '@/lib/structured-data';
 import { getService, getAllCities } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
@@ -42,22 +42,49 @@ export default function StormDamageRestorationPage() {
     { label: 'Storm Damage Restoration', href: `/${SERVICE_SLUG}` },
   ];
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${baseUrl}/${SERVICE_SLUG}/#Service`,
     name: 'Storm Damage Restoration',
     description: 'Professional storm and hurricane damage restoration services for residential and commercial properties throughout South Florida.',
+    url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
     areaServed: cityList.map(city => ({
       '@type': 'City',
       name: city.name,
     })),
     serviceType: 'Storm Damage Restoration',
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Storm Damage Restoration Services',
+      itemListElement: service.process.map((step) => ({
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: step.title,
+          description: step.description,
+        },
+      })),
+    },
   };
+
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
+  // Generate FAQ schema if FAQs exist
+  const faqSchema = service.mainPageContent?.generalFaqs 
+    ? generateFAQPageSchema(service.mainPageContent.generalFaqs)
+    : null;
+
+  // Combine all schemas
+  const schemas = [serviceSchema, breadcrumbSchema, faqSchema].filter(Boolean);
 
   return (
     <>
-      <StructuredData data={serviceSchema} />
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}

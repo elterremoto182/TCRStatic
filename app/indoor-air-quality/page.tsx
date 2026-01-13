@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema } from '@/lib/structured-data';
 import { 
   Wind, 
   Phone, 
@@ -32,11 +32,15 @@ export default function IndoorAirQualityPage() {
     { label: 'Indoor Air Quality', href: '/indoor-air-quality' },
   ];
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${baseUrl}/indoor-air-quality/#Service`,
     name: 'Indoor Air Quality Testing & Inspections',
     description: 'Professional indoor air quality testing and inspection services to identify mold spores, allergens, VOCs, and other pollutants in residential and commercial properties.',
+    url: `${baseUrl}/indoor-air-quality/`,
     provider: getLocalBusinessProvider(),
     areaServed: {
       '@type': 'State',
@@ -44,6 +48,12 @@ export default function IndoorAirQualityPage() {
     },
     serviceType: 'Indoor Air Quality Testing',
   };
+
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
+  // Combine all schemas
+  const schemas = [serviceSchema, breadcrumbSchema];
 
   const services = [
     {
@@ -79,7 +89,7 @@ export default function IndoorAirQualityPage() {
 
   return (
     <>
-      <StructuredData data={serviceSchema} />
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}

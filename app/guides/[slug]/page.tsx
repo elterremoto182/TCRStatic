@@ -7,7 +7,7 @@ import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { getGuideBySlug, getAllGuides, getGuideWithPosts } from '@/lib/guides';
 import { generatePageMetadata } from '@/lib/utils';
-import { StructuredData } from '@/lib/structured-data';
+import { StructuredData, generateBreadcrumbSchema, generateArticleSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
 import { 
   Phone, 
   ArrowRight, 
@@ -112,38 +112,37 @@ export default async function GuidePage({
 
   // Generate structured data
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
-  const guideSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: guide.title,
-    description: guide.excerpt,
-    url: `${baseUrl}/guides/${slug}/`,
-    author: {
-      '@type': 'Organization',
-      name: 'Total Care Restoration',
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'Total Care Restoration',
-      logo: {
-        '@type': 'ImageObject',
-        url: `${baseUrl}/images/site/logo.png`,
-      },
-    },
-    mainEntityOfPage: {
-      '@type': 'WebPage',
-      '@id': `${baseUrl}/guides/${slug}/`,
-    },
-  };
-
+  
   const breadcrumbs = [
     { label: 'Guides', href: '/guides/' },
     { label: guide.title, href: `/guides/${slug}/` },
   ];
 
+  // Use the proper article schema generator with wordCount
+  const guideSchema = generateArticleSchema({
+    title: guide.title,
+    description: guide.excerpt,
+    url: `${baseUrl}/guides/${slug}/`,
+    category: 'Guide',
+    content: guide.content,
+  });
+
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
+  // Generate video schema if video exists
+  const videoSchema = video ? generateYouTubeVideoSchema({
+    videoId: video.youtubeId,
+    title: video.title,
+    description: `${video.title} - Learn about our professional restoration process.`,
+  }) : null;
+
+  // Combine all schemas
+  const schemas = [guideSchema, breadcrumbSchema, videoSchema].filter(Boolean);
+
   return (
     <>
-      <StructuredData data={guideSchema} />
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}
