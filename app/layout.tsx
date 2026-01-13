@@ -30,10 +30,10 @@ export const metadata: Metadata = {
   // When Spanish content is added, create pages under /es/ and use:
   // generatePageMetadata({ ..., locale: 'es', alternateLocales: [{ locale: 'en', path: '/...' }] })
   alternates: {
-    canonical: baseUrl,
+    canonical: `${baseUrl}/`,
     languages: {
-      'en': baseUrl,
-      'x-default': baseUrl,
+      'en': `${baseUrl}/`,
+      'x-default': `${baseUrl}/`,
       // Spanish version placeholder - uncomment when /es/ pages are created:
       // 'es': `${baseUrl}/es/`,
     },
