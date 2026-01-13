@@ -19,7 +19,7 @@ export function GoogleMap() {
         allowFullScreen
         referrerPolicy="no-referrer-when-downgrade"
         src={mapUrl}
-        title="Total Leak Detection Location"
+        title="Total Care Restoration Location"
       />
     </div>
   );

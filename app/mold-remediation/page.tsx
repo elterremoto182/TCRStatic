@@ -6,11 +6,12 @@ import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceVideo } from '@/lib/local-seo/data';
+import { getService, getAllCities, getServiceVideo, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceVideo } from '@/components/local-seo/ServiceVideo';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
+import { RelatedProblems } from '@/components/local-seo/RelatedProblems';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
 import { generateAltText } from '@/lib/seo-utils';
 import { AlertTriangle, Home, Building2, ArrowRight, Phone, MapPin, Camera } from 'lucide-react';
@@ -30,6 +31,8 @@ export default function MoldRemediationPage() {
   const service = getService(SERVICE_SLUG);
   const cities = getAllCities();
   const video = getServiceVideo(SERVICE_SLUG);
+  const causes = getCausesForService(SERVICE_SLUG);
+  const defaultCity = Object.keys(cities)[0] || 'miami';
   
   if (!service) {
     return null;
@@ -228,6 +231,15 @@ export default function MoldRemediationPage() {
           <CommonCausesSection
             title="Common Causes of Mold Growth"
             causes={service.bodyContent.commonCauses}
+          />
+        )}
+
+        {/* Related Problems - Clickable cards linking to problem pages */}
+        {causes.length > 0 && (
+          <RelatedProblems
+            title="Common Mold Problems We Solve"
+            causes={causes}
+            defaultCity={defaultCity}
           />
         )}
 

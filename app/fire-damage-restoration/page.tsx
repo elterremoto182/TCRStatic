@@ -6,10 +6,11 @@ import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema } from '@/lib/structured-data';
-import { getService, getAllCities } from '@/lib/local-seo/data';
+import { getService, getAllCities, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
+import { RelatedProblems } from '@/components/local-seo/RelatedProblems';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
 import { generateAltText } from '@/lib/seo-utils';
 import { Flame, Home, Building2, ArrowRight, Phone, MapPin, Camera } from 'lucide-react';
@@ -28,6 +29,8 @@ export async function generateMetadata() {
 export default function FireDamageRestorationPage() {
   const service = getService(SERVICE_SLUG);
   const cities = getAllCities();
+  const causes = getCausesForService(SERVICE_SLUG);
+  const defaultCity = Object.keys(cities)[0] || 'miami';
   
   if (!service) {
     return null;
@@ -216,6 +219,15 @@ export default function FireDamageRestorationPage() {
           <CommonCausesSection
             title="Common Causes of Fire Damage"
             causes={service.bodyContent.commonCauses}
+          />
+        )}
+
+        {/* Related Problems - Clickable cards linking to problem pages */}
+        {causes.length > 0 && (
+          <RelatedProblems
+            title="Common Fire Damage Problems We Solve"
+            causes={causes}
+            defaultCity={defaultCity}
           />
         )}
 

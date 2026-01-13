@@ -6,10 +6,11 @@ import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
-import { getService, getAllCities } from '@/lib/local-seo/data';
+import { getService, getAllCities, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceProcess } from '@/components/local-seo/ServiceProcess';
 import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSection';
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
+import { RelatedProblems } from '@/components/local-seo/RelatedProblems';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
 import { ServiceVideo } from '@/components/local-seo/ServiceVideo';
 import { generateAltText } from '@/lib/seo-utils';
@@ -29,6 +30,8 @@ export async function generateMetadata() {
 export default function RoofTarpingPage() {
   const service = getService(SERVICE_SLUG);
   const cities = getAllCities();
+  const causes = getCausesForService(SERVICE_SLUG);
+  const defaultCity = Object.keys(cities)[0] || 'miami';
   
   if (!service) {
     return null;
@@ -267,6 +270,15 @@ export default function RoofTarpingPage() {
           <CommonCausesSection
             title="Common Causes of Roof Damage"
             causes={service.bodyContent.commonCauses}
+          />
+        )}
+
+        {/* Related Problems - Clickable cards linking to problem pages */}
+        {causes.length > 0 && (
+          <RelatedProblems
+            title="Common Roof Damage Problems We Solve"
+            causes={causes}
+            defaultCity={defaultCity}
           />
         )}
 

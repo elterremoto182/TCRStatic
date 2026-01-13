@@ -13,15 +13,15 @@ export async function generateMetadata() {
   
   if (!page) {
     return generatePageMetadata({
-      title: 'About - Total Leak Detection',
-      description: 'Learn about Total Leak Detection and our expertise in leak detection services.',
+      title: 'About Us - Total Care Restoration',
+      description: 'Learn about Total Care Restoration, South Florida\'s trusted water damage, mold remediation, and fire restoration experts. Licensed, certified & locally owned since 2015.',
       path: '/about',
     });
   }
 
   return generatePageMetadata({
-    title: page.seo_title || page.title || 'About - Total Leak Detection',
-    description: page.seo_description || 'Learn about Total Leak Detection and our expertise in leak detection services.',
+    title: page.seo_title || page.title || 'About Us - Total Care Restoration',
+    description: page.seo_description || 'Learn about Total Care Restoration, South Florida\'s trusted water damage, mold remediation, and fire restoration experts. Licensed, certified & locally owned since 2015.',
     keywords: page.keywords || (page.seo_title ? ['about', 'leak detection', 'Miami'] : undefined),
     path: '/about',
   });

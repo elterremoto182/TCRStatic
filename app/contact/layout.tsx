@@ -6,8 +6,8 @@ export async function generateMetadata() {
   const page = getPageBySlug('contact');
   
   return generatePageMetadata({
-    title: page?.seo_title || page?.title || 'Contact Us - Total Leak Detection',
-    description: page?.seo_description || 'Get in touch with Total Leak Detection. Schedule an estimate or receive more information on our leak detection services in Miami, FL.',
+    title: page?.seo_title || page?.title || 'Contact Us - Total Care Restoration',
+    description: page?.seo_description || 'Contact Total Care Restoration for 24/7 emergency water damage, mold remediation, and fire restoration services in South Florida. Free estimates available.',
     keywords: page?.seo_title ? ['contact', 'leak detection', 'Miami'] : undefined,
     path: '/contact',
   });

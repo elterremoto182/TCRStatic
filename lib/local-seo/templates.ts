@@ -11,7 +11,7 @@ import {
   type FAQItem,
   type ServiceImages,
 } from './data';
-import { truncateMetaTitle, ensureTrailingSlash } from '@/lib/utils';
+import { truncateMetaTitle, truncateMetaDescription, ensureTrailingSlash } from '@/lib/utils';
 
 // Content block types
 export interface HeroContent {
@@ -450,10 +450,10 @@ export function generatePageContent(
   const causes = getCausesForService(serviceSlug);
   const faqs = getPopulatedFAQs(serviceSlug, citySlug, type);
   
-  // Generate meta with expanded content
+  // Generate meta with expanded content - description truncated to ~155 chars for Google
   const meta = {
     title: truncateMetaTitle(`${serviceType.name} ${service.name} in ${city.name}, FL | 24/7 Emergency Service | Total Care Restoration`),
-    description: `Professional ${type} ${service.name.toLowerCase()} in ${city.name}, ${city.county}. IICRC-certified technicians with ${city.responseTime} response time. Licensed, bonded, and insured. Direct insurance billing available. Serving all ${city.name} neighborhoods 24/7. Call (786) 610-6317 for your free assessment.`,
+    description: truncateMetaDescription(`Professional ${type} ${service.name.toLowerCase()} in ${city.name}, FL. ${city.responseTime} response, IICRC-certified. Licensed & insured. 24/7 emergency service. Call (786) 610-6317.`),
     keywords: [
       // Highest volume: "[service] [city]" pattern
       ...service.keywords.map(k => `${k} ${city.name}`),

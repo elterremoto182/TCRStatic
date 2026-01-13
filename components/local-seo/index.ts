@@ -14,5 +14,6 @@ export { PreventionTips } from './PreventionTips';
 export { CommonCausesList } from './CommonCausesList';
 export { CommonCausesSection } from './CommonCausesSection';
 export { RelatedLinks, CausePageRelatedLinks } from './RelatedLinks';
+export { RelatedProblems } from './RelatedProblems';
 export { ServiceVideo } from './ServiceVideo';
 

@@ -63,7 +63,7 @@ export async function generateMetadata({
   
   if (!resolvedParams || typeof resolvedParams !== 'object' || !resolvedParams.slug) {
     return generatePageMetadata({
-      title: 'Page Not Found - Total Leak Detection',
+      title: 'Page Not Found - Total Care Restoration',
       description: 'The page you are looking for could not be found.',
       path: '/',
     });
@@ -73,7 +73,7 @@ export async function generateMetadata({
   
   if (!slug) {
     return generatePageMetadata({
-      title: 'Page Not Found - Total Leak Detection',
+      title: 'Page Not Found - Total Care Restoration',
       description: 'The page you are looking for could not be found.',
       path: '/',
     });
@@ -110,7 +110,7 @@ export async function generateMetadata({
   
   if (!page) {
     return generatePageMetadata({
-      title: 'Page Not Found - Total Leak Detection',
+      title: 'Page Not Found - Total Care Restoration',
       description: 'The page you are looking for could not be found.',
       path: `/${slug}`,
     });
@@ -119,8 +119,8 @@ export async function generateMetadata({
   const urlPath = `/${slug}/`;
   
   return generatePageMetadata({
-    title: page.seo_title || page.title || 'Total Leak Detection',
-    description: page.seo_description || 'Professional leak detection services in Miami, FL.',
+    title: page.seo_title || page.title || 'Total Care Restoration',
+    description: page.seo_description || 'Professional water damage restoration, mold remediation, and fire restoration services in South Florida.',
     keywords: page.keywords,
     path: urlPath,
   });
@@ -162,13 +162,14 @@ export default async function DynamicPage({
     ];
 
     // Generate Article schema with wordCount
+    // Use dateModified from frontmatter if available, otherwise fall back to publish date
     const articleSchema = generateArticleSchema({
       title: post.title,
       description: post.excerpt || post.title,
       url,
       image: post.image,
       datePublished: post.date,
-      dateModified: post.date,
+      dateModified: post.dateModified || post.date,
       author: post.author,
       category: post.category,
       content: post.content,

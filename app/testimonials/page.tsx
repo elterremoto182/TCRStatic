@@ -4,6 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { Star, Quote, Home } from 'lucide-react';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
+import { StructuredData, generateReviewsPageSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 import content from '@/config/content.json';
 
 export async function generateMetadata() {
@@ -18,8 +19,20 @@ export async function generateMetadata() {
 export default function TestimonialsPage() {
   const { testimonials } = content;
 
+  // Generate Review schema for testimonials page
+  const reviewsSchema = generateReviewsPageSchema(testimonials);
+  
+  // Generate breadcrumb schema
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { label: 'Testimonials', href: '/testimonials/' },
+  ]);
+
+  // Combine schemas
+  const schemas = [reviewsSchema, breadcrumbSchema].filter(Boolean);
+
   return (
     <>
+      <StructuredData data={schemas} />
       <Header />
       <main className="min-h-screen pt-20">
         {/* Hero Section */}

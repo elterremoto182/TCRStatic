@@ -13,9 +13,9 @@ export async function generateMetadata() {
   const page = getPageBySlug('blog');
   
   return generatePageMetadata({
-    title: page?.seo_title || page?.title || 'Blog - Total Care Restoration',
-    description: page?.seo_description || 'Expert tips, guides, and insights for maintaining your home plumbing and leak detection.',
-    keywords: page?.seo_title ? ['blog', 'plumbing tips', 'leak detection'] : undefined,
+    title: page?.seo_title || page?.title || 'Restoration Blog - Total Care Restoration',
+    description: page?.seo_description || 'Expert water damage, mold remediation, and fire restoration tips for South Florida homeowners. Learn how to protect your property and handle emergencies.',
+    keywords: page?.seo_title ? ['restoration blog', 'water damage tips', 'mold prevention', 'fire restoration', 'South Florida'] : undefined,
     path: '/blog/',
   });
 }

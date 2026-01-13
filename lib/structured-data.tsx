@@ -577,6 +577,98 @@ export function generateWebPageSchema({
 }
 
 /**
+ * Generate individual Review schema
+ */
+export function generateReviewSchema({
+  author,
+  reviewBody,
+  rating,
+  datePublished,
+}: {
+  author: string;
+  reviewBody: string;
+  rating: number;
+  datePublished?: string;
+}) {
+  return {
+    '@type': 'Review',
+    author: {
+      '@type': 'Person',
+      name: author,
+    },
+    reviewBody,
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: rating.toString(),
+      bestRating: '5',
+      worstRating: '1',
+    },
+    datePublished: datePublished || new Date().toISOString(),
+    itemReviewed: {
+      '@type': 'LocalBusiness',
+      '@id': `${baseUrl}#LocalBusiness`,
+    },
+  };
+}
+
+/**
+ * Generate Reviews page schema with AggregateRating and individual Reviews
+ * For use on the testimonials page
+ */
+export function generateReviewsPageSchema(
+  testimonials: Array<{
+    name: string;
+    content: string;
+    rating: number;
+    role?: string;
+  }>
+) {
+  if (!testimonials || testimonials.length === 0) return null;
+
+  // Calculate aggregate rating
+  const totalRating = testimonials.reduce((sum, t) => sum + t.rating, 0);
+  const averageRating = (totalRating / testimonials.length).toFixed(1);
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'LocalBusiness',
+    '@id': `${baseUrl}#LocalBusiness`,
+    name: siteConfig.name,
+    image: `${baseUrl}${siteConfig.logo}`,
+    telephone: siteConfig.phone,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: '7790 NW 55th St.',
+      addressLocality: 'Doral',
+      addressRegion: 'FL',
+      postalCode: '33166',
+      addressCountry: 'US',
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: averageRating,
+      reviewCount: testimonials.length,
+      bestRating: '5',
+      worstRating: '1',
+    },
+    review: testimonials.map((testimonial) => ({
+      '@type': 'Review',
+      author: {
+        '@type': 'Person',
+        name: testimonial.name,
+      },
+      reviewBody: testimonial.content,
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: testimonial.rating.toString(),
+        bestRating: '5',
+        worstRating: '1',
+      },
+    })),
+  };
+}
+
+/**
  * Render structured data as JSON-LD script tag
  */
 export function StructuredData({ data }: { data: Record<string, any> | Record<string, any>[] }) {

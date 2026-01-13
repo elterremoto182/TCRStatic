@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
-import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
+import { generatePageMetadata, truncateMetaTitle, truncateMetaDescription } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { 
   getCauseBySlug, 
@@ -78,7 +78,7 @@ export async function generateMetadata({
   // H1 is: "{cause.name} in {city.name}, FL"
   return generatePageMetadata({
     title: truncateMetaTitle(`${cause.name} in ${city.name} | Pro Restoration`),
-    description: `${cause.description} in ${city.name}. ${city.responseTime} response time. Professional cleanup, restoration, and prevention. Licensed & insured. Call 24/7!`,
+    description: truncateMetaDescription(`${cause.name} restoration in ${city.name}, FL. ${city.responseTime} response. Professional cleanup and prevention. Licensed & insured. 24/7 emergency service.`),
     keywords,
     path: `/problems/${causeSlug}/${citySlug}`,
   });

@@ -19,16 +19,32 @@ const inter = Inter({
   adjustFontFallback: true,
 });
 
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com'),
+  metadataBase: new URL(baseUrl),
   title: siteConfig.seo.title,
   description: siteConfig.seo.description,
   keywords: siteConfig.seo.keywords,
+  // hreflang infrastructure: individual pages can specify alternateLocales for Spanish versions
+  // When Spanish content is added, create pages under /es/ and use:
+  // generatePageMetadata({ ..., locale: 'es', alternateLocales: [{ locale: 'en', path: '/...' }] })
+  alternates: {
+    canonical: baseUrl,
+    languages: {
+      'en': baseUrl,
+      'x-default': baseUrl,
+      // Spanish version placeholder - uncomment when /es/ pages are created:
+      // 'es': `${baseUrl}/es/`,
+    },
+  },
   openGraph: {
     title: siteConfig.seo.title,
     description: siteConfig.seo.description,
     images: [siteConfig.seo.ogImage],
     type: 'website',
+    locale: 'en_US',
+    // alternateLocale: ['es_US'], // Uncomment when Spanish content is added
   },
   twitter: {
     card: 'summary_large_image',

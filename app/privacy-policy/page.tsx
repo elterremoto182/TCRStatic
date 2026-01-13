@@ -13,15 +13,15 @@ export async function generateMetadata() {
   
   if (!page) {
     return generatePageMetadata({
-      title: 'Privacy Policy - Total Leak Detection',
-      description: 'Privacy Policy for Total Leak Detection.',
+      title: 'Privacy Policy - Total Care Restoration',
+      description: 'Privacy Policy for Total Care Restoration. Learn how we collect, use, and protect your personal information.',
       path: '/privacy-policy',
     });
   }
 
   return generatePageMetadata({
-    title: page.seo_title || page.title || 'Privacy Policy - Total Leak Detection',
-    description: page.seo_description || 'Privacy Policy for Total Leak Detection.',
+    title: page.seo_title || page.title || 'Privacy Policy - Total Care Restoration',
+    description: page.seo_description || 'Privacy Policy for Total Care Restoration. Learn how we collect, use, and protect your personal information.',
     keywords: page.keywords || (page.seo_title ? ['privacy policy'] : undefined),
     path: '/privacy-policy',
   });

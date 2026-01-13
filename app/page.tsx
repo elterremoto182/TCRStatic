@@ -15,8 +15,8 @@ export async function generateMetadata() {
   const page = getPageBySlug('home');
   
   return generatePageMetadata({
-    title: page?.seo_title || page?.title || 'Water Meter Leak Detection, Miami Florida | Total Leak Detection',
-    description: page?.seo_description || 'Get water leak detection in Florida. Get plumbing & water meter repair services. Plumbing reports in 2 days. Licensed & insured. Get a free estimate today!',
+    title: page?.seo_title || page?.title || 'Water Damage Mitigation Company - Total Care Restoration',
+    description: page?.seo_description || 'Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help.',
     keywords: page?.seo_title ? ['water leak detection'] : undefined,
     path: '/',
   });

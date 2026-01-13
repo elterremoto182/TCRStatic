@@ -9,6 +9,7 @@ export interface BlogPost {
   title: string;
   seo_title?: string;
   date: string;
+  dateModified?: string; // Optional: when content was last updated (frontmatter: date_modified)
   excerpt: string;
   author: string;
   category: string;
@@ -36,6 +37,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
       title: data.title || '',
       seo_title: data.seo_title || '',
       date: data.date || '',
+      dateModified: data.date_modified || undefined, // Parse date_modified from frontmatter
       excerpt: data.excerpt || '',
       author: data.author || '',
       category: data.category || '',

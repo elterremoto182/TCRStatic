@@ -22,6 +22,32 @@ export function ensureTrailingSlash(path: string): string {
 }
 
 /**
+ * Truncates meta descriptions to fit within Google's ~155-160 character display limit.
+ * Tries to break at sentence boundaries or word boundaries.
+ */
+export function truncateMetaDescription(description: string, maxLength: number = 155): string {
+  if (description.length <= maxLength) {
+    return description;
+  }
+
+  // Try to find a sentence break before maxLength
+  const sentenceBreak = description.lastIndexOf('. ', maxLength - 3);
+  if (sentenceBreak > maxLength * 0.6) {
+    return description.substring(0, sentenceBreak + 1);
+  }
+
+  // Otherwise, break at the last word before maxLength
+  const truncated = description.substring(0, maxLength - 3);
+  const lastSpace = truncated.lastIndexOf(' ');
+  if (lastSpace > maxLength * 0.7) {
+    return truncated.substring(0, lastSpace) + '...';
+  }
+
+  // Fallback: hard truncate
+  return truncated + '...';
+}
+
+/**
  * Truncates meta titles to fit within Google's ~60 character display limit.
  * Removes branding suffixes in order of priority:
  * 1. " | Total Care Restoration"
@@ -55,18 +81,36 @@ export function truncateMetaTitle(title: string, maxLength: number = 60): string
   return truncated.substring(0, maxLength);
 }
 
+/**
+ * Supported locales for hreflang tags
+ * When Spanish content is added, pages should specify locale: 'es' and the
+ * corresponding English page path in alternateLocalePaths
+ */
+export type SupportedLocale = 'en' | 'es';
+
+export interface LocaleAlternate {
+  locale: SupportedLocale;
+  path: string;
+}
+
 export function generatePageMetadata({
   title,
   description,
   keywords,
   path = '',
   ogImage,
+  locale = 'en',
+  alternateLocales,
 }: {
   title: string;
   description?: string;
   keywords?: string | string[];
   path?: string;
   ogImage?: string;
+  /** Current page locale (default: 'en') */
+  locale?: SupportedLocale;
+  /** Alternate locale versions of this page for hreflang tags */
+  alternateLocales?: LocaleAlternate[];
 }): Metadata {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   // Ensure trailing slash for all paths except root
@@ -86,18 +130,46 @@ export function generatePageMetadata({
         ? [siteConfig.seo.keywords] 
         : [];
 
+  // Build language alternates for hreflang tags
+  // Structure: { 'en': url, 'es': url, 'x-default': url }
+  const languages: Record<string, string> = {};
+  
+  // Add current page as its locale
+  languages[locale] = url;
+  
+  // Add x-default pointing to the English version (or current if English)
+  if (locale === 'en') {
+    languages['x-default'] = url;
+  }
+  
+  // Add alternate locale versions if provided
+  if (alternateLocales && alternateLocales.length > 0) {
+    for (const alt of alternateLocales) {
+      const altPath = ensureTrailingSlash(alt.path);
+      const altUrl = `${baseUrl}${altPath}`;
+      languages[alt.locale] = altUrl;
+      
+      // If this alternate is English, use it as x-default
+      if (alt.locale === 'en') {
+        languages['x-default'] = altUrl;
+      }
+    }
+  }
+
   return {
     title,
     description: finalDescription,
     keywords: keywordsArray.length > 0 ? keywordsArray.join(', ') : undefined,
     alternates: {
       canonical: url,
+      languages: Object.keys(languages).length > 1 ? languages : undefined,
     },
     openGraph: {
       title,
       description: finalDescription,
       url,
       siteName: siteConfig.name,
+      locale: locale === 'es' ? 'es_US' : 'en_US',
       images: [
         {
           url: ogImageUrl,
