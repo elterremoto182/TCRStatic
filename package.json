@@ -52,5 +52,8 @@
     "last 2 Firefox versions",
     "last 2 Edge versions",
     "Safari >= 15.4"
-  ]
+  ],
+  "devDependencies": {
+    "dotenv": "^17.2.3"
+  }
 }

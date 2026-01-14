@@ -8,7 +8,8 @@ A high-performance static website for Total Care Restoration, a 24/7 emergency r
 - **Fast & Static**: Fully static export with image optimization and CDN-ready deployment
 - **Modern Design**: Clean, professional UI with smooth animations
 - **Config-Driven**: All content managed through JSON and Markdown files
-- **Blog System**: Full Markdown blog with 117+ posts and category support
+- **Blog System**: Full Markdown blog with 130+ posts and category support
+- **Pillar-Cluster SEO**: Comprehensive guides linking to related blog posts
 - **Rich Structured Data**: LocalBusiness, Service, FAQ, HowTo, and Breadcrumb schemas
 - **Responsive**: Mobile-first design with breakpoints
 - **Image Optimization**: Automatic WebP conversion with blur placeholders
@@ -99,6 +100,20 @@ The site includes specialized pages for specific damage causes:
 - Wind Damage Restoration
 - Tree Damage Restoration
 
+## Pillar Guides
+
+The site implements a pillar-cluster SEO strategy with comprehensive guides:
+
+| Guide | Slug | Related Categories |
+|-------|------|-------------------|
+| Water Damage Restoration | `/guides/water-damage-restoration/` | Water, Sewage |
+| Fire Damage Restoration | `/guides/fire-damage-restoration/` | Fire |
+| Mold Remediation | `/guides/mold-remediation/` | Mold, Air Quality |
+| Storm Damage Restoration | `/guides/storm-damage-restoration/` | Storm, Tarp, Roofing |
+| Roof Tarping & Shrink Wrapping | `/guides/roof-tarping-shrink-wrapping/` | Tarp, Roofing |
+
+Each guide automatically clusters related blog posts by category and provides internal linking to service pages.
+
 ## Project Structure
 
 ```
@@ -121,6 +136,9 @@ The site includes specialized pages for specific damage causes:
 │   ├── shrink-wrapping/          # Same structure as above
 │   ├── indoor-air-quality/       # Standalone service
 │   ├── leak-detection/           # Standalone service
+│   ├── guides/                   # Pillar guides
+│   │   ├── page.tsx              # Guide index page
+│   │   └── [slug]/page.tsx       # Individual guide pages
 │   ├── problems/[cause]/[city]/  # Problem/cause pages
 │   ├── blog/                     # Blog listing and posts
 │   ├── about/                    # About page
@@ -163,6 +181,7 @@ The site includes specialized pages for specific damage causes:
 │   │   └── Footer.tsx
 │   ├── blog/                     # Blog components
 │   │   ├── MarkdownRenderer.tsx
+│   │   ├── RelatedLinks.tsx      # Service & pillar guide links
 │   │   └── YouTubeHydrator.tsx
 │   ├── media/                    # Media components
 │   │   └── VideoPlayer.tsx
@@ -181,9 +200,11 @@ The site includes specialized pages for specific damage causes:
 │   ├── cities.json               # City data (neighborhoods, zips, coordinates)
 │   ├── causes.json               # Problem/cause definitions
 │   ├── faqs.json                 # FAQ content
-│   └── local-seo.json            # Local SEO configuration
+│   ├── local-seo.json            # Local SEO configuration
+│   └── blog-taxonomy.json        # Blog category to service/guide mapping
 ├── content/
-│   ├── blog/                     # 117+ Markdown blog posts
+│   ├── blog/                     # 130+ Markdown blog posts
+│   ├── guides/                   # Pillar guide Markdown files
 │   └── pages/                    # Static page content
 ├── lib/
 │   ├── local-seo/                # Local SEO utilities
@@ -191,6 +212,9 @@ The site includes specialized pages for specific damage causes:
 │   │   ├── templates.ts          # Content templates
 │   │   ├── schema.ts             # Structured data generators
 │   │   ├── links.ts              # Internal linking system
+│   │   └── index.ts              # Exports
+│   ├── guides/                   # Pillar guide utilities
+│   │   ├── guides.ts             # Guide data access & clustering
 │   │   └── index.ts              # Exports
 │   ├── blog/posts.ts             # Blog utilities
 │   ├── pages/pages.ts            # Page utilities
@@ -216,6 +240,8 @@ The site includes specialized pages for specific damage causes:
 /water-damage-restoration/residential/miami/   # City page
 /water-damage-restoration/commercial/          # Commercial hub
 /water-damage-restoration/commercial/miami/    # City page
+/guides/                                       # Pillar guides index
+/guides/water-damage-restoration/              # Individual pillar guide
 /problems/burst-pipe-water-damage/miami/       # Cause/problem page
 /blog/water-damage-tips-miami/                 # Blog post
 /indoor-air-quality/                           # Standalone service
@@ -306,6 +332,14 @@ Problem/cause page definitions:
 - Step-by-step restoration process
 - FAQs specific to each cause
 
+### Blog Taxonomy (`config/blog-taxonomy.json`)
+
+Maps blog post categories to services and pillar guides:
+- Category to service page mapping
+- Pillar guide associations
+- Related pillar posts for internal linking
+- Default fallback configuration
+
 ### Theme Configuration (`config/theme.json`)
 
 Visual appearance:
@@ -324,6 +358,34 @@ Page content for:
 - Trust badges
 - CTA banners
 - Contact form
+
+### Guides Content (`content/guides/`)
+
+Pillar guides are written in Markdown with frontmatter:
+
+```yaml
+---
+title: "The Complete Guide to Water Damage Restoration in South Florida"
+seo_title: "Water Damage Restoration Guide | South Florida Homeowners"
+seo_description: "Complete guide to water damage restoration..."
+excerpt: "Everything you need to know about water damage..."
+service_page: "/water-damage-restoration/"
+category: "Water"
+icon: "Droplet"
+keywords: ["water damage restoration", "water damage guide"]
+---
+```
+
+**Frontmatter Fields:**
+- `title` - Guide headline
+- `seo_title` / `seo_description` - SEO metadata
+- `excerpt` - Short description for cards/previews
+- `service_page` - Link to conversion service page
+- `category` - Primary category for clustering
+- `icon` - Lucide icon name
+- `keywords` - SEO keywords array
+
+The guide system automatically clusters related blog posts by matching post categories to pillar categories defined in `blog-taxonomy.json`.
 
 ## Development
 
@@ -412,6 +474,13 @@ This site is optimized for static hosting:
 - City-specific FAQs
 - Problem/cause pages by location
 
+### Content Strategy (Pillar-Cluster)
+- 5 comprehensive pillar guides (long-form content)
+- Blog posts clustered by category to pillar guides
+- Automatic internal linking between related content
+- Service page CTAs from guides and blog posts
+- Category-based content organization
+
 ## 301 Redirects
 
 Comprehensive redirect rules in `public/_redirects`:
@@ -428,9 +497,10 @@ Comprehensive redirect rules in `public/_redirects`:
 | Type Hub Pages (Residential/Commercial) | 16 |
 | City Service Pages | 320 |
 | Cause/Problem Pages | ~280 |
-| Blog Posts | 117 |
+| Pillar Guides | 5 |
+| Blog Posts | 130 |
 | Static Pages | 12 |
-| **Total** | **~750+ pages** |
+| **Total** | **~770+ pages** |
 
 ## Contact Form Integration
 

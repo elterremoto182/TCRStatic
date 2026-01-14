@@ -37,3 +37,6 @@ next-env.d.ts
 
 # large files
 *.zip
+
+# image generation script (contains API key)
+generate-images.js
