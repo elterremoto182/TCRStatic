@@ -42,6 +42,8 @@ Some of the most frequent reasons for claim denials include:
 -   **Medical necessity disputes** (6% of cases)
 -   **Other unspecified reasons** (34% of cases)
 
+**Florida homeowners:** If your claim involves [cast iron pipe damage](/cast-iron-pipes/), be especially careful. Many Florida insurers are adding specific exclusions for aging plumbing systems, and a class-action lawsuit is currently ongoing regarding denied claims. Understanding your policy's language around "wear and tear" versus "sudden damage" is critical.
+
 Your denial letter should also outline the steps to resubmit your claim or file an appeal, including any required documentation. Pay close attention to the specific policies or clauses cited in the letter.
 
 As you review the denial, look for potential errors such as clerical mistakes, incorrect dates, or missing paperwork that might have contributed to the rejection. These small issues can sometimes be resolved quickly.

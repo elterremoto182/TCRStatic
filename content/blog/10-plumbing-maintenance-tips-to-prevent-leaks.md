@@ -65,6 +65,8 @@ Pipes in basements, crawl spaces, attics, and exterior walls can freeze and burs
 
 Watch for signs of wear: rust around faucet bases, stiff handles, cracks in porcelain, or discoloration on supply lines. Simple replacements like faucet aerators, toilet flappers, and showerheads can prevent bigger problems.
 
+**Florida homeowners note:** If your home was built before 1975, you may have [cast iron pipes](/cast-iron-pipes/) that are prone to corrosion and failure. These aging drain lines require special attention and often need complete replacement rather than simple repairs.
+
 ## 7. Check and Replace Worn Seals and Caulk
 
 Worn caulk around bathtubs, showers, and sinks lets water seep behind walls. Inspect seals for cracks, peeling, or discoloration. Replacing caulk is an easy DIY task that prevents costly water damage.

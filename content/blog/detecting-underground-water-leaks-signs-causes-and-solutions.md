@@ -35,7 +35,7 @@ Detecting underground water leaks early can save you a lot of trouble and expens
 
 Understanding the **causes of leaks** in underground piping is essential for effective prevention and repair. Several factors contribute to these leaks:
 
-1.  **Aging pipes**: Over time, pipes are susceptible to corrosion, weakening their structural integrity. As materials degrade, small fissures develop, leading to significant leaks.
+1.  **Aging pipes**: Over time, pipes are susceptible to corrosion, weakening their structural integrity. As materials degrade, small fissures develop, leading to significant leaks. In Florida, [cast iron pipes](/cast-iron-pipes/) installed in homes built before 1975 are particularly vulnerable—the humid, salt-rich environment accelerates corrosion far beyond normal rates.
 2.  **Poor installation practices**: Improper installation can leave pipes vulnerable. Inconsistent connections or inadequate sealing may cause weak points that eventually fail under pressure.
 3.  **Environmental factors and chemical erosion**: Soil conditions and chemicals present in the ground can erode pipe materials. For instance, acidic soils can corrode metal pipes, while certain chemicals might degrade plastic piping.
 4.  **Impact of earthquakes or ground movement**: Natural events like earthquakes or even minor ground shifts can exert stress on pipes, causing them to fracture. These fractures might remain hidden until they become severe enough to affect water flow.

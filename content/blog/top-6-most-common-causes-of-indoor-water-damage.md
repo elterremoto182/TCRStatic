@@ -56,6 +56,8 @@ Leaving water damage untreated can lead to mold growth, structural problems, and
 
 Burst pipes often happen due to freezing, high water pressure, or old infrastructure. Homes over 25 years old with galvanized pipes are especially prone to rust and corrosion.
 
+**In Florida**, one of the most common causes is [cast iron pipe failure](/cast-iron-pipes/). Homes built before 1975 typically have cast iron drain lines that corrode faster in Florida's humid, salt-rich environment. These aging pipes can crack, leak, and cause extensive water damage without warning.
+
 To help prevent this, keep your home's indoor temperature above 55°F during winter. Maintain water pressure between 30–50 PSI and avoid exceeding 60 PSI. Consider upgrading to copper pipes, which can last up to 100 years without rusting.
 
 If you notice signs of a leak but can't find the source—such as unexplained water bills, sounds of running water, or damp spots—professional [leak detection services](/leak-detection/) can locate hidden leaks behind walls, under slabs, or in your plumbing system using non-invasive technology.
