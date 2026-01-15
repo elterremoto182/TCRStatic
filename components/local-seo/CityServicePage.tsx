@@ -275,6 +275,75 @@ export function CityServicePage({
         </div>
       </section>
 
+      {/* Local Risk Factors - City-specific challenges (SEO differentiator) */}
+      {content.localFactors && content.localFactors.risks.length > 0 && (
+        <section className="py-16 bg-gradient-to-br from-amber-50 to-orange-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center gap-3 mb-6">
+                <div className="w-12 h-12 bg-amber-100 rounded-xl flex items-center justify-center">
+                  <AlertCircle className="w-6 h-6 text-amber-700" />
+                </div>
+                <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
+                  {content.localFactors.title}
+                </h2>
+              </div>
+              
+              <p className="text-gray-600 text-lg mb-8 max-w-3xl">
+                {content.localFactors.characteristics}. {content.localFactors.climate}.
+              </p>
+            </AnimateOnScroll>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+              {content.localFactors.risks.map((risk, index) => (
+                <AnimateOnScroll key={index} animation="fade-in-up" duration={400} delay={index * 50}>
+                  <div className="flex items-start gap-3 p-4 bg-white rounded-lg border border-amber-200 shadow-sm">
+                    <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center flex-shrink-0">
+                      <AlertCircle className="w-4 h-4 text-amber-700" />
+                    </div>
+                    <span className="text-gray-700 font-medium">{risk}</span>
+                  </div>
+                </AnimateOnScroll>
+              ))}
+            </div>
+
+            {/* Seasonal Triggers */}
+            {content.localFactors.seasonalTriggers && (
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                <div className="p-6 bg-white rounded-xl border border-amber-200">
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <Clock className="w-5 h-5 text-amber-700" />
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-gray-900 mb-2">When Damage Is Most Likely</h3>
+                      <p className="text-gray-600">{content.localFactors.seasonalTriggers}</p>
+                    </div>
+                  </div>
+                </div>
+              </AnimateOnScroll>
+            )}
+
+            {/* Insurance Notes */}
+            {content.localFactors.insuranceNotes && (
+              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+                <div className="mt-4 p-6 bg-white rounded-xl border border-amber-200">
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <FileCheck className="w-5 h-5 text-amber-700" />
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-gray-900 mb-2">Local Insurance &amp; HOA Considerations</h3>
+                      <p className="text-gray-600">{content.localFactors.insuranceNotes}</p>
+                    </div>
+                  </div>
+                </div>
+              </AnimateOnScroll>
+            )}
+          </div>
+        </section>
+      )}
+
       {/* Service Overview - New Expanded Content */}
       {content.serviceOverview && content.serviceOverview.overview && (
         <ServiceOverview content={content.serviceOverview} />
@@ -605,7 +674,11 @@ export function CityServicePage({
       </section>
 
       {/* FAQ Section */}
-      <LocalFAQ title={content.faq.title} faqs={content.faq.faqs} />
+      <LocalFAQ 
+        title={content.faq.title} 
+        faqs={content.faq.faqs} 
+        localFAQs={content.localFAQs}
+      />
 
       {/* Gallery Section */}
       {content.images?.gallery && content.images.gallery.length > 0 && (

@@ -12,17 +12,44 @@
       "risks": ["Hurricane flooding", "Aging plumbing in historic buildings", "AC-related leaks from constant use", "Storm surge in coastal areas"],
       "characteristics": "Mix of high-rise condos, historic homes, and commercial properties"
     },
+    "seasonalTriggers": "Hurricane season (June-November) brings flooding and storm surge. King tides cause flooding in low-lying areas during September-October. Heavy afternoon thunderstorms occur May through October.",
     "residential": {
       "intro": "Miami homes face water damage from hurricanes, floods, and aging pipes. From Coral Gables to Brickell, we know Miami homes. We respond fast to protect your property.",
       "extendedContent": "Miami has many building types. We work with condos, HOAs, and historic homes. Humidity here causes fast mold growth. We've restored thousands of Miami homes. We work with local adjusters and contractors.",
       "localChallenges": "Miami is prone to hurricanes and flooding. King tides affect low-lying areas. Old plumbing fails often. AC systems run non-stop and can leak. Miami's limestone lets water travel in odd ways.",
-      "focusPoints": ["Historic home preservation", "Condo and HOA coordination", "Hurricane preparedness", "Mold prevention in humid climate", "Multi-language support for diverse community", "High-rise building expertise", "Insurance claim assistance", "24/7 emergency availability"]
+      "focusPoints": ["Historic home preservation", "Condo and HOA coordination", "Hurricane preparedness", "Mold prevention in humid climate", "Multi-language support for diverse community", "High-rise building expertise", "Insurance claim assistance", "24/7 emergency availability"],
+      "insuranceNotes": "Many Miami condo associations require licensed remediation companies and HOA board approval before restoration work can begin. High-rise buildings often need engineering assessments. We coordinate with condo managers and handle all HOA documentation.",
+      "localFAQs": [
+        {
+          "question": "Is mold common in Miami high-rise condos?",
+          "answer": "Yes. Miami's high humidity combined with central AC systems in high-rises creates ideal conditions for mold growth, especially around air handlers, in units with balcony door leaks, and behind walls near plumbing risers."
+        },
+        {
+          "question": "Do Miami HOAs require approval for restoration work?",
+          "answer": "Most Miami condo associations require advance approval and proof of insurance before restoration work can begin. We handle HOA coordination as part of our service, including obtaining approvals, providing insurance certificates, and coordinating access."
+        },
+        {
+          "question": "Why does water damage spread faster in Miami homes?",
+          "answer": "Miami's porous limestone foundation allows water to travel in unexpected directions. Combined with year-round humidity, water damage can spread quickly and mold can begin growing within 24-48 hours. Fast professional response is essential."
+        }
+      ]
     },
     "commercial": {
       "intro": "Miami businesses need fast help when water strikes. We serve downtown towers, Wynwood warehouses, and Brickell offices. 24/7 service to cut downtime.",
       "extendedContent": "Miami is a global business hub. Water damage here affects tourism, finance, and trade. We work with property managers and building engineers. We respond fast to high-stakes situations.",
       "localChallenges": "Parking garages flood. High-rise plumbing fails. HVAC systems grow mold. Hotels need quiet, fast work. Many buildings sit in flood zones.",
-      "focusPoints": ["High-rise building expertise", "Restaurant and hospitality focus", "Retail space restoration", "Office building water damage", "International business documentation", "After-hours service availability", "Large-scale warehouse restoration", "Cruise terminal and port facilities"]
+      "focusPoints": ["High-rise building expertise", "Restaurant and hospitality focus", "Retail space restoration", "Office building water damage", "International business documentation", "After-hours service availability", "Large-scale warehouse restoration", "Cruise terminal and port facilities"],
+      "insuranceNotes": "Miami commercial properties often have complex insurance situations involving multiple carriers. We provide detailed documentation for both property and business interruption claims. International businesses may need documentation in multiple languages.",
+      "localFAQs": [
+        {
+          "question": "Can you restore a Miami hotel without disrupting guests?",
+          "answer": "Yes. We regularly work with Miami Beach and downtown hotels to contain and restore water damage while minimizing guest impact. We can work overnight, section off areas discretely, and coordinate with hotel management on timing."
+        },
+        {
+          "question": "How do you handle water damage in Miami high-rise office buildings?",
+          "answer": "High-rise water damage requires coordination with building engineers and property management. We use specialized equipment for vertical water extraction, work with the building's HVAC systems, and can service multiple floors simultaneously."
+        }
+      ]
     }
   },
   "fort-lauderdale": {
@@ -38,17 +65,44 @@
       "risks": ["Canal flooding", "Salt air corrosion on pipes", "Hurricane damage", "Boat dock water intrusion", "Seawall failures"],
       "characteristics": "Venice of America with extensive waterway system and waterfront properties"
     },
+    "seasonalTriggers": "Hurricane season brings storm surge through the canal system (June-November). Heavy summer rains cause canal overflow. King tides flood low-lying waterfront properties in fall. Salt air corrosion accelerates during humid summer months.",
     "residential": {
       "intro": "Fort Lauderdale is the Venice of America. Canals, the Intracoastal, and storms create water risks. We protect waterfront homes in Harbor Beach, historic homes in Victoria Park, and family homes throughout Broward.",
       "extendedContent": "Fort Lauderdale has 300+ miles of waterways. Canal homes face moisture, salt air, and flood risk. Many have docks and seawalls. Our team knows marine and waterfront restoration.",
       "localChallenges": "Salt air corrodes pipes fast. Seawalls fail. Canals flood in heavy rain. Old and new homes need different methods. Hurricanes push storm surge inland through canals.",
-      "focusPoints": ["Waterfront property specialists", "Canal flooding response", "Salt air damage prevention", "Boat house and dock restoration", "Seawall-related water intrusion", "Historic Victoria Park homes", "Luxury Harbor Beach estates", "Marine-grade material expertise"]
+      "focusPoints": ["Waterfront property specialists", "Canal flooding response", "Salt air damage prevention", "Boat house and dock restoration", "Seawall-related water intrusion", "Historic Victoria Park homes", "Luxury Harbor Beach estates", "Marine-grade material expertise"],
+      "insuranceNotes": "Waterfront properties often require separate flood insurance and may have special policy requirements for dock and seawall damage. We document salt air corrosion vs. sudden damage to help with claim coverage.",
+      "localFAQs": [
+        {
+          "question": "Does salt air really cause pipe damage in Fort Lauderdale homes?",
+          "answer": "Yes. Salt air accelerates corrosion on copper and galvanized pipes, especially within a mile of the ocean or Intracoastal. Waterfront homes often need pipe replacement 10-15 years earlier than inland properties."
+        },
+        {
+          "question": "Can seawall problems cause water damage inside my home?",
+          "answer": "Yes. Failing seawalls allow water intrusion during high tides and storms. We often find moisture issues in canal-front homes that trace back to seawall deterioration. We can identify the source and coordinate with seawall contractors."
+        },
+        {
+          "question": "How do you protect boat docks and dock houses during restoration?",
+          "answer": "We use marine-grade materials and waterproof barriers when working near docks. Our team understands the unique restoration needs of waterfront structures and can work around boat schedules and tidal conditions."
+        }
+      ]
     },
     "commercial": {
       "intro": "Fort Lauderdale businesses thrive on tourism and marine trade. We help hotels, restaurants, and marinas recover fast from water damage.",
       "extendedContent": "Tourism, yachting, and marine industries drive Fort Lauderdale. Hotels, Las Olas shops, and marinas need quick restoration. We know yacht clubs and waterfront dining.",
       "localChallenges": "Salt corrodes. HVAC systems grow mold. Waterfront spots flood. Tourist season adds pressure. Parking structures fill with water in storms.",
-      "focusPoints": ["Tourism industry expertise", "Marina and boat facility restoration", "Restaurant water damage", "Retail corridor protection", "Beachfront hotel specialists", "Convention center area coverage", "Yacht club restoration", "Waterfront dining establishments"]
+      "focusPoints": ["Tourism industry expertise", "Marina and boat facility restoration", "Restaurant water damage", "Retail corridor protection", "Beachfront hotel specialists", "Convention center area coverage", "Yacht club restoration", "Waterfront dining establishments"],
+      "insuranceNotes": "Tourism businesses face pressure to reopen quickly. We provide detailed documentation for business interruption claims. Marina and yacht club damage may involve marine insurance policies with different requirements.",
+      "localFAQs": [
+        {
+          "question": "Can you restore a Las Olas restaurant without closing for days?",
+          "answer": "Often yes. We can work overnight, section off affected areas, and use rapid drying equipment to minimize closure time. For severe damage, we help coordinate temporary kitchen setups so you can keep operating."
+        },
+        {
+          "question": "How do you handle water damage at marinas and yacht clubs?",
+          "answer": "Marina restoration requires understanding of both building and marine environments. We use corrosion-resistant materials, work around boat schedules, and coordinate with marina management on member access during restoration."
+        }
+      ]
     }
   },
   "pembroke-pines": {
@@ -64,17 +118,44 @@
       "risks": ["Flood zone properties", "Slab leaks in planned communities", "Hurricane roof damage", "Underground plumbing issues"],
       "characteristics": "Large family-oriented suburban community with planned developments"
     },
+    "seasonalTriggers": "Heavy summer rains overwhelm drainage systems in low-lying developments. Hurricane season (June-November) causes widespread roof damage. AC failures spike during hot summer months when systems run constantly.",
     "residential": {
       "intro": "Pembroke Pines families deserve fast, reliable water damage restoration that protects their homes and health. From the established neighborhoods of Chapel Trail to the newer developments in Pembroke Falls, our team understands the unique construction styles and common water issues affecting this family-friendly community.",
       "extendedContent": "As one of Broward County's largest cities, Pembroke Pines features a wide variety of residential construction from different eras. The city's planned communities like Chapel Trail, Silver Lakes, and Pembroke Falls each have distinct construction characteristics that affect how water damage should be addressed. Our team has extensive experience with the common slab-on-grade construction found throughout Pembroke Pines, as well as the multi-story townhomes and patio homes popular in many developments. We've built relationships with HOA management companies throughout the city and understand the coordination required for community repairs.",
       "localChallenges": "Many Pembroke Pines homes are built on reclaimed wetlands, creating drainage challenges and higher water tables that can contribute to moisture issues. The city's extensive canal system helps manage stormwater but can overflow during heavy rains, affecting adjacent properties. Older developments like Century Village face aging plumbing infrastructure, while newer communities may experience settling issues that can crack foundations and plumbing. Air conditioning systems run nearly year-round, making AC condensation line issues a common source of water damage.",
-      "focusPoints": ["Family home protection", "HOA community experience", "Slab leak specialists", "Senior community expertise (Century Village)", "Multi-generational home restoration", "School-age family scheduling flexibility", "Townhome and patio home experience", "New construction warranty coordination"]
+      "focusPoints": ["Family home protection", "HOA community experience", "Slab leak specialists", "Senior community expertise (Century Village)", "Multi-generational home restoration", "School-age family scheduling flexibility", "Townhome and patio home experience", "New construction warranty coordination"],
+      "insuranceNotes": "HOA communities in Pembroke Pines often have master policies that cover exterior and common areas, while individual homeowner policies cover interior damage. We help determine which policy applies and coordinate with both when needed.",
+      "localFAQs": [
+        {
+          "question": "What causes slab leaks in Pembroke Pines homes?",
+          "answer": "Many Pembroke Pines homes are built on slab foundations over former wetlands. Soil shifting and settling can stress underground pipes. We use specialized detection equipment to find slab leaks without unnecessary demolition."
+        },
+        {
+          "question": "Do you work with Century Village and other 55+ communities?",
+          "answer": "Yes. We understand the unique needs of senior communities including accessibility concerns, coordination with association management, and sensitivity to resident schedules. Many Century Village residents prefer to stay with family during restoration—we can work around that."
+        },
+        {
+          "question": "Why do newer Pembroke Pines homes get water damage?",
+          "answer": "Newer developments sometimes have construction moisture trapped in walls, settling issues that stress plumbing, or improperly sealed AC returns. These issues often appear 3-5 years after construction. We identify the root cause to prevent recurrence."
+        }
+      ]
     },
     "commercial": {
       "intro": "Pembroke Pines is a major suburban hub. It has Pembroke Lakes Mall. It has medical offices and schools. We restore all types of commercial spaces. Fast response. Less disruption.",
       "extendedContent": "This city grew from a suburb to a commercial center. Shops, clinics, and offices serve local families and the wider South Broward area.\n\nPembroke Lakes Mall draws shoppers from all around. Water damage there is urgent. We know how to work in busy malls.\n\nMedical offices are everywhere. Clinics, dental practices, and urgent care centers. These spaces must meet health rules. We follow the right steps.\n\nSchools and daycares serve families. Safety comes first. We work around class schedules. We keep kids away from work areas.\n\nOffice parks line the city's main roads. Property managers rely on us. We coordinate with building teams. We keep tenants informed.\n\nRetail strip malls are common. Some have older roofs and pipes. We check for hidden damage. We restore without disrupting neighbors.\n\nRestaurants and gyms need special care. Health codes apply. We know the rules. We help you pass inspections.\n\nWe work with national chains and local owners. We follow your process. We communicate with your corporate team if needed.",
       "localChallenges": "Aging strip malls have older systems. Pipes rust. Roofs sag. We check everything.\n\nMedical facilities have strict rules. Documentation matters. We provide what inspectors need.\n\nSchools can't close for long. Parents depend on schedules. We work fast and safe.\n\nThe city sits in flood zones. Hurricanes bring water damage. We respond quickly during storms.\n\nHigh-traffic stores need fast turnarounds. Every closed day costs money. We minimize downtime.",
-      "focusPoints": ["Shopping center restoration", "Medical facility compliance", "School and daycare water damage", "Office park specialists", "Retail strip mall experience", "Restaurant and food service expertise", "Fitness center restoration", "Professional service building repair"]
+      "focusPoints": ["Shopping center restoration", "Medical facility compliance", "School and daycare water damage", "Office park specialists", "Retail strip mall experience", "Restaurant and food service expertise", "Fitness center restoration", "Professional service building repair"],
+      "insuranceNotes": "Medical facilities and schools have additional documentation requirements. We provide compliance-ready reports and coordinate with inspectors. Mall tenants may have both their own policy and coverage under the mall's master policy.",
+      "localFAQs": [
+        {
+          "question": "How do you handle water damage at schools and daycares?",
+          "answer": "Child safety is our top priority. We work around school schedules, use child-safe cleaning products, and maintain strict containment. We can often complete work during breaks or after hours to avoid classroom disruption."
+        },
+        {
+          "question": "Can you restore a medical office without violating health codes?",
+          "answer": "Yes. We follow all health department requirements and provide documentation that inspectors need. Our team understands the unique requirements of medical spaces including proper disposal of contaminated materials."
+        }
+      ]
     }
   },
   "davie": {
@@ -90,17 +171,44 @@
       "risks": ["Well water issues", "Septic system backups", "Large property flooding", "Barn and stable water damage"],
       "characteristics": "Western-themed town with equestrian properties and large lots"
     },
+    "seasonalTriggers": "Heavy summer rains flood large lots and overwhelm drainage on acreage properties. Hurricane season damages barns and outbuildings. Wet season raises water tables affecting septic systems and wells.",
     "residential": {
       "intro": "Davie's unique blend of suburban homes and equestrian properties requires specialized water damage restoration knowledge. Whether you have a family home in Rolling Hills or a horse ranch in Long Lake, our team understands the challenges of restoring properties in this distinctive Western-themed community.",
       "extendedContent": "Davie maintains its distinctive character as a Western-themed community with extensive equestrian properties, large lots, and a mix of residential styles from ranch homes to modern developments. This diversity requires restoration specialists who understand both traditional suburban construction and the unique needs of agricultural and equestrian properties. Our Davie team includes technicians experienced with barn and stable restoration, large-lot property access challenges, and the specific drainage issues that affect properties with extensive land. We respect Davie's unique community character while providing professional, thorough restoration services.",
       "localChallenges": "Many Davie properties rely on private wells and septic systems rather than municipal utilities, creating unique water damage and contamination considerations. Large lots can experience flooding during heavy rains that overwhelms natural drainage. Equestrian properties have specialized structures—barns, stables, hay storage—that require specific restoration approaches. The mix of old Florida ranch properties and newer developments means restoration teams must be versed in multiple construction eras and techniques. Properties bordering the Everglades face additional wildlife and environmental considerations.",
-      "focusPoints": ["Large lot property expertise", "Equestrian facility restoration", "Well and septic considerations", "Rural property access", "Barn and stable specialists", "Agricultural building restoration", "Acreage property drainage", "Wildlife-conscious restoration"]
+      "focusPoints": ["Large lot property expertise", "Equestrian facility restoration", "Well and septic considerations", "Rural property access", "Barn and stable specialists", "Agricultural building restoration", "Acreage property drainage", "Wildlife-conscious restoration"],
+      "insuranceNotes": "Equestrian properties and acreage may have specialized farm or ranch policies with different coverage than standard homeowner's insurance. Outbuildings like barns and stables may need separate documentation. Well and septic damage has specific coverage requirements.",
+      "localFAQs": [
+        {
+          "question": "Can you restore barns and horse stables after water damage?",
+          "answer": "Yes. We understand the unique needs of equestrian facilities including animal safety, feed storage protection, and specialized flooring. We use animal-safe products and can coordinate restoration around horse schedules and training activities."
+        },
+        {
+          "question": "How do you handle water damage with well water and septic systems?",
+          "answer": "Properties with wells and septic require special contamination assessment. We test for well water intrusion, coordinate with septic professionals if needed, and ensure all restoration meets health department standards for private water systems."
+        },
+        {
+          "question": "Do you work on large acreage properties?",
+          "answer": "Yes. We have equipment capable of reaching remote areas on large lots. We understand drainage patterns on acreage properties and can identify why flooding occurred to help prevent future issues."
+        }
+      ]
     },
     "commercial": {
       "intro": "Davie is unique. It has horse farms, feed stores, and Western shops. It also has Nova Southeastern University and Broward College. We serve all of them. From equestrian centers to classrooms, we respond fast.",
       "extendedContent": "Davie mixes rural and urban. You'll find horse barns. You'll also find research labs. We work with both.\n\nNova Southeastern is a major employer here. The university has dorms, labs, and office buildings. Water damage at a school is urgent. Classes can't wait. We coordinate around academic schedules.\n\nBroward College adds more educational space. Students and staff depend on clean, safe buildings. We help keep them running.\n\nThe town center has shops and restaurants. Some have a Western theme. Others are modern. We restore them all.\n\nEquestrian businesses need special care. Water near animals creates health risks. Feed storage must stay dry. Tack rooms hold expensive gear. We know how to protect these spaces.\n\nVet clinics serve horses, dogs, and more. They must meet health rules. We follow the right cleanup steps.\n\nMany buildings here were once farms. They may have old pipes or wells. We check for these issues during restoration.",
       "localChallenges": "Davie has a rural past. Some buildings still have old systems. Wells and septic tanks are common. These need careful handling during cleanup.\n\nSchools and colleges need fast turnarounds. Classes must go on. We work around your schedule.\n\nEquestrian businesses are complex. Animals can't be around certain cleaners. Feed must stay dry. We plan for these needs.\n\nWestern-themed buildings have unique details. Wood trim. Decorative ironwork. We restore these features with care.\n\nSome properties are large. Access can be tricky. We bring the right trucks and gear.",
-      "focusPoints": ["Equestrian business specialists", "Educational facility restoration", "Agricultural property expertise", "Town center retail protection", "University campus experience", "Feed and supply store restoration", "Veterinary facility compliance", "Western-themed building preservation"]
+      "focusPoints": ["Equestrian business specialists", "Educational facility restoration", "Agricultural property expertise", "Town center retail protection", "University campus experience", "Feed and supply store restoration", "Veterinary facility compliance", "Western-themed building preservation"],
+      "insuranceNotes": "University and educational facilities have institutional insurance with specific documentation requirements. Equestrian businesses may have agricultural policies. Veterinary clinics have additional compliance requirements for restoration work.",
+      "localFAQs": [
+        {
+          "question": "Can you work around university class schedules?",
+          "answer": "Yes. We regularly work with Nova Southeastern and Broward College facilities teams. We can schedule work during breaks, overnight, or section off areas to minimize academic disruption. Dorm restoration requires extra coordination for student housing."
+        },
+        {
+          "question": "How do you restore veterinary clinics and animal facilities?",
+          "answer": "We use animal-safe cleaning products and follow health department requirements for veterinary facilities. We can work around animal schedules and coordinate with clinic staff to maintain operations during restoration when possible."
+        }
+      ]
     }
   },
   "weston": {
@@ -116,17 +224,44 @@
       "risks": ["Everglades flooding", "HOA-managed property challenges", "Underground utility issues", "High water table"],
       "characteristics": "Upscale planned community with strict HOA standards"
     },
+    "seasonalTriggers": "Wet season (May-October) raises already-high water tables. Hurricane season brings Everglades overflow flooding. Heavy afternoon thunderstorms overwhelm community drainage systems during summer months.",
     "residential": {
       "intro": "Weston homeowners expect the highest standards in restoration services to match their premier community. Our residential team understands the strict HOA requirements, upscale finishes, and unique water challenges facing homes in this master-planned community bordering the Everglades.",
       "extendedContent": "Weston has consistently ranked among Florida's most desirable communities, known for excellent schools, safe neighborhoods, and meticulously maintained properties. The city's master-planned design means homes are built to consistent quality standards, but also face common challenges related to the community's location near the Everglades. Our Weston team has extensive experience with the upscale finishes found in homes throughout Weston Hills, Savanna, and other premier developments. We understand that Weston homeowners expect discrete, thorough service that restores their homes to pristine condition while respecting HOA requirements and neighborhood aesthetics.",
       "localChallenges": "Weston's location adjacent to the Everglades creates a high water table and unique drainage challenges. During heavy rains or tropical systems, water from the Everglades can affect communities throughout Weston. The city's comprehensive HOA system means restoration work must meet strict community standards and often requires coordination with HOA boards and management companies. Many Weston homes feature premium finishes, smart home systems, and custom features that require specialized restoration knowledge. The community's newer construction generally holds up well, but rapid growth means some developments may experience settling issues.",
-      "focusPoints": ["HOA compliance expertise", "Luxury home restoration", "Everglades proximity flooding", "High-end finish protection", "Smart home system preservation", "Premium material restoration", "Community aesthetics maintenance", "Golf community experience"]
+      "focusPoints": ["HOA compliance expertise", "Luxury home restoration", "Everglades proximity flooding", "High-end finish protection", "Smart home system preservation", "Premium material restoration", "Community aesthetics maintenance", "Golf community experience"],
+      "insuranceNotes": "Weston's proximity to the Everglades means many properties require flood insurance in addition to standard homeowner's coverage. HOAs may have master policies for exterior and common area damage. Premium finishes may need additional documentation for full replacement value.",
+      "localFAQs": [
+        {
+          "question": "Do you understand Weston HOA requirements for restoration work?",
+          "answer": "Yes. We work with Weston HOA management companies regularly and understand the approval process, aesthetic standards, and documentation requirements. We can attend HOA board meetings if needed and ensure all work meets community standards."
+        },
+        {
+          "question": "Can you restore luxury finishes like hardwood floors and custom cabinetry?",
+          "answer": "Yes. Our team is experienced with high-end materials including exotic hardwoods, natural stone, and custom millwork. We work with specialty suppliers and craftsmen to restore premium finishes to their original quality, not just replace them with standard materials."
+        },
+        {
+          "question": "Why does Weston flood when it rains heavily?",
+          "answer": "Weston sits adjacent to the Everglades with a naturally high water table. During heavy rains, water levels rise throughout the region. The master-planned drainage system helps, but prolonged rain can overwhelm capacity. Properties closest to the Everglades are most affected."
+        }
+      ]
     },
     "commercial": {
       "intro": "Weston is an upscale community. Businesses here meet high standards. The Town Center has offices and shops. Medical centers serve residents. We restore them all with quality and speed.",
       "extendedContent": "Weston's commercial areas match its upscale homes. The Town Center is the hub. It has professional offices, retail shops, and restaurants.\n\nMedical facilities are common. Doctors, dentists, and specialists serve residents. These spaces must stay clean and safe. We follow health rules.\n\nRetail stores serve a discerning crowd. Customers expect quality. A poorly restored space hurts your reputation. We do it right.\n\nProfessional offices serve busy executives. Time matters. We restore fast so you can get back to work.\n\nMedical spas and wellness centers are popular here. These spaces need careful restoration. We handle delicate finishes.\n\nFinancial services offices serve high-net-worth clients. Appearances matter. We keep spaces looking professional.\n\nWeston has strict standards. HOAs enforce rules. Restoration work must meet them. We know what's expected.",
       "localChallenges": "Weston sits near the Everglades. Heavy rain raises the water table. Flooding can happen. We respond fast.\n\nMedical offices must meet strict rules. Documentation matters. We provide what inspectors need.\n\nRetail stores serve an upscale market. Quick, quality restoration is essential. We deliver.\n\nThe community has high standards. Restoration work must match. We don't cut corners.\n\nSmart building systems are common. We protect them during restoration.",
-      "focusPoints": ["Corporate office restoration", "Medical facility compliance", "Retail center protection", "Professional service building expertise", "Town Center specialists", "High-end retail restoration", "Medical spa and wellness centers", "Financial services building experience"]
+      "focusPoints": ["Corporate office restoration", "Medical facility compliance", "Retail center protection", "Professional service building expertise", "Town Center specialists", "High-end retail restoration", "Medical spa and wellness centers", "Financial services building experience"],
+      "insuranceNotes": "Weston commercial properties often serve high-net-worth clients who expect premium environments. We document damage thoroughly for full replacement value claims. Medical facilities have additional compliance documentation requirements.",
+      "localFAQs": [
+        {
+          "question": "Can you restore a Weston medical spa or wellness center?",
+          "answer": "Yes. We understand the unique needs of wellness facilities including specialized equipment, delicate finishes, and client-facing spaces that must look pristine. We can work after hours to minimize business disruption and ensure treatment rooms meet health standards."
+        },
+        {
+          "question": "How do you handle water damage in Weston professional offices?",
+          "answer": "We understand that Weston professional offices serve discerning clients. We work discretely, protect expensive furnishings and equipment, and restore spaces to the premium standards your clients expect. After-hours service is available."
+        }
+      ]
     }
   },
   "plantation": {

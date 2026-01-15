@@ -1,0 +1,294 @@
+{
+  "burst-pipe-water-damage": {
+    "miami": {
+      "localContext": "Miami's older neighborhoods like Coral Gables and Little Havana have galvanized pipes from the 1950s-60s that are increasingly prone to failure. High-rise condos face riser pipe failures that can affect multiple floors simultaneously. The city's limestone foundation allows water to travel in unexpected directions, making fast response critical.",
+      "citySpecificCauses": [
+        "Corroded galvanized pipes in pre-1970 homes",
+        "High-rise condo riser pipe failures affecting multiple units",
+        "Salt air corrosion on coastal properties",
+        "Limestone foundation allowing water to spread rapidly"
+      ],
+      "citySpecificPrevention": [
+        "Have condo riser pipes inspected if your building is pre-1985",
+        "Know your HOA's emergency water shutoff protocol",
+        "Consider repiping if your home has original galvanized pipes"
+      ],
+      "localFAQs": [
+        {
+          "question": "Are burst pipes common in Miami high-rises?",
+          "answer": "Yes. Many Miami high-rises built before 1990 have aging riser pipes that serve multiple floors. A single pipe failure can cause water damage to several units simultaneously, requiring coordination with building management and multiple unit owners."
+        }
+      ]
+    },
+    "fort-lauderdale": {
+      "localContext": "Fort Lauderdale's waterfront properties face accelerated pipe corrosion from salt air. Properties along the city's 300+ miles of canals are especially vulnerable, with salt-laden moisture affecting pipes even on properties that aren't directly on the water.",
+      "citySpecificCauses": [
+        "Salt air pipe corrosion on waterfront and near-water properties",
+        "High mineral content in water affecting copper pipes",
+        "Seawall-related ground movement stressing underground pipes"
+      ],
+      "citySpecificPrevention": [
+        "Schedule pipe inspections more frequently if within a mile of water",
+        "Consider pipe coating treatments for corrosion protection",
+        "Monitor water pressure—high pressure accelerates pipe wear"
+      ],
+      "localFAQs": [
+        {
+          "question": "Does living near a Fort Lauderdale canal increase burst pipe risk?",
+          "answer": "Yes. Salt air accelerates pipe corrosion even if you're not directly on the water. Properties within a mile of the Intracoastal or canals should have pipes inspected more frequently. We often see pipe failures 10-15 years earlier in waterfront areas."
+        }
+      ]
+    },
+    "pembroke-pines": {
+      "localContext": "Pembroke Pines' planned communities have consistent construction patterns, which means common plumbing issues. Slab-on-grade construction is standard, and underground pipes can be stressed by soil shifting in areas built on former wetlands.",
+      "citySpecificCauses": [
+        "Underground pipe stress from soil settling",
+        "Aging pipes in older developments like Century Village",
+        "New construction settling affecting plumbing connections"
+      ],
+      "citySpecificPrevention": [
+        "Monitor for wet spots in yards that could indicate underground leaks",
+        "If your home is 15+ years old, consider a pipe camera inspection",
+        "Know your main shutoff location—many HOA communities have them in unusual spots"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why do newer Pembroke Pines homes sometimes have pipe problems?",
+          "answer": "New construction can experience settling in the first 3-5 years, especially in areas built on former wetlands. This settling can stress pipe connections. We recommend a plumbing inspection around the 3-year mark to catch issues before they become emergencies."
+        }
+      ]
+    },
+    "davie": {
+      "localContext": "Davie's mix of newer subdivisions and older ranch properties creates varied pipe challenges. Many older properties still have original plumbing, while equestrian properties may have long runs of underground pipe serving barns and outbuildings.",
+      "citySpecificCauses": [
+        "Long underground pipe runs on large properties",
+        "Well system pressure issues",
+        "Older plumbing in converted ranch properties"
+      ],
+      "citySpecificPrevention": [
+        "Inspect outdoor spigots and barn plumbing regularly",
+        "Monitor well pressure—inconsistent pressure can stress pipes",
+        "Consider sectional shutoffs for large properties with multiple buildings"
+      ],
+      "localFAQs": [
+        {
+          "question": "Can you locate burst pipes on large Davie properties?",
+          "answer": "Yes. We have equipment designed for large acreage properties. We can trace underground pipes and identify leak locations without extensive digging. For properties with multiple buildings, we can test each section separately."
+        }
+      ]
+    },
+    "weston": {
+      "localContext": "Weston's master-planned construction means consistent plumbing quality, but the community's high water table and proximity to the Everglades creates unique challenges. Homes here often have premium fixtures that require careful handling during restoration.",
+      "citySpecificCauses": [
+        "High water table creating external pressure on pipes",
+        "Settling in newer developments affecting connections",
+        "Underground irrigation systems sometimes confused with pipe leaks"
+      ],
+      "citySpecificPrevention": [
+        "Ensure sump pumps are working before rainy season",
+        "Have plumbing inspected when purchasing—even newer Weston homes can have issues",
+        "Know the difference between irrigation leaks and plumbing leaks"
+      ],
+      "localFAQs": [
+        {
+          "question": "Does Weston's high water table cause pipe problems?",
+          "answer": "The high water table itself doesn't cause pipe failures, but it can make them worse. When pipes burst in Weston, water has nowhere to drain naturally. Combined with premium finishes in most Weston homes, fast response is essential to prevent extensive damage."
+        }
+      ]
+    }
+  },
+  "ac-leak-water-damage": {
+    "miami": {
+      "localContext": "Miami's year-round AC usage means condensation lines work harder than almost anywhere else. High-rise condos often have AC units in closets or above ceilings where leaks go unnoticed. The city's humidity accelerates mold growth once water damage occurs.",
+      "citySpecificCauses": [
+        "Year-round AC operation stressing condensation systems",
+        "High-rise AC placement making leaks hard to detect",
+        "Humidity causing rapid mold growth after leaks"
+      ],
+      "citySpecificPrevention": [
+        "Clean condensation lines monthly during summer",
+        "Install secondary drain pans with water sensors in condo units",
+        "Schedule AC maintenance before and after hurricane season"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why are AC leaks more serious in Miami?",
+          "answer": "Miami's high humidity means mold can begin growing within 24 hours of water damage. In high-rise condos, AC leaks can go unnoticed in closets or above ceilings until significant damage occurs. Fast professional drying is essential to prevent mold."
+        }
+      ]
+    },
+    "fort-lauderdale": {
+      "localContext": "Fort Lauderdale's waterfront homes run AC constantly to combat humidity from the canals and Intracoastal. Many homes have AC handlers in attics where leaks damage ceilings before they're detected.",
+      "citySpecificCauses": [
+        "Attic AC handlers causing ceiling damage",
+        "High humidity from waterways stressing AC systems",
+        "Salt air affecting outdoor AC components"
+      ],
+      "citySpecificPrevention": [
+        "Install water sensors in attic AC drain pans",
+        "Clean outdoor AC coils more frequently near salt water",
+        "Check attic insulation around AC units for moisture"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why do Fort Lauderdale waterfront homes have more AC problems?",
+          "answer": "Waterfront homes run AC harder to control humidity. Salt air can affect outdoor components. Many canal homes have AC units in attics where leaks damage ceilings and insulation before being noticed. Regular inspection is essential."
+        }
+      ]
+    },
+    "pembroke-pines": {
+      "localContext": "Pembroke Pines homes often have AC handlers in garages or closets. The city's family-focused developments mean many homeowners don't inspect AC systems until problems appear.",
+      "citySpecificCauses": [
+        "Garage AC placement causing floor and wall damage",
+        "Clogged condensation lines from irregular maintenance",
+        "Improperly sealed AC returns in newer construction"
+      ],
+      "citySpecificPrevention": [
+        "Inspect garage AC drain pans seasonally",
+        "Set calendar reminders for AC filter changes",
+        "Check AC returns for proper sealing if home is under 5 years old"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why do Pembroke Pines homes built recently have AC leak problems?",
+          "answer": "Some newer construction has improperly sealed AC returns that allow condensation in unexpected places. We also see issues with construction debris clogging condensation lines. A thorough AC inspection can identify these problems before major damage occurs."
+        }
+      ]
+    },
+    "davie": {
+      "localContext": "Davie's larger homes and equestrian properties often have multiple AC systems serving different areas. Barns and outbuildings with climate control face unique AC challenges.",
+      "citySpecificCauses": [
+        "Multiple AC systems complicating maintenance",
+        "Barn and stable AC systems with different requirements",
+        "Large homes with AC units in remote areas"
+      ],
+      "citySpecificPrevention": [
+        "Create a maintenance schedule for each AC system",
+        "Use commercial-grade drain treatments in barn AC units",
+        "Install water sensors in all AC locations, especially remote ones"
+      ],
+      "localFAQs": [
+        {
+          "question": "Can you restore water damage in Davie barns with climate control?",
+          "answer": "Yes. We understand the unique needs of climate-controlled barns and equestrian facilities. We use animal-safe products and can work around horse schedules. Barn AC systems often have different maintenance requirements than residential systems."
+        }
+      ]
+    },
+    "weston": {
+      "localContext": "Weston's high-end homes often have advanced HVAC systems with multiple zones. Smart home integration means AC issues can sometimes be detected earlier, but also means restoration must protect sophisticated systems.",
+      "citySpecificCauses": [
+        "Complex multi-zone systems with more potential failure points",
+        "High humidity from Everglades proximity stressing systems",
+        "Premium finishes damaged by AC leaks"
+      ],
+      "citySpecificPrevention": [
+        "Use smart sensors that alert you to condensation pan issues",
+        "Schedule professional maintenance for complex multi-zone systems",
+        "Ensure your HVAC contractor understands your smart home integration"
+      ],
+      "localFAQs": [
+        {
+          "question": "Can AC leaks damage Weston smart home systems?",
+          "answer": "Yes. Many Weston homes have integrated smart home systems with components throughout the house. AC leaks can damage sensors, controllers, and wiring. We identify and protect smart home components during restoration and work with your integrator if repairs are needed."
+        }
+      ]
+    }
+  },
+  "hurricane-flood-damage": {
+    "miami": {
+      "localContext": "Miami faces dual hurricane threats: direct wind damage and storm surge flooding from Biscayne Bay. Low-lying areas like Little Havana and Edgewater are particularly vulnerable to flooding even from nearby storms.",
+      "citySpecificCauses": [
+        "Storm surge from Biscayne Bay affecting coastal areas",
+        "Combined rainfall and tidal flooding in low-lying neighborhoods",
+        "High-rise wind damage allowing water intrusion"
+      ],
+      "citySpecificPrevention": [
+        "Know your FEMA flood zone and have appropriate coverage",
+        "Pre-position supplies for hurricane season",
+        "High-rise residents should seal balcony doors before storms"
+      ],
+      "localFAQs": [
+        {
+          "question": "Do you respond during active hurricanes in Miami?",
+          "answer": "We begin response as soon as conditions are safe, often within hours of a storm passing. During hurricane season, we pre-position crews and equipment to respond quickly. For major storms, we bring in additional resources from outside the affected area."
+        }
+      ]
+    },
+    "fort-lauderdale": {
+      "localContext": "Fort Lauderdale's canal system can amplify hurricane flooding as storm surge pushes water inland through waterways. Properties that rarely flood can experience significant water intrusion during major storms.",
+      "citySpecificCauses": [
+        "Storm surge traveling through canal system",
+        "Combined canal overflow and rainfall flooding",
+        "Seawall failures during storm surge"
+      ],
+      "citySpecificPrevention": [
+        "Clear canal access points before hurricane season",
+        "Have seawalls inspected after any storm with surge",
+        "Consider flood insurance even if not in a flood zone"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why did my Fort Lauderdale home flood when I'm not on a canal?",
+          "answer": "Fort Lauderdale's canal system connects to the Intracoastal and Atlantic. Storm surge can travel inland through canals, flooding properties that have never flooded before. Even properties several blocks from water can experience flooding during major storms."
+        }
+      ]
+    },
+    "pembroke-pines": {
+      "localContext": "Pembroke Pines' suburban location means less storm surge risk but significant vulnerability to rainfall flooding. The city's canal system helps drainage but can overflow during major storms.",
+      "citySpecificCauses": [
+        "Overwhelmed storm drainage during heavy rainfall",
+        "Canal overflow in low-lying developments",
+        "Roof damage allowing water intrusion"
+      ],
+      "citySpecificPrevention": [
+        "Clear gutters and drainage before hurricane season",
+        "Know your development's drainage patterns",
+        "Inspect roof after any storm with high winds"
+      ],
+      "localFAQs": [
+        {
+          "question": "Is Pembroke Pines safer from hurricanes than coastal areas?",
+          "answer": "Pembroke Pines has less storm surge risk than coastal areas, but heavy rainfall flooding is common during hurricanes. The city's canal system helps drainage but can overflow. Roof damage from wind is also a significant concern—wind speeds are similar to coastal areas."
+        }
+      ]
+    },
+    "davie": {
+      "localContext": "Davie's large properties and equestrian facilities face unique hurricane challenges. Barns, outbuildings, and large lots can experience damage that takes longer to assess than typical residential properties.",
+      "citySpecificCauses": [
+        "Large property drainage overwhelmed by heavy rain",
+        "Barn and outbuilding damage",
+        "Well and septic contamination from flooding"
+      ],
+      "citySpecificPrevention": [
+        "Have a hurricane plan for animals and livestock",
+        "Pre-position portable pumps for large property drainage",
+        "Secure barn contents and equipment before storms"
+      ],
+      "localFAQs": [
+        {
+          "question": "Can you help with hurricane damage to Davie horse barns?",
+          "answer": "Yes. We respond to equestrian facilities after hurricanes, addressing structural damage, flooding, and contamination. Animal safety is our priority. We can coordinate with your vet on any health concerns and work around animal care schedules."
+        }
+      ]
+    },
+    "weston": {
+      "localContext": "Weston's proximity to the Everglades creates unique hurricane flooding as water levels rise throughout the region. The community's newer construction generally handles wind well, but Everglades overflow can affect areas that rarely flood.",
+      "citySpecificCauses": [
+        "Everglades overflow during and after major storms",
+        "High water table rising during heavy rainfall",
+        "Regional drainage overwhelmed affecting entire community"
+      ],
+      "citySpecificPrevention": [
+        "Understand that flood risk exists even in newer developments",
+        "Maintain sump pumps before hurricane season",
+        "Consider flood insurance even outside FEMA flood zones"
+      ],
+      "localFAQs": [
+        {
+          "question": "Why does Weston flood during hurricanes when it's a newer community?",
+          "answer": "Weston sits adjacent to the Everglades. During major storms, water levels rise throughout the region. The community's drainage system can be overwhelmed when the entire area floods. Properties closest to the Everglades boundary are most affected."
+        }
+      ]
+    }
+  }
+}

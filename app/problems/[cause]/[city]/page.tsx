@@ -9,6 +9,7 @@ import {
   getAllCities,
   getAllCauses,
   getService,
+  getCauseCityContent,
 } from '@/lib/local-seo/data';
 import { getRelatedBlogPostsForCause } from '@/lib/local-seo/links';
 import { CausePage } from '@/components/local-seo';
@@ -124,6 +125,9 @@ export default async function CauseCityPage({
     { label: cause.name, href: `/problems/${causeSlug}/${citySlug}` },
   ];
 
+  // Get city-specific content for this cause (SEO differentiator)
+  const cityContent = getCauseCityContent(causeSlug, citySlug);
+
   // Generate comprehensive schema
   const schemas = [];
 
@@ -207,6 +211,7 @@ export default async function CauseCityPage({
             excerpt: post.excerpt,
           }))}
           breadcrumbs={breadcrumbs}
+          cityContent={cityContent}
         />
       </main>
       <Footer />

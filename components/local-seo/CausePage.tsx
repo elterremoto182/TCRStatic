@@ -24,7 +24,7 @@ import {
   Award,
   FileCheck,
 } from 'lucide-react';
-import type { CauseConfig, CityConfig, ServiceConfig } from '@/lib/local-seo/data';
+import type { CauseConfig, CityConfig, ServiceConfig, CauseCityContent } from '@/lib/local-seo/data';
 
 interface CausePageProps {
   cause: CauseConfig;
@@ -33,6 +33,7 @@ interface CausePageProps {
   parentServices: { slug: string; name: string }[];
   relatedBlogPosts: { slug: string; title: string; excerpt: string }[];
   breadcrumbs: { label: string; href: string }[];
+  cityContent?: CauseCityContent | null;
 }
 
 const urgencyColors = {
@@ -48,6 +49,7 @@ export function CausePage({
   parentServices,
   relatedBlogPosts,
   breadcrumbs,
+  cityContent,
 }: CausePageProps) {
   const urgencyStyle = urgencyColors[cause.urgency] || urgencyColors.moderate;
   const hasBodyContent = cause.bodyContent && cause.bodyContent.overview;
@@ -128,6 +130,21 @@ export function CausePage({
                       </p>
                     ))}
                   </div>
+                  
+                  {/* City-Specific Context - SEO Differentiator */}
+                  {cityContent?.localContext && (
+                    <div className="mt-6 p-5 bg-primary/5 border border-primary/20 rounded-xl">
+                      <div className="flex items-start gap-3 mb-3">
+                        <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                        <h3 className="font-bold text-gray-900">
+                          {cause.name} in {city.name} Specifically
+                        </h3>
+                      </div>
+                      <p className="text-gray-700 leading-relaxed">
+                        {cityContent.localContext}
+                      </p>
+                    </div>
+                  )}
                 </AnimateOnScroll>
               </div>
 
@@ -225,6 +242,32 @@ export function CausePage({
                 </AnimateOnScroll>
               ))}
             </div>
+
+            {/* City-Specific Causes - SEO Differentiator */}
+            {cityContent?.citySpecificCauses && cityContent.citySpecificCauses.length > 0 && (
+              <div className="mt-8">
+                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                  <div className="flex items-center gap-2 mb-4">
+                    <MapPin className="w-5 h-5 text-primary" />
+                    <h3 className="text-xl font-bold text-gray-900">
+                      Specific to {city.name}
+                    </h3>
+                  </div>
+                </AnimateOnScroll>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {cityContent.citySpecificCauses.map((causeItem, idx) => (
+                    <AnimateOnScroll key={`city-${idx}`} animation="fade-in-up" duration={400} delay={idx * 50}>
+                      <div className="flex items-start gap-3 p-4 bg-primary/5 rounded-lg border border-primary/20">
+                        <div className="w-8 h-8 bg-primary/20 rounded-full flex items-center justify-center flex-shrink-0">
+                          <MapPin className="w-4 h-4 text-primary" />
+                        </div>
+                        <span className="text-gray-700">{causeItem}</span>
+                      </div>
+                    </AnimateOnScroll>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </section>
       )}
@@ -299,6 +342,32 @@ export function CausePage({
                 </AnimateOnScroll>
               ))}
             </div>
+
+            {/* City-Specific Prevention Tips - SEO Differentiator */}
+            {cityContent?.citySpecificPrevention && cityContent.citySpecificPrevention.length > 0 && (
+              <div className="mt-8">
+                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                  <div className="flex items-center gap-2 mb-4">
+                    <MapPin className="w-5 h-5 text-green-700" />
+                    <h3 className="text-xl font-bold text-gray-900">
+                      Tips for {city.name} Properties
+                    </h3>
+                  </div>
+                </AnimateOnScroll>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {cityContent.citySpecificPrevention.map((tip, idx) => (
+                    <AnimateOnScroll key={`city-tip-${idx}`} animation="fade-in-up" duration={400} delay={idx * 50}>
+                      <div className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-200">
+                        <div className="flex-shrink-0 w-8 h-8 bg-green-200 rounded-full flex items-center justify-center">
+                          <MapPin className="w-4 h-4 text-green-700" />
+                        </div>
+                        <p className="text-gray-700 leading-relaxed">{tip}</p>
+                      </div>
+                    </AnimateOnScroll>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </section>
       )}
@@ -367,6 +436,7 @@ export function CausePage({
         <LocalFAQ
           title={`${cause.name} FAQs for ${city.name}`}
           faqs={cause.bodyContent!.faqs}
+          localFAQs={cityContent?.localFAQs}
         />
       )}
 

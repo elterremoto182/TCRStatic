@@ -3,6 +3,7 @@ import citiesConfig from '@/config/cities.json';
 import causesConfig from '@/config/causes.json';
 import faqsConfig from '@/config/faqs.json';
 import localSeoConfig from '@/config/local-seo.json';
+import causeCityContentConfig from '@/config/cause-city-content.json';
 
 // Types
 export interface BodyContent {
@@ -65,11 +66,18 @@ export interface ProcessStep {
   description: string;
 }
 
+export interface LocalFAQItem {
+  question: string;
+  answer: string;
+}
+
 export interface CityTypeContent {
   intro: string;
   extendedContent?: string;
   localChallenges?: string;
   focusPoints: string[];
+  insuranceNotes?: string;
+  localFAQs?: LocalFAQItem[];
 }
 
 export interface CityConfig {
@@ -88,6 +96,7 @@ export interface CityConfig {
     risks: string[];
     characteristics: string;
   };
+  seasonalTriggers?: string;
   residential: CityTypeContent;
   commercial: CityTypeContent;
   video?: Record<string, ServiceVideo>; // Optional city-specific video overrides by service slug
@@ -229,6 +238,20 @@ export function getCausesForService(serviceSlug: string): CauseConfig[] {
   }
   
   return causes;
+}
+
+// City-specific cause content types
+export interface CauseCityContent {
+  localContext: string;
+  citySpecificCauses?: string[];
+  citySpecificPrevention?: string[];
+  localFAQs?: LocalFAQItem[];
+}
+
+// Get city-specific content for a cause page
+export function getCauseCityContent(causeSlug: string, citySlug: string): CauseCityContent | null {
+  const content = causeCityContentConfig as Record<string, Record<string, CauseCityContent>>;
+  return content[causeSlug]?.[citySlug] || null;
 }
 
 export function getServiceTypes(): Record<string, ServiceTypeConfig> {

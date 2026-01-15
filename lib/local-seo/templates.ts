@@ -6,6 +6,7 @@ import {
   getPopulatedFAQs,
   type ServiceConfig,
   type CityConfig,
+  type CityTypeContent,
   type ServiceTypeConfig,
   type CauseConfig,
   type FAQItem,
@@ -114,6 +115,20 @@ export interface ImagesContent {
   gallery: string[];
 }
 
+export interface LocalFactorsContent {
+  title: string;
+  climate: string;
+  risks: string[];
+  characteristics: string;
+  seasonalTriggers?: string;
+  insuranceNotes?: string;
+}
+
+export interface LocalFAQItem {
+  question: string;
+  answer: string;
+}
+
 export interface PageContent {
   meta: {
     title: string;
@@ -130,6 +145,8 @@ export interface PageContent {
   neighborhoods: NeighborhoodsContent;
   trustSignals: TrustSignalsContent;
   faq: FAQContent;
+  localFactors: LocalFactorsContent;
+  localFAQs?: LocalFAQItem[];
   cta: CTAContent;
   internalLinks: InternalLinksContent;
   images: ImagesContent;
@@ -266,6 +283,34 @@ export function generateNeighborhoodsContent(city: CityConfig): NeighborhoodsCon
     neighborhoods: city.neighborhoods,
     zipCodes: city.zipCodes.slice(0, 10), // Limit to first 10 zip codes
   };
+}
+
+export function generateLocalFactorsContent(
+  city: CityConfig,
+  type: 'residential' | 'commercial'
+): LocalFactorsContent {
+  const typeContent = city[type] as CityTypeContent & {
+    insuranceNotes?: string;
+  };
+  
+  return {
+    title: `Why ${city.name} Properties Face Unique Restoration Challenges`,
+    climate: city.localFactors.climate,
+    risks: city.localFactors.risks,
+    characteristics: city.localFactors.characteristics,
+    seasonalTriggers: (city as CityConfig & { seasonalTriggers?: string }).seasonalTriggers,
+    insuranceNotes: typeContent?.insuranceNotes,
+  };
+}
+
+export function getLocalFAQs(
+  city: CityConfig,
+  type: 'residential' | 'commercial'
+): LocalFAQItem[] {
+  const typeContent = city[type] as CityTypeContent & {
+    localFAQs?: LocalFAQItem[];
+  };
+  return typeContent?.localFAQs || [];
 }
 
 export function generateTrustSignalsContent(
@@ -470,6 +515,8 @@ export function generatePageContent(
     ],
   };
   
+  const localFAQs = getLocalFAQs(city, type);
+  
   return {
     meta,
     hero: generateHeroContent(service, city, serviceType),
@@ -482,6 +529,8 @@ export function generatePageContent(
     neighborhoods: generateNeighborhoodsContent(city),
     trustSignals: generateTrustSignalsContent(city, type),
     faq: generateFAQContent(service, city, faqs),
+    localFactors: generateLocalFactorsContent(city, type),
+    localFAQs: localFAQs.length > 0 ? localFAQs : undefined,
     cta: generateCTAContent(service, city, type),
     internalLinks: generateInternalLinksContent(
       serviceSlug,

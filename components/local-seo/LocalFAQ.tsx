@@ -12,6 +12,7 @@ interface FAQItem {
 interface LocalFAQProps {
   title: string;
   faqs: FAQItem[];
+  localFAQs?: FAQItem[]; // City-specific FAQs to merge in
   className?: string;
 }
 
@@ -47,10 +48,19 @@ function FAQAccordionItem({ faq, isOpen, onToggle }: {
   );
 }
 
-export function LocalFAQ({ title, faqs, className = '' }: LocalFAQProps) {
+export function LocalFAQ({ title, faqs, localFAQs, className = '' }: LocalFAQProps) {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
-  if (!faqs || faqs.length === 0) {
+  // Merge templated FAQs with city-specific local FAQs
+  const allFaqs = localFAQs && localFAQs.length > 0 
+    ? [...faqs, ...localFAQs] 
+    : faqs;
+  
+  // Track where local FAQs start for visual differentiation
+  const localFAQsStartIndex = faqs.length;
+  const hasLocalFAQs = localFAQs && localFAQs.length > 0;
+
+  if (!allFaqs || allFaqs.length === 0) {
     return null;
   }
 
@@ -70,13 +80,23 @@ export function LocalFAQ({ title, faqs, className = '' }: LocalFAQProps) {
         </AnimateOnScroll>
 
         <div className="space-y-3">
-          {faqs.map((faq, index) => (
+          {allFaqs.map((faq, index) => (
             <AnimateOnScroll
               key={index}
               animation="fade-in-up"
               duration={600}
               delay={index * 100}
             >
+              {/* Add visual marker for local FAQs */}
+              {hasLocalFAQs && index === localFAQsStartIndex && (
+                <div className="flex items-center gap-2 py-2 mb-2">
+                  <div className="h-px flex-1 bg-primary/20" />
+                  <span className="text-xs font-semibold text-primary uppercase tracking-wide">
+                    Local Questions
+                  </span>
+                  <div className="h-px flex-1 bg-primary/20" />
+                </div>
+              )}
               <FAQAccordionItem
                 faq={faq}
                 isOpen={openIndex === index}
