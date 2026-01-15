@@ -41,7 +41,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: siteConfig.seo.title,
     description: siteConfig.seo.description,
-    images: [siteConfig.seo.ogImage],
+    images: [
+      {
+        url: siteConfig.seo.ogImage,
+        width: 1200,
+        height: 630,
+        alt: siteConfig.seo.title,
+      },
+    ],
     type: 'website',
     locale: 'en_US',
     // alternateLocale: ['es_US'], // Uncomment when Spanish content is added
@@ -50,7 +57,14 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: siteConfig.seo.title,
     description: siteConfig.seo.description,
-    images: [siteConfig.seo.ogImage],
+    images: [
+      {
+        url: siteConfig.seo.ogImage,
+        width: 1200,
+        height: 630,
+        alt: siteConfig.seo.title,
+      },
+    ],
   },
 };
 
