@@ -29,7 +29,8 @@
       "reviewCount": 21
     },
     "google": {
-      "url": "https://www.google.com/search?q=total+care+restoration+reviews",
+      "url": "https://search.google.com/local/writereview?placeid=ChIJnQf8wci72YgRVY2t4MTnaYE",
+      "placeId": "ChIJnQf8wci72YgRVY2t4MTnaYE",
       "rating": 4.8,
       "reviewCount": 273
     },

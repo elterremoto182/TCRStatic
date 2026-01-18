@@ -4,6 +4,10 @@ import { ensureTrailingSlash } from '@/lib/utils';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
+// Google Place ID for Total Care Restoration
+const googlePlaceId = (siteConfig as any).reviews?.google?.placeId || 'ChIJnQf8wci72YgRVY2t4MTnaYE';
+const googleMapsUrl = `https://www.google.com/maps/place/?q=place_id:${googlePlaceId}`;
+
 // Types for structured data
 export interface ServiceSchemaOptions {
   serviceSlug: string;
@@ -97,7 +101,10 @@ export function generateLocalBusinessSchemaForCity(
       bestRating: '5',
       worstRating: '1',
     },
-    sameAs: Object.values(siteConfig.social).filter(Boolean) as string[],
+    sameAs: [
+      ...Object.values(siteConfig.social).filter(Boolean) as string[],
+      googleMapsUrl,
+    ],
   };
 }
 

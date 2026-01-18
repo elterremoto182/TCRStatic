@@ -28,6 +28,10 @@ export interface StructuredDataOptions {
   data?: Record<string, any>;
 }
 
+// Google Place ID for Total Care Restoration
+const googlePlaceId = (siteConfig as any).reviews?.google?.placeId || 'ChIJnQf8wci72YgRVY2t4MTnaYE';
+const googleMapsUrl = `https://www.google.com/maps/place/?q=place_id:${googlePlaceId}`;
+
 /**
  * Generate Organization schema
  */
@@ -76,7 +80,10 @@ export function generateOrganizationSchema() {
         },
       },
     ],
-    sameAs: Object.values(siteConfig.social).filter(Boolean) as string[],
+    sameAs: [
+      ...Object.values(siteConfig.social).filter(Boolean) as string[],
+      googleMapsUrl,
+    ],
   };
 }
 
@@ -149,7 +156,10 @@ export function generateLocalBusinessSchema() {
       bestRating: '5',
       worstRating: '1',
     },
-    sameAs: Object.values(siteConfig.social).filter(Boolean) as string[],
+    sameAs: [
+      ...Object.values(siteConfig.social).filter(Boolean) as string[],
+      googleMapsUrl,
+    ],
   };
 }
 
