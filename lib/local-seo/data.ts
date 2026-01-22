@@ -207,6 +207,22 @@ export function getCityByName(cityName: string): { slug: string; config: CityCon
   return null;
 }
 
+/**
+ * Get the top/largest cities for hub pages
+ * Returns cities configured in local-seo.json topCities array
+ */
+export function getTopCities(): { slug: string; name: string }[] {
+  const topCitySlugs = (localSeoConfig as { topCities?: string[] }).topCities || [];
+  const allCities = getAllCities();
+  
+  return topCitySlugs
+    .filter(slug => allCities[slug])
+    .map(slug => ({
+      slug,
+      name: allCities[slug].name,
+    }));
+}
+
 export function getAllCauses(): Record<string, CauseConfig[]> {
   return causesConfig as Record<string, CauseConfig[]>;
 }

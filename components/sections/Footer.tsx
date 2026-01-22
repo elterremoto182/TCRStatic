@@ -44,7 +44,7 @@ export function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-200 py-12">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-6 gap-8 mb-8">
           <div>
             <h3 className="text-white font-bold text-lg mb-4">
               {siteConfig.name}
@@ -110,6 +110,52 @@ export function Footer() {
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Storm Damage Guide
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 className="text-white font-semibold mb-4">Problems</h4>
+            <ul className="space-y-2">
+              <li>
+                <Link
+                  href="/problems/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Water Damage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/problems/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Mold Problems
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/problems/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Fire & Smoke
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/problems/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Storm Damage
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/problems/"
+                  className="text-sm font-medium hover:text-white transition-colors duration-200"
+                >
+                  View All Problems
                 </Link>
               </li>
             </ul>

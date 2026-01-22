@@ -1,4 +1,14 @@
 {
+  "topCities": [
+    "miami",
+    "fort-lauderdale",
+    "pembroke-pines",
+    "hollywood",
+    "miramar",
+    "coral-springs",
+    "west-palm-beach",
+    "boca-raton"
+  ],
   "serviceTypes": {
     "residential": {
       "name": "Residential",

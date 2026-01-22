@@ -140,7 +140,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ])
   );
 
-  // Cause/Problem pages (under /problems/ prefix)
+  // Cause/Problem hub pages (e.g., /problems/burst-pipe-water-damage/)
+  const causeHubRoutes: MetadataRoute.Sitemap = [];
+  for (const category of Object.values(allCauses)) {
+    for (const cause of category) {
+      causeHubRoutes.push({
+        url: `${baseUrl}/problems/${cause.slug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      });
+    }
+  }
+
+  // Cause/Problem city pages (under /problems/ prefix)
   const causeRoutes: MetadataRoute.Sitemap = [];
   for (const category of Object.values(allCauses)) {
     for (const cause of category) {
@@ -188,6 +201,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...coreServiceRoutes,
     ...typeHubRoutes,
     ...serviceCityRoutes,
+    ...causeHubRoutes,
     ...causeRoutes,
     ...otherPages,
     ...blogRoutes,

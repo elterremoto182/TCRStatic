@@ -2,6 +2,21 @@
   publish = "out"
   command = "npm run build:optimized"
 
+# Disable Netlify's Pretty URLs to prevent trailing slash conflicts
+# Next.js handles trailing slashes via trailingSlash: true in next.config.js
+[build.processing]
+  skip_processing = false
+[build.processing.html]
+  pretty_urls = false
+[build.processing.css]
+  bundle = false
+  minify = false
+[build.processing.js]
+  bundle = false
+  minify = false
+[build.processing.images]
+  compress = false
+
 # Critical CSS plugin disabled - causes Penthouse timeout on large sites
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
