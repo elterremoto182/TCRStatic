@@ -166,12 +166,23 @@ export function Footer() {
             <p>
               &copy; {currentYear} {siteConfig.name}. All rights reserved. License # CFC1430460
             </p>
-            <Link
-              href="/privacy-policy/"
-              className="text-gray-300 hover:text-white transition-colors duration-200"
-            >
-              Privacy Policy
-            </Link>
+            <div className="flex items-center gap-4">
+              <Link
+                href="/privacy-policy/"
+                className="text-gray-300 hover:text-white transition-colors duration-200"
+              >
+                Privacy Policy
+              </Link>
+              <span className="text-gray-600">|</span>
+              <a
+                href="https://aipress.io/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-500 hover:text-gray-300 transition-colors duration-200"
+              >
+                Developed by Aipress.io
+              </a>
+            </div>
           </div>
         </div>
       </div>

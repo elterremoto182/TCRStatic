@@ -158,6 +158,66 @@
 /blog/* /:splat 301
 
 # =============================================================================
+# PROBLEM PAGE REDIRECTS - Cause pages without city → default to Miami
+# These URLs don't exist (routing requires /problems/[cause]/[city]/)
+# Without these redirects, accessing /problems/[cause]/ causes redirect loops
+# =============================================================================
+
+# Fire & Smoke causes
+/problems/smoke-odor-removal/ /problems/smoke-odor-removal/miami/ 301
+/problems/smoke-odor-removal /problems/smoke-odor-removal/miami/ 301
+/problems/kitchen-fire-damage-restoration/ /problems/kitchen-fire-damage-restoration/miami/ 301
+/problems/kitchen-fire-damage-restoration /problems/kitchen-fire-damage-restoration/miami/ 301
+/problems/electrical-fire-cleanup/ /problems/electrical-fire-cleanup/miami/ 301
+/problems/electrical-fire-cleanup /problems/electrical-fire-cleanup/miami/ 301
+
+# Water damage causes
+/problems/burst-pipe-water-damage/ /problems/burst-pipe-water-damage/miami/ 301
+/problems/burst-pipe-water-damage /problems/burst-pipe-water-damage/miami/ 301
+/problems/ac-leak-water-damage/ /problems/ac-leak-water-damage/miami/ 301
+/problems/ac-leak-water-damage /problems/ac-leak-water-damage/miami/ 301
+/problems/washing-machine-overflow-damage/ /problems/washing-machine-overflow-damage/miami/ 301
+/problems/washing-machine-overflow-damage /problems/washing-machine-overflow-damage/miami/ 301
+/problems/slab-leak-water-damage/ /problems/slab-leak-water-damage/miami/ 301
+/problems/slab-leak-water-damage /problems/slab-leak-water-damage/miami/ 301
+/problems/roof-leak-water-damage/ /problems/roof-leak-water-damage/miami/ 301
+/problems/roof-leak-water-damage /problems/roof-leak-water-damage/miami/ 301
+/problems/toilet-overflow-cleanup/ /problems/toilet-overflow-cleanup/miami/ 301
+/problems/toilet-overflow-cleanup /problems/toilet-overflow-cleanup/miami/ 301
+/problems/hurricane-flood-damage/ /problems/hurricane-flood-damage/miami/ 301
+/problems/hurricane-flood-damage /problems/hurricane-flood-damage/miami/ 301
+/problems/water-heater-leak-damage/ /problems/water-heater-leak-damage/miami/ 301
+/problems/water-heater-leak-damage /problems/water-heater-leak-damage/miami/ 301
+/problems/dishwasher-leak-water-damage/ /problems/dishwasher-leak-water-damage/miami/ 301
+/problems/dishwasher-leak-water-damage /problems/dishwasher-leak-water-damage/miami/ 301
+/problems/refrigerator-water-line-leak-damage/ /problems/refrigerator-water-line-leak-damage/miami/ 301
+/problems/refrigerator-water-line-leak-damage /problems/refrigerator-water-line-leak-damage/miami/ 301
+/problems/swimming-pool-leak-damage/ /problems/swimming-pool-leak-damage/miami/ 301
+/problems/swimming-pool-leak-damage /problems/swimming-pool-leak-damage/miami/ 301
+/problems/sprinkler-system-water-damage/ /problems/sprinkler-system-water-damage/miami/ 301
+/problems/sprinkler-system-water-damage /problems/sprinkler-system-water-damage/miami/ 301
+/problems/foundation-water-seepage-damage/ /problems/foundation-water-seepage-damage/miami/ 301
+/problems/foundation-water-seepage-damage /problems/foundation-water-seepage-damage/miami/ 301
+
+# Mold causes
+/problems/roof-leak-mold-remediation/ /problems/roof-leak-mold-remediation/miami/ 301
+/problems/roof-leak-mold-remediation /problems/roof-leak-mold-remediation/miami/ 301
+/problems/ac-mold-remediation/ /problems/ac-mold-remediation/miami/ 301
+/problems/ac-mold-remediation /problems/ac-mold-remediation/miami/ 301
+/problems/bathroom-mold-removal/ /problems/bathroom-mold-removal/miami/ 301
+/problems/bathroom-mold-removal /problems/bathroom-mold-removal/miami/ 301
+/problems/post-flood-mold-remediation/ /problems/post-flood-mold-remediation/miami/ 301
+/problems/post-flood-mold-remediation /problems/post-flood-mold-remediation/miami/ 301
+
+# Storm causes
+/problems/hurricane-roof-damage/ /problems/hurricane-roof-damage/miami/ 301
+/problems/hurricane-roof-damage /problems/hurricane-roof-damage/miami/ 301
+/problems/wind-damage-restoration/ /problems/wind-damage-restoration/miami/ 301
+/problems/wind-damage-restoration /problems/wind-damage-restoration/miami/ 301
+/problems/tree-damage-restoration/ /problems/tree-damage-restoration/miami/ 301
+/problems/tree-damage-restoration /problems/tree-damage-restoration/miami/ 301
+
+# =============================================================================
 # TRAILING SLASH NOTE
 # =============================================================================
 # Trailing slash enforcement is handled by Next.js (trailingSlash: true in next.config.js)

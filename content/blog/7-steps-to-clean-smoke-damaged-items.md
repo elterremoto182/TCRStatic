@@ -124,7 +124,7 @@ Not all cleaners work equally well on smoke damage. The best cleaner for smoke d
 
 **Dry-cleaning sponges** are essential for the first pass. Made from natural rubber, they lift soot from surfaces without smearing it around. Use them dry and replace them when they get saturated.
 
-**Enzymatic cleaners** work best for protein smoke from [kitchen fires](/problems/kitchen-fire-damage-restoration/). Unlike regular cleaners that mask odors, enzymatic formulas break down odor-causing compounds at the molecular level.
+**Enzymatic cleaners** work best for protein smoke from [kitchen fires](/problems/kitchen-fire-damage-restoration/miami/). Unlike regular cleaners that mask odors, enzymatic formulas break down odor-causing compounds at the molecular level.
 
 **Professional degreasers** like [Legend Brands Unsmoke Degrease-All](https://www.legendbrands.com/products/unsmoke-degrease-all/) or [Benefect Atomic Degreaser](https://benefect.com/ca/products/atomic-degreaser/) handle heavy smoke residue that household cleaners can't touch.
 
@@ -207,7 +207,7 @@ To prevent future buildup, keep candle wicks trimmed to about 1/4 inch and avoid
 
 ### Electronics and Paper Documents
 
-Electronics and paper documents require extra care, as they are particularly sensitive to smoke and soot. Smoke can corrode electronic components and cause insulation issues – this is especially common after [electrical fires](/problems/electrical-fire-cleanup/). Start by removing any batteries from electronics and setting them aside for at least 24 hours. Use cotton balls lightly dampened with 99% isopropyl alcohol to clean the exterior surfaces, but avoid soaking any components. A low-pressure air compressor can help blow out dust and soot from delicate areas. Steer clear of cleaning agents containing bleach, ammonia, acetone, ethyl acid, or vinegar, as these can cause permanent damage.
+Electronics and paper documents require extra care, as they are particularly sensitive to smoke and soot. Smoke can corrode electronic components and cause insulation issues – this is especially common after [electrical fires](/problems/electrical-fire-cleanup/miami/). Start by removing any batteries from electronics and setting them aside for at least 24 hours. Use cotton balls lightly dampened with 99% isopropyl alcohol to clean the exterior surfaces, but avoid soaking any components. A low-pressure air compressor can help blow out dust and soot from delicate areas. Steer clear of cleaning agents containing bleach, ammonia, acetone, ethyl acid, or vinegar, as these can cause permanent damage.
 
 For paper documents, handle them gently, as smoke exposure can make them brittle and prone to deterioration. Use a dry sponge to clean covers and edges, lifting surface residue. For light soot exposure, tools like a vacuum, lamb’s wool duster, dry brush, or air wash can be effective.
 
@@ -229,7 +229,7 @@ The key to tackling smoke odors is to neutralize and absorb them, not just cover
 -   **White Vinegar**: Distilled white vinegar is another effective option. Place bowls of it in the corners of smoke-damaged rooms. The acetic acid in vinegar helps neutralize smoke particles in the air.
 -   **Activated Charcoal**: For more persistent odors, activated charcoal is a natural and effective solution. Strategically place charcoal odor eliminators around your home to capture and neutralize the particles causing the smell.
 
-If these methods don't fully resolve the issue, commercial odor-neutralizing sprays designed specifically for smoke can also be helpful. For more advanced techniques, check out our guide on [Top 7 Fire Odor Neutralization Techniques](/top-7-fire-odor-neutralization-techniques/). Persistent smoke odors may require professional [smoke odor removal](/problems/smoke-odor-removal/) services.
+If these methods don't fully resolve the issue, commercial odor-neutralizing sprays designed specifically for smoke can also be helpful. For more advanced techniques, check out our guide on [Top 7 Fire Odor Neutralization Techniques](/top-7-fire-odor-neutralization-techniques/). Persistent smoke odors may require professional [smoke odor removal](/problems/smoke-odor-removal/miami/) services.
 
 But odor removal is only part of the process – you'll also need to clean the air itself.
 
