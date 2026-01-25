@@ -33,6 +33,11 @@ export default function ResidentialSewageCleanupPage() {
     name: city.name,
   }));
 
+  // Get Tier 1 city links for service hub
+  let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
+  // Enforce link budget for service hub
+  tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
