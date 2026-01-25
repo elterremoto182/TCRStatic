@@ -11,6 +11,7 @@ import {
   type CauseConfig,
   type FAQItem,
   type ServiceImages,
+  type LocalFAQItem,
 } from './data';
 import { truncateMetaTitle, truncateMetaDescription, ensureTrailingSlash } from '@/lib/utils';
 
@@ -122,11 +123,6 @@ export interface LocalFactorsContent {
   characteristics: string;
   seasonalTriggers?: string;
   insuranceNotes?: string;
-}
-
-export interface LocalFAQItem {
-  question: string;
-  answer: string;
 }
 
 export interface PageContent {
