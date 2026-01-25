@@ -16,7 +16,7 @@ keywords: ["clean smoke damaged items", "smoke damage cleaning guide", "best cle
 
 
 
-**[Smoke Damage Long Term Effects And Restoration Techniques](/smoke-damage-long-term-effects-and-restoration-techniques/) can ruin your belongings and harm your health.** Cleaning it up quickly is crucial to save items and prevent long-term issues. Whether you're dealing with minor soot or significant fire aftermath, this guide covers the best way to clean smoke damage effectively. For a complete overview, also see our [Fire Damage Restoration Guide](/fire-damage-restoration-guide/).
+**[Smoke Damage Long Term Effects And Restoration Techniques](/smoke-damage-long-term-effects-and-restoration-techniques/) can ruin your belongings and harm your health.** Cleaning it up quickly is crucial to save items and prevent long-term issues. Whether you're dealing with minor soot or significant fire aftermath, this guide covers the best way to clean smoke damage effectively. For a complete overview, also see our [Fire Damage Restoration Guide](/guides/fire-damage-restoration/).
 
 1.  **Stay Safe**: Wear protective gear like gloves, goggles, and a P-100 HEPA respirator. Ventilate the area and avoid eating or drinking in damaged spaces.
 2.  **Sort Items**: Inspect belongings for damage. Keep salvageable items like hard surfaces and discard porous ones like mattresses or heavily stained objects.

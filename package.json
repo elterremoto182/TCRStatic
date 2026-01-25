@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "generate-sitemaps": "tsx scripts/generate-sitemaps.ts",
+    "prebuild": "npm run generate-sitemaps",
     "build": "NODE_ENV=production next build",
     "build:optimized": "NODE_ENV=production next build && next-image-export-optimizer",
     "start": "next start",
@@ -54,6 +56,7 @@
     "Safari >= 15.4"
   ],
   "devDependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "tsx": "^4.21.0"
   }
 }

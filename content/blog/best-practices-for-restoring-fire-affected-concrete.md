@@ -165,7 +165,7 @@ Preventive maintenance also extends the lifespan of repaired structures. Regular
 
 Maintaining compliance documentation is equally important, as many jurisdictions require periodic inspections of fire-damaged structures. Up-to-date paperwork simplifies these inspections and ensures adherence to safety regulations. It also facilitates future renovations or property sales by clearly demonstrating the quality of the restoration work.
 
-For complex restoration projects, professional guidance can make all the difference. Total Care Restoration offers a full range of [Fire Damage Restoration Guide](/fire-damage-restoration-guide/), including post-repair testing and maintenance planning. Their certified technicians can help you establish efficient documentation systems and maintenance protocols to protect your investment. For expert assistance or immediate consultation, reach out to them at (786) 610-6317.
+For complex restoration projects, professional guidance can make all the difference. Total Care Restoration offers a full range of [Fire Damage Restoration Guide](/guides/fire-damage-restoration/), including post-repair testing and maintenance planning. Their certified technicians can help you establish efficient documentation systems and maintenance protocols to protect your investment. For expert assistance or immediate consultation, reach out to them at (786) 610-6317.
 
 ## Conclusion
 

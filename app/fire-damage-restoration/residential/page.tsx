@@ -4,6 +4,8 @@ import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
+import { getAllTier1CityLinks } from '@/lib/local-seo/links';
+import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
 
 const SERVICE_SLUG = 'fire-damage-restoration';
 const SERVICE_TYPE = 'residential';
@@ -30,6 +32,11 @@ export default function ResidentialFireDamagePage() {
     slug,
     name: city.name,
   }));
+
+  // Get Tier 1 city links for service hub
+  let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
+  // Enforce link budget for service hub
+  tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
   const serviceSchema = {
     '@context': 'https://schema.org',
@@ -58,6 +65,7 @@ export default function ResidentialFireDamagePage() {
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
           tips={service.residentialContent?.tips}
+          tier1CityLinks={tier1CityLinks}
         />
       </main>
       <Footer />

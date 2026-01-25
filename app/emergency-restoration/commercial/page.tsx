@@ -4,6 +4,8 @@ import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
+import { getAllTier1CityLinks } from '@/lib/local-seo/links';
+import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
 
 const SERVICE_SLUG = 'emergency-restoration';
 const SERVICE_TYPE = 'commercial';
@@ -31,6 +33,11 @@ export default function CommercialEmergencyRestorationPage() {
     name: city.name,
   }));
 
+  // Get Tier 1 city links for service hub
+  let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
+  // Enforce link budget for service hub
+  tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -55,6 +62,7 @@ export default function CommercialEmergencyRestorationPage() {
           type={SERVICE_TYPE}
           description="Business emergencies can't wait. Our 24/7 commercial emergency restoration team is equipped to handle large-scale disasters and works around the clock to minimize your downtime and revenue loss."
           cities={cityList}
+          tier1CityLinks={tier1CityLinks}
           focusAreas={serviceType.focusAreas}
           challenges={service.commercialContent?.challenges}
           tips={service.commercialContent?.tips}

@@ -225,7 +225,7 @@ By ensuring proper ventilation, you can effectively push humid air outside, whic
 - [Flood Damage Recovery Planner](/flood-damage-recovery-planner/)
 - [Fire-Damaged Wood: Repair or Replace?](/fire-damaged-wood-repair-or-replace/)
 - [Fire-Damaged Structures: Material Standards Explained](/fire-damaged-structures-material-standards-explained/)
-- [Understanding The Basics of A Fire Damage Restoration Services Company](/fire-damage-restoration-guide/)
+- [The Complete Guide to Fire Damage Restoration](/guides/fire-damage-restoration/)
 - [Fire Damage Restoration: A Step-by-Step Guide.](/fire-damage-restoration-a-step-by-step-guide/)
 
 -   [5 Steps For Emergency Mold Mitigation](/5-steps-for-emergency-mold-mitigation/)

@@ -37,7 +37,7 @@ For effective remediation, expert assessments are essential.
 
 ## Initial Property Inspection Steps
 
-When tackling smoke contamination, experts start with a thorough inspection. Certified technicians follow a detailed process to find contamination, create a [Fire Damage Restoration Guide](/fire-damage-restoration-guide/), and develop a cleanup plan.
+When tackling smoke contamination, experts start with a thorough inspection. Certified technicians follow a detailed process to find contamination, create a [Fire Damage Restoration Guide](/guides/fire-damage-restoration/), and develop a cleanup plan.
 
 ### Visual Inspection of Damaged Areas
 

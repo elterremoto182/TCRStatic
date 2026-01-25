@@ -22,7 +22,7 @@ Dealing with smoke damage after a fire can be a difficult task. Unattended, the 
 
 ## A Comprehensive Understanding of Smoke Damage and Odors
 
-[Fire Damage Restoration Guide](/fire-damage-restoration-guide/) involves more than just the visible signs of discoloration on walls and ceilings. It sinks into various materials in your home, including carpets, furniture, and even the paint on your walls. This is what leaves behind the persistent, unpleasant smell.
+[Fire Damage Restoration Guide](/guides/fire-damage-restoration/) involves more than just the visible signs of discoloration on walls and ceilings. It sinks into various materials in your home, including carpets, furniture, and even the paint on your walls. This is what leaves behind the persistent, unpleasant smell.
 
 ## Professional Techniques for Dealing with Smoke Odor
 

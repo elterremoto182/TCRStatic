@@ -15,6 +15,16 @@ import {
   type CauseConfig 
 } from './data';
 import { ensureTrailingSlash } from '@/lib/utils';
+import { 
+  TIER_1_CITIES, 
+  TIER_2_CITIES, 
+  getCityTier, 
+  getTierCitySlugs,
+  getGeographicallyNearbyFromTier,
+  getCitiesInTier
+} from './city-tiers';
+import { enforceLinkBudget, type PageType } from './link-budget';
+import { applyAnchorTextRotation } from './anchor-text';
 
 // Blog post relevance keywords for each service
 const SERVICE_KEYWORDS: Record<string, string[]> = {
@@ -219,6 +229,119 @@ export function getRelatedBlogPostsForCause(
 }
 
 /**
+ * Get links to ALL Tier 1 cities (for service hub pages)
+ * Service hubs link to all Tier 1 cities to distribute maximum link equity
+ */
+export function getAllTier1CityLinks(
+  serviceSlug: string,
+  propertyTypeSlug: string
+): RelatedLink[] {
+  const service = getService(serviceSlug);
+  if (!service) return [];
+  
+  return TIER_1_CITIES.map(slug => {
+    const city = getCity(slug);
+    return {
+      href: `/${serviceSlug}/${propertyTypeSlug}/${slug}/`,
+      label: `${service.name} in ${city?.name || slug}`,
+      description: `Professional ${service.name.toLowerCase()} services in ${city?.name || slug}, ${city?.county || 'FL'}`,
+      type: 'city' as const,
+    };
+  });
+}
+
+/**
+ * Get tier-based city links for a city page
+ * Returns links to 3 geographically nearby cities from the tier below
+ * Tier 1 → Tier 2, Tier 2 → Tier 3, Tier 3 → other Tier 3
+ */
+export function getTierLinksForCity(
+  citySlug: string,
+  serviceSlug: string,
+  propertyTypeSlug: string,
+  limit: number = 3
+): RelatedLink[] {
+  const city = getCity(citySlug);
+  const service = getService(serviceSlug);
+  
+  if (!city || !service) return [];
+  
+  const targetSlugs = getTierCitySlugs(citySlug, limit);
+  
+  return targetSlugs.map(slug => {
+    const targetCity = getCity(slug);
+    return {
+      href: `/${serviceSlug}/${propertyTypeSlug}/${slug}/`,
+      label: `${service.name} in ${targetCity?.name || slug}`,
+      description: `Professional ${service.name.toLowerCase()} in ${targetCity?.name || slug}`,
+      type: 'city' as const,
+    };
+  });
+}
+
+/**
+ * Identify Tier 2 cities that would be orphaned (not linked from any Tier 1 city)
+ * by simulating the nearest-3 selection from each Tier 1 city
+ */
+function getOrphanedTier2Cities(): string[] {
+  const covered = new Set<string>();
+  
+  // Simulate nearest-3 selection from each Tier 1 city
+  for (const t1Slug of TIER_1_CITIES) {
+    const nearest3 = getGeographicallyNearbyFromTier(t1Slug, TIER_2_CITIES, 3);
+    nearest3.forEach(slug => covered.add(slug));
+  }
+  
+  // Return Tier 2 cities not in covered set
+  return TIER_2_CITIES.filter(slug => !covered.has(slug));
+}
+
+/**
+ * Get supplemental Tier 2 city links for cities that would otherwise be orphaned.
+ * Distributes orphaned Tier 2 cities across Tier 1 city pages deterministically.
+ * 
+ * Only Tier 1 cities receive supplemental links (they link "down" to Tier 2).
+ * The distribution ensures each orphaned Tier 2 city gets at least one inbound link.
+ */
+export function getSupplementalTier2Links(
+  citySlug: string,
+  serviceSlug: string,
+  propertyTypeSlug: string
+): RelatedLink[] {
+  // Only Tier 1 cities get supplemental links (they link down to Tier 2)
+  if (getCityTier(citySlug) !== 1) return [];
+  
+  const service = getService(serviceSlug);
+  if (!service) return [];
+  
+  // Get the list of orphaned Tier 2 cities
+  const orphanedTier2 = getOrphanedTier2Cities();
+  
+  // If no orphaned cities, nothing to do
+  if (orphanedTier2.length === 0) return [];
+  
+  // Deterministically assign orphaned cities to Tier 1 pages
+  // Each Tier 1 city gets a subset based on its index
+  const tier1Index = TIER_1_CITIES.indexOf(citySlug as typeof TIER_1_CITIES[number]);
+  if (tier1Index === -1) return [];
+  
+  // Distribute orphaned cities across all Tier 1 cities using modulo
+  const assigned = orphanedTier2.filter((_, i) => 
+    i % TIER_1_CITIES.length === tier1Index
+  );
+  
+  return assigned.map(slug => {
+    const city = getCity(slug);
+    return {
+      href: `/${serviceSlug}/${propertyTypeSlug}/${slug}/`,
+      label: `${service.name} in ${city?.name || slug}`,
+      description: `Professional ${service.name.toLowerCase()} in ${city?.name || slug}`,
+      type: 'city' as const,
+    };
+  });
+}
+
+/**
  * Generate complete internal links data for a service/city page
  */
 export function generateInternalLinksData(
@@ -275,24 +398,40 @@ export function generateInternalLinksData(
     type: 'blog' as const,
   }));
   
-  // Nearby cities (limited to 3, excluding current)
-  const citySlugs = Object.keys(allCities).filter(slug => slug !== citySlug);
-  const nearbyCities: RelatedLink[] = citySlugs.slice(0, 3).map(slug => {
-    const nearbyCity = allCities[slug];
-    return {
-      label: `${service.shortName} in ${nearbyCity.name}`,
-      href: `/${serviceSlug}/${type}/${slug}/`,
-      description: `${nearbyCity.responseTime} response time`,
-      type: 'city' as const,
-    };
-  });
+  // Get tier-based city links (links to appropriate tier below)
+  // Tier 1 → Tier 2, Tier 2 → Tier 3, Tier 3 → nearby Tier 3
+  const tierCityLinks = getTierLinksForCity(citySlug, serviceSlug, type, 3);
+  
+  // Get supplemental links for orphaned Tier 2 cities (only applies to Tier 1 city pages)
+  // This ensures all Tier 2 cities get at least one inbound link
+  const supplementalLinks = getSupplementalTier2Links(citySlug, serviceSlug, type);
+  
+  let allNearbyLinks = [...tierCityLinks, ...supplementalLinks];
+  
+  // Determine page type for link budget
+  const cityTier = getCityTier(citySlug);
+  const pageType: PageType = cityTier === 1 ? 'city-tier-1' : 
+                             cityTier === 2 ? 'city-tier-2' : 
+                             cityTier === 3 ? 'city-tier-3' : 'city';
+  
+  // Apply anchor text rotation to city links
+  // Use citySlug + serviceSlug as seed for deterministic rotation
+  const seed = `${citySlug}-${serviceSlug}-${type}`;
+  allNearbyLinks = applyAnchorTextRotation(allNearbyLinks, service.name, city.name, seed);
+  
+  // Apply anchor text rotation to other link types
+  const rotatedCauses = applyAnchorTextRotation(relatedCauses, service.name, city.name, `${seed}-causes`);
+  const rotatedBlogs = applyAnchorTextRotation(relatedBlogs, service.name, city.name, `${seed}-blogs`);
+  
+  // Enforce link budgets
+  allNearbyLinks = enforceLinkBudget(allNearbyLinks, pageType);
   
   return {
     parentService,
     serviceHub,
-    relatedCauses,
-    relatedBlogs,
-    nearbyCities,
+    relatedCauses: rotatedCauses,
+    relatedBlogs: rotatedBlogs,
+    nearbyCities: allNearbyLinks,
   };
 }
 

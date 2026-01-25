@@ -2,7 +2,8 @@
 
 import Link from 'next/link';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { Home, Building2, MapPin, ArrowRight, CheckCircle, Lightbulb } from 'lucide-react';
+import { Home, Building2, MapPin, ArrowRight, CheckCircle, Lightbulb, Star } from 'lucide-react';
+import type { RelatedLink } from '@/lib/local-seo/links';
 
 interface City {
   name: string;
@@ -18,6 +19,7 @@ interface ServiceTypeHubProps {
   focusAreas: string[];
   challenges?: string;
   tips?: string[];
+  tier1CityLinks?: RelatedLink[];
   className?: string;
 }
 
@@ -30,6 +32,7 @@ export function ServiceTypeHub({
   focusAreas,
   challenges,
   tips,
+  tier1CityLinks,
   className = '',
 }: ServiceTypeHubProps) {
   const TypeIcon = type === 'residential' ? Home : Building2;
@@ -154,14 +157,61 @@ export function ServiceTypeHub({
         </section>
       )}
 
-      {/* Cities Grid */}
+      {/* Tier 1 Cities Section (Major Metros) */}
+      {tier1CityLinks && tier1CityLinks.length > 0 && (
+        <section className="py-16 bg-gradient-to-br from-primary/5 via-background to-accent/5">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center justify-center gap-3 mb-4">
+                <Star className="w-6 h-6 text-primary" />
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+                  Major Service Areas
+                </h2>
+              </div>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Our primary service locations for {type} {serviceName.toLowerCase()} throughout South Florida.
+              </p>
+            </AnimateOnScroll>
+
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+              {tier1CityLinks.map((link, index) => (
+                <AnimateOnScroll
+                  key={link.href}
+                  animation="fade-in-up"
+                  duration={400}
+                  delay={index * 50}
+                >
+                  <Link
+                    href={link.href}
+                    className="group block p-4 bg-white rounded-xl border-2 border-primary/20 hover:border-primary hover:shadow-lg transition-all duration-200"
+                  >
+                    <div className="flex items-center justify-between mb-2">
+                      <span className="font-bold text-gray-900 group-hover:text-primary transition-colors text-sm">
+                        {link.label.replace(serviceName, '').replace(' in ', '').trim()}
+                      </span>
+                      <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-all" />
+                    </div>
+                    {link.description && (
+                      <p className="text-xs text-gray-500 line-clamp-2">
+                        {link.description}
+                      </p>
+                    )}
+                  </Link>
+                </AnimateOnScroll>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* All Cities Grid */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <AnimateOnScroll animation="fade-in-up" duration={600}>
             <div className="flex items-center justify-center gap-3 mb-4">
               <MapPin className="w-6 h-6 text-primary" />
               <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                Select Your City
+                All Service Areas
               </h2>
             </div>
             <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">

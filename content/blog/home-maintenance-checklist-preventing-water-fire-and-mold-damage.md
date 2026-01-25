@@ -30,7 +30,7 @@ In Miami, water damage can result from a number of situations – torrential rai
 
 ## Reducing risk of Fire Damage
 
-While water damage is widely spoken about, it’s crucial not to ignore the risks associated with fire damage. Miami homeowners can consult the \[Fire Damage Restoration Guide](/fire-damage-restoration-guide/) to understand more about how to protect their homes.
+While water damage is widely spoken about, it’s crucial not to ignore the risks associated with fire damage. Miami homeowners can consult the [Fire Damage Restoration Guide](/guides/fire-damage-restoration/) to understand more about how to protect their homes.
 
 ### Preventing Fire Damage:
 

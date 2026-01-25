@@ -175,7 +175,7 @@ Working with [Commercial](/water-damage-restoration/commercial/) simplifies the 
 
 > "Alexander’s team at Total Care Restoration were nothing short of amazing. The team was always on time, respectful, clean. They protected my home as if it was their own to make sure that other damage did not occur. They explained everything in detail and took photos of every step. Words cannot express the gratitude my family and I will always have for Total Care Restoration and their entire team. We are immensely grateful."
 
-For expert assistance with [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) and code-compliant repairs, contact Total Care Restoration at (786) 610-6317. Their certified team ensures that all work meets safety standards while coordinating directly with insurance providers to make the recovery process as seamless as possible.
+For expert assistance with [Fire Damage Restoration Guide](/guides/fire-damage-restoration/) and code-compliant repairs, contact Total Care Restoration at (786) 610-6317. Their certified team ensures that all work meets safety standards while coordinating directly with insurance providers to make the recovery process as seamless as possible.
 
 ## Conclusion: Safe and Proper Restoration
 

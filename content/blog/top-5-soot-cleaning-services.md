@@ -94,7 +94,7 @@ SERVPRO follows a detailed, step-by-step plan to restore fire-damaged properties
 
 ### Step-by-Step Restoration Process
 
-SERVPRO's [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) includes seven stages:
+SERVPRO's [Fire Damage Restoration Guide](/guides/fire-damage-restoration/) includes seven stages:
 
 1. Emergency contact
 2. In-depth inspection

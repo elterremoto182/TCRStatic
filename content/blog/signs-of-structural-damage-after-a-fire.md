@@ -11,7 +11,7 @@ seo_description: "Learn how to identify signs of structural damage after a fire,
 keywords: ["structural damage after fire", "fire damage warning signs"]
 ---
 
-After a fire, the damage goes far beyond what’s visible. Cracks, warped materials, weakened load-bearing elements, smoke residue, and water [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) can severely compromise a building’s safety. Ignoring these signs risks further deterioration and potential collapse. Here’s what you need to know:
+After a fire, the damage goes far beyond what’s visible. Cracks, warped materials, weakened load-bearing elements, smoke residue, and water [Fire Damage Restoration Guide](/guides/fire-damage-restoration/) can severely compromise a building’s safety. Ignoring these signs risks further deterioration and potential collapse. Here’s what you need to know:
 
 -   **Cracks**: Look for darkened, uneven cracks in walls, ceilings, or foundations. These can indicate weakened structural integrity.
 -   **Warped Materials**: Heat can bend steel beams, twist wood, and distort floors or walls, causing misalignment and instability.

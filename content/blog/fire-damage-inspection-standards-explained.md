@@ -13,7 +13,7 @@ keywords: ["fire damage inspection standards", "fire damage assessment"]
 
 Fire damage inspection standards keep people safe. They ensure your property meets regulations and gets restored properly.
 
-These guidelines help experts check structural damage, fire residue, and critical systems. Whether you need a [Fire Damage Restoration Guide](/fire-damage-restoration-guide/) or [Commercial](/water-damage-restoration/commercial/) help, understanding these standards matters.
+These guidelines help experts check structural damage, fire residue, and critical systems. Whether you need a [Fire Damage Restoration Guide](/guides/fire-damage-restoration/) or [Commercial](/water-damage-restoration/commercial/) help, understanding these standards matters.
 
 **Here's what you need to know:**
 

@@ -4,6 +4,8 @@ import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
+import { getAllTier1CityLinks } from '@/lib/local-seo/links';
+import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
 
 const SERVICE_SLUG = 'storm-damage-restoration';
 const SERVICE_TYPE = 'commercial';
@@ -30,6 +32,11 @@ export default function CommercialStormDamagePage() {
     slug,
     name: city.name,
   }));
+
+  // Get Tier 1 city links for service hub
+  let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
+  // Enforce link budget for service hub
+  tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
   const serviceSchema = {
     '@context': 'https://schema.org',
@@ -59,6 +66,7 @@ export default function CommercialStormDamagePage() {
           type={SERVICE_TYPE}
           description="We provide professional storm damage restoration services designed for commercial properties. Our team understands that downtime means lost revenue, so we work quickly and can coordinate multi-location restoration projects."
           cities={cityList}
+          tier1CityLinks={tier1CityLinks}
           focusAreas={serviceType.focusAreas}
           challenges={service.commercialContent?.challenges}
           tips={service.commercialContent?.tips}

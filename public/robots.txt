@@ -2,8 +2,8 @@
 User-agent: *
 Allow: /
 
-# Sitemap location
-Sitemap: https://totalcarerestoration.com/sitemap.xml
+# Sitemap index location (references segmented sitemaps)
+Sitemap: https://totalcarerestoration.com/sitemaps/index.xml
 
 # Block specific paths (uncomment if needed)
 # Disallow: /api/

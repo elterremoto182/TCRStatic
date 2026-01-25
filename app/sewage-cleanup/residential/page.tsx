@@ -4,6 +4,8 @@ import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
 import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
+import { getAllTier1CityLinks } from '@/lib/local-seo/links';
+import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
 
 const SERVICE_SLUG = 'sewage-cleanup';
 const SERVICE_TYPE = 'residential';
@@ -59,6 +61,7 @@ export default function ResidentialSewageCleanupPage() {
           type={SERVICE_TYPE}
           description="We provide professional sewage cleanup services for residential homeowners facing sewage backup emergencies. Our team uses proper safety equipment and sanitization protocols to protect your family's health and restore your home."
           cities={cityList}
+          tier1CityLinks={tier1CityLinks}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
           tips={service.residentialContent?.tips}
