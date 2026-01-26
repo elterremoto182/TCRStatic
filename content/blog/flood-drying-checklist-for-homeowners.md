@@ -36,7 +36,7 @@ Swift action and a clear plan are crucial for minimizing damage and ensuring a s
 
 ## Safety Checks and Damage Assessment
 
-Before you start moving furniture or grabbing tools, **pause and prioritize your safety**. Entering a [The Immediate Steps to Take After a Home Flood](/the-immediate-steps-to-take-after-a-home-flood/) unprepared can expose you to serious dangers. According to the (https://www.cdc.gov/index.html), flooded areas may harbor mold or sewage, both of which can pose health risks. Follow these essential steps to stay safe and assess the damage effectively.
+Before you start moving furniture or grabbing tools, **pause and prioritize your safety**. Entering a [The Immediate Steps to Take After a Home Flood](/the-immediate-steps-to-take-after-a-home-flood/) unprepared can expose you to serious dangers. According to the [CDC](https://www.cdc.gov/index.html), flooded areas may harbor mold or sewage, both of which can pose health risks. Follow these essential steps to stay safe and assess the damage effectively.
 
 ### Check for Safe Entry
 

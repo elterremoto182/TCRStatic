@@ -50,7 +50,7 @@ Other water-related problems include defective sprinkler systems, aging water he
 
 Without proper ventilation, moisture can linger, creating a perfect environment for mold. Stagnant air traps humidity, leading to condensation on surfaces. High-risk areas like bathrooms, kitchens, basements, and crawl spaces are especially prone to mold due to limited airflow. Signs of poor air circulation include stuffy rooms, persistent odors, and window condensation.
 
-The (https://www.cdc.gov/index.html) recommends keeping indoor humidity between 30% and 50% to reduce mold risks. To improve airflow, property managers should keep vents open, change HVAC filters regularly, maintain ventilation systems, and use exhaust fans or encourage natural ventilation. At the same time, it’s important to consider how building materials and design can contribute to mold issues.
+The [CDC](https://www.cdc.gov/index.html) recommends keeping indoor humidity between 30% and 50% to reduce mold risks. To improve airflow, property managers should keep vents open, change HVAC filters regularly, maintain ventilation systems, and use exhaust fans or encourage natural ventilation. At the same time, it’s important to consider how building materials and design can contribute to mold issues.
 
 ### Building Materials and Design Issues
 

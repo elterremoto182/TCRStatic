@@ -56,7 +56,7 @@ During your inspection, make sure to wear the right personal protective equipmen
 
 ### Gather Safety Equipment
 
-Wearing proper PPE is essential to limit exposure to mold spores. According to the (https://www.cdc.gov/index.html), workers who neglect respirators in moldy environments face higher risks of respiratory infections.
+Wearing proper PPE is essential to limit exposure to mold spores. According to the [CDC](https://www.cdc.gov/index.html), workers who neglect respirators in moldy environments face higher risks of respiratory infections.
 
 Here’s what you’ll need:
 
