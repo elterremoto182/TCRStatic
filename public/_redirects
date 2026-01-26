@@ -1,6 +1,9 @@
 # Redirects for static site
 # Format: from_path to_path status_code
 
+# Sitemap redirect (legacy URL to segmented sitemaps)
+/sitemap.xml /sitemaps/index.xml 301
+
 # =============================================================================
 # IMAGE MIGRATION REDIRECTS - Legacy WordPress paths to simplified structure
 # =============================================================================
