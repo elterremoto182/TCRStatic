@@ -38,7 +38,9 @@ There are some common and expected types of equipment carried by water restorati
 
 ### **Detection Equipment: Moisture Sensors and Meters**
 
-These are used by technicians to discover how wet an area is so they know exactly what will need to be done to remediate the situation. These sensors and meters display the moisture content of floors, ceilings, walls, and other materials so a plan can be developed to get them dry or tear them out—whichever is needed most for the situation. Learn more about the [5 Types of Moisture Meters for Water Damage](/5-types-of-moisture-meters-for-water-damage/) that professionals use. 
+These are used by technicians to discover how wet an area is so they know exactly what will need to be done to remediate the situation. These sensors and meters display the moisture content of floors, ceilings, walls, and other materials so a plan can be developed to get them dry or tear them out—whichever is needed most for the situation. Learn more about the [5 Types of Moisture Meters for Water Damage](/5-types-of-moisture-meters-for-water-damage/) that professionals use.
+
+![Professional moisture detection with flair gun for water damage inspection in bathroom](/images/services/water-damage-photos/moisture-detection-flair-gun.jpg) 
 
 ### **Air Moving Equipment: Fans and Dehumidifiers**
 
@@ -110,6 +112,8 @@ Having your home damaged by water is an incredibly stressful and emotional exper
 Ways to keep yourself safe in the event of water damage.
 
 ![Water damage safety equipment](/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png)
+
+![Professional checking for water damage in bathroom during restoration assessment](/images/services/water-damage-photos/checking-water-damage-bathroom.jpg)
 
 ![Water damage restoration process](/images/blog/2022/07/drying-floors-scaled.jpg)
 

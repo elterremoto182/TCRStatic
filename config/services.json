@@ -81,15 +81,17 @@
     },
     "images": {
       "hero": "/images/services/water-damage.jpg",
-      "overview": "/images/blog/2022/07/Water_damage-dryout-768x1024.jpg",
+      "overview": "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg",
       "process": [
         "/images/blog/2022/07/Employee-Holding-IPAD-1024x772.png",
-        "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png",
-        "/images/blog/2022/07/drying-floors-1024x576.jpg"
+        "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg",
+        "/images/services/water-damage-photos/checking-water-damage-bathroom.jpg"
       ],
       "gallery": [
+        "/images/services/water-damage-photos/checking-water-damage-bathroom.jpg",
+        "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg",
+        "/images/services/water-damage-photos/shower-pan-leak-test.jpg",
         "/images/blog/2022/07/drying-floors-scaled.jpg",
-        "/images/blog/2019/11/water-leak-4a0a45d4ff.jpg",
         "/images/blog/2024/03/flairgun-water-damage-inspection.jpg"
       ]
     },
@@ -354,13 +356,19 @@
     },
     "images": {
       "hero": "/images/services/mold-remediation.jpg",
-      "overview": "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png",
+      "overview": "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg",
       "process": [
+        "/images/services/mold-remediation-photos/mold-containment-bedroom.jpg",
+        "/images/services/mold-remediation-photos/ac-mold-containment.jpg",
         "/images/blog/2023/02/air-scrubber-scaled.jpeg"
       ],
       "gallery": [
-        "/images/services/mold-remediation.jpg",
-        "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png"
+        "/images/services/mold-remediation-photos/mold-containment-bedroom.jpg",
+        "/images/services/mold-remediation-photos/mold-containment-bedroom-2.jpg",
+        "/images/services/mold-remediation-photos/ac-mold-containment.jpg",
+        "/images/services/mold-remediation-photos/ac-leak-containment.jpg",
+        "/images/services/mold-remediation-photos/removing-wall-remediation.jpg",
+        "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg"
       ]
     },
     "video": {

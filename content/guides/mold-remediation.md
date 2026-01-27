@@ -177,6 +177,8 @@ Professional mold remediation follows established protocols to safely and effect
 
 A thorough assessment determines the scope of the mold problem:
 
+![Professional moisture detection after mold remediation using specialized equipment in South Florida](/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg)
+
 - **Visual inspection** of affected and adjacent areas
 - **Moisture testing** to identify water sources
 - **Air quality testing** to measure spore levels (when needed)
@@ -187,10 +189,14 @@ A thorough assessment determines the scope of the mold problem:
 
 Preventing mold spores from spreading during remediation is critical:
 
+![Professional mold containment area setup in bedroom with plastic sheeting barriers for safe remediation](/images/services/mold-remediation-photos/mold-containment-bedroom.jpg)
+
 - **Physical barriers**: Plastic sheeting isolates the affected area
 - **Negative air pressure**: Air machines with HEPA filtration maintain negative pressure, preventing spores from escaping
 - **HVAC isolation**: The HVAC system is shut down or isolated in the affected area
 - **Access control**: Entry points are sealed except for worker access
+
+![Mold containment area in bedroom showing proper isolation techniques during remediation](/images/services/mold-remediation-photos/mold-containment-bedroom-2.jpg)
 
 ### Step 3: Air Filtration
 
@@ -205,6 +211,8 @@ HEPA air scrubbers run continuously to capture airborne spores:
 ![Professional mold remediation technician removing contaminated materials](/images/services/mold-remediation.jpg)
 
 The approach depends on the materials affected:
+
+![Professional technician removing wall during mold remediation in Florida home](/images/services/mold-remediation-photos/removing-wall-remediation.jpg)
 
 **Porous Materials** (drywall, carpet, insulation):
 
@@ -329,6 +337,8 @@ Florida presents unique mold challenges:
 ### Air Conditioning Issues
 
 AC-related mold problems are extremely common in Florida:
+
+![AC leak mold remediation with professional containment setup in South Florida home](/images/services/mold-remediation-photos/ac-mold-containment.jpg)
 
 - **Clogged condensate drains**: The most common cause of AC-related water damage
 - **Dirty air filters**: Reduce efficiency and can harbor mold

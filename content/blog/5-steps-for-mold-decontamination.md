@@ -84,6 +84,8 @@ In January 2025, *Restoration & Remediation Magazine* highlighted the importance
 
 > "Containment is the cornerstone of a safe and effective restoration process, especially when dealing with water, mold, or hazardous materials".
 
+![Professional mold containment area setup in bedroom for safe remediation](/images/services/mold-remediation-photos/mold-containment-bedroom.jpg)
+
 Finally, set up a decontamination chamber or airlock for entering and exiting the containment area. This prevents contamination from spreading to clean spaces and provides a place to safely remove PPE and dispose of waste.
 
 ## Step 2: Contain the Mold-Infested Areas
@@ -91,6 +93,8 @@ Finally, set up a decontamination chamber or airlock for entering and exiting th
 Once your safety gear is on and the initial barriers are in place, it’s time to set up a complete containment system. This step is crucial because disturbing mold can release spores into the air, which can then spread to other parts of your property. A well-sealed containment area helps stop cross-contamination in its tracks.
 
 ### Seal All Openings
+
+![AC leak mold remediation with professional containment barriers in South Florida](/images/services/mold-remediation-photos/ac-mold-containment.jpg)
 
 Building on the barriers you created in Step 1, focus on sealing every possible opening. Use plastic sheeting to cover doors, windows, HVAC vents, and even small gaps, making sure the sheeting extends at least six inches beyond the edges of each opening. Secure everything with heavy-duty duct tape. For access points, cut a slit in the center of the plastic and cover it with a taped flap to keep it sealed when not in use.
 

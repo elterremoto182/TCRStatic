@@ -135,12 +135,16 @@ Water hides in places you can't see:
 - In crawl spaces
 - Behind cabinets
 
+![Professional checking for water damage in bathroom during restoration inspection](/images/services/water-damage-photos/checking-water-damage-bathroom.jpg)
+
 **Tools we use to find it:**
 
 - **Thermal imaging cameras** – Spot temperature changes that show moisture
 - **Penetrating moisture meters** – Measure moisture inside materials
 - **Non-penetrating meters** – Scan surfaces without causing damage
 - **Hygrometers** – Measure humidity in the air
+
+![Professional moisture detection with flair gun in bathroom for water damage assessment](/images/services/water-damage-photos/moisture-detection-flair-gun.jpg)
 
 We check moisture levels daily until drying is complete.
 
@@ -242,6 +246,8 @@ Knowing the causes helps you prevent damage. Here are the most common in our are
 - **Roof leaks** – Wind damage or aging materials allow water in
 
 ### Plumbing Problems
+
+![Professional performing shower pan leak test during water damage inspection in South Florida](/images/services/water-damage-photos/shower-pan-leak-test.jpg)
 
 - **Burst pipes** – Less common than up north, but still happens
 - **Slab leaks** – Underground pipe leaks beneath your foundation

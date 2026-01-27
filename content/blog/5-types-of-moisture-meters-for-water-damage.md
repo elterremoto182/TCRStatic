@@ -30,6 +30,8 @@ Each tool serves a different purpose, from pinpointing water damage to monitorin
 
 <iframe src="https://www.youtube.com/embed/lE9OM3rbMM4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
+![Professional using moisture detection equipment with flair gun in bathroom for water damage assessment](/images/services/water-damage-photos/moisture-detection-flair-gun.jpg)
+
 ## 1\. Pin-Type Moisture Meters
 
 Pin-type moisture meters are known for their accuracy, relying on a method that’s been around since the late 1940s. These devices work by penetrating materials to measure electrical resistance, a technique pioneered with Delmhorst’s ram-type electrode.

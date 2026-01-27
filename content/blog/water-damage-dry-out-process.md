@@ -52,6 +52,8 @@ In restoring a space that has suffered water damage, a range of specialized equi
     -   **Moisture Meters and Sensors**: These tools are employed to measure the level of moisture in various materials, guiding technicians on whether a surface needs to be dried or replaced.
     
     -   **Thermal Imaging Cameras**: Sometimes, water can seep into places that are not visible to the naked eye. These cameras help in finding hidden moisture by detecting temperature variations in different surfaces.
+
+![Professional performing shower pan leak test during water damage inspection](/images/services/water-damage-photos/shower-pan-leak-test.jpg)
 2.  **Air Movers**:
     -   **Industrial Fans**: These are not your ordinary household fans. Industrial fans have higher power and speed to rapidly evaporate moisture from surfaces, aiding in a quicker drying process.
     -   **Centrifugal Air Movers**: These machines focus on directing airflow at specific wet areas, encouraging rapid drying of floors, carpets, and walls.

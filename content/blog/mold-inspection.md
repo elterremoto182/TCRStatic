@@ -52,6 +52,8 @@ We check:
 
 ![Technician using moisture meter to check walls for mold](/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png)
 
+![Professional moisture detection after mold remediation in South Florida home](/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg)
+
 ### 3. Thermal Imaging
 
 Infrared cameras detect temperature differences that indicate moisture within walls. Wet areas appear cooler than surrounding dry areas, helping identify hidden water intrusion that could lead to mold.

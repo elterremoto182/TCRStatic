@@ -153,6 +153,8 @@ Underlying issues affect total cost:
 - **Flooring**: $3 - $15 per sq ft
 - **Cabinetry**: Varies widely
 
+![Professional removing wall during mold remediation in Florida home](/images/services/mold-remediation-photos/removing-wall-remediation.jpg)
+
 ## Insurance Coverage for Mold
 
 ### What's Typically Covered
