@@ -1,6 +1,5 @@
 'use client';
 
-import Link from 'next/link';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { AlertCircle } from 'lucide-react';
 import type { CauseConfig } from '@/lib/local-seo/data';
@@ -13,9 +12,9 @@ interface RelatedProblemsProps {
 
 /**
  * Related Problems Section for main service pages.
- * Displays clickable cards linking to problem/cause detail pages.
+ * Displays static cards showing common problems (no links for SEO hierarchy).
  */
-export function RelatedProblems({ title, causes, defaultCity }: RelatedProblemsProps) {
+export function RelatedProblems({ title, causes }: RelatedProblemsProps) {
   if (!causes || causes.length === 0) {
     return null;
   }
@@ -28,7 +27,7 @@ export function RelatedProblems({ title, causes, defaultCity }: RelatedProblemsP
             {title}
           </h2>
           <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-            We handle all types of damage. Click to learn more about each specific issue.
+            We handle all types of damage. Our certified technicians are trained to address each specific issue.
           </p>
         </AnimateOnScroll>
 
@@ -40,16 +39,13 @@ export function RelatedProblems({ title, causes, defaultCity }: RelatedProblemsP
               duration={600}
               delay={index * 100}
             >
-              <Link
-                href={`/problems/${cause.slug}/${defaultCity}/`}
-                className="group block p-6 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
-              >
+              <div className="block p-6 bg-white rounded-xl border border-gray-200 shadow-sm h-full">
                 <div className="flex items-start gap-4">
                   <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
                     <AlertCircle className="w-5 h-5 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-gray-900 group-hover:text-primary transition-colors mb-1">
+                    <h3 className="font-bold text-gray-900 mb-1">
                       {cause.name}
                     </h3>
                     <p className="text-sm text-gray-600 line-clamp-2">
@@ -67,7 +63,7 @@ export function RelatedProblems({ title, causes, defaultCity }: RelatedProblemsP
                     )}
                   </div>
                 </div>
-              </Link>
+              </div>
             </AnimateOnScroll>
           ))}
         </div>

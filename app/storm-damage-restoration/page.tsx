@@ -358,17 +358,11 @@ export default function StormDamageRestorationPage() {
                   duration={400}
                   delay={index * 50}
                 >
-                  <Link
-                    href={`/${SERVICE_SLUG}/residential/${city.slug}`}
-                    className="group block p-4 bg-gray-50 rounded-xl hover:bg-primary/5 hover:shadow-md transition-all duration-200"
-                  >
-                    <div className="flex items-center justify-between">
-                      <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
-                        {city.name}
-                      </span>
-                      <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all" />
-                    </div>
-                  </Link>
+                  <div className="block p-4 bg-gray-50 rounded-xl border border-gray-100">
+                    <span className="font-medium text-gray-900">
+                      {city.name}
+                    </span>
+                  </div>
                 </AnimateOnScroll>
               ))}
             </div>

@@ -287,24 +287,23 @@ export default function WaterDamageRestorationPage() {
           <div className="max-w-4xl mx-auto px-4">
             <AnimateOnScroll animation="fade-in-up" duration={600}>
               <div className="flex flex-col md:flex-row items-center gap-6 p-6 bg-white rounded-2xl shadow-sm border border-blue-100">
-                <div className="w-16 h-16 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0">
-                  <Droplet className="w-8 h-8 text-blue-600" />
+                <div className="w-24 h-24 md:w-32 md:h-32 rounded-xl overflow-hidden flex-shrink-0">
+                  <OptimizedImage
+                    src="/images/services/water-damage-photos/moisture-detection-flair-gun.jpg"
+                    alt="Professional moisture detection equipment for leak detection"
+                    width={128}
+                    height={128}
+                    className="w-full h-full object-cover"
+                  />
                 </div>
                 <div className="flex-1 text-center md:text-left">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">
                     Can&apos;t Find the Source of Water Damage?
                   </h3>
                   <p className="text-gray-600">
-                    Our advanced <Link href="/leak-detection/" className="text-primary font-semibold hover:underline">leak detection services</Link> use thermal imaging and moisture meters to pinpoint hidden leaks behind walls, under floors, and in ceilings—preventing recurring damage.
+                    Our advanced leak detection services use thermal imaging and moisture meters to pinpoint hidden leaks behind walls, under floors, and in ceilings—preventing recurring damage.
                   </p>
                 </div>
-                <Link
-                  href="/leak-detection/"
-                  className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-lg hover:bg-primary/90 transition-colors whitespace-nowrap"
-                >
-                  Learn More
-                  <ArrowRight className="w-4 h-4" />
-                </Link>
               </div>
             </AnimateOnScroll>
           </div>
@@ -402,17 +401,11 @@ export default function WaterDamageRestorationPage() {
                   duration={400}
                   delay={index * 50}
                 >
-                  <Link
-                    href={`/${SERVICE_SLUG}/residential/${city.slug}`}
-                    className="group block p-4 bg-gray-50 rounded-xl hover:bg-primary/5 hover:shadow-md transition-all duration-200"
-                  >
-                    <div className="flex items-center justify-between">
-                      <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
-                        {city.name}
-                      </span>
-                      <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all" />
-                    </div>
-                  </Link>
+                  <div className="block p-4 bg-gray-50 rounded-xl border border-gray-100">
+                    <span className="font-medium text-gray-900">
+                      {city.name}
+                    </span>
+                  </div>
                 </AnimateOnScroll>
               ))}
             </div>

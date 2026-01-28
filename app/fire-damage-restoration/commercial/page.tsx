@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType } from '@/lib/local-seo/data';
+import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -38,6 +38,14 @@ export default function CommercialFireDamagePage() {
   // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
+  // Get problem links for this service (4-6 links)
+  const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
+    slug: cause.slug,
+    name: cause.name,
+    description: cause.description,
+    urgency: cause.urgency,
+  }));
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -66,6 +74,7 @@ export default function CommercialFireDamagePage() {
           focusAreas={serviceType.focusAreas}
           challenges={service.commercialContent?.challenges}
           tips={service.commercialContent?.tips}
+          problemLinks={problemLinks}
         />
       </main>
       <Footer />

@@ -2,12 +2,19 @@
 
 import Link from 'next/link';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
-import { Home, Building2, MapPin, ArrowRight, CheckCircle, Lightbulb, Star } from 'lucide-react';
+import { Home, Building2, ArrowRight, CheckCircle, Lightbulb, Star, AlertCircle } from 'lucide-react';
 import type { RelatedLink } from '@/lib/local-seo/links';
 
 interface City {
   name: string;
   slug: string;
+}
+
+interface ProblemLink {
+  slug: string;
+  name: string;
+  description: string;
+  urgency?: 'emergency' | 'high' | 'moderate';
 }
 
 interface ServiceTypeHubProps {
@@ -20,6 +27,7 @@ interface ServiceTypeHubProps {
   challenges?: string;
   tips?: string[];
   tier1CityLinks?: RelatedLink[];
+  problemLinks?: ProblemLink[];
   className?: string;
 }
 
@@ -33,6 +41,7 @@ export function ServiceTypeHub({
   challenges,
   tips,
   tier1CityLinks,
+  problemLinks,
   className = '',
 }: ServiceTypeHubProps) {
   const TypeIcon = type === 'residential' ? Home : Building2;
@@ -204,45 +213,67 @@ export function ServiceTypeHub({
         </section>
       )}
 
-      {/* All Cities Grid */}
-      <section className="py-16 bg-gray-50">
-        <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <MapPin className="w-6 h-6 text-primary" />
-              <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                All Service Areas
-              </h2>
-            </div>
-            <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-              Choose your location for {type}-specific {serviceName.toLowerCase()} information and services.
-            </p>
-          </AnimateOnScroll>
+      {/* Related Problems Section */}
+      {problemLinks && problemLinks.length > 0 && (
+        <section className="py-16 bg-gray-50">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <div className="flex items-center justify-center gap-3 mb-4">
+                <AlertCircle className="w-6 h-6 text-primary" />
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+                  Common Problems We Solve
+                </h2>
+              </div>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Learn about specific {serviceName.toLowerCase().split(' ')[0]} issues and how we address them.
+              </p>
+            </AnimateOnScroll>
 
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-            {cities.map((city, index) => (
-              <AnimateOnScroll
-                key={city.slug}
-                animation="fade-in-up"
-                duration={400}
-                delay={index * 50}
-              >
-                <Link
-                  href={`/${serviceSlug}/${type}/${city.slug}`}
-                  className="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {problemLinks.map((problem, index) => (
+                <AnimateOnScroll
+                  key={problem.slug}
+                  animation="fade-in-up"
+                  duration={400}
+                  delay={index * 50}
                 >
-                  <div className="flex items-center justify-between">
-                    <span className="font-semibold text-gray-900 group-hover:text-primary transition-colors">
-                      {city.name}
-                    </span>
-                    <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all" />
-                  </div>
-                </Link>
-              </AnimateOnScroll>
-            ))}
+                  <Link
+                    href={`/problems/${problem.slug}`}
+                    className="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
+                  >
+                    <div className="flex items-start gap-3">
+                      <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <AlertCircle className="w-5 h-5 text-primary" />
+                      </div>
+                      <div className="flex-1 min-w-0">
+                        <div className="flex items-center justify-between gap-2 mb-1">
+                          <span className="font-bold text-gray-900 group-hover:text-primary transition-colors text-sm">
+                            {problem.name}
+                          </span>
+                          <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0" />
+                        </div>
+                        <p className="text-xs text-gray-500 line-clamp-2">
+                          {problem.description}
+                        </p>
+                        {problem.urgency === 'emergency' && (
+                          <span className="inline-block mt-2 px-2 py-0.5 bg-red-100 text-red-700 text-xs font-semibold rounded">
+                            Emergency
+                          </span>
+                        )}
+                        {problem.urgency === 'high' && (
+                          <span className="inline-block mt-2 px-2 py-0.5 bg-orange-100 text-orange-700 text-xs font-semibold rounded">
+                            High Priority
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  </Link>
+                </AnimateOnScroll>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* CTA Section */}
       <section className="py-16 bg-primary">
