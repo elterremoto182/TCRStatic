@@ -131,19 +131,23 @@ export function generatePageMetadata({
         : [];
 
   // Build language alternates for hreflang tags
+  // Only output hreflang when there are actual alternate language versions
   // Structure: { 'en': url, 'es': url, 'x-default': url }
-  const languages: Record<string, string> = {};
+  let languages: Record<string, string> | undefined = undefined;
   
-  // Add current page as its locale
-  languages[locale] = url;
-  
-  // Add x-default pointing to the English version (or current if English)
-  if (locale === 'en') {
-    languages['x-default'] = url;
-  }
-  
-  // Add alternate locale versions if provided
+  // Only build hreflang tags if alternate locales are provided
   if (alternateLocales && alternateLocales.length > 0) {
+    languages = {};
+    
+    // Add current page as its locale (self-referencing hreflang)
+    languages[locale] = url;
+    
+    // Add x-default pointing to the English version (or current if English)
+    if (locale === 'en') {
+      languages['x-default'] = url;
+    }
+    
+    // Add alternate locale versions
     for (const alt of alternateLocales) {
       const altPath = ensureTrailingSlash(alt.path);
       const altUrl = `${baseUrl}${altPath}`;
@@ -162,7 +166,7 @@ export function generatePageMetadata({
     keywords: keywordsArray.length > 0 ? keywordsArray.join(', ') : undefined,
     alternates: {
       canonical: url,
-      languages: Object.keys(languages).length > 1 ? languages : undefined,
+      languages,
     },
     openGraph: {
       title,

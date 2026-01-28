@@ -31,12 +31,13 @@ export const metadata: Metadata = {
   // generatePageMetadata({ ..., locale: 'es', alternateLocales: [{ locale: 'en', path: '/...' }] })
   alternates: {
     canonical: `${baseUrl}/`,
-    languages: {
-      'en': `${baseUrl}/`,
-      'x-default': `${baseUrl}/`,
-      // Spanish version placeholder - uncomment when /es/ pages are created:
-      // 'es': `${baseUrl}/es/`,
-    },
+    // hreflang tags removed - only needed when multi-language content exists
+    // Uncomment and configure when Spanish pages are created:
+    // languages: {
+    //   'en': `${baseUrl}/`,
+    //   'x-default': `${baseUrl}/`,
+    //   'es': `${baseUrl}/es/`,
+    // },
   },
   openGraph: {
     title: siteConfig.seo.title,
