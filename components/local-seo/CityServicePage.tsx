@@ -12,7 +12,6 @@ import { ResidentialBenefits } from './ResidentialBenefits';
 import { CommercialBenefits } from './CommercialBenefits';
 import { ServiceOverview } from './ServiceOverview';
 import { PreventionTips } from './PreventionTips';
-import { CommonCausesList } from './CommonCausesList';
 import { RelatedLinks } from './RelatedLinks';
 import { ServiceVideo } from './ServiceVideo';
 import { generateAltText } from '@/lib/seo-utils';
@@ -349,12 +348,7 @@ export function CityServicePage({
         <ServiceOverview content={content.serviceOverview} />
       )}
 
-      {/* Common Causes List - Simple bullet list */}
-      {content.commonCausesList && content.commonCausesList.causes.length > 0 && (
-        <CommonCausesList content={content.commonCausesList} />
-      )}
-
-      {/* Common Causes - Clickable cards linking to problem pages */}
+      {/* Common Causes - Card-based layout */}
       {content.causes.causes.length > 0 && (
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
@@ -363,7 +357,7 @@ export function CityServicePage({
                 {content.causes.title}
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-                We handle all types of damage. Click to learn more about each specific issue.
+                We handle all types of damage. Here are the most common issues we see in your area.
               </p>
             </AnimateOnScroll>
 
@@ -375,19 +369,16 @@ export function CityServicePage({
                   duration={600}
                   delay={index * 100}
                 >
-                  <Link
-                    href={`/problems/${cause.slug}/${citySlug}`}
-                    className="group block p-6 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
-                  >
+                  <div className="p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
                     <div className="flex items-start gap-4">
                       <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
                         <AlertCircle className="w-5 h-5 text-primary" />
                       </div>
                       <div>
-                        <h3 className="font-bold text-gray-900 group-hover:text-primary transition-colors mb-1">
+                        <h3 className="font-bold text-gray-900 mb-1">
                           {cause.name}
                         </h3>
-                        <p className="text-sm text-gray-600 line-clamp-2">
+                        <p className="text-sm text-gray-600">
                           {cause.description}
                         </p>
                         {cause.urgency === 'emergency' && (
@@ -397,7 +388,62 @@ export function CityServicePage({
                         )}
                       </div>
                     </div>
-                  </Link>
+                  </div>
+                </AnimateOnScroll>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Gallery Section - Our Work in Action */}
+      {content.images?.gallery && content.images.gallery.length > 0 && (
+        <section className="py-16 bg-white">
+          <div className="max-w-6xl mx-auto px-4">
+            <AnimateOnScroll animation="fade-in-up" duration={600}>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Our Work in Action
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                See examples of our professional restoration services. We take pride in restoring properties to their pre-damage condition.
+              </p>
+            </AnimateOnScroll>
+
+            <div className={`grid gap-4 ${
+              content.images.gallery.length === 1 
+                ? 'grid-cols-1 max-w-2xl mx-auto' 
+                : content.images.gallery.length === 2 
+                  ? 'grid-cols-1 md:grid-cols-2' 
+                  : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
+            }`}>
+              {content.images.gallery.map((image, index) => (
+                <AnimateOnScroll
+                  key={index}
+                  animation="fade-in-up"
+                  duration={600}
+                  delay={index * 100}
+                >
+                  <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
+                    <OptimizedImage
+                      src={image}
+                      alt={generateAltText({ 
+                        type: 'gallery-item',
+                        serviceName: content.hero.headline.split(' in ')[0],
+                        cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
+                        index
+                      })}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                    <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
+                        <Camera className="w-4 h-4" />
+                        Professional restoration
+                      </span>
+                    </div>
+                  </div>
                 </AnimateOnScroll>
               ))}
             </div>
@@ -410,7 +456,12 @@ export function CityServicePage({
 
       {/* Service Video - Watch our process in action */}
       {video && (
-        <ServiceVideo videoId={video.youtubeId} title={video.title} />
+        <ServiceVideo 
+          videoId={video.youtubeId} 
+          title={video.title}
+          serviceName={content.hero.headline.split(' in ')[0]}
+          cityName={content.hero.headline.split(' in ')[1]?.replace(/, FL$/, '')}
+        />
       )}
 
       {/* What to Expect Section - New detailed content section */}
@@ -679,61 +730,6 @@ export function CityServicePage({
         faqs={content.faq.faqs} 
         localFAQs={content.localFAQs}
       />
-
-      {/* Gallery Section */}
-      {content.images?.gallery && content.images.gallery.length > 0 && (
-        <section className="py-16 bg-gray-50">
-          <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
-                Our Work in Action
-              </h2>
-              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-                See examples of our professional restoration services. We take pride in restoring properties to their pre-damage condition.
-              </p>
-            </AnimateOnScroll>
-
-            <div className={`grid gap-4 ${
-              content.images.gallery.length === 1 
-                ? 'grid-cols-1 max-w-2xl mx-auto' 
-                : content.images.gallery.length === 2 
-                  ? 'grid-cols-1 md:grid-cols-2' 
-                  : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
-            }`}>
-              {content.images.gallery.map((image, index) => (
-                <AnimateOnScroll
-                  key={index}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
-                >
-                  <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
-                    <OptimizedImage
-                      src={image}
-                      alt={generateAltText({ 
-                        type: 'gallery-item',
-                        serviceName: content.hero.headline.split(' in ')[0],
-                        cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
-                        index
-                      })}
-                      fill
-                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                      className="object-cover group-hover:scale-105 transition-transform duration-500"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                    <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
-                        <Camera className="w-4 h-4" />
-                        Professional restoration
-                      </span>
-                    </div>
-                  </div>
-                </AnimateOnScroll>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
 
       {/* CTA Section */}
       <LocalCTA

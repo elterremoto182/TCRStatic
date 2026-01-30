@@ -27,6 +27,8 @@ When water damage strikes, **acting fast can save you time, money, and stress**.
 
 ## Safety Check and Damage Review
 
+![Technician using moisture meter to detect water damage behind baseboard](/images/services/water-damage-photos/water-damage-behind-baseboard.jpg)
+
 Focus on safety first: water damage can conceal dangers like electrical issues, structural problems, and even wildlife.
 
 ### Safety Steps

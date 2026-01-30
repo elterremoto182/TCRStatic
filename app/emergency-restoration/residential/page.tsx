@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -13,8 +13,8 @@ const SERVICE_TYPE = 'residential';
 export async function generateMetadata() {
   return generatePageMetadata({
     title: truncateMetaTitle('24/7 Residential Emergency Restoration | South Florida | Total Care Restoration'),
-    description: '24/7 residential emergency restoration services throughout South Florida. Rapid response for water, fire, and storm damage to your home. Call now!',
-    keywords: ['residential emergency restoration', 'home emergency cleanup', '24/7 home restoration', 'residential disaster response'],
+    description: '24/7 residential emergency restoration services throughout South Florida. Rapid response for water, fire, and storm damage. Call now for immediate help.',
+    keywords: ['residential emergency restoration', 'home emergency services', '24/7 home restoration', 'residential disaster cleanup'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,
   });
 }
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function ResidentialEmergencyRestorationPage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -68,17 +61,22 @@ export default function ResidentialEmergencyRestorationPage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="When disaster strikes your home, our 24/7 emergency restoration team responds fast. We understand the stress of home emergencies and provide compassionate, professional service to protect your family and property."
-          cities={cityList}
-          tier1CityLinks={tier1CityLinks}
+          heroImage={service.images?.hero}
+          heroDescription="When disaster strikes your home, we're here 24/7. Our residential emergency restoration team responds rapidly to water, fire, and storm damage, minimizing damage and helping your family get back to normal."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.residentialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
-          tips={service.residentialContent?.tips}
-          problemLinks={problemLinks}
+          faqs={service.mainPageContent?.generalFaqs}
+          tier1CityLinks={tier1CityLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

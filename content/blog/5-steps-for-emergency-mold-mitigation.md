@@ -78,6 +78,8 @@ Examine the area to determine the extent of the mold. Measure the affected surfa
 
 ### 2\. Contain the Area
 
+![Professional mold containment setup with plastic sheeting and remediation equipment](/images/services/mold-remediation-photos/mold-remediation-inside-containment-area.jpg)
+
 Use plastic sheeting and tape to block off the contaminated area from the rest of your property. This containment barrier helps stop mold spores from spreading to unaffected spaces.
 
 ### 3\. Improve Air Circulation

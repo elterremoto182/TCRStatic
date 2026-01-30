@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function ResidentialMoldRemediationPage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -68,17 +61,23 @@ export default function ResidentialMoldRemediationPage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="We provide professional mold remediation services specifically designed for residential homeowners. Our certified team safely removes mold, identifies moisture sources, and prevents future growth to protect your family's health."
-          cities={cityList}
-          tier1CityLinks={tier1CityLinks}
+          heroImage={service.images?.hero}
+          heroDescription="We provide professional mold remediation services specifically designed for residential homeowners. Our certified team safely removes mold, identifies moisture sources, and prevents future growth to protect your family's health."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.residentialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          healthRisks={service.bodyContent?.healthRisks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
-          tips={service.residentialContent?.tips}
-          problemLinks={problemLinks}
+          faqs={service.mainPageContent?.generalFaqs}
+          tier1CityLinks={tier1CityLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

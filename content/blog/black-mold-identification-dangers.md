@@ -13,6 +13,8 @@ keywords: ["black mold identification", "toxic black mold", "Stachybotrys", "mol
 
 ## Understanding Black Mold
 
+![Mold growth discovered behind wall during inspection](/images/services/mold-remediation-photos/mold-behind-wall.jpeg)
+
 "Black mold" is one of the most feared terms in home ownership, but there's significant misunderstanding about what it actually is, how dangerous it truly is, and how to identify it. This guide separates fact from fiction while providing practical guidance for Florida homeowners.
 
 ## What Is Black Mold?
@@ -198,6 +200,8 @@ When to test:
 - Mold is accessible (not in walls)
 
 ## Professional Remediation Process
+
+![Professional mold remediation technician applying treatment product](/images/services/mold-remediation-photos/mold-remediation-tech-applying-product.jpg)
 
 Regardless of mold species, professional remediation includes:
 

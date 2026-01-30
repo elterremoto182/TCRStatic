@@ -420,7 +420,9 @@ export function generateInternalLinksContent(
   };
 }
 
-export function generateImagesContent(service: ServiceConfig): ImagesContent {
+export function generateImagesContent(
+  service: ServiceConfig
+): ImagesContent {
   const serviceImages = service.images;
   
   return {

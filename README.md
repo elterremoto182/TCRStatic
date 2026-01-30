@@ -1,19 +1,21 @@
 # Total Care Restoration Website
 
-A high-performance static website for Total Care Restoration, a 24/7 emergency restoration company serving South Florida. Built with Next.js 14 and featuring comprehensive local SEO with 500+ service pages across 20 cities in Miami-Dade, Broward, and Palm Beach counties.
+A high-performance static website for Total Care Restoration, a 24/7 emergency restoration company serving South Florida. Built with Next.js 14 and featuring comprehensive local SEO with 690+ pages across 25+ cities in Miami-Dade, Broward, and Palm Beach counties.
 
 ## Features
 
-- **Local SEO Optimized**: 500+ pages targeting specific service × city × type combinations
+- **Local SEO Optimized**: 770+ pages targeting specific service × city × type combinations
 - **Fast & Static**: Fully static export with image optimization and CDN-ready deployment
 - **Modern Design**: Clean, professional UI with smooth animations
 - **Config-Driven**: All content managed through JSON and Markdown files
-- **Blog System**: Full Markdown blog with 130+ posts and category support
+- **Blog System**: Full Markdown blog with 50+ posts and category support
 - **Pillar-Cluster SEO**: Comprehensive guides linking to related blog posts
 - **Rich Structured Data**: LocalBusiness, Service, FAQ, HowTo, and Breadcrumb schemas
 - **Responsive**: Mobile-first design with breakpoints
 - **Image Optimization**: Automatic WebP conversion with blur placeholders
 - **301 Redirects**: Comprehensive redirect system for SEO preservation
+- **Advanced Internal Linking**: City tier system with geographic proximity, anchor text rotation, and link budgets
+- **SEO-Optimized Alt Text**: Context-aware alt text generation for all images
 
 ## Tech Stack
 
@@ -43,33 +45,51 @@ A high-performance static website for Total Care Restoration, a 24/7 emergency r
 | Indoor Air Quality | Core page |
 | Leak Detection | Core page |
 
-## Cities Served
+## Cities Served (25+ Locations)
 
-### Miami-Dade County
+Cities are organized into tiers for strategic SEO and response time optimization.
+
+### Tier 1 - Major Markets (Linked from all service hubs)
+
+#### Miami-Dade County
 - Miami
 - Miami Beach
-- Doral (HQ - fastest response times)
-- Miami Lakes
-- Kendall
-- Pinecrest
+- Coral Gables
+- Hialeah
 
-### Broward County
+#### Broward County
 - Fort Lauderdale
+- Hollywood
 - Pembroke Pines
-- Davie
-- Weston
+- Pompano Beach
 - Plantation
 - Miramar
-- Coral Springs
-- Pompano Beach
-- Deerfield Beach
-- Parkland
-- Sunrise
 
-### Palm Beach County
+### Tier 2 - Secondary Markets (Linked from Tier 1 pages)
+
+#### Miami-Dade County
+- Doral (HQ - fastest response times)
+- Kendall
+- Pinecrest
+- Aventura
+- Miami Lakes
+
+#### Broward County
+- Weston
+- Davie
+- Coral Springs
+- Sunrise
+- Deerfield Beach
+
+#### Palm Beach County
 - Boca Raton
-- Delray Beach
 - West Palm Beach
+
+### Tier 3 - Additional Markets
+
+- Parkland
+- Delray Beach
+- And other South Florida communities
 
 ## Problem/Cause Pages
 
@@ -150,7 +170,7 @@ Each guide automatically clusters related blog posts by category and provides in
 │   ├── sitemap.ts                # Dynamic sitemap generator
 │   └── not-found.tsx             # Custom 404 page
 ├── components/
-│   ├── local-seo/                # Local SEO components
+│   ├── local-seo/                # Local SEO components (18 components)
 │   │   ├── CityServicePage.tsx   # Full city page template
 │   │   ├── CausePage.tsx         # Problem/cause page template
 │   │   ├── ServiceTypeHub.tsx    # Residential/Commercial hub
@@ -158,7 +178,8 @@ Each guide automatically clusters related blog posts by category and provides in
 │   │   ├── NeighborhoodList.tsx  # Neighborhoods + zip codes
 │   │   ├── LocalFAQ.tsx          # FAQ with JSON-LD schema
 │   │   ├── LocalCTA.tsx          # City-specific CTAs
-│   │   ├── RelatedLinks.tsx      # Internal linking
+│   │   ├── RelatedLinks.tsx      # Internal linking with anchor rotation
+│   │   ├── RelatedProblems.tsx   # Problem page links
 │   │   ├── ResidentialBenefits.tsx
 │   │   ├── CommercialBenefits.tsx
 │   │   ├── ServiceOverview.tsx
@@ -166,7 +187,8 @@ Each guide automatically clusters related blog posts by category and provides in
 │   │   ├── PreventionTips.tsx
 │   │   ├── CommonCausesList.tsx
 │   │   ├── CommonCausesSection.tsx
-│   │   └── ServiceVideo.tsx
+│   │   ├── ServiceVideo.tsx
+│   │   └── index.ts              # Barrel exports
 │   ├── sections/                 # Page sections
 │   │   ├── Header.tsx
 │   │   ├── Hero.tsx
@@ -203,7 +225,7 @@ Each guide automatically clusters related blog posts by category and provides in
 │   ├── local-seo.json            # Local SEO configuration
 │   └── blog-taxonomy.json        # Blog category to service/guide mapping
 ├── content/
-│   ├── blog/                     # 130+ Markdown blog posts
+│   ├── blog/                     # 50+ Markdown blog posts
 │   ├── guides/                   # Pillar guide Markdown files
 │   └── pages/                    # Static page content
 ├── lib/
@@ -212,7 +234,11 @@ Each guide automatically clusters related blog posts by category and provides in
 │   │   ├── templates.ts          # Content templates
 │   │   ├── schema.ts             # Structured data generators
 │   │   ├── links.ts              # Internal linking system
+│   │   ├── anchor-text.ts        # 70/20/10 anchor text rotation
+│   │   ├── city-tiers.ts         # 3-tier city hierarchy system
+│   │   ├── link-budget.ts        # Link budget enforcement
 │   │   └── index.ts              # Exports
+│   ├── seo-utils.ts              # SEO alt text generation
 │   ├── guides/                   # Pillar guide utilities
 │   │   ├── guides.ts             # Guide data access & clustering
 │   │   └── index.ts              # Exports
@@ -226,7 +252,14 @@ Each guide automatically clusters related blog posts by category and provides in
 ├── public/
 │   ├── _redirects                # Netlify 301 redirects
 │   ├── _headers                  # Custom headers
-│   ├── images/                   # Optimized images
+│   ├── images/
+│   │   ├── hero/                 # Hero background images
+│   │   ├── gallery/              # Before/after project photos
+│   │   ├── branding/             # Company branding assets
+│   │   └── services/
+│   │       ├── fire-damage-photos/      # Fire restoration gallery
+│   │       └── mold-remediation-photos/ # Mold remediation gallery
+│   ├── sitemaps/                 # Split XML sitemaps
 │   ├── robots.txt                # Search engine directives
 │   └── llms.txt                  # LLM context file
 └── next.config.js                # Next.js configuration
@@ -268,8 +301,26 @@ Comprehensive service definitions:
 - Residential and commercial content
 - General FAQs for each service
 - Related causes and keywords
-- Image references
+- Image references (hero, overview, process, gallery)
 - Video references (YouTube)
+- Body content (overview, health risks, prevention tips, common causes)
+
+### Service Photo Galleries
+
+Service-specific photo galleries are stored in `public/images/services/`:
+
+```
+public/images/services/
+├── fire-damage-photos/           # Fire restoration project photos
+├── mold-remediation-photos/      # Mold remediation project photos
+│   ├── mold-before.jpeg
+│   ├── mold-behind-wall.jpeg
+│   ├── mold-remediation-*.jpg
+│   └── nextImageExportOptimizer/ # Optimized versions
+└── [service]-hero.jpg            # Service hero images
+```
+
+Images are automatically optimized to WebP format at multiple sizes.
 
 ### Service Videos
 
@@ -315,13 +366,18 @@ The city video will override the service default only for that city's pages. Oth
 
 ### Cities Configuration (`config/cities.json`)
 
-City-specific data for 20 locations:
+City-specific data for 25+ locations:
 - Neighborhoods and zip codes
-- GPS coordinates
-- Response times
-- Local risk factors
+- GPS coordinates for geographic proximity linking
+- Response times by location
+- Local risk factors and climate considerations
 - Residential and commercial focus points
 - Extended content for key markets
+- City-specific FAQs (localFAQs)
+- Seasonal triggers and insurance notes
+- Property type characteristics
+
+Cities are automatically organized into tiers (see `lib/local-seo/city-tiers.ts`) for strategic internal linking.
 
 ### Causes Configuration (`config/causes.json`)
 
@@ -425,6 +481,23 @@ npm run lint
 
 **Note**: Optimized images are cached and skipped if unchanged, making subsequent builds faster.
 
+### Sitemap Generation
+
+Sitemaps are split by content type for better search engine crawling:
+
+```
+public/sitemaps/
+├── index.xml      # Sitemap index referencing all sub-sitemaps
+├── blog.xml       # Blog post URLs
+├── cities.xml     # City service page URLs
+├── services.xml   # Core service and hub page URLs
+├── guides.xml     # Pillar guide URLs
+├── problems.xml   # Problem/cause page URLs
+└── static.xml     # Static pages (about, contact, etc.)
+```
+
+Generate sitemaps with: `npx ts-node scripts/generate-sitemaps.ts`
+
 ## Deployment
 
 This site is optimized for static hosting:
@@ -460,19 +533,67 @@ This site is optimized for static hosting:
 - Dynamic meta tags from config
 - Open Graph support
 - Twitter Cards
-- Automatic sitemap.xml generation
+- Split XML sitemaps for better indexing (blog, cities, services, guides, problems, static)
 - robots.txt for crawler control
 - Semantic HTML structure
-- Image alt tags
-- Internal linking strategy
+- SEO-optimized image alt tags (auto-generated from context)
+- Sophisticated internal linking with tier-based distribution
 
 ### Local SEO
-- City-specific landing pages for 20 locations
+- City-specific landing pages for 20+ locations
 - Neighborhood and zip code targeting
 - Response time by location
 - Local risk factors and climate considerations
 - City-specific FAQs
 - Problem/cause pages by location
+
+### Advanced Internal Linking
+
+The site implements a sophisticated internal linking system to optimize link equity distribution:
+
+#### City Tier System
+Cities are organized into 3 tiers for strategic link distribution:
+- **Tier 1**: Major metros (Miami, Fort Lauderdale, Hollywood, etc.) - linked from all service hubs
+- **Tier 2**: Secondary markets + Palm Beach majors - linked from Tier 1 city pages
+- **Tier 3**: Remaining cities - linked from Tier 2 pages + `/service-areas/` safety net
+
+#### Anchor Text Rotation
+Implements 70/20/10 distribution to avoid over-optimization penalties:
+- **70% Partial Match**: "professional water damage restoration in Miami"
+- **20% Branded**: "Total Care Restoration", "our licensed technicians"
+- **10% Exact Match**: "water damage restoration in Miami"
+
+Uses seeded random generation for consistency (same page always gets same anchors).
+
+#### Link Budget System
+Defines maximum link counts per page type to avoid diluting SEO value:
+
+| Page Type | Min | Max | Hard Cap |
+|-----------|-----|-----|----------|
+| Blog | 5 | 7 | 8 |
+| City Tier 1 | 5 | 8 | 10 |
+| City Tier 2 | 5 | 7 | 9 |
+| City Tier 3 | 4 | 6 | 8 |
+| Service Hub | 10 | 15 | 18 |
+| Guide | 5 | 10 | 12 |
+
+### SEO-Optimized Alt Text
+
+The `lib/seo-utils.ts` module provides context-aware alt text generation:
+
+```typescript
+import { generateAltText } from '@/lib/seo-utils';
+
+// Generate alt text based on context
+const alt = generateAltText({
+  type: 'service',
+  serviceName: 'Water Damage Restoration',
+  cityName: 'Miami'
+});
+// Output: "Water Damage Restoration services in Miami - Total Care Restoration"
+```
+
+Supported types: `hero`, `cta`, `gallery`, `service`, `team`, `testimonial`, `badge`, `overview`, `process`, `gallery-item`
 
 ### Content Strategy (Pillar-Cluster)
 - 5 comprehensive pillar guides (long-form content)
@@ -498,9 +619,9 @@ Comprehensive redirect rules in `public/_redirects`:
 | City Service Pages | 320 |
 | Cause/Problem Pages | ~280 |
 | Pillar Guides | 5 |
-| Blog Posts | 130 |
+| Blog Posts | 50+ |
 | Static Pages | 12 |
-| **Total** | **~770+ pages** |
+| **Total** | **~690+ pages** |
 
 ## Contact Form Integration
 

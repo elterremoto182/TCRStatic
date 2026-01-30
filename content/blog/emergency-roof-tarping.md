@@ -21,6 +21,8 @@ Unfortunately, many major instances of roof damage don’t come under the calmes
 
 ## What Does An Emergency Roof Tarping Service Do?
 
+![Professional commercial roof tarp installation showing secure tarping technique](/images/services/roof-tarping-photos/commercial-tarp-installation.jpg)
+
 Emergency roof tarping helps homeowners and property owners minimize the spread of damage after a bit of damage to your roof. To give you an idea, many roof leaks are negligible at first. There may be a small hole in the roof, but many homeowners don’t regularly check the area to notice, and if water damage is small and kept to an obscure area, like the attic, it may go unnoticed.
 
 However, no leak remains small. Over time, the damage will increase, leading to a larger leak. This could result in significant water damage, higher utility costs to compensate for air loss through the leak, and potential structural risks. The main purpose of emergency roof tarping is to maintain a roof leak at its initial stage until someone can come out to repair it properly.
@@ -49,6 +51,8 @@ You might also be unsure whether you need to replace the entire roof or just a s
 Although these are the primary reasons for emergency roof tarping, there are other scenarios as well. For instance, if you’re inspecting your home before selling it and discover a minor leak, it might be a good idea to use an emergency roof tarp. This will prevent any further roof issues until a professional can address it.
 
 However, waiting to [Should I Install a Roof Tarp Now Or Wait to Replace My Roof](/should-i-install-a-roof-tarp-now-or-wait-to-replace-my-roof/) may cause water damage to your home.
+
+![Roof damage before and after tarp installation showing professional protection](/images/services/roof-tarping-photos/tarp-commercial-before.jpg)
 
 ## Consider A Shrink-wrap
 

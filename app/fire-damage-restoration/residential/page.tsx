@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -13,8 +13,8 @@ const SERVICE_TYPE = 'residential';
 export async function generateMetadata() {
   return generatePageMetadata({
     title: truncateMetaTitle('Residential Fire Damage Restoration | South Florida | Total Care Restoration'),
-    description: 'Residential fire damage restoration services throughout South Florida. Protect your home and family with professional smoke and soot cleanup. 24/7 emergency response.',
-    keywords: ['residential fire damage restoration', 'home fire damage', 'house smoke cleanup', 'residential soot removal'],
+    description: 'Residential fire damage restoration services throughout South Florida. Complete smoke, soot cleanup and property restoration for homeowners. 24/7 emergency response.',
+    keywords: ['residential fire damage restoration', 'home fire damage', 'house smoke cleanup', 'residential fire restoration'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,
   });
 }
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function ResidentialFireDamagePage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -68,17 +61,23 @@ export default function ResidentialFireDamagePage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="We provide professional fire damage restoration services specifically designed for residential homeowners. Our compassionate team helps you recover from fire, smoke, and soot damage while handling insurance claims."
-          cities={cityList}
+          heroImage={service.images?.hero}
+          heroDescription="We provide comprehensive fire damage restoration services for residential homeowners. Our team handles everything from emergency board-up to complete restoration, helping families recover from the trauma of a fire."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.residentialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          healthRisks={service.bodyContent?.healthRisks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
-          tips={service.residentialContent?.tips}
+          faqs={service.mainPageContent?.generalFaqs}
           tier1CityLinks={tier1CityLinks}
-          problemLinks={problemLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

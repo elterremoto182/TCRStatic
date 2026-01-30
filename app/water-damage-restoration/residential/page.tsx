@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function ResidentialWaterDamagePage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -56,10 +49,6 @@ export default function ResidentialWaterDamagePage() {
       '@type': 'Audience',
       audienceType: 'Residential Homeowners',
     },
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
     serviceType: 'Water Damage Restoration',
   };
 
@@ -72,17 +61,22 @@ export default function ResidentialWaterDamagePage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="We provide professional water damage restoration services specifically designed for residential homeowners. Our compassionate team understands the stress of home water damage and works quickly to protect your family and property."
-          cities={cityList}
+          heroImage={service.images?.hero}
+          heroDescription="We provide professional water damage restoration services specifically designed for residential homeowners. Our compassionate team understands the stress of home water damage and works quickly to protect your family and property."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.residentialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
-          tips={service.residentialContent?.tips}
+          faqs={service.mainPageContent?.generalFaqs}
           tier1CityLinks={tier1CityLinks}
-          problemLinks={problemLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

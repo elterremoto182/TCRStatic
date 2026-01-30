@@ -47,6 +47,8 @@ When renovating or building, consider using mold-resistant products like moistur
 
 ## Professional Mold Remediation
 
+![Professional mold remediation equipment including dehumidifier and HEPA air scrubber](/images/services/mold-remediation-photos/mold-remediation-dehumidifier-hepa-air-scrubber.jpg)
+
 Despite your best efforts, there might be times when professional help is needed. This is where the experienced team at Total Care Restoration can step in and help. Specializing in [Mold Remediation](/mold-remediation/), they have the skills and tools to assess and tackle any mold problem that arises.
 
 ### Seeking Help After Water Damage

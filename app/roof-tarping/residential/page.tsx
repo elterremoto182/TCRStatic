@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -13,8 +13,8 @@ const SERVICE_TYPE = 'residential';
 export async function generateMetadata() {
   return generatePageMetadata({
     title: truncateMetaTitle('Residential Roof Tarping | South Florida | Total Care Restoration'),
-    description: 'Residential emergency roof tarping services throughout South Florida. Protect your home from water damage with fast, professional roof tarping. 24/7 emergency response.',
-    keywords: ['residential roof tarping', 'home roof tarp', 'emergency roof protection', 'house roof leak repair'],
+    description: 'Professional residential roof tarping services throughout South Florida. Emergency roof protection after storms. Prevent further water damage. 24/7 response.',
+    keywords: ['residential roof tarping', 'home roof tarp', 'emergency roof protection', 'residential storm roof'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,
   });
 }
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function ResidentialRoofTarpingPage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -50,16 +43,12 @@ export default function ResidentialRoofTarpingPage() {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'Residential Roof Tarping',
-    description: 'Professional residential emergency roof tarping services for homeowners throughout South Florida.',
+    description: 'Professional residential roof tarping services for homeowners throughout South Florida.',
     provider: getLocalBusinessProvider(),
     audience: {
       '@type': 'Audience',
       audienceType: 'Residential Homeowners',
     },
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
     serviceType: 'Roof Tarping',
   };
 
@@ -72,17 +61,22 @@ export default function ResidentialRoofTarpingPage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="We provide professional emergency roof tarping services specifically designed for residential homeowners. Our team responds quickly to protect your home from further water damage while you arrange permanent roof repairs."
-          cities={cityList}
-          tier1CityLinks={tier1CityLinks}
+          heroImage={service.images?.hero}
+          heroDescription="When your roof is damaged, every minute counts. Our residential roof tarping team provides emergency protection to prevent further water damage to your home until permanent repairs can be made."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.residentialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.residentialContent?.challenges}
-          tips={service.residentialContent?.tips}
-          problemLinks={problemLinks}
+          faqs={service.mainPageContent?.generalFaqs}
+          tier1CityLinks={tier1CityLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

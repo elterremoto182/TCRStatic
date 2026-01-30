@@ -13,6 +13,8 @@ keywords: ["assess storm damage", "hurricane damage assessment", "document storm
 
 ## Assessing Your Home After a Storm
 
+![Damaged roof tiles after storm requiring professional assessment](/images/services/roof-tarping-photos/roof-damaged-tiles.jpeg)
+
 After a hurricane or major storm passes through South Florida, the urge to immediately inspect your property is strong. However, a systematic approach to damage assessment keeps you safe and ensures you document everything needed for insurance claims.
 
 This guide walks you through the process from the moment it's safe to go outside until you've completed documentation for your insurance company.

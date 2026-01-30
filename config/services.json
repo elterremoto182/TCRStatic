@@ -1,6 +1,7 @@
 {
   "water-damage-restoration": {
     "name": "Water Damage Restoration",
+    "hubIntent": "authority",
     "shortName": "Water Damage",
     "icon": "Droplet",
     "phase": 1,
@@ -92,7 +93,11 @@
         "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg",
         "/images/services/water-damage-photos/shower-pan-leak-test.jpg",
         "/images/blog/2022/07/drying-floors-scaled.jpg",
-        "/images/blog/2024/03/flairgun-water-damage-inspection.jpg"
+        "/images/blog/2024/03/flairgun-water-damage-inspection.jpg",
+        "/images/services/water-damage-photos/water-damage-equipment-many.jpg",
+        "/images/services/water-damage-photos/water-damage-in-bathroom.jpg",
+        "/images/services/water-damage-photos/water-damage-kitchen-fans-dehumidifier.jpg",
+        "/images/services/water-damage-photos/moisture-meter-water-damage.jpg"
       ]
     },
     "video": {
@@ -138,6 +143,7 @@
   },
   "fire-damage-restoration": {
     "name": "Fire Damage Restoration",
+    "hubIntent": "authority",
     "shortName": "Fire Damage",
     "icon": "Flame",
     "phase": 1,
@@ -186,7 +192,18 @@
         "Keep fire extinguishers in kitchen and garage areas",
         "Never overload electrical outlets or extension cords"
       ],
-      "whyActFast": "Time matters after a fire. Soot stains and corrodes within hours. Smoke keeps damaging items daily. Water from fire hoses can cause mold. Fast action saves more items and costs less."
+      "whyActFast": "Time matters after a fire. Soot stains and corrodes within hours. Smoke keeps damaging items daily. Water from fire hoses can cause mold. Fast action saves more items and costs less.",
+      "healthRisks": [
+        "Smoke inhalation causing respiratory distress",
+        "Toxic fumes from burned synthetic materials",
+        "Carbon monoxide exposure",
+        "Soot particles irritating lungs and airways",
+        "Chemical residues from firefighting agents",
+        "Asbestos exposure in older buildings",
+        "Burns and injuries from structural hazards",
+        "Psychological trauma and stress-related health effects",
+        "Contaminated air quality throughout the property"
+      ]
     },
     "residentialContent": {
       "challenges": "A house fire is traumatic. Beyond the damage, families face stress and loss. We help with insurance claims. We try to save photos, heirlooms, and keepsakes. Some things can't be replaced. We work hard to restore what we can.",
@@ -221,7 +238,8 @@
       "overview": "/images/blog/2021/11/fire-hazard-header-image.jpg",
       "process": [],
       "gallery": [
-        "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg"
+        "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg",
+        "/images/services/fire-damage-photos/fire-damage-residential-floors.jpg"
       ]
     },
     "mainPageContent": {
@@ -263,6 +281,7 @@
   },
   "mold-remediation": {
     "name": "Mold Remediation",
+    "hubIntent": "authority",
     "shortName": "Mold Removal",
     "icon": "AlertTriangle",
     "phase": 1,
@@ -368,7 +387,10 @@
         "/images/services/mold-remediation-photos/ac-mold-containment.jpg",
         "/images/services/mold-remediation-photos/ac-leak-containment.jpg",
         "/images/services/mold-remediation-photos/removing-wall-remediation.jpg",
-        "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg"
+        "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg",
+        "/images/services/mold-remediation-photos/mold-remediation-technitian.jpg",
+        "/images/services/mold-remediation-photos/mold-remediation-inside-containment-area.jpg",
+        "/images/services/mold-remediation-photos/mold-equipment-titan-hydroxyl-generator.jpg"
       ]
     },
     "video": {
@@ -414,6 +436,7 @@
   },
   "emergency-restoration": {
     "name": "Emergency Restoration",
+    "hubIntent": "authority",
     "shortName": "Emergency Services",
     "icon": "AlertCircle",
     "phase": 1,
@@ -540,6 +563,7 @@
   },
   "storm-damage-restoration": {
     "name": "Storm Damage Restoration",
+    "hubIntent": "authority",
     "shortName": "Storm Damage",
     "icon": "CloudLightning",
     "phase": 2,
@@ -627,7 +651,9 @@
       "process": [],
       "gallery": [
         "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
-        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg"
+        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
+        "/images/services/roof-tarping-photos/roof-damaged-tiles.jpeg",
+        "/images/services/roof-tarping-photos/tarp-installed-roof-damage-1.jpeg"
       ]
     },
     "mainPageContent": {
@@ -755,7 +781,10 @@
       "gallery": [
         "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
         "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg",
-        "/images/blog/2021/09/Trap-Roof-banner.jpg"
+        "/images/blog/2021/09/Trap-Roof-banner.jpg",
+        "/images/services/roof-tarping-photos/commercial-tarp-installation.jpg",
+        "/images/services/roof-tarping-photos/tarp-commercial-before.jpg",
+        "/images/services/roof-tarping-photos/tarp-commercial-after.jpg"
       ]
     },
     "mainPageContent": {
@@ -797,6 +826,7 @@
   },
   "shrink-wrapping": {
     "name": "Shrink Wrapping",
+    "hubIntent": "authority",
     "shortName": "Shrink Wrap",
     "icon": "Package",
     "phase": 2,
@@ -917,6 +947,7 @@
   },
   "sewage-cleanup": {
     "name": "Sewage Cleanup",
+    "hubIntent": "authority",
     "shortName": "Sewage Cleanup",
     "icon": "Trash2",
     "phase": 2,

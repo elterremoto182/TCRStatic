@@ -20,6 +20,8 @@ After a fire, the visible damage may be cleaned up, but the air in your home can
 
 ## Key Air Quality Problems After a Fire
 
+![Fire damage to residential floors showing soot and burn damage](/images/services/fire-damage-photos/fire-damage-residential-floors.jpg)
+
 -   **Smoke & Soot Particles**: Tiny particles (PM2.5) that can enter your lungs and bloodstream.
 -   **Toxic Vapors (VOCs)**: Chemicals like benzene and formaldehyde that linger in furniture, walls, and air.
 -   **Mold Growth**: Caused by [Water Damage Clean Up](/water-damage-clean-up/) from firefighting efforts, mold can grow in just 24–48 hours.

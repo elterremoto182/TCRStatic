@@ -2,7 +2,7 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
-import { getService, getAllCities, getServiceType, getCausesForService } from '@/lib/local-seo/data';
+import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
 import { enforceLinkBudget } from '@/lib/local-seo/link-budget';
@@ -13,8 +13,8 @@ const SERVICE_TYPE = 'commercial';
 export async function generateMetadata() {
   return generatePageMetadata({
     title: truncateMetaTitle('Commercial Storm Damage Restoration | South Florida | Total Care Restoration'),
-    description: 'Commercial storm and hurricane damage restoration services throughout South Florida. Minimize business downtime with rapid response and professional restoration. 24/7 emergency service.',
-    keywords: ['commercial storm damage restoration', 'business hurricane damage', 'office storm cleanup', 'commercial flood repair'],
+    description: 'Commercial storm damage restoration services throughout South Florida. Hurricane damage repair, flood cleanup for businesses. Minimize downtime.',
+    keywords: ['commercial storm damage restoration', 'business hurricane damage', 'commercial storm cleanup', 'commercial flood restoration'],
     path: `/${SERVICE_SLUG}/${SERVICE_TYPE}`,
   });
 }
@@ -22,23 +22,16 @@ export async function generateMetadata() {
 export default function CommercialStormDamagePage() {
   const service = getService(SERVICE_SLUG);
   const serviceType = getServiceType(SERVICE_TYPE);
-  const cities = getAllCities();
   
   if (!service || !serviceType) {
     return null;
   }
 
-  const cityList = Object.entries(cities).map(([slug, city]) => ({
-    slug,
-    name: city.name,
-  }));
-
-  // Get Tier 1 city links for service hub
+  // Get Tier 1 city links for service hub (max 10)
   let tier1CityLinks = getAllTier1CityLinks(SERVICE_SLUG, SERVICE_TYPE);
-  // Enforce link budget for service hub
   tier1CityLinks = enforceLinkBudget(tier1CityLinks, 'service-hub');
 
-  // Get problem links for this service (4-6 links)
+  // Get problem links for this service
   const problemLinks = getCausesForService(SERVICE_SLUG).slice(0, 6).map(cause => ({
     slug: cause.slug,
     name: cause.name,
@@ -50,16 +43,12 @@ export default function CommercialStormDamagePage() {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: 'Commercial Storm Damage Restoration',
-    description: 'Professional commercial storm and hurricane damage restoration services for businesses throughout South Florida.',
+    description: 'Professional commercial storm damage restoration services for businesses throughout South Florida.',
     provider: getLocalBusinessProvider(),
     audience: {
       '@type': 'Audience',
       audienceType: 'Commercial Property Managers',
     },
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
     serviceType: 'Storm Damage Restoration',
   };
 
@@ -72,17 +61,22 @@ export default function CommercialStormDamagePage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          description="We provide professional storm damage restoration services designed for commercial properties. Our team understands that downtime means lost revenue, so we work quickly and can coordinate multi-location restoration projects."
-          cities={cityList}
-          tier1CityLinks={tier1CityLinks}
+          heroImage={service.images?.hero}
+          heroDescription="When hurricanes and storms damage your business, every hour counts. Our commercial storm damage team responds rapidly to protect your assets and get your operations back online."
+          overview={service.bodyContent?.overview || ''}
+          typeSpecificOverview={service.commercialContent?.challenges}
+          whyActFast={service.bodyContent?.whyActFast}
+          commonCauses={service.bodyContent?.commonCauses}
+          problemLinks={problemLinks}
+          process={service.process || []}
+          galleryImages={service.images?.gallery}
           focusAreas={serviceType.focusAreas}
           challenges={service.commercialContent?.challenges}
-          tips={service.commercialContent?.tips}
-          problemLinks={problemLinks}
+          faqs={service.mainPageContent?.generalFaqs}
+          tier1CityLinks={tier1CityLinks}
         />
       </main>
       <Footer />
     </>
   );
 }
-

@@ -40,7 +40,11 @@ export function generateAltText(options: AltTextOptions): string {
 
   switch (type) {
     case 'hero':
-      return `${COMPANY_NAME} - 24/7 emergency water and fire damage restoration services in ${LOCATION}`;
+      if (options.serviceName && options.cityName) {
+        return `${options.serviceName} services in ${options.cityName} - ${COMPANY_NAME}`;
+      }
+      const heroLocation = options.cityName || LOCATION;
+      return `${COMPANY_NAME} - 24/7 emergency restoration services in ${heroLocation}`;
 
     case 'cta':
       return `Contact ${COMPANY_NAME} for professional restoration services - Free estimates available`;

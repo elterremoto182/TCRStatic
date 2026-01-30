@@ -17,6 +17,8 @@ When your roof is damaged, you need **professional tarping services** fast. But 
 
 ## Why Hire Professional Tarping Services?
 
+![Commercial tarp installation in progress on pitched roof](/images/services/roof-tarping-photos/commercial-tarp-installation-pitch.jpeg)
+
 Roof tarping isn't a DIY project. Here's why professional installation matters:
 
 - **Safety** — Roof work is dangerous, especially on damaged structures
@@ -47,6 +49,8 @@ Blue tarps are the most common and cheapest option. We recommend them only for *
 **Best for:** Waiting a few days for your insurance adjuster or roofer to inspect damage.
 
 ### 2. Grey Tarps (Our Recommendation)
+
+![Professional grey tarp installation on damaged roof](/images/services/roof-tarping-photos/grey-tarp-installed-roof.jpeg)
 
 At Total Care Restoration, we most often install **grey tarps** for our customers. These are custom-ordered heavy-duty tarps that offer the best balance of price and protection.
 

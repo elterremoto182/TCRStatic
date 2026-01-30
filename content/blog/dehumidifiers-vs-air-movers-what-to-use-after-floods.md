@@ -34,6 +34,8 @@ When dealing with [Water Damage Clean Up](/water-damage-clean-up/), quick action
 
 ## What Dehumidifiers Do and Why They Help
 
+![Professional water damage restoration equipment including fans and dehumidifiers in action](/images/services/water-damage-photos/water-damage-equipment-many.jpg)
+
 Dehumidifiers play a crucial role in drying out spaces after floods by removing excess moisture from the air. This helps prevent mold growth and protects the structural integrity of a building. While air movers target surface drying, dehumidifiers tackle the hidden moisture that lingers in the air and within materials, which could lead to long-term damage. Here’s a closer look at how they work and why they’re so effective.
 
 ### How Dehumidifiers Work
@@ -53,6 +55,8 @@ High-capacity, commercial-grade dehumidifiers can remove up to 400 gallons of wa
 To maximize their effectiveness, it’s important to keep windows and doors closed while using dehumidifiers to prevent additional humid air from entering. Remove water-damaged items that could continue to release moisture and place the units in the most affected areas, such as basements or crawl spaces. Regular maintenance, like cleaning air filters and emptying the water reservoir, is vital throughout the restoration process.
 
 ## What Air Movers Do and Why They Help
+
+![Water damage drying equipment with fans set up in kitchen area](/images/services/water-damage-photos/water-damage-kitchen-fans-dehumidifier.jpg)
 
 Air movers are a cornerstone of [The Fastest Way to Handle Emergency Water Removal in Your Home](/the-fastest-way-to-handle-emergency-water-removal-in-your-home/) efforts, designed to tackle surface drying with high-speed air circulation. Unlike dehumidifiers, which focus on reducing moisture in the air, air movers target wet surfaces directly. This makes them especially useful in the critical first stages after flooding, where quick action is needed to prevent further damage. By understanding how they work, it’s easier to see why air movers are such a vital tool in flood response.
 

@@ -13,7 +13,7 @@ import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSe
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
 import { RelatedProblems } from '@/components/local-seo/RelatedProblems';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
-import { Trash2, Home, Building2, ArrowRight, Phone, MapPin, Camera } from 'lucide-react';
+import { Trash2, Home, Building2, ArrowRight, Phone, MapPin, Camera, Clock } from 'lucide-react';
 
 const SERVICE_SLUG = 'sewage-cleanup';
 
@@ -91,8 +91,8 @@ export default function SewageCleanupPage() {
       <Header />
       <main className="min-h-screen">
         {/* Hero Section */}
-        <section className="pt-32 pb-20 bg-gradient-to-br from-green-50 via-background to-teal-50 relative overflow-hidden">
-          {/* Hero Background Image */}
+        <section className="relative pt-32 pb-20 overflow-hidden">
+          {/* Background Image */}
           {service.images?.hero && (
             <div className="absolute inset-0 z-0">
               <OptimizedImage
@@ -100,45 +100,78 @@ export default function SewageCleanupPage() {
                 alt={generateAltText({ type: 'hero', serviceName: 'Sewage Cleanup' })}
                 fill
                 sizes="100vw"
-                className="object-cover opacity-30"
+                className="object-cover"
                 priority
               />
-              <div className="absolute inset-0 bg-gradient-to-r from-white/70 via-white/60 to-white/50" />
+              <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/60 to-black/50" />
             </div>
           )}
-          <div className="max-w-6xl mx-auto px-4 relative z-10">
-            <Breadcrumbs items={breadcrumbs} className="mb-6" />
+          
+          {/* Fallback gradient if no image */}
+          {!service.images?.hero && (
+            <div className="absolute inset-0 z-0 bg-gradient-to-br from-green-50 via-background to-teal-50" />
+          )}
+
+          <div className="relative z-10 max-w-6xl mx-auto px-4">
+            <Breadcrumbs 
+              items={breadcrumbs} 
+              className={`mb-6 ${service.images?.hero ? '[&_a]:text-white/80 [&_a:hover]:text-white [&_span]:text-white [&_svg]:text-white/60' : ''}`} 
+            />
             
             <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center">
-                  <Trash2 className="w-8 h-8 text-primary" />
+              <div className="max-w-3xl">
+                {/* Service badges */}
+                <div className="flex items-center gap-3 mb-6">
+                  <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold ${
+                    service.images?.hero 
+                      ? 'bg-white/20 text-white backdrop-blur-sm' 
+                      : 'bg-primary/10 text-primary'
+                  }`}>
+                    <Trash2 className="w-4 h-4" />
+                    Sewage Cleanup
+                  </span>
+                  <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold ${
+                    service.images?.hero 
+                      ? 'bg-green-500/20 text-green-100 backdrop-blur-sm' 
+                      : 'bg-green-100 text-green-800'
+                  }`}>
+                    <Clock className="w-4 h-4" />
+                    24/7 Emergency
+                  </span>
                 </div>
-              </div>
 
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                Sewage Cleanup Services
-              </h1>
+                <h1 className={`text-4xl md:text-5xl lg:text-6xl font-bold mb-6 ${
+                  service.images?.hero ? 'text-white' : 'text-gray-900'
+                }`}>
+                  Sewage Cleanup Services
+                </h1>
 
-              <p className="text-xl text-gray-600 max-w-3xl mb-8">
-                Professional sewage cleanup and biohazard removal services for homes and businesses throughout South Florida. 
-                Our certified technicians respond 24/7 with proper safety equipment and sanitization protocols.
-              </p>
+                <p className={`text-xl md:text-2xl mb-8 leading-relaxed ${
+                  service.images?.hero ? 'text-gray-100' : 'text-gray-600'
+                }`}>
+                  Professional sewage cleanup and biohazard removal services for homes and businesses throughout South Florida. 
+                  Our certified technicians respond 24/7 with proper safety equipment and sanitization protocols.
+                </p>
 
-              <div className="flex flex-col sm:flex-row gap-4">
-                <a
-                  href="tel:7866106317"
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
-                >
-                  <Phone className="w-5 h-5" />
-                  Call (786) 610-6317
-                </a>
-                <Link
-                  href="/#contact"
-                  className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
-                >
-                  Get Free Assessment
-                </Link>
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <a
+                    href="tel:7866106317"
+                    className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg"
+                  >
+                    <Phone className="w-5 h-5" />
+                    Call (786) 610-6317
+                  </a>
+                  <Link
+                    href="/#contact"
+                    className={`inline-flex items-center justify-center px-8 py-4 font-bold rounded-lg transition-colors ${
+                      service.images?.hero 
+                        ? 'bg-white/10 text-white border-2 border-white/30 hover:bg-white/20 backdrop-blur-sm'
+                        : 'bg-white text-primary border-2 border-primary hover:bg-primary/5'
+                    }`}
+                  >
+                    Get Free Assessment
+                  </Link>
+                </div>
               </div>
             </AnimateOnScroll>
           </div>

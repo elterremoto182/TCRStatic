@@ -46,6 +46,8 @@ These steps ensure a safe, mold-free home while protecting your health.
 
 ## Step 1: Prepare and Set Up Safety Measures
 
+![Professional mold remediation equipment set up inside containment area](/images/services/mold-remediation-photos/mold-remediation-equipment-in-containment.JPG)
+
 Preparation is everything when tackling [Mold Remediation](/mold-remediation/). Once you disturb a mold-infested surface, spores can quickly become airborne, posing health risks if proper safety measures aren’t in place.
 
 ### Inspect the Affected Area
