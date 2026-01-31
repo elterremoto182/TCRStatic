@@ -1,0 +1,56 @@
+{
+  "tags": {
+    "emergency-response": {
+      "label": "Emergency Response",
+      "description": "Immediate action guides for the critical first 24-48 hours after damage occurs.",
+      "seoTitle": "Emergency Restoration Guides | Total Care Restoration",
+      "seoDescription": "Time-critical guides for water damage, fire damage, and mold emergencies. Learn what to do in the first 24-48 hours.",
+      "indexable": true,
+      "icon": "clock"
+    },
+    "commercial-restoration": {
+      "label": "Commercial Restoration",
+      "description": "Restoration guidance for offices, retail spaces, warehouses, and multi-unit properties.",
+      "seoTitle": "Commercial Property Restoration Articles | Total Care Restoration",
+      "seoDescription": "Expert restoration advice for commercial properties in South Florida. Offices, retail, warehouses, and HOAs.",
+      "indexable": true,
+      "icon": "building"
+    },
+    "insurance-claims": {
+      "label": "Insurance Claims",
+      "description": "Navigate the insurance claims process, documentation requirements, and adjuster interactions.",
+      "seoTitle": "Insurance Claims Help for Property Damage | Total Care Restoration",
+      "seoDescription": "Expert guidance on filing insurance claims, documenting damage, and working with adjusters.",
+      "indexable": true,
+      "icon": "file-text"
+    },
+    "health-risks": {
+      "label": "Health Risks",
+      "description": "Understanding exposure risks, air quality concerns, and safety considerations.",
+      "seoTitle": "Health Risks from Property Damage | Total Care Restoration",
+      "seoDescription": "Learn about health risks from mold exposure, smoke damage, sewage contamination, and poor air quality.",
+      "indexable": "conditional",
+      "indexNote": "Monitor for thin/repetitive content",
+      "icon": "heart-pulse"
+    },
+    "damage-prevention": {
+      "label": "Damage Prevention",
+      "description": "Maintenance tips, early warning signs, and seasonal preparation to avoid property damage.",
+      "seoTitle": "Prevent Water, Mold & Fire Damage | Total Care Restoration",
+      "seoDescription": "Proactive maintenance tips and prevention guides to protect your South Florida property.",
+      "indexable": "conditional",
+      "indexNote": "Monitor for thin/repetitive content",
+      "icon": "shield"
+    },
+    "storm-related": {
+      "label": "Storm Related",
+      "description": "Hurricane preparation, storm damage response, and Florida-specific weather concerns.",
+      "seoTitle": "Hurricane & Storm Damage Guides | Total Care Restoration",
+      "seoDescription": "Hurricane preparation and storm damage guides for South Florida homeowners and businesses.",
+      "indexable": "conditional",
+      "indexNote": "Seasonal - monitor quality",
+      "icon": "cloud-lightning"
+    }
+  },
+  "minPostsForIndex": 5
+}

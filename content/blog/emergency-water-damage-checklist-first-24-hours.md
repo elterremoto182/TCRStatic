@@ -9,6 +9,7 @@ image: "/images/blog/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8.jpeg"
 seo_title: "Emergency Water Damage Checklist: First 24 Hours | Total Care Restoration"
 seo_description: "Quickly respond to water damage within the first 24 hours to minimize loss, prevent mold, and streamline insurance claims."
 keywords: ["emergency water damage checklist", "first 24 hours water damage"]
+tags: ["emergency-response", "insurance-claims"]
 ---
 
 When water damage strikes, **acting fast can save you time, money, and stress**. Mold can grow in as little as 24 hours, and delays can worsen structural issues. Here’s a quick guide to handle water damage immediately:

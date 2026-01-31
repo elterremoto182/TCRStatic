@@ -9,6 +9,7 @@ image: "/images/blog/2021/10/How-To-Keep-Kids-Safe-From-Mold-768x485-1-e16349295
 seo_title: "Black Mold Identification & Dangers | What You Need to Know"
 seo_description: "How to identify black mold vs other molds. Learn about the real dangers of toxic mold, exposure symptoms, and when to call professionals for removal."
 keywords: ["black mold identification", "toxic black mold", "Stachybotrys", "mold dangers", "black mold symptoms"]
+tags: ["health-risks"]
 ---
 
 ## Understanding Black Mold

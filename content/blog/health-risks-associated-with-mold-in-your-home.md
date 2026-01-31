@@ -8,6 +8,7 @@ pillar: "mold-remediation"
 seo_title: "Unexplored Health Risks of Mold: What You Need to Know"
 seo_description: "Uncover the health risks of mold and the importance of mold remediation with Total Care Restoration in Miami, Florida. Protect your home and family with our help."
 keywords: ["health risks of mold"]
+tags: ["health-risks"]
 ---
 
 ## Health Risks Associated with Mold in Your Home

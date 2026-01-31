@@ -9,6 +9,7 @@ image: "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
 seo_title: "Hurricane Season Water Damage Preparation Guide | South Florida"
 seo_description: "Protect your South Florida home from hurricane water damage. Complete preparation checklist, storm response guide, and recovery tips from restoration experts."
 keywords: ["hurricane season south florida", "hurricane water damage", "storm damage restoration", "hurricane preparation", "flood damage prevention", "south florida hurricane prep"]
+tags: ["storm-related", "damage-prevention"]
 ---
 
 Living in South Florida means accepting that hurricane season is part of life. From June through November, the Atlantic basin becomes increasingly active, and the threat of devastating storms looms over Miami-Dade, Broward, and Palm Beach counties.

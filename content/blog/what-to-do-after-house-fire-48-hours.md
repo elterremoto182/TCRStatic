@@ -9,6 +9,7 @@ image: "/images/blog/2021/11/fire-hazard-header-image.jpg"
 seo_title: "What to Do After a House Fire | First 48 Hours Guide"
 seo_description: "What to do immediately after a house fire. Step-by-step guide for the first 48 hours covering safety, insurance, temporary housing, and restoration."
 keywords: ["what to do after house fire", "after house fire checklist", "fire damage recovery", "house fire next steps"]
+tags: ["emergency-response", "insurance-claims"]
 ---
 
 ## The Critical First 48 Hours After a Fire

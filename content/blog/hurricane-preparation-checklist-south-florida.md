@@ -9,6 +9,7 @@ image: "/images/blog/2021/10/installing-a-roof-tarp-e1595882236151-1-e1635367691
 seo_title: "Hurricane Preparation Checklist | South Florida Homeowners Guide"
 seo_description: "Complete hurricane preparation checklist for South Florida. Learn how to protect your home, what supplies to stock, and when to evacuate. Be ready before storm season."
 keywords: ["hurricane preparation checklist", "hurricane prep Florida", "storm preparation", "hurricane supplies list"]
+tags: ["storm-related", "damage-prevention"]
 ---
 
 ## Be Prepared Before Hurricane Season Begins

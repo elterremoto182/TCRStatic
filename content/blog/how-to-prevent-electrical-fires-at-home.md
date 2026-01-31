@@ -9,6 +9,7 @@ image: "/images/blog/2025/05/image_c5b16cd30b6d988320fa5a4dc3275c2a.jpeg"
 seo_title: "Prevent Electrical Fires at Home: Tips & Warning Signs"
 seo_description: "Learn essential tips to prevent electrical fires at home and ensure safety with effective maintenance and emergency planning."
 keywords: ["prevent electrical fires at home", "electrical fire prevention tips"]
+tags: ["damage-prevention"]
 ---
 
 [Home Safety Tips Preventing Electrical Fires](/home-safety-tips-preventing-electrical-fires/) cause thousands of injuries and hundreds of deaths annually, along with billions in property damage. The good news? Most of these fires can be prevented. Here’s what you need to know:

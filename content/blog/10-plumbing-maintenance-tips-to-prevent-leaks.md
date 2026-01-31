@@ -9,6 +9,7 @@ image: "/images/services/plumbing.jpg"
 seo_title: "10 Plumbing Maintenance Tips to Prevent Leaks | Total Care Restoration"
 seo_description: "Prevent costly plumbing leaks with these 10 essential maintenance tips. Learn how to check for leaks, control water pressure, maintain drains, and more."
 keywords: ["plumbing maintenance", "prevent leaks", "water damage prevention", "plumbing tips"]
+tags: ["damage-prevention"]
 ---
 
 Plumbing leaks can cause extensive damage and lead to high repair costs, but they're often avoidable with simple, regular maintenance. By dedicating a little time each month to inspect and care for your plumbing system, you can catch small issues early and prevent expensive problems.

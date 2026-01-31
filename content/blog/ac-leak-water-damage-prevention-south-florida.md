@@ -9,6 +9,7 @@ image: "/images/blog/2021/10/Water-damage-wood-floor.jpeg"
 seo_title: "AC Leak Water Damage Prevention in South Florida | Expert Guide"
 seo_description: "Prevent AC leak water damage in South Florida. Learn the warning signs, maintenance tips, and what to do when your AC leaks. Expert advice for Miami-Dade, Broward, and Palm Beach homeowners."
 keywords: ["ac leak water damage", "ac leak prevention", "south florida ac problems", "air conditioner leak", "ac water damage miami", "hvac leak prevention", "condensation damage florida"]
+tags: ["damage-prevention"]
 ---
 
 In South Florida, your air conditioner isn't a luxury—it's a necessity. Running nearly year-round in our tropical climate, AC units in Miami-Dade, Broward, and Palm Beach counties work harder than almost anywhere else in the country.

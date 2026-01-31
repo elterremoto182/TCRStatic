@@ -9,6 +9,7 @@ image: "/images/blog/2025/07/image_9d6ab5ec728711c4a685885996e84ad9.jpeg"
 seo_title: "Air Quality Testing After Fire Damage | Total Care Restoration"
 seo_description: "Learn why air quality testing after fire damage is crucial for health and safety, and explore the key steps involved in the process."
 keywords: ["air quality testing after fire", "post-fire air quality"]
+tags: ["health-risks"]
 ---
 
 Fire damage goes beyond what you can see. Toxic particles like soot, ash, and VOCs stay in the air and on surfaces. These hidden dangers threaten your health long after the flames go out.

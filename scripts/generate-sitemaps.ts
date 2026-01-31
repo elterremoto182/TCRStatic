@@ -7,7 +7,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { getAllPosts } from '../lib/blog/posts';
+import { getAllPosts, categoriesWithPages, categoryNameToSlug, getTagPostCounts } from '../lib/blog/posts';
 import { getAllPages } from '../lib/pages/pages';
 import { getAllGuides } from '../lib/guides';
 import { 
@@ -16,6 +16,7 @@ import {
   getAllCities, 
   getAllCauses 
 } from '../lib/local-seo/data';
+import blogTags from '../config/blog-tags.json';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 const outputDir = path.join(process.cwd(), 'public', 'sitemaps');
@@ -235,12 +236,44 @@ function getProblemRoutes(): SitemapEntry[] {
 function getBlogRoutes(): SitemapEntry[] {
   const posts = getAllPosts();
 
-  return posts.map((post) => ({
+  // Individual blog posts
+  const postRoutes = posts.map((post) => ({
     url: `${baseUrl}/${post.slug}/`,
     lastModified: new Date(post.date),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
+
+  // Category pages (5 categories with dedicated pages)
+  const categoryRoutes: SitemapEntry[] = categoriesWithPages.map((categoryName) => {
+    const slug = categoryNameToSlug[categoryName];
+    return {
+      url: `${baseUrl}/blog/category/${slug}/`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.75,
+    };
+  });
+
+  // Tag pages (only include tags with 5+ posts for indexability)
+  const tagCounts = getTagPostCounts();
+  const minPostsForIndex = blogTags.minPostsForIndex || 5;
+  
+  const tagRoutes: SitemapEntry[] = Object.entries(blogTags.tags)
+    .filter(([slug, config]) => {
+      const count = tagCounts[slug] || 0;
+      // Include if always indexable OR conditional with sufficient posts
+      return config.indexable === true || 
+        (config.indexable === 'conditional' && count >= minPostsForIndex);
+    })
+    .map(([slug]) => ({
+      url: `${baseUrl}/blog/tag/${slug}/`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }));
+
+  return [...postRoutes, ...categoryRoutes, ...tagRoutes];
 }
 
 function getGuideRoutes(): SitemapEntry[] {

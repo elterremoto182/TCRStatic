@@ -7,9 +7,10 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { RelatedLinks } from '@/components/blog/RelatedLinks';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
-import { getPostBySlug, getAllPosts } from '@/lib/blog/posts';
+import { getPostBySlug, getAllPosts, categoryNameToSlug, categoriesWithPages } from '@/lib/blog/posts';
 import { getPillarGuideInfo } from '@/lib/guides';
-import { Home, Calendar, User, ArrowLeft, BookOpen, ArrowRight } from 'lucide-react';
+import blogTags from '@/config/blog-tags.json';
+import { Home, Calendar, User, ArrowLeft, BookOpen, ArrowRight, Tag } from 'lucide-react';
 import { generatePageMetadata, ensureTrailingSlash } from '@/lib/utils';
 import { StructuredData, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 
@@ -155,11 +156,22 @@ export default async function DynamicPage({
     const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
     const url = `${baseUrl}/${post.slug}/`;
     
-    // Generate breadcrumbs
-    const breadcrumbItems = [
-      { label: 'Blog', href: '/blog/' },
-      { label: post.title, href: `/${post.slug}/` },
-    ];
+    // Get category info for breadcrumbs and links
+    const categorySlug = post.category ? categoryNameToSlug[post.category] : null;
+    const categoryHasPage = post.category && categoriesWithPages.includes(post.category);
+    
+    // Generate breadcrumbs: Home > Blog > Category > Title
+    // Only include category in breadcrumbs if it has a dedicated page
+    const breadcrumbItems = categoryHasPage && categorySlug
+      ? [
+          { label: 'Blog', href: '/blog/' },
+          { label: post.category, href: `/blog/category/${categorySlug}/` },
+          { label: post.title, href: `/${post.slug}/` },
+        ]
+      : [
+          { label: 'Blog', href: '/blog/' },
+          { label: post.title, href: `/${post.slug}/` },
+        ];
 
     // Generate Article schema with wordCount
     // Use dateModified from frontmatter if available, otherwise fall back to publish date
@@ -188,9 +200,18 @@ export default async function DynamicPage({
               <Breadcrumbs items={breadcrumbItems} className="mb-8" />
 
               {post.category && (
-                <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full mb-4">
-                  {post.category}
-                </span>
+                categoryHasPage && categorySlug ? (
+                  <Link
+                    href={`/blog/category/${categorySlug}/`}
+                    className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full mb-4 hover:bg-primary/20 transition-colors"
+                  >
+                    {post.category}
+                  </Link>
+                ) : (
+                  <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full mb-4">
+                    {post.category}
+                  </span>
+                )
               )}
 
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-6">
@@ -264,6 +285,31 @@ export default async function DynamicPage({
               {/* Related Links Widget */}
               {post.category && (
                 <RelatedLinks category={post.category} currentSlug={post.slug} />
+              )}
+
+              {/* Tags Section */}
+              {post.tags && post.tags.length > 0 && (
+                <div className="mt-12 pt-8 border-t border-gray-200">
+                  <div className="flex items-center gap-2 mb-3">
+                    <Tag className="w-4 h-4 text-gray-500" />
+                    <span className="text-sm font-semibold text-gray-500 uppercase tracking-wide">Topics</span>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {post.tags.map((tag) => {
+                      const tagConfig = blogTags.tags[tag as keyof typeof blogTags.tags];
+                      if (!tagConfig) return null;
+                      return (
+                        <Link
+                          key={tag}
+                          href={`/blog/tag/${tag}/`}
+                          className="inline-flex items-center px-3 py-1.5 bg-gray-100 text-gray-700 text-sm font-medium rounded-lg hover:bg-gray-200 transition-colors"
+                        >
+                          {tagConfig.label}
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </div>
               )}
 
               <div className="mt-12 pt-8 border-t border-gray-200">

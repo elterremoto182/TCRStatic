@@ -8,6 +8,7 @@ pillar: "fire-damage-restoration"
 seo_title: "Smoke Damage: Long-Term Effects and Restoration Techniques"
 seo_description: "In this article, we will explore the long-term effects of smoke damage and provide you with restoration techniques to help bring your home back to its pre-damaged condition."
 keywords: ["Smoke Damage Miami"]
+tags: ["health-risks"]
 ---
 
 ## Smoke Damage: Long-Term Effects and Restoration Techniques

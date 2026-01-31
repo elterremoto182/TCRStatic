@@ -9,6 +9,7 @@ image: "/images/blog/2021/10/roof_tarp-768x246-1.jpeg"
 seo_title: "How to Assess Storm Damage to Your Home | Complete Guide"
 seo_description: "Step-by-step guide to assessing storm damage after a hurricane. Learn safety priorities, documentation for insurance, and when to call professionals."
 keywords: ["assess storm damage", "hurricane damage assessment", "document storm damage", "storm damage inspection"]
+tags: ["storm-related", "insurance-claims"]
 ---
 
 ## Assessing Your Home After a Storm

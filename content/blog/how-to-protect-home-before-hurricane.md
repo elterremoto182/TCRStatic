@@ -9,6 +9,7 @@ image: "/images/blog/2021/10/roof_tarp-768x246-1.jpeg"
 seo_title: "How to Protect Your Home Before a Hurricane | Florida Guide"
 seo_description: "Essential guide to protecting your Florida home before a hurricane. Learn how to secure windows, protect your roof, prevent flooding, and minimize storm damage."
 keywords: ["protect home from hurricane", "hurricane home protection", "storm preparation home", "hurricane proof home"]
+tags: ["storm-related", "damage-prevention"]
 ---
 
 ## Protecting Your Home When a Hurricane Threatens

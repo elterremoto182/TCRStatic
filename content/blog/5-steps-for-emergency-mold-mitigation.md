@@ -9,6 +9,7 @@ image: "/images/blog/2025/05/image_cada3f02dbe45ac6096420bed35cf8d8.jpeg"
 seo_title: "5 Steps for Emergency Mold Mitigation | Total Care Restoration"
 seo_description: "Learn essential steps for emergency mold mitigation, from inspection to cleanup, and when to seek professional help for serious issues."
 keywords: ["emergency mold mitigation", "mold remediation steps"]
+tags: ["emergency-response", "health-risks"]
 ---
 
 

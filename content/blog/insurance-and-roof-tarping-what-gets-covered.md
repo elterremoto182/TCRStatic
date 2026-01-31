@@ -3,12 +3,13 @@ title: "Insurance and Roof Tarping: What Gets Covered?"
 date: "2024-12-01"
 excerpt: "Insurance and Roof Tarping: What Gets Covered? When disaster strikes, whether it’s a natural calamity or due to human error, it leaves your home at risk of harm, especially your roof. Fortunately, roof tarping services are designed to offer immediate protection. As a homeowner in Miami, Florida, one question that might constantly worry you is … Continued"
 author: "Tomasz Alemany"
-category: "Tarp"
+category: "Storm"
 pillar: "storm-damage-restoration"
 image: "/images/blog/2021/10/roof_tarp-768x246-1.jpeg"
 seo_title: "Roof Tarping & Insurance: What’s Covered?"
 seo_description: "Wondering if roof tarping is covered by insurance? Learn what homeowners insurance typically covers, when tarping is reimbursed, and how Total Care Restoration can help."
 keywords: ["Roof tarping insurance coverage"]
+tags: ["insurance-claims", "storm-related"]
 ---
 
 ## Insurance and Roof Tarping: What Gets Covered?

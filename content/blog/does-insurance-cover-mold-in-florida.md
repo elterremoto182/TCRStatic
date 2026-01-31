@@ -9,6 +9,7 @@ image: "/images/blog/2022/07/Tech-with-a-moisture-meter-1024x549.png"
 seo_title: "Does Insurance Cover Mold in Florida? | Complete Coverage Guide"
 seo_description: "Understanding Florida homeowner's insurance mold coverage. Learn what's covered, what's excluded, and how to file successful mold claims in South Florida."
 keywords: ["mold insurance florida", "mold remediation insurance", "florida mold coverage", "homeowner insurance mold", "mold claim florida", "mold damage coverage"]
+tags: ["insurance-claims"]
 ---
 
 "Does my insurance cover mold?" It's one of the most common questions we hear from Florida homeowners facing mold problems. The answer, unfortunately, is: it depends.
