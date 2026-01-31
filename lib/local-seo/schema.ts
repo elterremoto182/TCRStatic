@@ -327,6 +327,10 @@ export function generateWebPageSchema(
 }
 
 // Generate all schemas for a service city page
+// NOTE: LocalBusiness schema is NOT included here because the global LocalBusiness
+// is already output in app/layout.tsx. Including it again would cause Google's
+// "Review has multiple aggregate ratings" error since both have aggregateRating.
+// The Service schema references the global LocalBusiness via @id.
 export function generateAllSchemasForServiceCityPage(
   serviceSlug: string,
   citySlug: string,
@@ -335,8 +339,8 @@ export function generateAllSchemasForServiceCityPage(
 ) {
   const schemas: Record<string, unknown>[] = [];
   
-  const localBusiness = generateLocalBusinessSchemaForCity(citySlug, serviceSlug, type);
-  if (localBusiness) schemas.push(localBusiness);
+  // LocalBusiness schema removed - provided globally by app/layout.tsx
+  // The Service schema references it via @id: "${baseUrl}#LocalBusiness"
   
   const service = generateServiceSchemaWithAudience({ serviceSlug, citySlug, type });
   if (service) schemas.push(service);
