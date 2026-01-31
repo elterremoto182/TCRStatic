@@ -123,6 +123,9 @@ export default async function CauseHubPage({
   const UrgencyIcon = urgency.icon;
 
   // Generate schema for the hub page
+  // References the global LocalBusiness via @id instead of creating a separate entity
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+  
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -130,12 +133,11 @@ export default async function CauseHubPage({
     description: cause.description,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'Total Care Restoration',
-      telephone: '+1-786-610-6317',
-      areaServed: {
-        '@type': 'State',
-        name: 'Florida',
-      },
+      '@id': `${baseUrl}#LocalBusiness`,
+    },
+    areaServed: {
+      '@type': 'State',
+      name: 'Florida',
     },
     serviceType: cause.name,
   };

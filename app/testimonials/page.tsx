@@ -19,16 +19,16 @@ export async function generateMetadata() {
 export default function TestimonialsPage() {
   const { testimonials } = content;
 
-  // Generate Review schema for testimonials page
-  const reviewsSchema = generateReviewsPageSchema(testimonials);
+  // Generate Review schemas for testimonials page (returns an array of individual reviews)
+  const reviewSchemas = generateReviewsPageSchema(testimonials) || [];
   
   // Generate breadcrumb schema
   const breadcrumbSchema = generateBreadcrumbSchema([
     { label: 'Testimonials', href: '/testimonials/' },
   ]);
 
-  // Combine schemas
-  const schemas = [reviewsSchema, breadcrumbSchema].filter(Boolean);
+  // Combine schemas - flatten the review schemas array with the breadcrumb
+  const schemas = [...reviewSchemas, breadcrumbSchema].filter(Boolean);
 
   return (
     <>

@@ -4,22 +4,14 @@ import { ensureTrailingSlash } from './utils';
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
 /**
- * Get the standard LocalBusiness provider object with address
- * Use this in service schemas to ensure the address field is always included
+ * Get the standard LocalBusiness provider reference
+ * Uses @id to reference the global LocalBusiness defined in layout.tsx
+ * This ensures all Service schemas link to the single canonical LocalBusiness entity
  */
 export function getLocalBusinessProvider() {
   return {
     '@type': 'LocalBusiness',
-    name: siteConfig.name,
-    telephone: siteConfig.phone,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: siteConfig.address,
-      addressLocality: 'Doral',
-      addressRegion: 'FL',
-      postalCode: '33166',
-      addressCountry: 'US',
-    },
+    '@id': `${baseUrl}#LocalBusiness`,
   };
 }
 
@@ -294,18 +286,10 @@ export function generateServiceSchema({
     description: description || name,
     url,
     serviceType: serviceType || 'Restoration Service',
+    // Use @id reference to the global LocalBusiness from layout.tsx
     provider: provider || {
       '@type': 'LocalBusiness',
-      name: siteConfig.name,
-      telephone: siteConfig.phone,
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: siteConfig.address,
-        addressLocality: 'Doral',
-        addressRegion: 'FL',
-        postalCode: '33166',
-        addressCountry: 'US',
-      },
+      '@id': `${baseUrl}#LocalBusiness`,
     },
     areaServed: areaServed || [
       {
@@ -622,8 +606,14 @@ export function generateReviewSchema({
 }
 
 /**
- * Generate Reviews page schema with AggregateRating and individual Reviews
+ * Generate Reviews page schema with individual Reviews
  * For use on the testimonials page
+ * 
+ * NOTE: This returns an array of individual Review schemas that reference
+ * the global LocalBusiness via @id. We do NOT create a separate LocalBusiness
+ * with aggregateRating here because the global LocalBusiness from layout.tsx
+ * already has aggregateRating. Creating another would cause Google's
+ * "Review has multiple aggregate ratings" error.
  */
 export function generateReviewsPageSchema(
   testimonials: Array<{
@@ -635,47 +625,27 @@ export function generateReviewsPageSchema(
 ) {
   if (!testimonials || testimonials.length === 0) return null;
 
-  // Calculate aggregate rating
-  const totalRating = testimonials.reduce((sum, t) => sum + t.rating, 0);
-  const averageRating = (totalRating / testimonials.length).toFixed(1);
-
-  return {
+  // Return individual Review schemas that reference the global LocalBusiness
+  // The global LocalBusiness (from layout.tsx) already has aggregateRating
+  return testimonials.map((testimonial) => ({
     '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
-    '@id': `${baseUrl}#LocalBusiness`,
-    name: siteConfig.name,
-    image: `${baseUrl}${siteConfig.logo}`,
-    telephone: siteConfig.phone,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: '7790 NW 55th St.',
-      addressLocality: 'Doral',
-      addressRegion: 'FL',
-      postalCode: '33166',
-      addressCountry: 'US',
+    '@type': 'Review',
+    author: {
+      '@type': 'Person',
+      name: testimonial.name,
     },
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: averageRating,
-      reviewCount: testimonials.length,
+    reviewBody: testimonial.content,
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: testimonial.rating.toString(),
       bestRating: '5',
       worstRating: '1',
     },
-    review: testimonials.map((testimonial) => ({
-      '@type': 'Review',
-      author: {
-        '@type': 'Person',
-        name: testimonial.name,
-      },
-      reviewBody: testimonial.content,
-      reviewRating: {
-        '@type': 'Rating',
-        ratingValue: testimonial.rating.toString(),
-        bestRating: '5',
-        worstRating: '1',
-      },
-    })),
-  };
+    itemReviewed: {
+      '@type': 'LocalBusiness',
+      '@id': `${baseUrl}#LocalBusiness`,
+    },
+  }));
 }
 
 /**

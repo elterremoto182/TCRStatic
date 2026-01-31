@@ -129,6 +129,8 @@ export default async function CauseCityPage({
   const cityContent = getCauseCityContent(causeSlug, citySlug);
 
   // Generate comprehensive schema
+  // References the global LocalBusiness via @id instead of creating separate entities
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   const schemas = [];
 
   // Service schema
@@ -139,16 +141,7 @@ export default async function CauseCityPage({
     description: `${cause.description} Professional restoration services in ${city.name}, FL.`,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'Total Care Restoration',
-      telephone: '(786) 610-6317',
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: '7790 NW 55th St.',
-        addressLocality: 'Doral',
-        addressRegion: 'FL',
-        postalCode: '33166',
-        addressCountry: 'US',
-      },
+      '@id': `${baseUrl}#LocalBusiness`,
     },
     areaServed: {
       '@type': 'City',

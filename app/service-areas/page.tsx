@@ -54,18 +54,19 @@ export default function ServiceAreasPage() {
   // Get primary service for default links (water damage is most common)
   const primaryService = 'water-damage-restoration';
 
+  // Service schema describing the areas served
+  // References the global LocalBusiness via @id instead of creating a duplicate
+  // This avoids schema conflicts with the global LocalBusiness from layout.tsx
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
+  
   const areaServedSchema = {
     '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
-    name: 'Total Care Restoration',
-    telephone: '(786) 610-6317',
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: '7790 NW 55th St.',
-      addressLocality: 'Doral',
-      addressRegion: 'FL',
-      postalCode: '33166',
-      addressCountry: 'US',
+    '@type': 'Service',
+    name: 'Restoration Services in South Florida',
+    description: 'Professional water damage, fire damage, mold remediation, and storm damage restoration services across South Florida.',
+    provider: {
+      '@type': 'LocalBusiness',
+      '@id': `${baseUrl}#LocalBusiness`,
     },
     areaServed: Object.values(allCities).map((city) => ({
       '@type': 'City',
