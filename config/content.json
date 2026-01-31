@@ -115,18 +115,6 @@
       "description": "Trust our water restoration company for fast and thorough water damage repair. We offer expert commercial, emergency and flood restoration services. Call now!"
     },
     {
-      "id": "air-quality",
-      "icon": "Wind",
-      "image": "/images/services/water-damage-photos/water-damage-meter-close-up.jpg",
-      "title": "Air Quality Inspections",
-      "features": [
-        "Professional Air Quality Inspections",
-        "Certified Contractors",
-        "Free Estimates"
-      ],
-      "description": "Ensure a healthy environment with air quality inspections in Miami. Protect your health with certified professionals."
-    },
-    {
       "id": "fire",
       "icon": "Flame",
       "image": "/images/blog/2021/11/fire-hazard-header-image.jpg",
@@ -197,6 +185,18 @@
         "Insurance Assistance"
       ],
       "description": "When disaster strikes, every minute counts. Our emergency team responds 24/7 to water damage, fire damage, and storm damage throughout South Florida."
+    },
+    {
+      "id": "air-quality",
+      "icon": "Wind",
+      "image": "/images/services/water-damage-photos/water-damage-meter-close-up.jpg",
+      "title": "Air Quality Inspections",
+      "features": [
+        "Professional Air Quality Inspections",
+        "Certified Contractors",
+        "Free Estimates"
+      ],
+      "description": "Ensure a healthy environment with air quality inspections in Miami. Protect your health with certified professionals."
     }
   ],
   "testimonials": [

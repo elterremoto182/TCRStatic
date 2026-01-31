@@ -61,7 +61,7 @@ export default function CommercialWaterDamagePage() {
           serviceName={service.name}
           serviceSlug={SERVICE_SLUG}
           type={SERVICE_TYPE}
-          heroImage={service.images?.hero}
+          heroImage={service.images?.heroCommercial || service.images?.hero}
           heroDescription="We provide professional water damage restoration services designed for commercial properties. Our team works quickly to minimize business downtime while protecting your inventory and equipment."
           overview={service.bodyContent?.overview || ''}
           typeSpecificOverview={service.commercialContent?.challenges}

@@ -421,12 +421,18 @@ export function generateInternalLinksContent(
 }
 
 export function generateImagesContent(
-  service: ServiceConfig
+  service: ServiceConfig,
+  type?: 'residential' | 'commercial'
 ): ImagesContent {
   const serviceImages = service.images;
   
+  // Use commercial-specific hero if available and type is commercial
+  const hero = type === 'commercial' && serviceImages?.heroCommercial
+    ? serviceImages.heroCommercial
+    : serviceImages?.hero;
+  
   return {
-    hero: serviceImages?.hero,
+    hero,
     overview: serviceImages?.overview,
     process: serviceImages?.process || [],
     gallery: serviceImages?.gallery || [],
@@ -538,7 +544,7 @@ export function generatePageContent(
       city,
       causes
     ),
-    images: generateImagesContent(service),
+    images: generateImagesContent(service, type),
   };
 }
 

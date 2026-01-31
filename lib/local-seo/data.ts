@@ -21,6 +21,7 @@ export interface TypeSpecificContent {
 
 export interface ServiceImages {
   hero: string;
+  heroCommercial?: string;
   overview: string;
   process: string[];
   gallery: string[];
