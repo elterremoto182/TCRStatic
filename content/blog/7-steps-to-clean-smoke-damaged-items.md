@@ -140,7 +140,7 @@ Sometimes, basic supplies aren’t enough, and that’s when specialized tools c
 
 **Thermal foggers** are another powerful tool. They release tiny particles that penetrate surfaces to neutralize stubborn smoke odors. These particles can reach the same spaces where smoke originally settled, making them more effective than surface cleaning alone. Similarly, **ULV (Ultra Low Volume) foggers** disperse deodorizing agents in ultra-fine droplets, ensuring every corner of a room is treated.
 
-If [Water Damage Restoration Guide](/water-damage-restoration-guide/) from firefighting efforts is a concern, **industrial-grade dehumidifiers** can help reduce moisture and prevent mold growth. **Negative air machines** are also useful for keeping contaminated air from spreading to unaffected areas during the cleanup process.
+If [water damage](/guides/water-damage-restoration/) from firefighting efforts is a concern, **industrial-grade dehumidifiers** can help reduce moisture and prevent mold growth. **Negative air machines** are also useful for keeping contaminated air from spreading to unaffected areas during the cleanup process.
 
 For fine ash and soot, **ash vacuums** are a safer option than regular vacuums, which might spark a fire if the particles are still hot. In cases of severe damage, **dry ice blasters** can safely remove soot and charring from delicate surfaces. This method often requires professional expertise but is worth considering for valuable or fragile items.
 

@@ -59,7 +59,7 @@ Additional red flags include requests for cash-only payments, refusal to provide
 
 ## How to Check a Restoration Company’s Credentials
 
-Before allowing any [Water Damage Restoration Guide](/water-damage-restoration-guide/) to work on your property, take the time to thoroughly vet their credentials. This step is essential to protect yourself from scams and ensure the work meets professional standards. It’s not just about legality – it’s about safeguarding your property and peace of mind.
+Before allowing any [restoration company](/guides/water-damage-restoration/) to work on your property, take the time to thoroughly vet their credentials. This step is essential to protect yourself from scams and ensure the work meets professional standards. It’s not just about legality – it’s about safeguarding your property and peace of mind.
 
 ### Checking Licenses and Insurance
 

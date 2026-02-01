@@ -110,7 +110,7 @@ Take regular breaks for fresh air during your inspection, especially if you star
 
 The water used in firefighting can leave behind significant moisture, creating the perfect environment for mold. Mold not only adds to the health risks from fire damage but can also trigger allergies and respiratory issues.
 
-Inspect areas where water was used, focusing on carpets, drywall, insulation, and wooden structures. Signs of [Water Damage Restoration Guide](/water-damage-restoration-guide/) include stains, warping, discoloration, or musty odors, which often point to hidden mold.
+Inspect areas where water was used, focusing on carpets, drywall, insulation, and wooden structures. Signs of [water damage](/guides/water-damage-restoration/) include stains, warping, discoloration, or musty odors, which often point to hidden mold.
 
 To prevent mold, reduce humidity in affected areas. Use dehumidifiers and fans, or open windows if conditions allow. Remove porous materials like carpeting or drywall that show signs of water damage, as these are nearly impossible to fully dry and sanitize.
 

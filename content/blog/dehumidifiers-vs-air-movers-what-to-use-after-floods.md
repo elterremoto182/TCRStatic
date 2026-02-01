@@ -26,7 +26,7 @@ When dealing with [Water Damage Clean Up](/water-damage-clean-up/), quick action
 | **Effect on air quality issues** | Moves air without dehumidifying | Improves air quality |
 | **Timing** | Initial drying (first 24–48 hrs) | Continuous moisture control |
 
-**Pro Tip**: Use both together for the best results. Air movers speed up surface drying, while dehumidifiers prevent airborne moisture from causing further damage. For severe [Water Damage Restoration Guide](/water-damage-restoration-guide/), professional-grade equipment and expertise are often necessary.
+**Pro Tip**: Use both together for the best results. Air movers speed up surface drying, while dehumidifiers prevent airborne moisture from causing further damage. For severe [water damage restoration](/guides/water-damage-restoration/), professional-grade equipment and expertise are often necessary.
 
 ## Desiccant Dehumidifier Drying a Flooded Condo, Water Damage, Rent
 

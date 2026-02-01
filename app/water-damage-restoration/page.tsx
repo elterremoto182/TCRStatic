@@ -522,7 +522,7 @@ export default function WaterDamageRestorationPage() {
 
               <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
                 <Link
-                  href="/water-damage-restoration-guide/"
+                  href="/guides/water-damage-restoration/"
                   className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
                 >
                   <h3 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">

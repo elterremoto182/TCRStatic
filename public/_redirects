@@ -143,6 +143,10 @@
 /our-blog/ /blog/ 301
 /our-blog /blog/ 301
 
+# Blog guide consolidated into /guides/ hub (SEO canonicalization)
+/water-damage-restoration-guide/ /guides/water-damage-restoration/ 301
+/water-damage-restoration-guide /guides/water-damage-restoration/ 301
+
 # =============================================================================
 # COMMERCIAL RESTORATION LEGACY REDIRECTS - Fix redirect loops
 # These URLs don't exist and were causing infinite redirect loops

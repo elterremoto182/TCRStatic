@@ -53,7 +53,7 @@ At Total Care Restoration, we specialize in identifying and solving mold problem
 ## Related Links
 - [What is a Moisture Meter? The Best Measurement](/what-is-a-moisture-meter-the-best-measurement/)
 - [Ultimate Guide to Water Extraction and Drying](/water-extraction-drying-guide/)
-- [Step-by-step Water Restoration Guide](/water-damage-restoration-guide/)
+- [Water Damage Restoration Guide](/guides/water-damage-restoration/)
 - [The Process of a Water Damage Dry Out](/water-damage-dry-out-process/)
 
 - [Water Damage Cost Calculator](/water-damage-cost-calculator/)

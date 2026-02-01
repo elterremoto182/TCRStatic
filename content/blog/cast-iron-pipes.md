@@ -190,7 +190,7 @@ Ignoring warning signs puts your family at risk. A sewer backup can expose every
 - Dangerous mold growth
 - Structural damage to your home
 
-If you've experienced water damage from pipe failure, we can help with [complete restoration services](/water-damage-restoration-guide/).
+If you've experienced water damage from pipe failure, we can help with [complete restoration services](/guides/water-damage-restoration/).
 
 ![Water damage from cast iron pipe failure](/images/blog/2025/05/image_28ad1167fd00f67786bd63b5a5c7bed8.jpeg)
 
@@ -299,7 +299,7 @@ At Total Care Restoration, we specialize in the **water damage restoration** tha
 
 **Related Articles:**
 
-- [Water Damage Restoration Guide](/water-damage-restoration-guide/)
+- [Water Damage Restoration Guide](/guides/water-damage-restoration/)
 - [Mold Remediation Services](/mold-remediation/)
 - [Top 6 Most Common Causes of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)
 - [How Water Damage Affects Electrical Systems](/how-water-damage-affects-electrical-systems/)

@@ -24,7 +24,7 @@ When floodwater enters your home, acting quickly can save you thousands in repai
 
 **When to Call Professionals:**
 
--   Extensive [Water Damage Restoration Guide](/water-damage-restoration-guide/) or structural risks
+-   Extensive [water damage](/guides/water-damage-restoration/) or structural risks
 -   Mold covering large areas or recurring problems
 -   Contaminated HVAC systems
 
