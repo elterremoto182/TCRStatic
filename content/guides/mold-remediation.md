@@ -69,7 +69,7 @@ Mold reproduces through microscopic spores that float through the air, both indo
 
 ### Common Types of Indoor Mold
 
-![Mold growth in a Florida home showing common indoor mold contamination](/images/blog/2021/10/Mold-In-Home-e1635367511219.png)
+![Mold growth discovered behind drywall during professional inspection](/images/services/mold-remediation-photos/mold-before.jpeg)
 
 While thousands of mold species exist, several types are commonly found in Florida homes:
 
