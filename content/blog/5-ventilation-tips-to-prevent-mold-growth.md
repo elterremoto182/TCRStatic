@@ -81,7 +81,7 @@ For instance, if humid air is vented into an attic, it can condense on cooler su
 
 Keep fan grilles clean by dusting them monthly and inspect vent covers seasonally to ensure everything is functioning properly.
 
-If you’re unsure about your current ventilation setup or planning an upgrade, a professional assessment can help. Proper sizing, placement, and venting are essential to avoid problems like negative pressure, which can pull humid outdoor air into your home. For expert guidance, reach out to (/) at () or call (786) 610-6317 for assistance with your ventilation and [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/) needs.
+If you’re unsure about your current ventilation setup or planning an upgrade, a professional assessment can help. Proper sizing, placement, and venting are essential to avoid problems like negative pressure, which can pull humid outdoor air into your home. For expert guidance, reach out to Total Care Restoration at totalcarerestoration.com or call (786) 610-6317 for assistance with your ventilation and [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/) needs.
 
 ###### sbb-itb-7cc21ef
 
@@ -117,7 +117,7 @@ For more complex HVAC maintenance or [Mold Remediation](/mold-remediation/), it�
 
 > "It’s important to note that until the root cause of the moisture and high humidity is addressed, the mold will return." – Trane
 
-If you find mold in your HVAC system or suspect widespread contamination, avoid DIY fixes. Without proper containment and safety measures, disturbing mold can spread spores throughout your property. Companies like Total Care Restoration specialize in HVAC-related mold remediation. Their certified technicians can assess and resolve mold issues safely. Visit () or call (786) 610-6317 for professional help.
+If you find mold in your HVAC system or suspect widespread contamination, avoid DIY fixes. Without proper containment and safety measures, disturbing mold can spread spores throughout your property. Companies like Total Care Restoration specialize in HVAC-related mold remediation. Their certified technicians can assess and resolve mold issues safely. Visit totalcarerestoration.com or call (786) 610-6317 for professional help.
 
 Taking care of your HVAC system is a vital part of preventing mold and maintaining a healthy indoor environment.
 
@@ -145,7 +145,7 @@ Set your dehumidifier to maintain around **45% relative humidity** for the best 
 
 Condensation is a clear sign that humidity is too high in certain spots. If you see water droplets forming on windows, walls, or pipes, act quickly to prevent mold from taking hold.
 
-Improve ventilation and insulation to tackle condensation on windows, pipes, and walls. For walls, condensation might point to deeper issues like poor insulation or ventilation. Check for air leaks around windows and doors, and make sure your walls are properly insulated. If condensation keeps appearing on interior walls, it might be time to call in a professional to identify the problem. For expert help, consider contacting **Total Care Restoration** at () or by calling **(786) 610-6317** – they’re available 24/7 with certified technicians ready to assist.
+Improve ventilation and insulation to tackle condensation on windows, pipes, and walls. For walls, condensation might point to deeper issues like poor insulation or ventilation. Check for air leaks around windows and doors, and make sure your walls are properly insulated. If condensation keeps appearing on interior walls, it might be time to call in a professional to identify the problem. For expert help, consider contacting **Total Care Restoration** at totalcarerestoration.com or by calling **(786) 610-6317** – they’re available 24/7 with certified technicians ready to assist.
 
 Dry any condensation immediately to stop mold from getting a foothold. Mold can begin growing within 24–48 hours of water exposure, so quick action is critical.
 
@@ -191,7 +191,7 @@ Sometimes, basic steps aren’t enough to resolve serious or recurring water iss
 
 If you’re dealing with more than a few inches of standing water, sewage backups, or flooding from outside sources, call in the experts immediately. These situations often involve health risks and require specialized equipment and techniques to clean and dry the area thoroughly.
 
-**Total Care Restoration** offers 24/7 emergency water damage services. Their certified technicians can assess your situation and begin restoration work right away. With industrial-grade equipment, they can extract water, dry materials, and prevent mold growth. For immediate assistance, call **(786) 610-6317** or visit ().
+**Total Care Restoration** offers 24/7 emergency water damage services. Their certified technicians can assess your situation and begin restoration work right away. With industrial-grade equipment, they can extract water, dry materials, and prevent mold growth. For immediate assistance, call **(786) 610-6317** or visit totalcarerestoration.com.
 
 If water damage keeps happening in the same areas, it’s a sign of deeper issues like hidden leaks, structural problems, or inadequate waterproofing. Professionals can diagnose these problems and recommend the right repairs to protect your property long-term.
 

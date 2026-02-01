@@ -162,7 +162,7 @@ Once moisture is identified, it’s critical to act fast. Begin by extracting wa
 
 Strategically place dehumidifiers, air movers, and fans to ensure airflow across all affected areas. Materials like insulation, carpets, and drywall that are too saturated to dry should be removed, as they can harbor mold spores. Treat exposed surfaces with antimicrobial solutions to kill existing mold and prevent further bacterial growth. Throughout the drying process, keep monitoring moisture and humidity levels, aiming for a safe range of 30–50% relative humidity.
 
-For more complex situations, professional services like (/) can provide the expertise and equipment needed to tackle hidden moisture and prevent mold. They also offer 24/7 emergency response, which is crucial for time-sensitive cases.
+For more complex situations, professional services like Total Care Restoration can provide the expertise and equipment needed to tackle hidden moisture and prevent mold. They also offer 24/7 emergency response, which is crucial for time-sensitive cases.
 
 Unchecked water damage doesn’t just weaken the structure – it can also lead to serious health risks, including respiratory issues and allergic reactions from mold exposure. Taking swift action to manage moisture is essential for both safety and successful restoration.
 

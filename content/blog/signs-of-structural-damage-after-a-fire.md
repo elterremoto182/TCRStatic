@@ -55,7 +55,7 @@ To fully assess the damage, engineers use advanced tools like ground-penetrating
 
 **Stabilization efforts** often start with temporary measures, such as installing steel braces, reinforcing weakened beams, or sealing cracks to prevent water intrusion. These emergency actions buy time while a comprehensive restoration plan is developed.
 
-At (/), certified technicians understand that repairing cracks means addressing the root causes, not just surface issues. Their expertise ensures the structure’s strength is restored, preventing further deterioration. With 24/7 emergency services available at **(786) 610-6317**, they can act quickly to stabilize the damage and begin the path to recovery.
+At Total Care Restoration, certified technicians understand that repairing cracks means addressing the root causes, not just surface issues. Their expertise ensures the structure’s strength is restored, preventing further deterioration. With 24/7 emergency services available at **(786) 610-6317**, they can act quickly to stabilize the damage and begin the path to recovery.
 
 ## 2\. Warped and Distorted Structural Materials
 

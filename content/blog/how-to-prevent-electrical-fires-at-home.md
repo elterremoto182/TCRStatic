@@ -197,7 +197,7 @@ At night, keep bedroom doors closed to slow the spread of smoke and fire. Practi
 
 ### Fire Damage Recovery
 
-Once everyone is safe and the evacuation is complete, the focus shifts to recovery. Professional restoration services are critical in this phase. (/), for example, offers 24/7 [Fire Damage Restoration](/fire-damage-restoration/) to help homeowners recover. Their services include:
+Once everyone is safe and the evacuation is complete, the focus shifts to recovery. Professional restoration services are critical in this phase. Total Care Restoration, for example, offers 24/7 [Fire Damage Restoration](/fire-damage-restoration/) to help homeowners recover. Their services include:
 
 -   Fast response to limit further damage.
 -   Advanced tools and techniques for effective restoration.

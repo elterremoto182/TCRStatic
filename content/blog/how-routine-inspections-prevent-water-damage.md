@@ -145,7 +145,7 @@ Professional restoration companies bring specialized tools and expertise to addr
 -   **Comprehensive restoration services**: From water extraction and structural drying to [Mold Remediation](/mold-remediation/) and reconstruction, these companies manage every aspect of restoration. Their goal is to return your property to its original condition efficiently and effectively.
 -   **Compliance with industry standards**: Professional services ensure all repairs meet building codes and follow established restoration protocols. This protects your property value and prevents future complications.
 
-(/) offers all these services, with certified technicians available around the clock. They handle everything from initial assessments to final repairs, working directly with insurance companies to simplify the process. If you’re facing a water damage emergency, you can reach them at **(786) 610-6317**.
+Total Care Restoration offers all these services, with certified technicians available around the clock. They handle everything from initial assessments to final repairs, working directly with insurance companies to simplify the process. If you’re facing a water damage emergency, you can reach them at **(786) 610-6317**.
 
 Investing in professional restoration services not only prevents more extensive damage but also streamlines insurance claims. While regular inspections are helpful for spotting early signs, recognizing when to call in the experts ensures your property is protected and restored properly.
 

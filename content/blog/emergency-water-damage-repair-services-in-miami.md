@@ -59,4 +59,4 @@ While immediate response is crucial, being prepared can significantly impact you
 
 At Total Care Restoration, we understand the stress and anxiety that come with emergency water damage. Our commitment is to provide not only rapid and effective restoration services but also compassion and support through challenging times. Our team is dedicated to restoring not just your property, but also your peace of mind.
 
-If you’re facing an emergency water damage situation in Miami, don’t hesitate to (/). Let Total Care Restoration be your first call in your time of need, and we’ll ensure your home is restored to its safe, comfortable, and beautiful state.
+If you’re facing an emergency water damage situation in Miami, don’t hesitate to Total Care Restoration. Let Total Care Restoration be your first call in your time of need, and we’ll ensure your home is restored to its safe, comfortable, and beautiful state.

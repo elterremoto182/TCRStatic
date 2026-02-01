@@ -160,7 +160,7 @@ A major advantage of professional services is continuous monitoring. Specialists
 
 In addition, professionals document moisture levels throughout the process, creating a clear timeline that is invaluable for insurance claims and accountability.
 
-(/) is a trusted name in fire restoration, particularly in managing moisture to protect structural integrity. Their certified technicians are equipped to handle even the most complex fire damage scenarios with safety and expertise. Offering 24/7 emergency services at (786) 610-6317, they respond quickly to minimize further damage to fire-damaged concrete.
+Total Care Restoration is a trusted name in fire restoration, particularly in managing moisture to protect structural integrity. Their certified technicians are equipped to handle even the most complex fire damage scenarios with safety and expertise. Offering 24/7 emergency services at (786) 610-6317, they respond quickly to minimize further damage to fire-damaged concrete.
 
 Addressing fire damage promptly with professional help is far more cost-effective than dealing with recurring issues caused by inadequate repairs. Proper moisture management is crucial to ensuring the long-term stability of restored structures.
 

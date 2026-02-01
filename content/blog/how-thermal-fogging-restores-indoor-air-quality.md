@@ -147,7 +147,7 @@ Knowing when to turn to professional thermal fogging services can save you time,
 
 If anyone in your home experiences respiratory symptoms linked to these contaminants, it’s time to consider professional thermal fogging. Lingering smoke particles, for instance, can aggravate breathing issues.
 
-### Why Choose (/)
+### Why Choose Total Care Restoration
 
 Once you’ve identified these conditions, professional services become essential to ensure effective restoration. Total Care Restoration stands out in the field with its expertise in thermal fogging and restoration services, delivering results that truly make a difference. Their 24/7 emergency response team is ready to assist whenever disaster strikes – especially after a fire, when quick action can prevent further damage.
 

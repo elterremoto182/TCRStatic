@@ -53,6 +53,6 @@ For more details, visit our [Fire Damage Restoration Guide](/guides/fire-damage-
 
 After experiencing a fire, it is crucial to take preventative measures to minimize the risk of future incidents. Ensure your home is equipped with functioning smoke detectors and fire extinguishers. Additionally, regularly inspect and maintain electrical systems, appliances, and other potential fire sources.
 
-To learn more about fire prevention, browse our website at (/).
+To learn more about fire prevention, browse our website at Total Care Restoration.
 
 We hope this step-by-step guide has provided you with valuable insights into the fire damage restoration process. At Total Care Restoration, we understand the challenges homeowners face after a fire, and we are here to provide the necessary expertise, support, and restoration services to help you overcome this difficult situation.

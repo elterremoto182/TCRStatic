@@ -180,7 +180,7 @@ Additionally, professional services simplify the insurance claims process. They 
 
 Research shows that those who hire certified specialists experience quicker recovery and more thorough solutions compared to uncertified services. Professionals are skilled at uncovering hidden damage, ensuring safety and preventing future issues that could lead to additional repairs.
 
-### How (/) Can Help
+### How Total Care Restoration Can Help
 
 Total Care Restoration builds on these benefits by offering a full range of services to restore your property’s safety and livability. Serving South Florida since 2015, they are well-versed in the challenges unique to the region.
 

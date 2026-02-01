@@ -89,7 +89,7 @@ Your first step is to pull together every piece of paperwork tied to your claim.
 -   **Correspondence**: Save all communications with your insurance company, including emails, letters, and call logs.
 -   **Receipts and invoices**: Hold onto receipts for repairs, inspections, or any loss-related expenses. These show the financial impact of the damage.
 -   **Photographs**: Visual evidence is powerful. Gather clear, chronological photos of the damage. If the damage is still visible, take fresh photos to document its current state.
--   **Professional assessments**: If experts evaluated the damage (e.g., contractors or restoration companies), include their reports, photos, and repair documentation. For instance, if you worked with (/), their assessments can provide valuable third-party evidence.
+-   **Professional assessments**: If experts evaluated the damage (e.g., contractors or restoration companies), include their reports, photos, and repair documentation. For instance, if you worked with Total Care Restoration, their assessments can provide valuable third-party evidence.
 
 Don’t overlook eyewitness accounts. If someone witnessed the incident that caused the damage, ask them to provide a written statement with details like the date, time, and what they observed.
 

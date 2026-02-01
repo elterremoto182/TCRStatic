@@ -43,7 +43,7 @@ Mold can start growing within 24 to 48 hours after a leak or flood, making it cr
 
 2\. Disinfect with a Bleach Solution: To ensure mold spores are killed, disinfect the affected areas with a bleach solution. Mix one cup of household bleach with one gallon of water and apply it to surfaces using a spray bottle or sponge.
 
-3\. Consult a Professional Mold Remediation Service: If the mold growth is extensive or if you are unsure of how to handle the situation, it’s best to consult a professional mold remediation service like (/), Florida.
+3\. Consult a Professional Mold Remediation Service: If the mold growth is extensive or if you are unsure of how to handle the situation, it’s best to consult a professional mold remediation service like Total Care Restoration, Florida.
 
 They will assess the extent of the mold damage and provide expert advice and assistance.
 

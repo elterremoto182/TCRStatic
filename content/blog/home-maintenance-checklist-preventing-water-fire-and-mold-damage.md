@@ -55,6 +55,6 @@ For comprehensive planning, use our [Property Restoration Checklist Generator](/
 
 Owning a home is indeed a joy, but it is crucial to stay ahead of potential damage to ensure it remains a safe and healthy living space. By using this maintenance checklist, Miami homeowners can minimize the risk of water, fire, and mold damage to their precious homes.
 
-For any trouble you encounter along the way, remember you can turn to \(/), Miami’s trusted experts in damage restoration. Being proactive can save you significant time, stress, and costly repairs in the long run.
+For any trouble you encounter along the way, remember you can turn to \Total Care Restoration, Miami’s trusted experts in damage restoration. Being proactive can save you significant time, stress, and costly repairs in the long run.
 
 Remember, prevention is always better than cure.

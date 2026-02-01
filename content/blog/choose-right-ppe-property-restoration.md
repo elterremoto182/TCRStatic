@@ -144,7 +144,7 @@ When PPE is carefully chosen, fitted, and maintained, it acts as a vital safegua
 
 With the right PPE in place, the next step is to review the specific requirements for [Reviews](/reviews/).
 
-## PPE Requirements for (/) Services
+## PPE Requirements for Total Care Restoration Services
 
 Different restoration services come with their own unique hazards, which means specific personal protective equipment (PPE) is a must. At Total Care Restoration, our certified technicians follow stringent PPE protocols tailored to the risks they face during water damage, fire restoration, and mold remediation projects. These service-specific measures highlight our dedication to maintaining a safe working environment.
 

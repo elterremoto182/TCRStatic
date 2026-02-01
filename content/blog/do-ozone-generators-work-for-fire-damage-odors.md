@@ -130,7 +130,7 @@ Experts use industrial-grade equipment and advanced technologies that go far bey
 
 Their work doesn’t stop at cleaning and odor removal. Fire restoration professionals can also handle carpentry and structural repairs. Techniques like enzyme-based cleaners, HEPA filtration systems to remove toxins, and even laser cleaning technology ensure a safer and more effective restoration process compared to older methods like sandblasting.
 
-### How (/) Can Help
+### How Total Care Restoration Can Help
 
 Total Care Restoration understands the complexities of fire damage and offers solutions that go far beyond what ozone generators can achieve. Their certified technicians are trained to address both visible damage and hidden contamination caused by smoke and corrosive byproducts.
 
@@ -156,7 +156,7 @@ Ozone generators can sometimes mask odors temporarily, but they don’t address 
 
 Attempting ozone treatments yourself is also risky. Even at low levels, ozone exposure can cause significant respiratory irritation. It can also damage materials such as rubber, fabric, electrical wire coatings, and even artwork. In confined spaces – around 350 square feet – ozone levels can exceed public health limits by 5 to 10 times. These risks highlight why turning to professionals is often the better option.
 
-Unlike ozone generators, professional restoration services offer a more thorough approach. Companies like () provide certified technicians who know how to handle ozone treatments safely when needed. More importantly, they go beyond odor masking by performing deep cleaning, removing contamination at its source, and repairing structural damage to eliminate odors for good.
+Unlike ozone generators, professional restoration services offer a more thorough approach. Companies like Total Care Restoration provide certified technicians who know how to handle ozone treatments safely when needed. More importantly, they go beyond odor masking by performing deep cleaning, removing contamination at its source, and repairing structural damage to eliminate odors for good.
 
 ## FAQs
 

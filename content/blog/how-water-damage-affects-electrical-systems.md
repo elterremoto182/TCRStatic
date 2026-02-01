@@ -99,7 +99,7 @@ Your actions immediately after discovering water damage can significantly impact
 
 To aid in the restoration process, document the damage by taking photos and detailed notes from a safe distance. These records will not only help professionals assess the situation but also support your insurance claims. Importantly, **do not re-enter your property** until a licensed electrician has inspected and declared it safe. After securing the area, a certified professional can assess and begin restoring your electrical systems.
 
-### How (/) Can Help
+### How Total Care Restoration Can Help
 
 Addressing water-damaged electrical systems requires a combination of electrical expertise and restoration services. Total Care Restoration provides this integrated solution by collaborating with licensed electricians to ensure safety and efficiency throughout the recovery process. Their team uses advanced tools like [What Is a Moisture Meter the Best Measurement](/what-is-a-moisture-meter-the-best-measurement/) and thermal cameras to detect hidden moisture in walls, floors, and ceilings – exposing issues that might otherwise be missed.
 

@@ -57,4 +57,4 @@ Prevention is key to protecting your historical home from water damage. Regular 
 
 At Total Care Restoration, we pride ourselves on our commitment to restoring and preserving Miami’s historical homes. Our team of experts is dedicated to providing the highest quality service, combining traditional craftsmanship with modern restoration techniques. We understand the challenges and rewards of restoring historical properties, and we’re here to guide you through every step of the process.
 
-If you’re dealing with water damage in your historical home or want to learn more about protecting your property, (/) today. Together, we can preserve the beauty and heritage of your home for generations to come.
+If you’re dealing with water damage in your historical home or want to learn more about protecting your property, Total Care Restoration today. Together, we can preserve the beauty and heritage of your home for generations to come.

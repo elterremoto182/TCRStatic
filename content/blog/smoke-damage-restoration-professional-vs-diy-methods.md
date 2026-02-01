@@ -110,7 +110,7 @@ Hiring professionals for smoke damage restoration brings several key benefits th
 
 > "Specialized techniques and equipment ensure complete removal of smoke damage without further harm to your property."
 
-### (/) Services
+### Total Care Restoration Services
 
 Total Care Restoration provides round-the-clock smoke damage restoration services using certified professionals and advanced tools. Their offerings include:
 

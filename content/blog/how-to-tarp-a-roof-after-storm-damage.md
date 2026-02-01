@@ -228,7 +228,7 @@ Once your roof is tarped, check it weekly from the ground. Look for sagging area
 
 Plan for permanent repairs as soon as possible to avoid bigger problems like structural damage, mold growth, or worsening indoor air quality. When you’re ready to move from temporary fixes to lasting solutions, professional help is available.
 
-### How (/) Can Help
+### How Total Care Restoration Can Help
 
 When storm damage strikes, **Total Care Restoration is here to provide expert assistance.** Their team offers 24/7 emergency response, certified technicians, and direct insurance billing to make the process as smooth as possible. Whether you need roof tarping, [Ultimate Tips Need Water Damage Restoration](/ultimate-tips-need-water-damage-restoration/), mold remediation, or reconstruction, they’ve got you covered.
 

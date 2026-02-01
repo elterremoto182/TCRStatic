@@ -188,7 +188,7 @@ While you might handle some damage assessments yourself, certain situations call
 
 Some situations demand immediate professional attention due to safety risks or complexity. For example, structural damage, severe water damage with hidden moisture, fire damage, or disaster-level events affecting entire properties should always involve certified experts. Properties with multiple types of damage – like fire and water – require coordinated efforts that only professional teams can provide.
 
-### Why Choose (/)
+### Why Choose Total Care Restoration
 
 Total Care Restoration offers expert assessments and prompt restoration services that adhere to strict industry standards. Their certified technicians handle water damage restoration, fire restoration, mold remediation, commercial restoration, and roof tarping, ensuring all damage is addressed by a single experienced team.
 

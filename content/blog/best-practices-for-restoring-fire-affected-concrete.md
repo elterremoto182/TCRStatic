@@ -92,7 +92,7 @@ After cleaning, it’s time to prepare the surface for repairs. Damaged layers o
 
 Finally, apply a new sealer to the cleaned and prepared surface. Fire often destroys existing sealers, leaving the concrete exposed to future damage and contamination. A fresh coat of sealer not only protects the surface but also helps prevent smoke odors from reappearing.
 
-If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/water-damage-restoration/commercial/) like (/) (). They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
+If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/water-damage-restoration/commercial/) like Total Care Restoration. They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
 
 ###### sbb-itb-7cc21ef
 

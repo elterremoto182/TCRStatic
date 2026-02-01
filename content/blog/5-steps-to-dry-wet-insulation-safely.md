@@ -50,7 +50,7 @@ Find your electrical panel and shut off the breakers for the impacted zones. If 
 
 Water damage isn’t always straightforward. Contaminated water – whether from sewage, floodwater, or other sources – can pose serious health risks.
 
-Look for signs like foul odors, discoloration, visible debris, or an oily film. If you suspect the water is contaminated, skip the DIY approach. Contact professionals like (/). Their certified technicians have the tools and expertise to handle contaminated insulation safely and ensure proper disposal. Trying to tackle it yourself could expose you and your household to unnecessary risks, so leave it to the experts when contamination is involved.
+Look for signs like foul odors, discoloration, visible debris, or an oily film. If you suspect the water is contaminated, skip the DIY approach. Contact professionals like Total Care Restoration. Their certified technicians have the tools and expertise to handle contaminated insulation safely and ensure proper disposal. Trying to tackle it yourself could expose you and your household to unnecessary risks, so leave it to the experts when contamination is involved.
 
 ## Step 1: Find and Stop the Water Source
 
@@ -62,7 +62,7 @@ Begin by identifying where the water is coming from. Common culprits include roo
 
 Check your roof, walls, and plumbing fixtures for signs like stains, discoloration, or damp areas. Pay close attention to spots around windows, doors, and where pipes pass through walls. If you suspect hidden moisture, tools like infrared cameras and moisture meters can help locate damp areas within walls and insulation, showing how far the water has spread.
 
-Professionals at () use advanced equipment like thermal imaging to uncover hidden moisture. Their certified technicians can detect water damage that might go unnoticed, ensuring all affected areas are properly addressed.
+Professionals at totalcarerestoration.com use advanced equipment like thermal imaging to uncover hidden moisture. Their certified technicians can detect water damage that might go unnoticed, ensuring all affected areas are properly addressed.
 
 Once you’ve found the source, act quickly. For plumbing leaks, shut off the main water supply immediately. If it’s a roof leak, cover the area with a tarp to [The Immediate Steps to Take After a Home Flood](/the-immediate-steps-to-take-after-a-home-flood/). Use a wet/dry vacuum or pump to remove any standing water. This step is crucial to [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/).
 
@@ -76,7 +76,7 @@ Proper documentation is key to getting your insurance claim approved. Take photo
 
 Make sure to photograph everything before starting any cleanup or repairs. Insurance companies rely on these images to verify the original condition of the damage, which is critical for reimbursement.
 
-If the damage is extensive or involves contaminated water, you might want to call () at (786) 610-6317. Their team can handle the documentation process and work directly with your insurance company to make the claims process smoother.
+If the damage is extensive or involves contaminated water, you might want to call Total Care Restoration at (786) 610-6317. Their team can handle the documentation process and work directly with your insurance company to make the claims process smoother.
 
 ## Step 2: Take Out Wet Insulation
 

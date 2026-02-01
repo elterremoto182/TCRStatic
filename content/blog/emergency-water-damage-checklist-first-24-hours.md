@@ -168,7 +168,7 @@ Keep everything in a waterproof container that’s easy to access. Check batteri
 
 ## Conclusion
 
-Taking quick action is key to minimizing damage and getting things back to normal. Once you’ve handled the immediate steps, bring in professionals to complete the restoration process. This checklist can help you reduce harm, safeguard your property, simplify your insurance claim, and connect with (/)‘s certified team, available 24/7 to help you fully recover.
+Taking quick action is key to minimizing damage and getting things back to normal. Once you’ve handled the immediate steps, bring in professionals to complete the restoration process. This checklist can help you reduce harm, safeguard your property, simplify your insurance claim, and connect with Total Care Restoration‘s certified team, available 24/7 to help you fully recover.
 
 ## Related posts
 

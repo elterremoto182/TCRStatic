@@ -136,7 +136,7 @@ They also use hydroxyl generators, which neutralize odors with safer chemistry t
 
 ### Direct Insurance Billing
 
-Navigating insurance claims after a fire can be overwhelming, especially when air quality and safety come into play. Professional restoration companies, like (/), simplify the process by offering direct insurance billing. They handle all communication with providers and submit detailed assessments, including moisture readings and thermal images, to expedite claims.
+Navigating insurance claims after a fire can be overwhelming, especially when air quality and safety come into play. Professional restoration companies, like Total Care Restoration, simplify the process by offering direct insurance billing. They handle all communication with providers and submit detailed assessments, including moisture readings and thermal images, to expedite claims.
 
 Accurate documentation is critical. In one case, a comprehensive report with thermal images and a floor plan helped secure proper insurance coverage. Professionals can also assist with supplemental claims if additional damage is discovered during restoration, ensuring no issues are left unresolved due to financial limitations. This expertise not only streamlines the claims process but also guarantees that indoor air quality is restored to safe levels.
 

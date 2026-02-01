@@ -134,7 +134,7 @@ Malfunctioning equipment is another red flag. If your air scrubber starts making
 
 **Lingering air quality problems** are also a sign that professional intervention is needed. If harmful contaminants like radon, VOCs, carbon monoxide, or carbon dioxide remain at unsafe levels despite using air scrubbers, a professional assessment is critical.
 
-### How (/) Can Assist
+### How Total Care Restoration Can Assist
 
 Total Care Restoration specializes in handling situations where air scrubbers alone aren’t enough. Their 24/7 emergency response ensures help is available when you need it most, and their certified technicians bring the expertise and advanced equipment necessary for complex restoration projects.
 

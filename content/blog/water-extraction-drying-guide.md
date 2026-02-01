@@ -43,7 +43,7 @@ Once hazards are identified, it’s important to document everything to support 
 
 [Understanding Water Damage the Basics Everyone Should Know](/understanding-water-damage-the-basics-everyone-should-know/) should start as soon as it’s discovered. Take clear, timestamped photos and videos, capturing both wide shots and detailed close-ups. This visual evidence supports insurance claims and helps guide the restoration process. Written notes should include details such as the water’s source, the extent of the damage, identified hazards, measurements of affected areas, and an inventory of damaged belongings with estimated values.
 
-Professional restoration companies often incorporate thorough documentation into their workflow. For instance, (/)’s certified technicians document every stage of the process with photos, creating a comprehensive record that simplifies insurance claims and direct billing. For commercial properties, documentation might also include floor plans, inventory lists, and coordinated efforts with stakeholders to ensure compliance with business continuity standards.
+Professional restoration companies often incorporate thorough documentation into their workflow. For instance, Total Care Restoration’s certified technicians document every stage of the process with photos, creating a comprehensive record that simplifies insurance claims and direct billing. For commercial properties, documentation might also include floor plans, inventory lists, and coordinated efforts with stakeholders to ensure compliance with business continuity standards.
 
 After documentation is complete, the site must be prepared for safe restoration.
 

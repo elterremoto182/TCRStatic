@@ -76,7 +76,7 @@ Standards like ASTM E119 are used to determine fire resistance ratings for mason
 
 Accurate assessments of these materials are essential for planning repairs and ensuring compliance with safety codes. These evaluations guide the choice of repair methods, which will be explored further in the next section.
 
-For expert assistance, (/)‘s certified technicians are available 24/7 to evaluate and restore fire-damaged properties. Call them anytime at (786) 610-6317 for professional guidance.
+For expert assistance, Total Care Restoration‘s certified technicians are available 24/7 to evaluate and restore fire-damaged properties. Call them anytime at (786) 610-6317 for professional guidance.
 
 ## Standards and Regulations for Fire-Damaged Repairs
 
