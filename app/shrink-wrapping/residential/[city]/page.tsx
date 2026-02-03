@@ -8,7 +8,6 @@ import {
   getCity, 
   getAllCities, 
   getServiceType,
-  getPopulatedFAQs,
   getServiceCityBreadcrumbs,
   getServiceVideo,
 } from '@/lib/local-seo/data';
@@ -80,9 +79,9 @@ export default async function ResidentialShrinkWrappingCityPage({
     notFound();
   }
 
-  const faqs = getPopulatedFAQs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
+  const visibleFaqs = [...(content.faq.faqs || []), ...(content.localFAQs || [])];
   const breadcrumbs = getServiceCityBreadcrumbs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
-  const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, faqs);
+  const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, visibleFaqs);
   const relatedLinksData = generateInternalLinksData(SERVICE_SLUG, citySlug, SERVICE_TYPE);
   const video = getServiceVideo(SERVICE_SLUG, citySlug);
 

@@ -6,13 +6,14 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
 import { RelatedLinks } from '@/components/blog/RelatedLinks';
+import { BlogFAQ } from '@/components/blog/BlogFAQ';
 import { getPageBySlug, getAllPages } from '@/lib/pages/pages';
 import { getPostBySlug, getAllPosts, categoryNameToSlug, categoriesWithPages } from '@/lib/blog/posts';
 import { getPillarGuideInfo } from '@/lib/guides';
 import blogTags from '@/config/blog-tags.json';
 import { Home, Calendar, User, ArrowLeft, BookOpen, ArrowRight, Tag } from 'lucide-react';
 import { generatePageMetadata, ensureTrailingSlash } from '@/lib/utils';
-import { StructuredData, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
+import { StructuredData, generateArticleSchema, generateBreadcrumbSchema, generateFAQPageSchema } from '@/lib/structured-data';
 
 // Routes that have their own handlers and should not be handled by this catch-all
 const reservedRoutes = [
@@ -190,9 +191,17 @@ export default async function DynamicPage({
     // Generate Breadcrumb schema
     const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbItems);
 
+    // Generate FAQ schema if FAQs exist in frontmatter
+    const faqSchema = post.faqs && post.faqs.length > 0 
+      ? generateFAQPageSchema(post.faqs) 
+      : null;
+
+    // Combine all schemas
+    const schemas = [articleSchema, breadcrumbSchema, faqSchema].filter(Boolean);
+
     return (
       <>
-        <StructuredData data={[articleSchema, breadcrumbSchema]} />
+        <StructuredData data={schemas} />
         <Header />
         <main className="min-h-screen">
           <article className="pt-32 pb-20">
@@ -239,7 +248,7 @@ export default async function DynamicPage({
                 <div className="aspect-video rounded-xl overflow-hidden mb-12 relative">
                   <OptimizedImage
                     src={post.image}
-                    alt={post.title}
+                    alt={post.image_alt || `Featured image for ${post.title}`}
                     fill
                     className="object-cover"
                     priority
@@ -249,6 +258,11 @@ export default async function DynamicPage({
               )}
 
               <MarkdownRenderer content={post.content} />
+
+              {/* FAQ Section - Only shown when faqs exist in frontmatter */}
+              {post.faqs && post.faqs.length > 0 && (
+                <BlogFAQ faqs={post.faqs} />
+              )}
 
               {/* Pillar Guide Link Banner */}
               {(() => {

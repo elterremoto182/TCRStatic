@@ -4,7 +4,7 @@ import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateWebPageSchema } from '@/lib/structured-data';
 import { 
   Search, 
   Phone, 
@@ -54,8 +54,15 @@ export default function LeakDetectionPage() {
   // Generate breadcrumb schema
   const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
 
+  // Generate WebPage schema
+  const webPageSchema = generateWebPageSchema({
+    url: `${baseUrl}/leak-detection/`,
+    name: 'Leak Detection Services | South Florida | Total Care Restoration',
+    description: 'Professional leak detection services in South Florida. Find hidden water leaks, slab leaks, and pipe damage with advanced technology. 24/7 emergency service available.',
+  });
+
   // Combine all schemas
-  const schemas = [serviceSchema, breadcrumbSchema];
+  const schemas = [serviceSchema, breadcrumbSchema, webPageSchema];
 
   const services = [
     {

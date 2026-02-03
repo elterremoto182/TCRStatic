@@ -12,6 +12,7 @@ export interface Page {
   keywords?: string[];
   menu_order?: number;
   feature_image?: string;
+  feature_image_alt?: string; // Optional: descriptive alt text for SEO (falls back to title if not provided)
   content: string;
 }
 
@@ -45,6 +46,7 @@ export function getPageBySlug(slug: string): Page | null {
           keywords: data.keywords,
           menu_order: data.menu_order,
           feature_image: data.feature_image,
+          feature_image_alt: data.feature_image_alt,
           content,
         };
       }
@@ -80,6 +82,7 @@ export function getAllPages(): Page[] {
         keywords: data.keywords,
         menu_order: data.menu_order || 0,
         feature_image: data.feature_image,
+        feature_image_alt: data.feature_image_alt,
         content,
       });
     } catch (error) {

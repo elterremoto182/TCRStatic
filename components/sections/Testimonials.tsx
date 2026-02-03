@@ -2,6 +2,7 @@ import Link from 'next/link';
 import OptimizedImage from '@/components/OptimizedImage';
 import { Star, ArrowRight } from 'lucide-react';
 import content from '@/config/content.json';
+import { generateAltText } from '@/lib/seo-utils';
 
 export function Testimonials() {
   const { testimonials } = content;
@@ -44,7 +45,7 @@ export function Testimonials() {
                   {testimonial.image ? (
                     <OptimizedImage
                       src={testimonial.image}
-                      alt={testimonial.name}
+                      alt={generateAltText({ type: 'testimonial', personName: testimonial.name, personRole: testimonial.role })}
                       width={96}
                       height={96}
                       className="object-cover"

@@ -66,7 +66,7 @@ export default async function AboutPage() {
               <div className="relative w-full aspect-video">
                 <OptimizedImage
                   src={page.feature_image}
-                  alt={page.title}
+                  alt={page.feature_image_alt || `Featured image for ${page.title} - Total Care Restoration`}
                   fill
                   className="object-cover"
                   priority

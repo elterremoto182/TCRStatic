@@ -16,7 +16,9 @@ export interface BlogPost {
   tags?: string[]; // Optional tags for cross-cutting concerns (e.g., "emergency-response", "insurance-claims")
   pillar?: string; // Links to pillar guide page (e.g., "water-damage-restoration" -> /guides/water-damage-restoration/)
   image?: string;
+  image_alt?: string; // Optional: descriptive alt text for SEO (falls back to title if not provided)
   content: string;
+  faqs?: Array<{ question: string; answer: string }>; // Optional FAQs for FAQPage schema
 }
 
 export function getPostSlugs(): string[] {
@@ -45,7 +47,9 @@ export function getPostBySlug(slug: string): BlogPost | null {
       tags: Array.isArray(data.tags) ? data.tags : undefined,
       pillar: data.pillar || '',
       image: data.image || '',
+      image_alt: data.image_alt || undefined, // Parse image_alt from frontmatter for SEO
       content,
+      faqs: Array.isArray(data.faqs) ? data.faqs : undefined, // Parse FAQs from frontmatter for FAQPage schema
     };
   } catch (error) {
     return null;

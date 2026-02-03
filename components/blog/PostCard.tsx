@@ -18,7 +18,7 @@ export function PostCard({ post, showCategory = true }: PostCardProps) {
         <div className="aspect-video relative">
           <OptimizedImage
             src={post.image}
-            alt={post.title}
+            alt={post.image_alt || `Featured image for ${post.title}`}
             fill
             className="object-cover"
             sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"

@@ -9,6 +9,17 @@ image: "/images/blog/2021/11/mold-behind-walls.jpg"
 seo_title: "Black Mold on Walls: How to Detect & Test for Mold in Drywall"
 seo_description: "Suspect black mold on your walls or drywall? Learn how to test for mold inside walls, what mold on sheetrock looks like, and when to call a pro."
 keywords: ["mold on walls", "black mold on drywall", "mold in walls", "how to test for mold in walls", "black mold on walls", "mold on sheetrock"]
+faqs:
+  - question: "What to do if you find black mold on drywall?"
+    answer: "Stop touching it immediately and avoid disturbing the area to prevent spores from spreading. Do not attempt to remove black mold yourself as this can release dangerous spores into the air. Contact a licensed mold remediation professional who will isolate the affected area with containment barriers, safely remove the contaminated drywall, and use HEPA vacuums, chemical bio wash, and air scrubbers to eliminate all mold and spores. A post-remediation verification test should be conducted to confirm the area is safe."
+  - question: "Should I worry about mold behind drywall?"
+    answer: "Yes, mold behind drywall is a serious concern that requires immediate attention. Hidden mold can spread extensively before becoming visible, causing structural damage to your home and releasing spores into the air you breathe. Signs of hidden mold include musty odors, unexplained allergy symptoms, discolored patches, bubbling paint, and soft or crumbling walls. If you suspect mold behind your walls, have a professional inspection done using moisture meters and other specialized equipment to detect the full extent of the problem."
+  - question: "Can black mold behind walls harm you?"
+    answer: "Yes, black mold behind walls can cause serious health issues even when not visible. Black mold releases mycotoxins and spores that travel through the air and can cause chronic coughing, sneezing, eye irritation, nasal congestion, skin rashes, throat irritation, and persistent headaches. Children, the elderly, and people with weakened immune systems or mold allergies are especially vulnerable. The health risks make it critical to address suspected black mold immediately with professional remediation."
+  - question: "Is it safe to stay in a house with black mold?"
+    answer: "In most cases, you can remain in your home during professional mold remediation, but consult with the remediation experts first. Professionals will isolate the affected areas with containment barriers to prevent spores from spreading to the rest of your home. However, if you experience severe allergy symptoms, respiratory issues, or if the mold contamination is extensive, you may be more comfortable finding temporary accommodations for a few days until the remediation and post-remediation verification are complete."
+  - question: "Can I smell mold but not see it?"
+    answer: "Yes, a musty or earthy odor is often the first sign of hidden mold, even when no visible growth is present. Mold behind walls, under flooring, or in HVAC systems releases volatile organic compounds (VOCs) that create that distinctive smell. If you notice a persistent musty odor—especially after rain or in humid conditions—you likely have mold growing somewhere out of sight. Professional mold inspectors use moisture meters, thermal imaging, and air quality testing to locate hidden mold that you can smell but cannot see."
 ---
 
 Mold may be a part of nature, but it's one natural thing that you never want to see in your home. Even the most minor examples of mold on walls can be visually unappealing and potentially cause health issues. Children and the elderly are especially vulnerable, and mold can be very dangerous for people who are allergic.
@@ -110,6 +121,8 @@ Can mold grow behind drywall? Yes, and it's often difficult to detect until it's
 
 If you notice any of these signs, consider testing for mold behind drywall. This can help identify whether you're dealing with black mold behind drywall, which poses serious health risks.
 
+![Signs of mold behind drywall: visible growth discovered during wall inspection](/images/services/mold-remediation-photos/mold-behind-wall.jpeg)
+
 ### What Does Mold Look Like on Walls?
 
 Wondering what mold on walls actually looks like? Visible mold can appear in many forms, and recognizing it early is key to preventing a larger infestation:
@@ -121,9 +134,13 @@ Wondering what mold on walls actually looks like? Visible mold can appear in man
 
 Beginning mold on walls may be subtle—small dots or faint discoloration that spreads over time. On drywall and sheetrock specifically, mold often appears as dark staining that bleeds through paint, or as fuzzy patches in corners and along baseboards where moisture accumulates.
 
+![Black mold on drywall – what mold on walls looks like; is black mold on drywall dangerous](/images/services/mold-remediation-photos/mold-before.jpeg)
+
 ### Can Mold Grow Through Drywall?
 
 Yes, mold can actually grow through drywall over time. Drywall is porous, and its paper facing provides an ideal food source for mold spores. Once mold establishes itself on the backside of your wall, mold development continues as it gradually penetrates the material and eventually becomes visible mold on the front surface. This is why early detection is so important—by the time you see mold coming through your walls, the infestation behind them is likely much worse.
+
+![Mold behind drywall exposed during remediation – can mold grow through drywall; how to detect mold inside walls](/images/services/mold-remediation-photos/removing-wall-remediation.jpg)
 
 ## **Health Hazards of Black Mold on Walls**
 
@@ -149,6 +166,8 @@ Wondering how to test for mold behind drywall or sheetrock? A few methods can he
 -   Engage professional mold inspection services for comprehensive testing
 
 If you want to be thorough, consider getting a professional [mold inspection](/mold-inspection/) and a mold remediation expert to assess any mold you might find. Learn more about [how we test for mold in walls](/mold-inspection/) and what our inspection process involves.
+
+![How to test for mold inside walls: professional moisture detection after mold remediation](/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg)
 
 ## **How Can I Tell If I Have Mold Behind My Walls?**
 

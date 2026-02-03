@@ -37,7 +37,7 @@ export function Header() {
             {!logoError && siteConfig.logo ? (
               <OptimizedImage
                 src={siteConfig.logo}
-                alt={siteConfig.name}
+                alt={`${siteConfig.name} logo`}
                 width={180}
                 height={60}
                 priority

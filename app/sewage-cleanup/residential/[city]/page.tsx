@@ -8,7 +8,6 @@ import {
   getCity, 
   getAllCities, 
   getServiceType,
-  getPopulatedFAQs,
   getServiceCityBreadcrumbs,
 } from '@/lib/local-seo/data';
 import { generatePageContent } from '@/lib/local-seo/templates';
@@ -79,9 +78,9 @@ export default async function ResidentialSewageCleanupCityPage({
     notFound();
   }
 
-  const faqs = getPopulatedFAQs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
+  const visibleFaqs = [...(content.faq.faqs || []), ...(content.localFAQs || [])];
   const breadcrumbs = getServiceCityBreadcrumbs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
-  const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, faqs);
+  const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, visibleFaqs);
   const relatedLinksData = generateInternalLinksData(SERVICE_SLUG, citySlug, SERVICE_TYPE);
 
   return (

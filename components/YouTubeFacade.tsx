@@ -51,7 +51,7 @@ export function YouTubeFacade({ videoId, title = 'YouTube video', className = ''
       {/* Thumbnail */}
       <img
         src={thumbnailUrl}
-        alt={title}
+        alt={`YouTube video thumbnail: ${title}`}
         className="absolute inset-0 w-full h-full object-cover rounded-lg"
         loading="lazy"
         onError={handleThumbnailError}
