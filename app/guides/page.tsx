@@ -87,12 +87,16 @@ export default function GuidesIndexPage() {
                 </div>
                 
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                  Restoration Guides
+                  Property Restoration Guides
                 </h1>
                 
-                <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                  Comprehensive guides covering everything you need to know about property restoration. 
-                  Learn from our experts and protect your home or business.
+                <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
+                  Comprehensive, in-depth guides covering everything you need to know about property restoration. 
+                  Written by our IICRC-certified technicians with decades of combined experience in South Florida.
+                </p>
+                
+                <p className="text-lg text-gray-500 max-w-3xl mx-auto">
+                  Property damage can be overwhelming, but knowledge is power. Our restoration guides walk you through each type of damage—from the initial emergency response to complete restoration. Learn what to expect during the restoration process, understand industry terminology, discover prevention strategies, and know your rights when filing insurance claims. Whether you&apos;re facing water damage from a burst pipe, smoke damage from a fire, mold growth from humidity, or storm damage from a hurricane, these guides provide the expert insights you need to make informed decisions and protect your property.
                 </p>
               </div>
             </AnimateOnScroll>

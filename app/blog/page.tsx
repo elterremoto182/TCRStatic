@@ -51,10 +51,13 @@ export default function BlogPage() {
             </div>
             <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">
-              Our Blog
+              Restoration & Home Care Blog
             </h1>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Expert tips, guides, and insights for maintaining your home
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
+              Expert guides, actionable tips, and industry insights from South Florida&apos;s trusted restoration professionals. Whether you&apos;re dealing with water damage, mold concerns, fire restoration, or storm preparation, our certified technicians share their knowledge to help you protect your property.
+            </p>
+            <p className="text-lg text-gray-500 max-w-2xl mx-auto">
+              From emergency response procedures to preventive maintenance strategies, our blog covers the topics that matter most to homeowners and property managers throughout Miami-Dade, Broward, and Palm Beach counties. Learn how to identify early warning signs, understand the restoration process, and make informed decisions about your property&apos;s care.
             </p>
             </div>
           </div>

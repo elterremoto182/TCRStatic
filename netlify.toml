@@ -23,3 +23,16 @@
 #   [plugins.inputs]
 #   fileFilter = ["index.html"]
 
+# Redirects - SEO consolidation
+[[redirects]]
+  from = "/fire-damage-restoration-guide/"
+  to = "/guides/fire-damage-restoration/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fire-damage-restoration-guide"
+  to = "/guides/fire-damage-restoration/"
+  status = 301
+  force = true
+

@@ -59,10 +59,30 @@ export default function ProblemsPage() {
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
               Common Property Damage Problems
             </h1>
-            <p className="text-xl text-white/80 max-w-3xl">
+            <p className="text-xl text-white/80 max-w-3xl mb-6">
               Understanding the cause of your property damage is the first step to effective restoration. 
               Explore common issues we address across South Florida and learn why quick action matters.
             </p>
+            <div className="grid md:grid-cols-2 gap-6 mt-10 text-white/90">
+              <div className="bg-white/10 rounded-xl p-6">
+                <h2 className="text-lg font-semibold mb-3">Why Identifying the Cause Matters</h2>
+                <p className="text-white/80 text-sm leading-relaxed">
+                  Every restoration project starts with understanding what went wrong. A burst pipe requires different techniques than hurricane flooding. 
+                  Smoke damage from a kitchen fire needs different treatment than wildfire smoke infiltration. By identifying the specific cause, 
+                  our technicians can deploy the right equipment, apply appropriate cleaning agents, and follow industry protocols that address 
+                  the unique challenges of your situation. This targeted approach leads to faster restoration, lower costs, and better long-term results.
+                </p>
+              </div>
+              <div className="bg-white/10 rounded-xl p-6">
+                <h2 className="text-lg font-semibold mb-3">South Florida&apos;s Unique Challenges</h2>
+                <p className="text-white/80 text-sm leading-relaxed">
+                  Our subtropical climate creates conditions that accelerate water damage and mold growth. High humidity means moisture lingers longer, 
+                  giving mold spores the environment they need to colonize within 24-48 hours. Hurricane season brings flooding, wind damage, and storm surge. 
+                  Aging infrastructure in many neighborhoods leads to pipe failures and sewage backups. Understanding these local factors helps us respond 
+                  effectively to the specific problems South Florida properties face year-round.
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
