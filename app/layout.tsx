@@ -2,6 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import Script from 'next/script';
+import { Suspense } from 'react';
 import siteConfig from '@/config/site.json';
 import { GoogleAnalyticsRouteTracker } from '@/components/GoogleAnalytics';
 import { StickyCallButton } from '@/components/StickyCallButton';
@@ -97,7 +98,11 @@ export default function RootLayout({
       <body>
         {children}
         <StickyCallButton />
-        {gaId && <GoogleAnalyticsRouteTracker />}
+        {gaId && (
+          <Suspense fallback={null}>
+            <GoogleAnalyticsRouteTracker />
+          </Suspense>
+        )}
         {gaId && (
           <>
             <Script
