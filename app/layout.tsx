@@ -1,7 +1,9 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+import Script from 'next/script';
 import siteConfig from '@/config/site.json';
+import { GoogleAnalyticsRouteTracker } from '@/components/GoogleAnalytics';
 import { StickyCallButton } from '@/components/StickyCallButton';
 import { StructuredData } from '@/lib/structured-data';
 import {
@@ -75,6 +77,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   const faviconPath = '/favicon.ico';
+  const gaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
   // Generate structured data schemas
   const organizationSchema = generateOrganizationSchema();
@@ -84,6 +87,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <head>
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="icon" href={faviconPath} />
@@ -93,6 +97,23 @@ export default function RootLayout({
       <body>
         {children}
         <StickyCallButton />
+        {gaId && <GoogleAnalyticsRouteTracker />}
+        {gaId && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+              strategy="afterInteractive"
+            />
+            <Script id="google-analytics" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${gaId}');
+              `}
+            </Script>
+          </>
+        )}
       </body>
     </html>
   );
