@@ -115,13 +115,14 @@ export default function RootLayout({
             <GoogleAnalyticsRouteTracker />
           </Suspense>
         )}
+        {/* GA loads after window load (lazyOnload) to avoid gtag.js forced reflows affecting Page Speed / LCP */}
         {gaId && (
           <>
             <Script
               src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
-              strategy="afterInteractive"
+              strategy="lazyOnload"
             />
-            <Script id="google-analytics" strategy="afterInteractive">
+            <Script id="google-analytics" strategy="lazyOnload">
               {`
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
