@@ -59,6 +59,7 @@ interface ServiceTypeHubProps {
   
   // Service overview (deep content)
   overview: string;
+  overviewImage?: string;
   typeSpecificOverview?: string;
   whyActFast?: string;
   
@@ -105,6 +106,7 @@ export function ServiceTypeHub({
   heroImage,
   heroDescription,
   overview,
+  overviewImage,
   typeSpecificOverview,
   whyActFast,
   commonCauses,
@@ -248,11 +250,25 @@ export function ServiceTypeHub({
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-            
+            {/* Left column: optional overview image, heading, and content */}
+            <div className="space-y-6">
+              {overviewImage && (
+                <div className="relative aspect-[16/9] rounded-xl overflow-hidden shadow-lg">
+                  <OptimizedImage
+                    src={overviewImage}
+                    alt={generateAltText({
+                      type: 'overview',
+                      serviceName: `${typeLabel} ${serviceName}`,
+                    })}
+                    fill
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    className="object-cover"
+                  />
+                </div>
+              )}
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                 What is {typeLabel} {serviceName}?
               </h2>
-              
               {/* Main overview content */}
               <div className="prose prose-lg max-w-none text-gray-600">
                 {overview.split('\n\n').filter(p => p.trim()).map((paragraph, index) => (
@@ -261,7 +277,6 @@ export function ServiceTypeHub({
                   </p>
                 ))}
               </div>
-
               {/* Type-specific content */}
               {typeSpecificOverview && (
                 <div className="mt-6 p-6 bg-primary/5 rounded-xl border border-primary/10">
@@ -274,10 +289,10 @@ export function ServiceTypeHub({
                   </p>
                 </div>
               )}
-            
+            </div>
 
-            
-              <div className="space-y-6">
+            {/* Right column: focus areas and why act fast */}
+            <div className="space-y-6">
                 {/* Focus areas / benefits */}
                 <div className="bg-gray-50 rounded-xl p-6">
                   <h3 className="font-bold text-gray-900 mb-4 flex items-center gap-2">

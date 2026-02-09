@@ -64,6 +64,7 @@ export default function ResidentialFireDamagePage() {
           heroImage={service.images?.hero}
           heroDescription="We provide comprehensive fire damage restoration services for residential homeowners. Our team handles everything from emergency board-up to complete restoration, helping families recover from the trauma of a fire."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

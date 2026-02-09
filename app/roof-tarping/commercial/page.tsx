@@ -64,6 +64,7 @@ export default function CommercialRoofTarpingPage() {
           heroImage={service.images?.hero}
           heroDescription="Protect your commercial property from further damage with professional roof tarping. Our team responds rapidly with industrial equipment to secure roofs of all sizes."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

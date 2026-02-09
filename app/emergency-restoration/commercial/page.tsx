@@ -64,6 +64,7 @@ export default function CommercialEmergencyRestorationPage() {
           heroImage={service.images?.hero}
           heroDescription="When disaster strikes your business, every minute counts. Our commercial emergency restoration team responds 24/7 with the equipment and expertise to minimize downtime and protect your assets."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

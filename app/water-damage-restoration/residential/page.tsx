@@ -64,6 +64,7 @@ export default function ResidentialWaterDamagePage() {
           heroImage={service.images?.hero}
           heroDescription="We provide professional water damage restoration services specifically designed for residential homeowners. Our compassionate team understands the stress of home water damage and works quickly to protect your family and property."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

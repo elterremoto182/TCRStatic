@@ -64,6 +64,7 @@ export default function ResidentialRoofTarpingPage() {
           heroImage={service.images?.hero}
           heroDescription="When your roof is damaged, every minute counts. Our residential roof tarping team provides emergency protection to prevent further water damage to your home until permanent repairs can be made."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

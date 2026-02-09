@@ -64,6 +64,7 @@ export default function CommercialSewageCleanupPage() {
           heroImage={service.images?.hero}
           heroDescription="Commercial sewage incidents require immediate professional response. Our team ensures OSHA compliance, provides complete documentation, and works quickly to get your business back open safely."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

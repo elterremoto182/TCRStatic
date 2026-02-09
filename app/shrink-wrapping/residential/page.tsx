@@ -64,6 +64,7 @@ export default function ResidentialShrinkWrappingPage() {
           heroImage={service.images?.hero}
           heroDescription="When long-term roof protection is needed, shrink wrapping provides superior coverage compared to traditional tarps. Protect your home for months while permanent repairs are arranged."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

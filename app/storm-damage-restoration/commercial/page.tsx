@@ -64,6 +64,7 @@ export default function CommercialStormDamagePage() {
           heroImage={service.images?.hero}
           heroDescription="When hurricanes and storms damage your business, every hour counts. Our commercial storm damage team responds rapidly to protect your assets and get your operations back online."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

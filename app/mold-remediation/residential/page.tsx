@@ -64,6 +64,7 @@ export default function ResidentialMoldRemediationPage() {
           heroImage={service.images?.hero}
           heroDescription="We provide professional mold remediation services specifically designed for residential homeowners. Our certified team safely removes mold, identifies moisture sources, and prevents future growth to protect your family's health."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

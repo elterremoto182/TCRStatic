@@ -64,6 +64,7 @@ export default function ResidentialStormDamagePage() {
           heroImage={service.images?.hero}
           heroDescription="When hurricanes and storms damage your home, we're ready to respond. Our residential storm damage team provides emergency tarping, water extraction, and complete restoration to help your family recover."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

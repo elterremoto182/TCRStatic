@@ -64,6 +64,7 @@ export default function ResidentialEmergencyRestorationPage() {
           heroImage={service.images?.hero}
           heroDescription="When disaster strikes your home, we're here 24/7. Our residential emergency restoration team responds rapidly to water, fire, and storm damage, minimizing damage and helping your family get back to normal."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

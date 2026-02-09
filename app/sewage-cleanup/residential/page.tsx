@@ -64,6 +64,7 @@ export default function ResidentialSewageCleanupPage() {
           heroImage={service.images?.hero}
           heroDescription="Sewage backups are dangerous and require professional cleanup. Our residential team responds 24/7 with proper equipment to safely remove contamination and restore your home to a healthy condition."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.residentialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

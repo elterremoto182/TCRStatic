@@ -64,6 +64,7 @@ export default function CommercialShrinkWrappingPage() {
           heroImage={service.images?.hero}
           heroDescription="Protect your commercial property with professional shrink wrapping. Ideal for large buildings, complex roof geometries, and situations requiring extended weather protection."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}

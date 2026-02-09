@@ -64,6 +64,7 @@ export default function CommercialFireDamagePage() {
           heroImage={service.images?.hero}
           heroDescription="We provide comprehensive fire damage restoration services for commercial properties. Our team works quickly to minimize business downtime while ensuring thorough smoke and soot removal."
           overview={service.bodyContent?.overview || ''}
+          overviewImage={service.images?.overview}
           typeSpecificOverview={service.commercialContent?.challenges}
           whyActFast={service.bodyContent?.whyActFast}
           commonCauses={service.bodyContent?.commonCauses}
