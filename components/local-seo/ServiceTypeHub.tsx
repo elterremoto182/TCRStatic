@@ -156,6 +156,7 @@ export function ServiceTypeHub({
               sizes="100vw"
               className="object-cover"
               priority
+              fetchPriority="high"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/60 to-black/50" />
           </div>

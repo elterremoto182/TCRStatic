@@ -6,6 +6,11 @@ import { VideoPlayer } from "@/components/media/VideoPlayer";
 import { generateAltText } from "@/lib/seo-utils";
 import content from "@/config/content.json";
 
+// Prebuilt WEBP paths for home hero LCP - native <img> avoids hydration delay (faster LCP on mobile)
+const HOME_HERO_SRCSET =
+  "/images/hero/nextImageExportOptimizer/hero-background-opt-640.WEBP 640w, /images/hero/nextImageExportOptimizer/hero-background-opt-1080.WEBP 1080w, /images/hero/nextImageExportOptimizer/hero-background-opt-1920.WEBP 1920w";
+const HOME_HERO_SRC = "/images/hero/nextImageExportOptimizer/hero-background-opt-1080.WEBP";
+
 export function Hero() {
   const { hero } = content;
 
@@ -26,15 +31,34 @@ export function Hero() {
 
       {!hero.backgroundVideo && hero.backgroundImage && (
         <div className="absolute inset-0 z-0">
-          <OptimizedImage
-            src={hero.backgroundImage}
-            alt={generateAltText({ type: 'hero' })}
-            fill
-            className="object-cover"
-            priority
-            fetchPriority="high"
-            sizes="100vw"
-          />
+          {hero.backgroundImage === "/images/hero/hero-background.jpg" ? (
+            <img
+              src={HOME_HERO_SRC}
+              srcSet={HOME_HERO_SRCSET}
+              sizes="100vw"
+              alt={generateAltText({ type: "hero" })}
+              loading="eager"
+              decoding="async"
+              fetchPriority="high"
+              className="object-cover"
+              style={{
+                position: "absolute",
+                inset: 0,
+                width: "100%",
+                height: "100%",
+              }}
+            />
+          ) : (
+            <OptimizedImage
+              src={hero.backgroundImage}
+              alt={generateAltText({ type: "hero" })}
+              fill
+              className="object-cover"
+              priority
+              fetchPriority="high"
+              sizes="100vw"
+            />
+          )}
           <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/40 to-black/50" />
         </div>
       )}

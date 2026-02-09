@@ -5,9 +5,9 @@ import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
 
-// Custom thumbnails for specific YouTube videos
+// Custom thumbnails for specific YouTube videos (use local path so dev and export work)
 const customThumbnails: Record<string, string> = {
-  'aFbrhj_jQgw': '/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-12.13.10-PM.png',
+  'aFbrhj_jQgw': '/images/blog/2021/10/Screen-Shot-2021-10-07-at-12.13.10-PM.png',
 };
 
 /**

@@ -4,9 +4,14 @@ import { Inter } from 'next/font/google';
 import Script from 'next/script';
 import { Suspense } from 'react';
 import siteConfig from '@/config/site.json';
+import dynamic from 'next/dynamic';
 import { GoogleAnalyticsRouteTracker } from '@/components/GoogleAnalytics';
-import { StickyCallButton } from '@/components/StickyCallButton';
 import { StructuredData } from '@/lib/structured-data';
+
+const StickyCallButton = dynamic(
+  () => import('@/components/StickyCallButton').then((m) => ({ default: m.StickyCallButton })),
+  { ssr: false }
+);
 import {
   generateOrganizationSchema,
   generateLocalBusinessSchema,
@@ -89,10 +94,17 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <head>
         <link rel="preconnect" href="https://www.googletagmanager.com" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="icon" href={faviconPath} />
         <link rel="apple-touch-icon" href={faviconPath} />
+        {/* Preload LCP hero image - faster LCP on mobile */}
+        <link
+          rel="preload"
+          as="image"
+          href="/images/hero/nextImageExportOptimizer/hero-background-opt-640.WEBP"
+          imageSrcSet="/images/hero/nextImageExportOptimizer/hero-background-opt-640.WEBP 640w, /images/hero/nextImageExportOptimizer/hero-background-opt-1080.WEBP 1080w, /images/hero/nextImageExportOptimizer/hero-background-opt-1920.WEBP 1920w"
+          imageSizes="100vw"
+          fetchPriority="high"
+        />
         <StructuredData data={[organizationSchema, localBusinessSchema, webSiteSchema]} />
       </head>
       <body>

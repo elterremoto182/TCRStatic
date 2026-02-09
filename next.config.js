@@ -17,8 +17,8 @@ const nextConfig = {
   images: {
     loader: 'custom',
     loaderFile: './loader.js',
-    imageSizes: [96, 256], // Only sizes actually used (96 for avatars/badges, 256 for logo)
-    deviceSizes: [480, 640, 828, 1080, 1200, 1920], // Added 480 for mobile cards
+    imageSizes: [96, 256, 480, 640, 828, 1080, 1200, 1920],
+    deviceSizes: [480, 640, 828, 1080, 1200, 1920],
   },
   trailingSlash: true,
   // Explicitly ensure minification is enabled for production builds
@@ -41,7 +41,7 @@ const nextConfig = {
     nextImageExportOptimizer_exportFolderName: 'nextImageExportOptimizer',
     nextImageExportOptimizer_generateAndUseBlurImages: 'true',
     nextImageExportOptimizer_remoteImageCacheTTL: '0',
-    nextImageExportOptimizer_imageSizes: '[96, 256]',
+    nextImageExportOptimizer_imageSizes: '[96, 256, 480, 640, 828, 1080, 1200, 1920]',
     nextImageExportOptimizer_deviceSizes: '[480, 640, 828, 1080, 1200, 1920]',
   },
 };

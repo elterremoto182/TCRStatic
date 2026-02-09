@@ -4,6 +4,19 @@ import matter from 'gray-matter';
 
 const pagesDirectory = path.join(process.cwd(), 'content/pages');
 
+/**
+ * Normalize WordPress-style upload paths to local static paths.
+ * Content may use /wp-content/uploads/...; we serve from /images/blog/... in dev and production.
+ */
+function normalizeImagePath(url: string | undefined): string | undefined {
+  if (!url || typeof url !== 'string') return url;
+  const trimmed = url.trim();
+  if (trimmed.startsWith('/wp-content/uploads/')) {
+    return '/images/blog/' + trimmed.slice('/wp-content/uploads/'.length);
+  }
+  return trimmed;
+}
+
 export interface Page {
   slug: string;
   title: string;
@@ -45,7 +58,7 @@ export function getPageBySlug(slug: string): Page | null {
           seo_description: data.seo_description,
           keywords: data.keywords,
           menu_order: data.menu_order,
-          feature_image: data.feature_image,
+          feature_image: normalizeImagePath(data.feature_image),
           feature_image_alt: data.feature_image_alt,
           content,
         };
@@ -81,7 +94,7 @@ export function getAllPages(): Page[] {
         seo_description: data.seo_description,
         keywords: data.keywords,
         menu_order: data.menu_order || 0,
-        feature_image: data.feature_image,
+        feature_image: normalizeImagePath(data.feature_image),
         feature_image_alt: data.feature_image_alt,
         content,
       });

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { Star, Quote, Home } from 'lucide-react';
+import { Star, Quote } from 'lucide-react';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, generateReviewsPageSchema, generateBreadcrumbSchema } from '@/lib/structured-data';
 import content from '@/config/content.json';
@@ -22,10 +22,12 @@ export default function TestimonialsPage() {
   // Generate Review schemas for testimonials page (returns an array of individual reviews)
   const reviewSchemas = generateReviewsPageSchema(testimonials) || [];
   
-  // Generate breadcrumb schema
-  const breadcrumbSchema = generateBreadcrumbSchema([
-    { label: 'Testimonials', href: '/testimonials/' },
-  ]);
+  // Generate breadcrumb schema (match visible trail: Home > Testimonials)
+  const breadcrumbs = [
+    { label: 'Home', href: '/' },
+    { label: 'Testimonials', href: '/testimonials' },
+  ];
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
 
   // Combine schemas - flatten the review schemas array with the breadcrumb
   const schemas = [...reviewSchemas, breadcrumbSchema].filter(Boolean);
@@ -38,16 +40,7 @@ export default function TestimonialsPage() {
         {/* Hero Section */}
         <section className="bg-gradient-to-br from-primary/5 via-background to-accent/5 py-16 md:py-24">
           <div className="max-w-6xl mx-auto px-4">
-            <div className="mb-8">
-              <Breadcrumbs items={[{ label: 'Testimonials', href: '/testimonials' }]} className="mb-6" />
-              <Link
-                href="/"
-                className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"
-              >
-                <Home className="w-4 h-4 mr-2" />
-                Back to Home
-              </Link>
-            </div>
+            <Breadcrumbs items={breadcrumbs.slice(1)} className="mb-8" />
             
             <div className="text-center max-w-3xl mx-auto">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 mb-6">

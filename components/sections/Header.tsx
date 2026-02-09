@@ -41,6 +41,7 @@ export function Header() {
                 width={180}
                 height={60}
                 priority
+                fetchPriority="high"
                 className="h-12 w-auto"
                 onError={() => setLogoError(true)}
               />
