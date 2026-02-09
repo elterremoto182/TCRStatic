@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generateAltText } from '@/lib/seo-utils';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
@@ -124,7 +123,7 @@ export default function EmergencyRestorationPage() {
               className={`mb-6 ${service.images?.hero ? '[&_a]:text-white/80 [&_a:hover]:text-white [&_span]:text-white [&_svg]:text-white/60' : ''}`} 
             />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="max-w-3xl">
                 {/* Service badges */}
                 <div className="flex items-center gap-3 mb-6">
@@ -179,25 +178,25 @@ export default function EmergencyRestorationPage() {
                   </Link>
                 </div>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Service Type Selection */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Choose Your Property Type
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We provide emergency restoration for both residential and commercial properties. Select your property type for specialized service information.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {/* Residential Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/residential`}
                   className="group block p-8 bg-gradient-to-br from-red-50 to-orange-50 rounded-2xl border-2 border-transparent hover:border-red-500 transition-all duration-200 hover:shadow-lg"
@@ -216,10 +215,10 @@ export default function EmergencyRestorationPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
               {/* Commercial Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/commercial`}
                   className="group block p-8 bg-gradient-to-br from-slate-50 to-red-50 rounded-2xl border-2 border-transparent hover:border-red-500 transition-all duration-200 hover:shadow-lg"
@@ -238,7 +237,7 @@ export default function EmergencyRestorationPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -273,7 +272,7 @@ export default function EmergencyRestorationPage() {
         {/* Leak Detection Callout */}
         <section className="py-12 bg-blue-50">
           <div className="max-w-4xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex flex-col md:flex-row items-center gap-6 p-6 bg-white rounded-2xl shadow-sm border border-blue-100">
                 <div className="w-16 h-16 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0">
                   <AlertCircle className="w-8 h-8 text-blue-600" />
@@ -294,7 +293,7 @@ export default function EmergencyRestorationPage() {
                   <ArrowRight className="w-4 h-4" />
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
@@ -315,7 +314,7 @@ export default function EmergencyRestorationPage() {
         {/* Cities Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center justify-center gap-3 mb-4">
                 <MapPin className="w-6 h-6 text-primary" />
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
@@ -325,22 +324,17 @@ export default function EmergencyRestorationPage() {
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We provide 24/7 emergency restoration throughout South Florida.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
               {cityList.map((city, index) => (
-                <AnimateOnScroll
-                  key={city.slug}
-                  animation="fade-in-up"
-                  duration={400}
-                  delay={index * 50}
-                >
+                
                   <div className="block p-4 bg-gray-50 rounded-xl border border-gray-100">
                     <span className="font-medium text-gray-900">
                       {city.name}
                     </span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -349,7 +343,7 @@ export default function EmergencyRestorationPage() {
         {/* CTA Section */}
         <section className="py-20 bg-red-600">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center justify-center gap-2 text-white/90 mb-4">
                 <Clock className="w-6 h-6" />
                 <span className="font-semibold">Available 24 Hours a Day, 7 Days a Week</span>
@@ -368,7 +362,7 @@ export default function EmergencyRestorationPage() {
                 <Phone className="w-6 h-6" />
                 (786) 610-6317
               </a>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       </main>

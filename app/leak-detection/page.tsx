@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateWebPageSchema } from '@/lib/structured-data';
 import { 
@@ -127,7 +126,7 @@ export default function LeakDetectionPage() {
           <div className="max-w-6xl mx-auto px-4">
             <Breadcrumbs items={breadcrumbs} className="mb-6" />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center gap-3 mb-6">
                 <div className="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center">
                   <Search className="w-8 h-8 text-blue-700" />
@@ -159,14 +158,14 @@ export default function LeakDetectionPage() {
                   Get Free Estimate
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Services Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Our Detection Methods
               </h2>
@@ -174,16 +173,11 @@ export default function LeakDetectionPage() {
                 We use multiple advanced technologies to locate leaks accurately without causing 
                 unnecessary damage to your property.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               {services.map((service, index) => (
-                <AnimateOnScroll
-                  key={service.title}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
-                >
+                
                   <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
                     <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4">
                       <service.icon className="w-6 h-6 text-blue-700" />
@@ -195,7 +189,7 @@ export default function LeakDetectionPage() {
                       {service.description}
                     </p>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -205,7 +199,7 @@ export default function LeakDetectionPage() {
         <section className="py-16 bg-gradient-to-br from-red-50 to-orange-50">
           <div className="max-w-6xl mx-auto px-4">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
+              
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                   Signs You May Have a Leak
                 </h2>
@@ -221,9 +215,9 @@ export default function LeakDetectionPage() {
                     </li>
                   ))}
                 </ul>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <div className="bg-white p-8 rounded-2xl shadow-lg">
                   <h3 className="text-2xl font-bold text-gray-900 mb-6">
                     Why Choose Professional Detection?
@@ -242,7 +236,7 @@ export default function LeakDetectionPage() {
                     ))}
                   </div>
                 </div>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -250,7 +244,7 @@ export default function LeakDetectionPage() {
         {/* Property Types Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 We Serve All Property Types
               </h2>
@@ -258,10 +252,10 @@ export default function LeakDetectionPage() {
                 Our leak detection services are available for both residential and commercial properties 
                 throughout South Florida.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <div className="p-8 bg-gradient-to-br from-blue-50 to-sky-50 rounded-2xl">
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm">
                     <Home className="w-7 h-7 text-primary" />
@@ -288,9 +282,9 @@ export default function LeakDetectionPage() {
                     </li>
                   </ul>
                 </div>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <div className="p-8 bg-gradient-to-br from-slate-50 to-gray-50 rounded-2xl">
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm">
                     <Building2 className="w-7 h-7 text-primary" />
@@ -317,7 +311,7 @@ export default function LeakDetectionPage() {
                     </li>
                   </ul>
                 </div>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -325,7 +319,7 @@ export default function LeakDetectionPage() {
         {/* Related Services Section */}
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Complete Restoration Services
               </h2>
@@ -333,10 +327,10 @@ export default function LeakDetectionPage() {
                 Found a leak? We provide complete water damage restoration services to repair 
                 and restore your property.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href="/water-damage-restoration"
                   className="group block p-8 bg-white rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -356,9 +350,9 @@ export default function LeakDetectionPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href="/sewage-cleanup"
                   className="group block p-8 bg-white rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -378,7 +372,7 @@ export default function LeakDetectionPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -386,7 +380,7 @@ export default function LeakDetectionPage() {
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
                 Suspect a Hidden Leak?
               </h2>
@@ -409,7 +403,7 @@ export default function LeakDetectionPage() {
                   Schedule Detection
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       </main>

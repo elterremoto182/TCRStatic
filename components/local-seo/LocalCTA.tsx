@@ -1,7 +1,4 @@
-'use client';
-
 import Link from 'next/link';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { Phone, ArrowRight, Clock, Shield } from 'lucide-react';
 
 interface LocalCTAProps {
@@ -30,7 +27,7 @@ export function LocalCTA({
   return (
     <section className={`py-20 bg-primary ${className}`}>
       <div className="max-w-4xl mx-auto px-4 text-center">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           {/* Trust indicators */}
           <div className="flex items-center justify-center gap-6 mb-8">
             <div className="flex items-center gap-2 text-white/80">
@@ -90,7 +87,7 @@ export function LocalCTA({
               (786) 610-6317
             </a>
           </div>
-        </AnimateOnScroll>
+        </div>
       </div>
     </section>
   );
@@ -120,4 +117,3 @@ export function InlineCTA({ cityName }: { cityName: string }) {
     </div>
   );
 }
-

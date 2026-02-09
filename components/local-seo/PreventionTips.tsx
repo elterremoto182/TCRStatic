@@ -1,6 +1,3 @@
-'use client';
-
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { Lightbulb, CheckCircle } from 'lucide-react';
 import type { PreventionTipsContent } from '@/lib/local-seo/templates';
 
@@ -21,7 +18,7 @@ export function PreventionTips({ content }: PreventionTipsProps) {
   return (
     <section className="py-16 bg-gradient-to-br from-green-50 to-emerald-50">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <div className="flex items-center gap-3 mb-2">
             <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center">
               <Lightbulb className="w-6 h-6 text-green-700" />
@@ -33,44 +30,36 @@ export function PreventionTips({ content }: PreventionTipsProps) {
           <p className="text-gray-600 max-w-2xl mb-8">
             Take proactive steps to protect your property and minimize the risk of damage.
           </p>
-        </AnimateOnScroll>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* Left column */}
           <div className="space-y-4">
             {leftTips.map((tip, index) => (
-              <AnimateOnScroll
+              <div
                 key={index}
-                animation="fade-in-up"
-                duration={600}
-                delay={index * 100}
+                className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-100"
               >
-                <div className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-100">
-                  <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
-                    <CheckCircle className="w-5 h-5 text-green-600" />
-                  </div>
-                  <p className="text-gray-700 leading-relaxed">{tip}</p>
+                <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
+                  <CheckCircle className="w-5 h-5 text-green-600" />
                 </div>
-              </AnimateOnScroll>
+                <p className="text-gray-700 leading-relaxed">{tip}</p>
+              </div>
             ))}
           </div>
 
           {/* Right column */}
           <div className="space-y-4">
             {rightTips.map((tip, index) => (
-              <AnimateOnScroll
+              <div
                 key={index}
-                animation="fade-in-up"
-                duration={600}
-                delay={(midpoint + index) * 100}
+                className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-100"
               >
-                <div className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-100">
-                  <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
-                    <CheckCircle className="w-5 h-5 text-green-600" />
-                  </div>
-                  <p className="text-gray-700 leading-relaxed">{tip}</p>
+                <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
+                  <CheckCircle className="w-5 h-5 text-green-600" />
                 </div>
-              </AnimateOnScroll>
+                <p className="text-gray-700 leading-relaxed">{tip}</p>
+              </div>
             ))}
           </div>
         </div>
@@ -78,4 +67,3 @@ export function PreventionTips({ content }: PreventionTipsProps) {
     </section>
   );
 }
-

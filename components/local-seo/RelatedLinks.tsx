@@ -1,7 +1,4 @@
-'use client';
-
 import Link from 'next/link';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { 
   ArrowRight, 
   BookOpen, 
@@ -47,37 +44,35 @@ const linkTypeIconColors: Record<RelatedLink['type'], string> = {
   blog: 'text-amber-600 bg-amber-100',
 };
 
-function LinkCard({ link, delay = 0 }: { link: RelatedLink; delay?: number }) {
+function LinkCard({ link }: { link: RelatedLink }) {
   const Icon = linkTypeIcons[link.type];
   const colorClass = linkTypeColors[link.type];
   const iconColorClass = linkTypeIconColors[link.type];
 
   return (
-    <AnimateOnScroll animation="fade-in-up" duration={400} delay={delay}>
-      <Link
-        href={link.href}
-        className={`group block p-4 bg-white rounded-xl border-2 ${colorClass} transition-all duration-200 hover:shadow-md`}
-      >
-        <div className="flex items-start gap-3">
-          <div className={`w-10 h-10 rounded-lg flex items-center justify-center flex-shrink-0 ${iconColorClass}`}>
-            <Icon className="w-5 h-5" />
-          </div>
-          <div className="flex-1 min-w-0">
-            <div className="flex items-center justify-between gap-2">
-              <h4 className="font-semibold text-gray-900 group-hover:text-primary transition-colors truncate">
-                {link.label}
-              </h4>
-              <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0" />
-            </div>
-            {link.description && (
-              <p className="text-sm text-gray-500 mt-1 line-clamp-2">
-                {link.description}
-              </p>
-            )}
-          </div>
+    <Link
+      href={link.href}
+      className={`group block p-4 bg-white rounded-xl border-2 ${colorClass} transition-all duration-200 hover:shadow-md`}
+    >
+      <div className="flex items-start gap-3">
+        <div className={`w-10 h-10 rounded-lg flex items-center justify-center flex-shrink-0 ${iconColorClass}`}>
+          <Icon className="w-5 h-5" />
         </div>
-      </Link>
-    </AnimateOnScroll>
+        <div className="flex-1 min-w-0">
+          <div className="flex items-center justify-between gap-2">
+            <h4 className="font-semibold text-gray-900 group-hover:text-primary transition-colors truncate">
+              {link.label}
+            </h4>
+            <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0" />
+          </div>
+          {link.description && (
+            <p className="text-sm text-gray-500 mt-1 line-clamp-2">
+              {link.description}
+            </p>
+          )}
+        </div>
+      </div>
+    </Link>
   );
 }
 
@@ -137,34 +132,34 @@ export function RelatedLinks({
     return (
       <section className="py-16 bg-gray-50 border-t border-gray-200">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          <div>
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 text-center mb-10">
               {title}
             </h2>
-          </AnimateOnScroll>
+          </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {/* Service & Hub Links */}
             {data.parentService.href && (
-              <LinkCard link={data.parentService} delay={0} />
+              <LinkCard link={data.parentService} />
             )}
             {data.serviceHub.href && (
-              <LinkCard link={data.serviceHub} delay={50} />
+              <LinkCard link={data.serviceHub} />
             )}
             
             {/* Cause Links */}
             {showCauses && data.relatedCauses.map((link, i) => (
-              <LinkCard key={`cause-${i}`} link={link} delay={100 + i * 50} />
+              <LinkCard key={`cause-${i}`} link={link} />
             ))}
             
             {/* Blog Links */}
             {showBlogs && data.relatedBlogs.map((link, i) => (
-              <LinkCard key={`blog-${i}`} link={link} delay={200 + i * 50} />
+              <LinkCard key={`blog-${i}`} link={link} />
             ))}
             
             {/* Nearby Cities */}
             {showNearbyCities && data.nearbyCities.map((link, i) => (
-              <LinkCard key={`city-${i}`} link={link} delay={300 + i * 50} />
+              <LinkCard key={`city-${i}`} link={link} />
             ))}
           </div>
         </div>
@@ -176,9 +171,9 @@ export function RelatedLinks({
   return (
     <section className="py-12 bg-gray-50 border-t border-gray-200">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <h2 className="text-xl font-bold text-gray-900 mb-6">{title}</h2>
-        </AnimateOnScroll>
+        </div>
 
         <div className="space-y-8">
           {/* Primary Navigation */}
@@ -202,7 +197,7 @@ export function RelatedLinks({
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
                 {data.relatedCauses.map((link, i) => (
-                  <LinkCard key={`cause-${i}`} link={link} delay={i * 50} />
+                  <LinkCard key={`cause-${i}`} link={link} />
                 ))}
               </div>
             </div>
@@ -216,7 +211,7 @@ export function RelatedLinks({
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                 {data.relatedBlogs.map((link, i) => (
-                  <LinkCard key={`blog-${i}`} link={link} delay={i * 50} />
+                  <LinkCard key={`blog-${i}`} link={link} />
                 ))}
               </div>
             </div>
@@ -230,7 +225,7 @@ export function RelatedLinks({
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                 {data.nearbyCities.map((link, i) => (
-                  <LinkCard key={`city-${i}`} link={link} delay={i * 50} />
+                  <LinkCard key={`city-${i}`} link={link} />
                 ))}
               </div>
             </div>
@@ -319,4 +314,3 @@ export function CausePageRelatedLinks({
     </section>
   );
 }
-

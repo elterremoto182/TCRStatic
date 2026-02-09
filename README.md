@@ -208,7 +208,6 @@ Each guide automatically clusters related blog posts by category and provides in
 │   ├── media/                    # Media components
 │   │   └── VideoPlayer.tsx
 │   ├── ui/                       # shadcn/ui components
-│   ├── AnimateOnScroll.tsx
 │   ├── Breadcrumbs.tsx
 │   ├── OptimizedImage.tsx
 │   ├── ReviewBadge.tsx
@@ -247,8 +246,6 @@ Each guide automatically clusters related blog posts by category and provides in
 │   ├── markdown.ts               # Markdown processing
 │   ├── structured-data.tsx       # Schema.org generators
 │   └── utils.ts                  # Utility functions
-├── hooks/
-│   └── useIntersectionObserver.ts
 ├── public/
 │   ├── _redirects                # Netlify 301 redirects
 │   ├── _headers                  # Custom headers

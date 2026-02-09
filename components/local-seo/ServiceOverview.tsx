@@ -1,6 +1,3 @@
-'use client';
-
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { AlertTriangle, Clock } from 'lucide-react';
 import type { ServiceOverviewContent } from '@/lib/local-seo/templates';
 
@@ -15,29 +12,27 @@ export function ServiceOverview({ content }: ServiceOverviewProps) {
   return (
     <section className="py-16 bg-white">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">
             {content.title}
           </h2>
-        </AnimateOnScroll>
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main content */}
           <div className="lg:col-span-2">
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
-              <div className="prose prose-lg max-w-none">
-                {paragraphs.map((paragraph, index) => (
-                  <p key={index} className="text-gray-600 mb-4 leading-relaxed">
-                    {paragraph}
-                  </p>
-                ))}
-              </div>
-            </AnimateOnScroll>
+            <div className="prose prose-lg max-w-none">
+              {paragraphs.map((paragraph, index) => (
+                <p key={index} className="text-gray-600 mb-4 leading-relaxed">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
           </div>
 
           {/* Sidebar with why act fast and health risks */}
           <div className="lg:col-span-1">
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            <div>
               {/* Why Act Fast Card */}
               <div className="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-6">
                 <div className="flex items-center gap-3 mb-4">
@@ -74,11 +69,10 @@ export function ServiceOverview({ content }: ServiceOverviewProps) {
                   </ul>
                 </div>
               )}
-            </AnimateOnScroll>
+            </div>
           </div>
         </div>
       </div>
     </section>
   );
 }
-

@@ -1,7 +1,4 @@
-'use client';
-
 import Link from 'next/link';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import OptimizedImage from '@/components/OptimizedImage';
 import { ServiceProcess } from './ServiceProcess';
@@ -172,7 +169,7 @@ export function ServiceTypeHub({
             items={breadcrumbs} 
             className={`mb-6 ${heroImage ? '[&_a]:text-white/80 [&_a:hover]:text-white [&_span]:text-white [&_svg]:text-white/60' : ''}`} 
           />
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <div className="max-w-3xl">
               {/* Service type badge */}
               <div className="flex items-center gap-3 mb-6">
@@ -241,7 +238,7 @@ export function ServiceTypeHub({
                 <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
-          </AnimateOnScroll>
+          
         </div>
       </section>
 
@@ -251,7 +248,7 @@ export function ServiceTypeHub({
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                 What is {typeLabel} {serviceName}?
               </h2>
@@ -277,9 +274,9 @@ export function ServiceTypeHub({
                   </p>
                 </div>
               )}
-            </AnimateOnScroll>
+            
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            
               <div className="space-y-6">
                 {/* Focus areas / benefits */}
                 <div className="bg-gray-50 rounded-xl p-6">
@@ -314,7 +311,7 @@ export function ServiceTypeHub({
                   </div>
                 )}
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </div>
       </section>
@@ -325,7 +322,7 @@ export function ServiceTypeHub({
       {((commonCauses && commonCauses.length > 0) || (problemLinks && problemLinks.length > 0)) && (
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="text-center mb-10">
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                   Common Causes of {serviceName.split(' ')[0]} Issues
@@ -334,20 +331,20 @@ export function ServiceTypeHub({
                   Understanding the root causes helps prevent future problems. Here are the most common issues we address.
                 </p>
               </div>
-            </AnimateOnScroll>
+            
 
             {/* Common causes list */}
             {commonCauses && commonCauses.length > 0 && (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
                 {commonCauses.slice(0, 12).map((cause, index) => (
-                  <AnimateOnScroll key={index} animation="fade-in-up" duration={400} delay={index * 50}>
+                  
                     <div className="flex items-start gap-3 p-4 bg-white rounded-lg border border-gray-200">
                       <div className="w-8 h-8 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
                         <AlertCircle className="w-4 h-4 text-primary" />
                       </div>
                       <span className="text-gray-700 text-sm">{cause}</span>
                     </div>
-                  </AnimateOnScroll>
+                  
                 ))}
               </div>
             )}
@@ -355,14 +352,14 @@ export function ServiceTypeHub({
             {/* Problem page links */}
             {problemLinks && problemLinks.length > 0 && (
               <>
-                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                
                   <h3 className="text-xl font-bold text-gray-900 text-center mb-6">
                     Learn More About Specific Issues
                   </h3>
-                </AnimateOnScroll>
+                
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                   {problemLinks.map((problem, index) => (
-                    <AnimateOnScroll key={problem.slug} animation="fade-in-up" duration={400} delay={index * 50}>
+                    
                       <Link
                         href={`/problems/${problem.slug}`}
                         className="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
@@ -394,7 +391,7 @@ export function ServiceTypeHub({
                           </div>
                         </div>
                       </Link>
-                    </AnimateOnScroll>
+                    
                   ))}
                 </div>
               </>
@@ -409,7 +406,7 @@ export function ServiceTypeHub({
       {showHealthRisks && (
         <section className="py-16 bg-gradient-to-br from-red-50 to-orange-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center justify-center gap-3 mb-4">
                 <div className="w-12 h-12 bg-red-100 rounded-xl flex items-center justify-center">
                   <HeartPulse className="w-6 h-6 text-red-600" />
@@ -421,22 +418,22 @@ export function ServiceTypeHub({
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 {serviceName} issues can pose serious health risks. Understanding these risks helps you make informed decisions about protecting your {type === 'residential' ? 'family' : 'employees and customers'}.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto">
               {healthRisks.map((risk, index) => (
-                <AnimateOnScroll key={index} animation="fade-in-up" duration={400} delay={index * 50}>
+                
                   <div className="flex items-start gap-3 p-4 bg-white rounded-lg border border-red-200 shadow-sm">
                     <div className="w-8 h-8 bg-red-100 rounded-full flex items-center justify-center flex-shrink-0">
                       <Heart className="w-4 h-4 text-red-600" />
                     </div>
                     <span className="text-gray-700">{risk}</span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+            
               <div className="mt-10 text-center">
                 <p className="text-gray-600 mb-4">
                   Don't wait until health issues appear. Get a professional assessment today.
@@ -449,7 +446,7 @@ export function ServiceTypeHub({
                   Request Assessment
                 </a>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       )}
@@ -470,7 +467,7 @@ export function ServiceTypeHub({
       {galleryImages && galleryImages.length > 0 && (
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="text-center mb-10">
                 <div className="flex items-center justify-center gap-3 mb-4">
                   <Camera className="w-8 h-8 text-primary" />
@@ -482,7 +479,7 @@ export function ServiceTypeHub({
                   See examples of our professional {serviceName.toLowerCase()} work. We take pride in restoring properties to their pre-damage condition.
                 </p>
               </div>
-            </AnimateOnScroll>
+            
 
             <div className={`grid gap-4 ${
               galleryImages.length === 1 
@@ -492,7 +489,7 @@ export function ServiceTypeHub({
                   : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
             }`}>
               {galleryImages.slice(0, 6).map((image, index) => (
-                <AnimateOnScroll key={index} animation="fade-in-up" duration={600} delay={index * 100}>
+                
                   <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
                     <OptimizedImage
                       src={image}
@@ -513,7 +510,7 @@ export function ServiceTypeHub({
                       </span>
                     </div>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -525,7 +522,7 @@ export function ServiceTypeHub({
       {/* ================================================================== */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <div className="text-center mb-10">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                 Why {type === 'residential' ? 'Homeowners' : 'Businesses'} Choose Total Care Restoration
@@ -534,17 +531,17 @@ export function ServiceTypeHub({
                 We're committed to providing exceptional {serviceName.toLowerCase()} services with professionalism and care.
               </p>
             </div>
-          </AnimateOnScroll>
+          
 
           {/* Type-specific challenges */}
           {challenges && (
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="max-w-3xl mx-auto mb-10 p-6 bg-white rounded-xl border border-gray-200">
                 <p className="text-gray-600 text-center leading-relaxed">
                   {challenges}
                 </p>
               </div>
-            </AnimateOnScroll>
+            
           )}
 
           {/* Trust signals grid */}
@@ -557,7 +554,7 @@ export function ServiceTypeHub({
               { icon: Users, text: 'Local South Florida Team', description: 'Based locally with fast response throughout the region' },
               { icon: Star, text: 'Satisfaction Guaranteed', description: 'We stand behind our work with quality guarantees' },
             ].map((signal, index) => (
-              <AnimateOnScroll key={index} animation="fade-in-up" duration={400} delay={index * 50}>
+              
                 <div className="flex items-start gap-4 p-4 bg-white rounded-lg border border-gray-200">
                   <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
                     <signal.icon className="w-6 h-6 text-primary" />
@@ -567,7 +564,7 @@ export function ServiceTypeHub({
                     <p className="text-sm text-gray-600">{signal.description}</p>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              
             ))}
           </div>
         </div>
@@ -578,7 +575,7 @@ export function ServiceTypeHub({
       {/* ================================================================== */}
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <div className="text-center mb-10">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                 Residential vs Commercial {serviceName}
@@ -587,11 +584,11 @@ export function ServiceTypeHub({
                 We offer specialized services for both residential and commercial properties, each with unique approaches.
               </p>
             </div>
-          </AnimateOnScroll>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Current type (highlighted) */}
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className={`p-6 rounded-xl border-2 ${
                 type === 'residential' 
                   ? 'border-primary bg-primary/5' 
@@ -638,10 +635,10 @@ export function ServiceTypeHub({
                   </Link>
                 )}
               </div>
-            </AnimateOnScroll>
+            
 
             {/* Opposite type */}
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+            
               <div className={`p-6 rounded-xl border-2 ${
                 type === 'commercial' 
                   ? 'border-primary bg-primary/5' 
@@ -688,7 +685,7 @@ export function ServiceTypeHub({
                   </Link>
                 )}
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </div>
       </section>
@@ -709,7 +706,7 @@ export function ServiceTypeHub({
       {cappedCityLinks.length > 0 && (
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="text-center mb-10">
                 <div className="flex items-center justify-center gap-3 mb-4">
                   <MapPin className="w-8 h-8 text-primary" />
@@ -721,7 +718,7 @@ export function ServiceTypeHub({
                   We serve {type === 'residential' ? 'homeowners' : 'businesses'} throughout South Florida. Select your city for local service information.
                 </p>
               </div>
-            </AnimateOnScroll>
+            
 
             {/* Clean city link grid - navigation aid, not ranking engine */}
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 max-w-4xl mx-auto">
@@ -734,7 +731,7 @@ export function ServiceTypeHub({
                   .trim();
                 
                 return (
-                  <AnimateOnScroll key={link.href} animation="fade-in-up" duration={400} delay={index * 50}>
+                  
                     <Link
                       href={link.href}
                       className="group block p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-primary hover:bg-primary/5 transition-all duration-200 text-center"
@@ -743,12 +740,12 @@ export function ServiceTypeHub({
                         {cityName}
                       </span>
                     </Link>
-                  </AnimateOnScroll>
+                  
                 );
               })}
             </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+            
               <div className="mt-8 text-center">
                 <p className="text-gray-500 text-sm">
                   Don't see your city? We likely serve your area.{' '}
@@ -757,7 +754,7 @@ export function ServiceTypeHub({
                   </a>
                 </p>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       )}
@@ -767,7 +764,7 @@ export function ServiceTypeHub({
       {/* ================================================================== */}
       <section className="py-16 bg-primary">
         <div className="max-w-4xl mx-auto px-4 text-center">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
               Ready to Discuss Your {serviceName} Needs?
             </h2>
@@ -790,7 +787,7 @@ export function ServiceTypeHub({
                 Request Free Consultation
               </Link>
             </div>
-          </AnimateOnScroll>
+          
         </div>
       </section>
     </div>

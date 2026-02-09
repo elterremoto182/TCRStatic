@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
@@ -129,7 +128,7 @@ export default function RoofTarpingPage() {
               className={`mb-6 ${service.images?.hero ? '[&_a]:text-white/80 [&_a:hover]:text-white [&_span]:text-white [&_svg]:text-white/60' : ''}`} 
             />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="max-w-3xl">
                 {/* Service badges */}
                 <div className="flex items-center gap-3 mb-6">
@@ -184,25 +183,25 @@ export default function RoofTarpingPage() {
                   </Link>
                 </div>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Service Type Selection */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Choose Your Property Type
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We offer specialized roof tarping services for both residential homes and commercial buildings, with equipment and techniques tailored to each property type.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {/* Residential Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/residential`}
                   className="group block p-8 bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -241,10 +240,10 @@ export default function RoofTarpingPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
               {/* Commercial Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/commercial`}
                   className="group block p-8 bg-gradient-to-br from-gray-50 to-amber-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -283,7 +282,7 @@ export default function RoofTarpingPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -338,14 +337,14 @@ export default function RoofTarpingPage() {
         {service.images?.gallery && service.images.gallery.length > 0 && (
           <section className="py-16 bg-gray-50">
             <div className="max-w-6xl mx-auto px-4">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
+              
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                   Our Work in Action
                 </h2>
                 <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                   See examples of our professional roof tarping services throughout South Florida.
                 </p>
-              </AnimateOnScroll>
+              
 
               <div className={`grid gap-6 ${
                 service.images.gallery.length === 1 
@@ -355,12 +354,7 @@ export default function RoofTarpingPage() {
                     : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
               }`}>
                 {service.images.gallery.map((image, index) => (
-                  <AnimateOnScroll
-                    key={index}
-                    animation="fade-in-up"
-                    duration={600}
-                    delay={index * 100}
-                  >
+                  
                     <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
                       <OptimizedImage
                         src={image}
@@ -377,7 +371,7 @@ export default function RoofTarpingPage() {
                         </span>
                       </div>
                     </div>
-                  </AnimateOnScroll>
+                  
                 ))}
               </div>
             </div>
@@ -387,7 +381,7 @@ export default function RoofTarpingPage() {
         {/* Cities Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center justify-center gap-3 mb-4">
                 <MapPin className="w-6 h-6 text-primary" />
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
@@ -397,22 +391,17 @@ export default function RoofTarpingPage() {
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We provide emergency roof tarping services throughout South Florida, including Miami-Dade, Broward, and Palm Beach counties.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
               {cityList.map((city, index) => (
-                <AnimateOnScroll
-                  key={city.slug}
-                  animation="fade-in-up"
-                  duration={400}
-                  delay={index * 50}
-                >
+                
                   <div className="block p-4 bg-gray-50 rounded-xl border border-gray-100">
                     <span className="font-medium text-gray-900">
                       {city.name}
                     </span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -421,7 +410,7 @@ export default function RoofTarpingPage() {
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
                 Roof Damaged? Need Emergency Tarping?
               </h2>
@@ -443,7 +432,7 @@ export default function RoofTarpingPage() {
                   Get Free Assessment
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       </main>

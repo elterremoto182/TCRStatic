@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 
 interface FAQItem {
@@ -67,7 +66,7 @@ export function LocalFAQ({ title, faqs, localFAQs, className = '' }: LocalFAQPro
   return (
     <section className={`py-16 bg-gray-50 ${className}`} id="faq">
       <div className="max-w-4xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <div className="flex items-center justify-center gap-3 mb-4">
             <HelpCircle className="w-8 h-8 text-primary" />
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
@@ -77,16 +76,11 @@ export function LocalFAQ({ title, faqs, localFAQs, className = '' }: LocalFAQPro
           <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
             Get answers to common questions about our services in your area.
           </p>
-        </AnimateOnScroll>
+        </div>
 
         <div className="space-y-3">
           {allFaqs.map((faq, index) => (
-            <AnimateOnScroll
-              key={index}
-              animation="fade-in-up"
-              duration={600}
-              delay={index * 100}
-            >
+            <div key={index}>
               {/* Add visual marker for local FAQs */}
               {hasLocalFAQs && index === localFAQsStartIndex && (
                 <div className="flex items-center gap-2 py-2 mb-2">
@@ -102,24 +96,22 @@ export function LocalFAQ({ title, faqs, localFAQs, className = '' }: LocalFAQPro
                 isOpen={openIndex === index}
                 onToggle={() => setOpenIndex(openIndex === index ? null : index)}
               />
-            </AnimateOnScroll>
+            </div>
           ))}
         </div>
 
         {/* Additional Help CTA */}
-        <AnimateOnScroll animation="fade-in-up" duration={600} delay={400}>
-          <div className="mt-10 text-center">
-            <p className="text-gray-600 mb-4">
-              Have a question not answered here?
-            </p>
-            <a
-              href="tel:7866106317"
-              className="inline-flex items-center gap-2 text-primary font-semibold hover:text-primary/80 transition-colors"
-            >
-              Call us at (786) 610-6317 — We're here to help 24/7
-            </a>
-          </div>
-        </AnimateOnScroll>
+        <div className="mt-10 text-center">
+          <p className="text-gray-600 mb-4">
+            Have a question not answered here?
+          </p>
+          <a
+            href="tel:7866106317"
+            className="inline-flex items-center gap-2 text-primary font-semibold hover:text-primary/80 transition-colors"
+          >
+            Call us at (786) 610-6317 — We're here to help 24/7
+          </a>
+        </div>
       </div>
     </section>
   );
@@ -142,4 +134,3 @@ export function generateFAQSchemaScript(faqs: FAQItem[]): string {
 
   return JSON.stringify(schema);
 }
-

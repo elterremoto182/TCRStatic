@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { Mail, Phone, MapPin, Send, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import siteConfig from '@/config/site.json';
 import content from '@/config/content.json';
 
@@ -86,7 +85,7 @@ export function Contact() {
   return (
     <section id="contact" className="py-20 md:py-28 bg-muted/50">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600} delay={0}>
+        
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
               {contact.headline}
@@ -95,10 +94,10 @@ export function Contact() {
               {contact.description}
             </p>
           </div>
-        </AnimateOnScroll>
+        
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          <AnimateOnScroll animation="fade-in-left" duration={600} delay={0}>
+          
             <div className="space-y-6">
               <div className="flex items-start">
                 <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center mr-4 flex-shrink-0">
@@ -149,9 +148,9 @@ export function Contact() {
                 </div>
               </div>
             </div>
-          </AnimateOnScroll>
+          
 
-          <AnimateOnScroll animation="fade-in-right" duration={600} delay={0}>
+          
             <form onSubmit={handleSubmit} className="space-y-4">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <input
@@ -229,7 +228,7 @@ export function Contact() {
                 )}
               </button>
             </form>
-          </AnimateOnScroll>
+          
         </div>
       </div>
     </section>

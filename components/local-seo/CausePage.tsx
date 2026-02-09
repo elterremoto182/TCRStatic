@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { LocalCTA } from './LocalCTA';
 import { LocalFAQ } from './LocalFAQ';
@@ -61,7 +60,7 @@ export function CausePage({
         <div className="max-w-6xl mx-auto px-4">
           <Breadcrumbs items={breadcrumbs} className="mb-6" />
 
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <div className="flex flex-wrap items-center gap-3 mb-6">
               <span
                 className={`inline-flex items-center gap-2 px-3 py-1 ${urgencyStyle.bg} ${urgencyStyle.text} text-sm font-semibold rounded-full`}
@@ -108,7 +107,7 @@ export function CausePage({
                 Get Free Assessment
               </Link>
             </div>
-          </AnimateOnScroll>
+          
         </div>
       </section>
 
@@ -119,7 +118,7 @@ export function CausePage({
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               {/* Main Overview Content */}
               <div className="lg:col-span-2">
-                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                
                   <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                     Understanding {cause.name} in {city.name}
                   </h2>
@@ -145,13 +144,13 @@ export function CausePage({
                       </p>
                     </div>
                   )}
-                </AnimateOnScroll>
+                
               </div>
 
               {/* Sidebar */}
               <div className="lg:col-span-1 space-y-6">
                 {/* Why Act Fast Card */}
-                <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+                
                   <div className={`${urgencyStyle.bg} ${urgencyStyle.border} border rounded-xl p-6`}>
                     <div className="flex items-center gap-3 mb-4">
                       <div className={`w-10 h-10 ${urgencyStyle.bg} rounded-lg flex items-center justify-center`}>
@@ -163,10 +162,10 @@ export function CausePage({
                       {cause.bodyContent!.whyActFast}
                     </p>
                   </div>
-                </AnimateOnScroll>
+                
 
                 {/* Trust Signals */}
-                <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+                
                   <div className="bg-gray-50 rounded-xl p-6">
                     <h3 className="text-lg font-bold text-gray-900 mb-4">
                       Why Choose Us in {city.name}?
@@ -210,7 +209,7 @@ export function CausePage({
                       </li>
                     </ul>
                   </div>
-                </AnimateOnScroll>
+                
               </div>
             </div>
           </div>
@@ -221,49 +220,49 @@ export function CausePage({
       {hasBodyContent && cause.bodyContent!.commonCauses.length > 0 && (
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl font-bold text-gray-900 mb-4">
                 What Causes {cause.name}?
               </h2>
               <p className="text-gray-600 max-w-2xl mb-8">
                 Understanding the common causes helps you prevent future incidents and identify issues early.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {cause.bodyContent!.commonCauses.map((causeItem, idx) => (
-                <AnimateOnScroll key={idx} animation="fade-in-up" duration={400} delay={idx * 50}>
+                
                   <div className="flex items-start gap-3 p-4 bg-white rounded-lg border border-gray-200">
                     <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
                       <span className="text-blue-600 font-bold text-sm">{idx + 1}</span>
                     </div>
                     <span className="text-gray-700">{causeItem}</span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
 
             {/* City-Specific Causes - SEO Differentiator */}
             {cityContent?.citySpecificCauses && cityContent.citySpecificCauses.length > 0 && (
               <div className="mt-8">
-                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                
                   <div className="flex items-center gap-2 mb-4">
                     <MapPin className="w-5 h-5 text-primary" />
                     <h3 className="text-xl font-bold text-gray-900">
                       Specific to {city.name}
                     </h3>
                   </div>
-                </AnimateOnScroll>
+                
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {cityContent.citySpecificCauses.map((causeItem, idx) => (
-                    <AnimateOnScroll key={`city-${idx}`} animation="fade-in-up" duration={400} delay={idx * 50}>
+                    
                       <div className="flex items-start gap-3 p-4 bg-primary/5 rounded-lg border border-primary/20">
                         <div className="w-8 h-8 bg-primary/20 rounded-full flex items-center justify-center flex-shrink-0">
                           <MapPin className="w-4 h-4 text-primary" />
                         </div>
                         <span className="text-gray-700">{causeItem}</span>
                       </div>
-                    </AnimateOnScroll>
+                    
                   ))}
                 </div>
               </div>
@@ -276,7 +275,7 @@ export function CausePage({
       {hasBodyContent && cause.bodyContent!.warningSignals && cause.bodyContent!.warningSignals.length > 0 && (
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center gap-3 mb-4">
                 <div className="w-12 h-12 bg-red-100 rounded-xl flex items-center justify-center">
                   <AlertTriangle className="w-6 h-6 text-red-600" />
@@ -288,16 +287,16 @@ export function CausePage({
               <p className="text-gray-600 max-w-2xl mb-8">
                 Early detection can save you thousands in repairs. Watch for these warning signs:
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
               {cause.bodyContent!.warningSignals.map((signal, idx) => (
-                <AnimateOnScroll key={idx} animation="fade-in-up" duration={400} delay={idx * 50}>
+                
                   <div className="flex items-start gap-3 p-4 bg-red-50 rounded-lg border border-red-100">
                     <XCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
                     <span className="text-gray-700 text-sm">{signal}</span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -316,7 +315,7 @@ export function CausePage({
       {hasBodyContent && cause.bodyContent!.preventionTips && cause.bodyContent!.preventionTips.length > 0 && (
         <section className="py-16 bg-gradient-to-br from-green-50 to-emerald-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center gap-3 mb-4">
                 <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center">
                   <Lightbulb className="w-6 h-6 text-green-700" />
@@ -328,42 +327,42 @@ export function CausePage({
               <p className="text-gray-600 max-w-2xl mb-8">
                 Take these proactive steps to protect your {city.name} property from {cause.name.toLowerCase()}.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {cause.bodyContent!.preventionTips.map((tip, idx) => (
-                <AnimateOnScroll key={idx} animation="fade-in-up" duration={400} delay={idx * 50}>
+                
                   <div className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-100">
                     <div className="flex-shrink-0 w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
                       <CheckCircle className="w-5 h-5 text-green-600" />
                     </div>
                     <p className="text-gray-700 leading-relaxed">{tip}</p>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
 
             {/* City-Specific Prevention Tips - SEO Differentiator */}
             {cityContent?.citySpecificPrevention && cityContent.citySpecificPrevention.length > 0 && (
               <div className="mt-8">
-                <AnimateOnScroll animation="fade-in-up" duration={600}>
+                
                   <div className="flex items-center gap-2 mb-4">
                     <MapPin className="w-5 h-5 text-green-700" />
                     <h3 className="text-xl font-bold text-gray-900">
                       Tips for {city.name} Properties
                     </h3>
                   </div>
-                </AnimateOnScroll>
+                
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {cityContent.citySpecificPrevention.map((tip, idx) => (
-                    <AnimateOnScroll key={`city-tip-${idx}`} animation="fade-in-up" duration={400} delay={idx * 50}>
+                    
                       <div className="flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm border border-green-200">
                         <div className="flex-shrink-0 w-8 h-8 bg-green-200 rounded-full flex items-center justify-center">
                           <MapPin className="w-4 h-4 text-green-700" />
                         </div>
                         <p className="text-gray-700 leading-relaxed">{tip}</p>
                       </div>
-                    </AnimateOnScroll>
+                    
                   ))}
                 </div>
               </div>
@@ -375,23 +374,18 @@ export function CausePage({
       {/* Related Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          
             <h2 className="text-3xl font-bold text-gray-900 text-center mb-4">
               Related Restoration Services in {city.name}
             </h2>
             <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
               {cause.name} often requires comprehensive restoration. Explore our full service options.
             </p>
-          </AnimateOnScroll>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {parentServices.map((service, index) => (
-              <AnimateOnScroll
-                key={service.slug}
-                animation="fade-in-up"
-                duration={600}
-                delay={index * 100}
-              >
+              
                 <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
                   <Link
                     href={`/${service.slug}/residential/${citySlug}`}
@@ -425,7 +419,7 @@ export function CausePage({
                     </Link>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              
             ))}
           </div>
         </div>
@@ -452,15 +446,15 @@ export function CausePage({
       {relatedBlogPosts.length > 0 && (
         <section className="py-12 bg-white border-t border-gray-200">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-2xl font-bold text-gray-900 mb-6">
                 Helpful Articles About {cause.name}
               </h2>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {relatedBlogPosts.map((post, idx) => (
-                <AnimateOnScroll key={idx} animation="fade-in-up" duration={400} delay={idx * 100}>
+                
                   <Link
                     href={`/${post.slug}/`}
                     className="group block p-6 bg-amber-50 rounded-xl hover:bg-amber-100 transition-colors"
@@ -476,7 +470,7 @@ export function CausePage({
                       <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </span>
                   </Link>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>

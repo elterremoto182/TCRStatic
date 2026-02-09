@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { getAllGuides, getPostsByPillar } from '@/lib/guides';
 import { generatePageMetadata } from '@/lib/utils';
 import { 
@@ -80,26 +79,24 @@ export default function GuidesIndexPage() {
           <div className="max-w-6xl mx-auto px-4">
             <Breadcrumbs items={[{ label: 'Guides', href: '/guides/' }]} className="mb-6" />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <div className="text-center">
-                <div className="inline-flex items-center justify-center w-20 h-20 bg-primary/10 rounded-2xl mb-6">
-                  <BookOpen className="w-10 h-10 text-primary" />
-                </div>
-                
-                <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                  Property Restoration Guides
-                </h1>
-                
-                <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
-                  Comprehensive, in-depth guides covering everything you need to know about property restoration. 
-                  Written by our IICRC-certified technicians with decades of combined experience in South Florida.
-                </p>
-                
-                <p className="text-lg text-gray-500 max-w-3xl mx-auto">
-                  Property damage can be overwhelming, but knowledge is power. Our restoration guides walk you through each type of damage—from the initial emergency response to complete restoration. Learn what to expect during the restoration process, understand industry terminology, discover prevention strategies, and know your rights when filing insurance claims. Whether you&apos;re facing water damage from a burst pipe, smoke damage from a fire, mold growth from humidity, or storm damage from a hurricane, these guides provide the expert insights you need to make informed decisions and protect your property.
-                </p>
+            <div className="text-center">
+              <div className="inline-flex items-center justify-center w-20 h-20 bg-primary/10 rounded-2xl mb-6">
+                <BookOpen className="w-10 h-10 text-primary" />
               </div>
-            </AnimateOnScroll>
+              
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
+                Property Restoration Guides
+              </h1>
+              
+              <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
+                Comprehensive, in-depth guides covering everything you need to know about property restoration. 
+                Written by our IICRC-certified technicians with decades of combined experience in South Florida.
+              </p>
+              
+              <p className="text-lg text-gray-500 max-w-3xl mx-auto">
+                Property damage can be overwhelming, but knowledge is power. Our restoration guides walk you through each type of damage—from the initial emergency response to complete restoration. Learn what to expect during the restoration process, understand industry terminology, discover prevention strategies, and know your rights when filing insurance claims. Whether you&apos;re facing water damage from a burst pipe, smoke damage from a fire, mold growth from humidity, or storm damage from a hurricane, these guides provide the expert insights you need to make informed decisions and protect your property.
+              </p>
+            </div>
           </div>
         </section>
 
@@ -114,7 +111,7 @@ export default function GuidesIndexPage() {
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                {guidesWithCounts.map((guide, index) => {
+                {guidesWithCounts.map((guide) => {
                   const icon = iconMap[guide.slug] || <BookOpen className="w-8 h-8" />;
                   const colors = colorMap[guide.slug] || { 
                     bg: 'bg-gray-50', 
@@ -123,39 +120,33 @@ export default function GuidesIndexPage() {
                   };
 
                   return (
-                    <AnimateOnScroll
+                    <Link
                       key={guide.slug}
-                      animation="fade-in-up"
-                      duration={600}
-                      delay={index * 100}
+                      href={`/guides/${guide.slug}/`}
+                      className={`group block p-8 ${colors.bg} rounded-2xl border-2 ${colors.border} transition-all duration-200 hover:shadow-lg`}
                     >
-                      <Link
-                        href={`/guides/${guide.slug}/`}
-                        className={`group block p-8 ${colors.bg} rounded-2xl border-2 ${colors.border} transition-all duration-200 hover:shadow-lg`}
-                      >
-                        <div className={`w-16 h-16 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow ${colors.text}`}>
-                          {icon}
-                        </div>
-                        
-                        <h2 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-primary transition-colors">
-                          {guide.title}
-                        </h2>
-                        
-                        <p className="text-gray-600 mb-6 line-clamp-3">
-                          {guide.excerpt}
-                        </p>
-                        
-                        <div className="flex items-center justify-between">
-                          <span className="text-sm text-gray-500">
-                            {guide.postCount} related articles
-                          </span>
-                          <span className="inline-flex items-center gap-2 text-primary font-semibold group-hover:gap-3 transition-all">
-                            Read Guide
-                            <ArrowRight className="w-4 h-4" />
-                          </span>
-                        </div>
-                      </Link>
-                    </AnimateOnScroll>
+                      <div className={`w-16 h-16 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow ${colors.text}`}>
+                        {icon}
+                      </div>
+                      
+                      <h2 className="text-2xl font-bold text-gray-900 mb-3 group-hover:text-primary transition-colors">
+                        {guide.title}
+                      </h2>
+                      
+                      <p className="text-gray-600 mb-6 line-clamp-3">
+                        {guide.excerpt}
+                      </p>
+                      
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm text-gray-500">
+                          {guide.postCount} related articles
+                        </span>
+                        <span className="inline-flex items-center gap-2 text-primary font-semibold group-hover:gap-3 transition-all">
+                          Read Guide
+                          <ArrowRight className="w-4 h-4" />
+                        </span>
+                      </div>
+                    </Link>
                   );
                 })}
               </div>
@@ -166,29 +157,27 @@ export default function GuidesIndexPage() {
         {/* CTA Section */}
         <section className="py-20 bg-gray-50">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                Need Immediate Help?
-              </h2>
-              <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
-                Our restoration experts are available 24/7 for emergencies. 
-                Don&apos;t wait—contact us now for a free assessment.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="tel:7866106317"
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
-                >
-                  Call (786) 610-6317
-                </a>
-                <Link
-                  href="/#contact"
-                  className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
-                >
-                  Get Free Assessment
-                </Link>
-              </div>
-            </AnimateOnScroll>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              Need Immediate Help?
+            </h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
+              Our restoration experts are available 24/7 for emergencies. 
+              Don&apos;t wait—contact us now for a free assessment.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a
+                href="tel:7866106317"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
+              >
+                Call (786) 610-6317
+              </a>
+              <Link
+                href="/#contact"
+                className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
+              >
+                Get Free Assessment
+              </Link>
+            </div>
           </div>
         </section>
       </main>
@@ -196,4 +185,3 @@ export default function GuidesIndexPage() {
     </>
   );
 }
-

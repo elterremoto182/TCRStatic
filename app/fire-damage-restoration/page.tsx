@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema, generateFAQPageSchema } from '@/lib/structured-data';
@@ -118,7 +117,7 @@ export default function FireDamageRestorationPage() {
               className={`mb-6 ${service.images?.hero ? '[&_a]:text-white/80 [&_a:hover]:text-white [&_span]:text-white [&_svg]:text-white/60' : ''}`} 
             />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="max-w-3xl">
                 {/* Service badges */}
                 <div className="flex items-center gap-3 mb-6">
@@ -173,25 +172,25 @@ export default function FireDamageRestorationPage() {
                   </Link>
                 </div>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Service Type Selection */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Choose Your Property Type
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We offer specialized fire damage restoration services tailored to the unique needs of residential homeowners and commercial property managers.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {/* Residential Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/residential`}
                   className="group block p-8 bg-gradient-to-br from-orange-50 to-yellow-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -210,10 +209,10 @@ export default function FireDamageRestorationPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
               {/* Commercial Card */}
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href={`/${SERVICE_SLUG}/commercial`}
                   className="group block p-8 bg-gradient-to-br from-slate-50 to-orange-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -232,7 +231,7 @@ export default function FireDamageRestorationPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -282,14 +281,14 @@ export default function FireDamageRestorationPage() {
         {service.images?.gallery && service.images.gallery.length > 0 && (
           <section className="py-16 bg-gray-50">
             <div className="max-w-6xl mx-auto px-4">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
+              
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                   Our Work in Action
                 </h2>
                 <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                   See examples of our professional fire damage restoration services throughout South Florida.
                 </p>
-              </AnimateOnScroll>
+              
 
               <div className={`grid gap-6 ${
                 service.images.gallery.length === 1 
@@ -299,12 +298,7 @@ export default function FireDamageRestorationPage() {
                     : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
               }`}>
                 {service.images.gallery.map((image, index) => (
-                  <AnimateOnScroll
-                    key={index}
-                    animation="fade-in-up"
-                    duration={600}
-                    delay={index * 100}
-                  >
+                  
                     <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
                       <OptimizedImage
                         src={image}
@@ -321,7 +315,7 @@ export default function FireDamageRestorationPage() {
                         </span>
                       </div>
                     </div>
-                  </AnimateOnScroll>
+                  
                 ))}
               </div>
             </div>
@@ -331,7 +325,7 @@ export default function FireDamageRestorationPage() {
         {/* Cities Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center justify-center gap-3 mb-4">
                 <MapPin className="w-6 h-6 text-primary" />
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
@@ -341,22 +335,17 @@ export default function FireDamageRestorationPage() {
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We provide fire damage restoration services throughout South Florida.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
               {cityList.map((city, index) => (
-                <AnimateOnScroll
-                  key={city.slug}
-                  animation="fade-in-up"
-                  duration={400}
-                  delay={index * 50}
-                >
+                
                   <div className="block p-4 bg-gray-50 rounded-xl border border-gray-100">
                     <span className="font-medium text-gray-900">
                       {city.name}
                     </span>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -365,7 +354,7 @@ export default function FireDamageRestorationPage() {
         {/* Pillar Guide Banner */}
         <section className="py-12 bg-orange-50">
           <div className="max-w-4xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <Link
                 href="/guides/fire-damage-restoration/"
                 className="group flex flex-col md:flex-row items-center gap-6 p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-200 border border-orange-100"
@@ -386,24 +375,24 @@ export default function FireDamageRestorationPage() {
                   <ArrowRight className="w-4 h-4" />
                 </span>
               </Link>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Related Resources Section */}
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Fire Damage Resources & Guides
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 Learn more about fire damage assessment, smoke cleanup, and our restoration process.
               </p>
-            </AnimateOnScroll>
+            
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href="/fire-damage-inspection-steps/"
                   className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
@@ -418,9 +407,9 @@ export default function FireDamageRestorationPage() {
                     Learn More <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href="/7-steps-to-clean-smoke-damaged-items/"
                   className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
@@ -435,9 +424,9 @@ export default function FireDamageRestorationPage() {
                     Learn More <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+              
                 <Link
                   href="/top-5-soot-cleaning-services/"
                   className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200"
@@ -452,7 +441,7 @@ export default function FireDamageRestorationPage() {
                     Learn More <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -460,7 +449,7 @@ export default function FireDamageRestorationPage() {
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
                 Fire Damage Emergency?
               </h2>
@@ -482,7 +471,7 @@ export default function FireDamageRestorationPage() {
                   Get Free Assessment
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       </main>

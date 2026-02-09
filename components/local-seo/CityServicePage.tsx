@@ -1,7 +1,4 @@
-'use client';
-
 import Link from 'next/link';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import OptimizedImage from '@/components/OptimizedImage';
 import { ServiceProcess } from './ServiceProcess';
@@ -136,7 +133,7 @@ export function CityServicePage({
           <Breadcrumbs items={breadcrumbs} className="mb-6" />
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <div className="flex items-center gap-3 mb-4">
                 <span className="inline-flex items-center gap-2 px-3 py-1 bg-primary/10 text-primary text-sm font-semibold rounded-full">
                   <TypeIcon className="w-4 h-4" />
@@ -180,11 +177,11 @@ export function CityServicePage({
                 Looking for {oppositeLabel} services?
                 <ArrowRight className="w-4 h-4" />
               </Link>
-            </AnimateOnScroll>
+            </div>
 
             {/* Hero Feature Image */}
             {content.images?.hero && (
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              <div>
                 <div className="hidden lg:block relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                   <OptimizedImage
                     src={content.images.hero}
@@ -206,7 +203,7 @@ export function CityServicePage({
                     </span>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              </div>
             )}
           </div>
         </div>
@@ -216,7 +213,7 @@ export function CityServicePage({
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                 {content.intro.title}
               </h2>
@@ -261,9 +258,9 @@ export function CityServicePage({
                   </div>
                 ))}
               </div>
-            </AnimateOnScroll>
+            </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            <div>
               <div className="space-y-6">
                 {/* Overview Image */}
                 {content.images?.overview && (
@@ -287,7 +284,7 @@ export function CityServicePage({
                   <CommercialBenefits />
                 )}
               </div>
-            </AnimateOnScroll>
+            </div>
           </div>
         </div>
       </section>
@@ -296,7 +293,7 @@ export function CityServicePage({
       {content.localFactors && content.localFactors.risks.length > 0 && (
         <section className="py-16 bg-gradient-to-br from-amber-50 to-orange-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <div className="flex items-center gap-3 mb-6">
                 <div className="w-12 h-12 bg-amber-100 rounded-xl flex items-center justify-center">
                   <AlertCircle className="w-6 h-6 text-amber-700" />
@@ -309,53 +306,47 @@ export function CityServicePage({
               <p className="text-gray-600 text-lg mb-8 max-w-3xl">
                 {content.localFactors.characteristics}. {content.localFactors.climate}.
               </p>
-            </AnimateOnScroll>
+            </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
               {content.localFactors.risks.map((risk, index) => (
-                <AnimateOnScroll key={index} animation="fade-in-up" duration={400} delay={index * 50}>
-                  <div className="flex items-start gap-3 p-4 bg-white rounded-lg border border-amber-200 shadow-sm">
-                    <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center flex-shrink-0">
-                      <AlertCircle className="w-4 h-4 text-amber-700" />
-                    </div>
-                    <span className="text-gray-700 font-medium">{risk}</span>
+                <div key={index} className="flex items-start gap-3 p-4 bg-white rounded-lg border border-amber-200 shadow-sm">
+                  <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center flex-shrink-0">
+                    <AlertCircle className="w-4 h-4 text-amber-700" />
                   </div>
-                </AnimateOnScroll>
+                  <span className="text-gray-700 font-medium">{risk}</span>
+                </div>
               ))}
             </div>
 
             {/* Seasonal Triggers */}
             {content.localFactors.seasonalTriggers && (
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
-                <div className="p-6 bg-white rounded-xl border border-amber-200">
-                  <div className="flex items-start gap-4">
-                    <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                      <Clock className="w-5 h-5 text-amber-700" />
-                    </div>
-                    <div>
-                      <h3 className="font-bold text-gray-900 mb-2">When Damage Is Most Likely</h3>
-                      <p className="text-gray-600">{content.localFactors.seasonalTriggers}</p>
-                    </div>
+              <div className="p-6 bg-white rounded-xl border border-amber-200">
+                <div className="flex items-start gap-4">
+                  <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                    <Clock className="w-5 h-5 text-amber-700" />
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-gray-900 mb-2">When Damage Is Most Likely</h3>
+                    <p className="text-gray-600">{content.localFactors.seasonalTriggers}</p>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              </div>
             )}
 
             {/* Insurance Notes */}
             {content.localFactors.insuranceNotes && (
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
-                <div className="mt-4 p-6 bg-white rounded-xl border border-amber-200">
-                  <div className="flex items-start gap-4">
-                    <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                      <FileCheck className="w-5 h-5 text-amber-700" />
-                    </div>
-                    <div>
-                      <h3 className="font-bold text-gray-900 mb-2">Local Insurance &amp; HOA Considerations</h3>
-                      <p className="text-gray-600">{content.localFactors.insuranceNotes}</p>
-                    </div>
+              <div className="mt-4 p-6 bg-white rounded-xl border border-amber-200">
+                <div className="flex items-start gap-4">
+                  <div className="w-10 h-10 bg-amber-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                    <FileCheck className="w-5 h-5 text-amber-700" />
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-gray-900 mb-2">Local Insurance &amp; HOA Considerations</h3>
+                    <p className="text-gray-600">{content.localFactors.insuranceNotes}</p>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              </div>
             )}
           </div>
         </section>
@@ -370,44 +361,40 @@ export function CityServicePage({
       {content.causes.causes.length > 0 && (
         <section className="py-16 bg-gray-50">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 {content.causes.title}
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 We handle all types of damage. Here are the most common issues we see in your area.
               </p>
-            </AnimateOnScroll>
+            </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {content.causes.causes.map((cause, index) => (
-                <AnimateOnScroll
+                <div
                   key={cause.slug}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
+                  className="p-6 bg-white rounded-xl border border-gray-200 shadow-sm"
                 >
-                  <div className="p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
-                    <div className="flex items-start gap-4">
-                      <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                        <AlertCircle className="w-5 h-5 text-primary" />
-                      </div>
-                      <div>
-                        <h3 className="font-bold text-gray-900 mb-1">
-                          {cause.name}
-                        </h3>
-                        <p className="text-sm text-gray-600">
-                          {cause.description}
-                        </p>
-                        {cause.urgency === 'emergency' && (
-                          <span className="inline-block mt-2 px-2 py-0.5 bg-red-100 text-red-700 text-xs font-semibold rounded">
-                            Emergency
-                          </span>
-                        )}
-                      </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <AlertCircle className="w-5 h-5 text-primary" />
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-gray-900 mb-1">
+                        {cause.name}
+                      </h3>
+                      <p className="text-sm text-gray-600">
+                        {cause.description}
+                      </p>
+                      {cause.urgency === 'emergency' && (
+                        <span className="inline-block mt-2 px-2 py-0.5 bg-red-100 text-red-700 text-xs font-semibold rounded">
+                          Emergency
+                        </span>
+                      )}
                     </div>
                   </div>
-                </AnimateOnScroll>
+                </div>
               ))}
             </div>
           </div>
@@ -418,14 +405,14 @@ export function CityServicePage({
       {content.images?.gallery && content.images.gallery.length > 0 && (
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Our Work in Action
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
                 See examples of our professional restoration services. We take pride in restoring properties to their pre-damage condition.
               </p>
-            </AnimateOnScroll>
+            </div>
 
             <div className={`grid gap-4 ${
               content.images.gallery.length === 1 
@@ -435,34 +422,30 @@ export function CityServicePage({
                   : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
             }`}>
               {content.images.gallery.map((image, index) => (
-                <AnimateOnScroll
+                <div
                   key={index}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
+                  className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300"
                 >
-                  <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
-                    <OptimizedImage
-                      src={image}
-                      alt={generateAltText({ 
-                        type: 'gallery-item',
-                        serviceName: content.hero.headline.split(' in ')[0],
-                        cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
-                        index
-                      })}
-                      fill
-                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                      className="object-cover group-hover:scale-105 transition-transform duration-500"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                    <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
-                        <Camera className="w-4 h-4" />
-                        Professional restoration
-                      </span>
-                    </div>
+                  <OptimizedImage
+                    src={image}
+                    alt={generateAltText({ 
+                      type: 'gallery-item',
+                      serviceName: content.hero.headline.split(' in ')[0],
+                      cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
+                      index
+                    })}
+                    fill
+                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                  <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
+                      <Camera className="w-4 h-4" />
+                      Professional restoration
+                    </span>
                   </div>
-                </AnimateOnScroll>
+                </div>
               ))}
             </div>
           </div>
@@ -485,19 +468,17 @@ export function CityServicePage({
       {/* What to Expect Section - New detailed content section */}
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
-            <div className="text-center mb-12">
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                What to Expect When You Call Us
-              </h2>
-              <p className="text-gray-600 max-w-3xl mx-auto text-lg">
-                Property damage is stressful. Here's what happens when you call us.
-              </p>
-            </div>
-          </AnimateOnScroll>
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              What to Expect When You Call Us
+            </h2>
+            <p className="text-gray-600 max-w-3xl mx-auto text-lg">
+              Property damage is stressful. Here's what happens when you call us.
+            </p>
+          </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+            <div>
               <div className="bg-gradient-to-br from-primary/5 to-primary/10 rounded-2xl p-8">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 bg-primary rounded-xl flex items-center justify-center">
@@ -517,9 +498,9 @@ export function CityServicePage({
                   </p>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            <div>
               <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-2xl p-8">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 bg-green-600 rounded-xl flex items-center justify-center">
@@ -539,9 +520,9 @@ export function CityServicePage({
                   </p>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={300}>
+            <div>
               <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 bg-blue-600 rounded-xl flex items-center justify-center">
@@ -561,9 +542,9 @@ export function CityServicePage({
                   </p>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={400}>
+            <div>
               <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-2xl p-8">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 bg-orange-600 rounded-xl flex items-center justify-center">
@@ -583,7 +564,7 @@ export function CityServicePage({
                   </p>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
           </div>
         </div>
       </section>
@@ -592,7 +573,7 @@ export function CityServicePage({
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            <div>
               <div className="space-y-6">
                 <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 text-primary rounded-full">
                   <MapPin className="w-5 h-5" />
@@ -640,9 +621,9 @@ export function CityServicePage({
                   </div>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
 
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            <div>
               <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
                 <h3 className="text-xl font-bold text-gray-900 mb-6">
                   Insurance & Cost Information
@@ -692,7 +673,7 @@ export function CityServicePage({
                   </a>
                 </div>
               </div>
-            </AnimateOnScroll>
+            </div>
           </div>
         </div>
       </section>
@@ -713,29 +694,25 @@ export function CityServicePage({
       {/* Trust Signals */}
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <AnimateOnScroll animation="fade-in-up" duration={600}>
+          <div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-10">
               {content.trustSignals.title}
             </h2>
-          </AnimateOnScroll>
+          </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {content.trustSignals.signals.map((signal, index) => {
               const IconComponent = iconMap[signal.icon] || Shield;
               return (
-                <AnimateOnScroll
+                <div
                   key={index}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
+                  className="flex items-center gap-4 p-4 bg-gray-50 rounded-lg"
                 >
-                  <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-lg">
-                    <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
-                      <IconComponent className="w-6 h-6 text-primary" />
-                    </div>
-                    <span className="text-gray-800 font-medium">{signal.text}</span>
+                  <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                    <IconComponent className="w-6 h-6 text-primary" />
                   </div>
-                </AnimateOnScroll>
+                  <span className="text-gray-800 font-medium">{signal.text}</span>
+                </div>
               );
             })}
           </div>

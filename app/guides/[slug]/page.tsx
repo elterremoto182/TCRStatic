@@ -4,7 +4,6 @@ import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { MarkdownRenderer } from '@/components/blog/MarkdownRenderer';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { getGuideBySlug, getAllGuides, getGuideWithPosts } from '@/lib/guides';
 import { generatePageMetadata } from '@/lib/utils';
 import { StructuredData, generateBreadcrumbSchema, generateArticleSchema, generateYouTubeVideoSchema } from '@/lib/structured-data';
@@ -150,42 +149,40 @@ export default async function GuidePage({
           <div className="max-w-4xl mx-auto px-4 relative z-10">
             <Breadcrumbs items={breadcrumbs} className="mb-6" />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center text-primary">
-                  {icon}
-                </div>
-                <span className="px-3 py-1 bg-primary/10 text-primary text-sm font-semibold rounded-full">
-                  Complete Guide
-                </span>
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center text-primary">
+                {icon}
               </div>
+              <span className="px-3 py-1 bg-primary/10 text-primary text-sm font-semibold rounded-full">
+                Complete Guide
+              </span>
+            </div>
 
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                {guide.title}
-              </h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+              {guide.title}
+            </h1>
 
-              <p className="text-xl text-gray-600 max-w-3xl mb-8">
-                {guide.excerpt}
-              </p>
+            <p className="text-xl text-gray-600 max-w-3xl mb-8">
+              {guide.excerpt}
+            </p>
 
-              {/* Quick Stats */}
-              <div className="flex flex-wrap gap-6 text-sm text-gray-600">
+            {/* Quick Stats */}
+            <div className="flex flex-wrap gap-6 text-sm text-gray-600">
+              <span className="flex items-center gap-2">
+                <BookOpen className="w-4 h-4" />
+                Comprehensive Guide
+              </span>
+              <span className="flex items-center gap-2">
+                <Calendar className="w-4 h-4" />
+                Updated {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
+              </span>
+              {clusterPosts.length > 0 && (
                 <span className="flex items-center gap-2">
-                  <BookOpen className="w-4 h-4" />
-                  Comprehensive Guide
+                  <ArrowRight className="w-4 h-4" />
+                  {clusterPosts.length} Related Articles
                 </span>
-                <span className="flex items-center gap-2">
-                  <Calendar className="w-4 h-4" />
-                  Updated {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
-                </span>
-                {clusterPosts.length > 0 && (
-                  <span className="flex items-center gap-2">
-                    <ArrowRight className="w-4 h-4" />
-                    {clusterPosts.length} Related Articles
-                  </span>
-                )}
-              </div>
-            </AnimateOnScroll>
+              )}
+            </div>
           </div>
         </section>
 
@@ -271,48 +268,40 @@ export default async function GuidePage({
         {clusterPosts.length > 0 && (
           <section className="py-16 bg-gray-50">
             <div className="max-w-6xl mx-auto px-4">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
-                <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
-                  Related Articles & Resources
-                </h2>
-                <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-                  Explore our in-depth articles covering specific topics, tips, and solutions related to this guide.
-                </p>
-              </AnimateOnScroll>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+                Related Articles & Resources
+              </h2>
+              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+                Explore our in-depth articles covering specific topics, tips, and solutions related to this guide.
+              </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {clusterPosts.slice(0, 12).map((post, index) => (
-                  <AnimateOnScroll
+                {clusterPosts.slice(0, 12).map((post) => (
+                  <Link
                     key={post.slug}
-                    animation="fade-in-up"
-                    duration={400}
-                    delay={index * 50}
+                    href={`/${post.slug}/`}
+                    className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200 border border-gray-100"
                   >
-                    <Link
-                      href={`/${post.slug}/`}
-                      className="group block p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-200 border border-gray-100"
-                    >
-                      <div className="flex items-start justify-between gap-4">
-                        <div className="flex-1">
-                          <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-primary transition-colors line-clamp-2">
-                            {post.title}
-                          </h3>
-                          <p className="text-sm text-gray-500 line-clamp-2">
-                            {post.excerpt}
-                          </p>
-                          <div className="mt-3 flex items-center gap-2 text-xs text-gray-400">
-                            <Calendar className="w-3 h-3" />
-                            {new Date(post.date).toLocaleDateString('en-US', {
-                              month: 'short',
-                              day: 'numeric',
-                              year: 'numeric',
-                            })}
-                          </div>
+                    <div className="flex items-start justify-between gap-4">
+                      <div className="flex-1">
+                        <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-primary transition-colors line-clamp-2">
+                          {post.title}
+                        </h3>
+                        <p className="text-sm text-gray-500 line-clamp-2">
+                          {post.excerpt}
+                        </p>
+                        <div className="mt-3 flex items-center gap-2 text-xs text-gray-400">
+                          <Calendar className="w-3 h-3" />
+                          {new Date(post.date).toLocaleDateString('en-US', {
+                            month: 'short',
+                            day: 'numeric',
+                            year: 'numeric',
+                          })}
                         </div>
-                        <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1" />
                       </div>
-                    </Link>
-                  </AnimateOnScroll>
+                      <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1" />
+                    </div>
+                  </Link>
                 ))}
               </div>
 
@@ -334,30 +323,28 @@ export default async function GuidePage({
         {/* Final CTA */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                Ready to Get Started?
-              </h2>
-              <p className="text-lg text-white/90 max-w-2xl mx-auto mb-8">
-                Our experienced team is available 24/7 to help with your restoration needs. 
-                Contact us for a free assessment.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="tel:7866106317"
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-primary font-bold rounded-lg hover:bg-gray-100 transition-colors shadow-lg"
-                >
-                  <Phone className="w-5 h-5" />
-                  Call (786) 610-6317
-                </a>
-                <Link
-                  href="/#contact"
-                  className="inline-flex items-center justify-center px-8 py-4 bg-transparent text-white font-bold rounded-lg border-2 border-white/50 hover:bg-white/10 transition-colors"
-                >
-                  Get Free Assessment
-                </Link>
-              </div>
-            </AnimateOnScroll>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+              Ready to Get Started?
+            </h2>
+            <p className="text-lg text-white/90 max-w-2xl mx-auto mb-8">
+              Our experienced team is available 24/7 to help with your restoration needs. 
+              Contact us for a free assessment.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a
+                href="tel:7866106317"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-primary font-bold rounded-lg hover:bg-gray-100 transition-colors shadow-lg"
+              >
+                <Phone className="w-5 h-5" />
+                Call (786) 610-6317
+              </a>
+              <Link
+                href="/#contact"
+                className="inline-flex items-center justify-center px-8 py-4 bg-transparent text-white font-bold rounded-lg border-2 border-white/50 hover:bg-white/10 transition-colors"
+              >
+                Get Free Assessment
+              </Link>
+            </div>
           </div>
         </section>
       </main>
@@ -365,4 +352,3 @@ export default async function GuidePage({
     </>
   );
 }
-

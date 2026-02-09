@@ -1,6 +1,3 @@
-'use client';
-
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import OptimizedImage from '@/components/OptimizedImage';
 import { AlertTriangle, Clock, Info } from 'lucide-react';
 import { generateAltText } from '@/lib/seo-utils';
@@ -30,7 +27,7 @@ export function ServiceOverviewSection({
   return (
     <section className="py-16 bg-gray-50">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center">
               <Info className="w-6 h-6 text-primary" />
@@ -39,12 +36,12 @@ export function ServiceOverviewSection({
               {title}
             </h2>
           </div>
-        </AnimateOnScroll>
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main content */}
           <div className="lg:col-span-2">
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+            <div>
               {/* Overview Image */}
               {overviewImage && (
                 <div className="relative aspect-[16/9] rounded-xl overflow-hidden shadow-lg mb-8">
@@ -64,12 +61,12 @@ export function ServiceOverviewSection({
                   </p>
                 ))}
               </div>
-            </AnimateOnScroll>
+            </div>
           </div>
 
           {/* Sidebar with why act fast and health risks */}
           <div className="lg:col-span-1 space-y-6">
-            <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+            <div>
               {/* Why Act Fast Card */}
               <div className="bg-amber-50 border border-amber-200 rounded-xl p-6">
                 <div className="flex items-center gap-3 mb-4">
@@ -87,7 +84,7 @@ export function ServiceOverviewSection({
 
               {/* Health Risks Card (if applicable) */}
               {healthRisks && healthRisks.length > 0 && (
-                <div className="bg-red-50 border border-red-200 rounded-xl p-6">
+                <div className="bg-red-50 border border-red-200 rounded-xl p-6 mt-6">
                   <div className="flex items-center gap-3 mb-4">
                     <div className="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center">
                       <AlertTriangle className="w-5 h-5 text-red-700" />
@@ -106,11 +103,10 @@ export function ServiceOverviewSection({
                   </ul>
                 </div>
               )}
-            </AnimateOnScroll>
+            </div>
           </div>
         </div>
       </div>
     </section>
   );
 }
-

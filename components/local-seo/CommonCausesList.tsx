@@ -1,6 +1,3 @@
-'use client';
-
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { AlertCircle } from 'lucide-react';
 import type { CommonCausesListContent } from '@/lib/local-seo/templates';
 
@@ -19,42 +16,34 @@ export function CommonCausesList({ content }: CommonCausesListProps) {
   const col2 = content.causes.slice(colSize, colSize * 2);
   const col3 = content.causes.slice(colSize * 2);
 
-  const renderCause = (cause: string, index: number, delay: number) => (
-    <AnimateOnScroll
-      key={index}
-      animation="fade-in-up"
-      duration={400}
-      delay={delay}
-    >
-      <li className="flex items-start gap-3 py-2">
-        <AlertCircle className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
-        <span className="text-gray-700">{cause}</span>
-      </li>
-    </AnimateOnScroll>
+  const renderCause = (cause: string, index: number) => (
+    <li key={index} className="flex items-start gap-3 py-2">
+      <AlertCircle className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+      <span className="text-gray-700">{cause}</span>
+    </li>
   );
 
   return (
     <section className="py-12 bg-gray-50 border-y border-gray-200">
       <div className="max-w-6xl mx-auto px-4">
-        <AnimateOnScroll animation="fade-in-up" duration={600}>
+        <div>
           <h3 className="text-2xl font-bold text-gray-900 mb-6">
             {content.title}
           </h3>
-        </AnimateOnScroll>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-2">
           <ul className="space-y-1">
-            {col1.map((cause, index) => renderCause(cause, index, index * 50))}
+            {col1.map((cause, index) => renderCause(cause, index))}
           </ul>
           <ul className="space-y-1">
-            {col2.map((cause, index) => renderCause(cause, index + colSize, (index + colSize) * 50))}
+            {col2.map((cause, index) => renderCause(cause, index + colSize))}
           </ul>
           <ul className="space-y-1">
-            {col3.map((cause, index) => renderCause(cause, index + colSize * 2, (index + colSize * 2) * 50))}
+            {col3.map((cause, index) => renderCause(cause, index + colSize * 2))}
           </ul>
         </div>
       </div>
     </section>
   );
 }
-

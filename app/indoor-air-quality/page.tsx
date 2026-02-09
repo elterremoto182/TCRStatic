@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema } from '@/lib/structured-data';
 import { 
@@ -97,7 +96,7 @@ export default function IndoorAirQualityPage() {
           <div className="max-w-6xl mx-auto px-4">
             <Breadcrumbs items={breadcrumbs} className="mb-6" />
             
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <div className="flex items-center gap-3 mb-6">
                 <div className="w-16 h-16 bg-sky-100 rounded-2xl flex items-center justify-center">
                   <Wind className="w-8 h-8 text-sky-700" />
@@ -129,30 +128,25 @@ export default function IndoorAirQualityPage() {
                   Get Free Assessment
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
 
         {/* Services Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Our Air Quality Services
               </h2>
               <p className="text-gray-600 text-center max-w-2xl mx-auto mb-12">
                 Comprehensive indoor air quality assessments to protect your health and property.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               {services.map((service, index) => (
-                <AnimateOnScroll
-                  key={service.title}
-                  animation="fade-in-up"
-                  duration={600}
-                  delay={index * 100}
-                >
+                
                   <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
                     <div className="w-12 h-12 bg-sky-100 rounded-xl flex items-center justify-center mb-4">
                       <service.icon className="w-6 h-6 text-sky-700" />
@@ -164,7 +158,7 @@ export default function IndoorAirQualityPage() {
                       {service.description}
                     </p>
                   </div>
-                </AnimateOnScroll>
+                
               ))}
             </div>
           </div>
@@ -174,7 +168,7 @@ export default function IndoorAirQualityPage() {
         <section className="py-16 bg-gradient-to-br from-amber-50 to-orange-50">
           <div className="max-w-6xl mx-auto px-4">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
+              
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                   Signs You Need Air Quality Testing
                 </h2>
@@ -190,9 +184,9 @@ export default function IndoorAirQualityPage() {
                     </li>
                   ))}
                 </ul>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <div className="bg-white p-8 rounded-2xl shadow-lg">
                   <h3 className="text-2xl font-bold text-gray-900 mb-4">
                     Why Test Your Air Quality?
@@ -212,7 +206,7 @@ export default function IndoorAirQualityPage() {
                     </div>
                   </div>
                 </div>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -220,7 +214,7 @@ export default function IndoorAirQualityPage() {
         {/* Related Services Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
                 Related Services
               </h2>
@@ -228,10 +222,10 @@ export default function IndoorAirQualityPage() {
                 Air quality issues are often connected to water damage or mold growth. 
                 We offer comprehensive restoration services to address the root cause.
               </p>
-            </AnimateOnScroll>
+            
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={100}>
+              
                 <Link
                   href="/mold-remediation"
                   className="group block p-8 bg-gradient-to-br from-green-50 to-teal-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -251,9 +245,9 @@ export default function IndoorAirQualityPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
 
-              <AnimateOnScroll animation="fade-in-up" duration={600} delay={200}>
+              
                 <Link
                   href="/water-damage-restoration"
                   className="group block p-8 bg-gradient-to-br from-blue-50 to-sky-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
@@ -273,7 +267,7 @@ export default function IndoorAirQualityPage() {
                     <ArrowRight className="w-4 h-4" />
                   </span>
                 </Link>
-              </AnimateOnScroll>
+              
             </div>
           </div>
         </section>
@@ -281,7 +275,7 @@ export default function IndoorAirQualityPage() {
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
+            
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
                 Concerned About Your Air Quality?
               </h2>
@@ -304,7 +298,7 @@ export default function IndoorAirQualityPage() {
                   Schedule Inspection
                 </Link>
               </div>
-            </AnimateOnScroll>
+            
           </div>
         </section>
       </main>

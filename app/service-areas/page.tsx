@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { AnimateOnScroll } from '@/components/AnimateOnScroll';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
 import { StructuredData } from '@/lib/structured-data';
 import { getAllCities, getPhase1Services } from '@/lib/local-seo/data';
@@ -99,44 +98,42 @@ export default function ServiceAreasPage() {
           <div className="max-w-6xl mx-auto px-4">
             <Breadcrumbs items={breadcrumbs} className="mb-6" />
 
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center">
-                  <MapPin className="w-8 h-8 text-primary" />
-                </div>
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center">
+                <MapPin className="w-8 h-8 text-primary" />
               </div>
+            </div>
 
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-                Communities We Serve Across South Florida
-              </h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
+              Communities We Serve Across South Florida
+            </h1>
 
-              <p className="text-xl text-gray-600 max-w-3xl mb-4">
-                Total Care Restoration proudly serves communities throughout{' '}
-                <strong>Miami-Dade County, Broward County, and Palm Beach County</strong>. Our
-                certified restoration experts provide{' '}
-                <strong>24/7 emergency response</strong> for water damage, fire damage, and mold
-                remediation.
-              </p>
-              <p className="text-gray-600 max-w-3xl mb-8">
-                <Link href="/reviews/" className="text-primary font-medium hover:underline">See what our customers say</Link> or check out <Link href="/promotions/" className="text-primary font-medium hover:underline">current promotions</Link> on restoration services.
-              </p>
+            <p className="text-xl text-gray-600 max-w-3xl mb-4">
+              Total Care Restoration proudly serves communities throughout{' '}
+              <strong>Miami-Dade County, Broward County, and Palm Beach County</strong>. Our
+              certified restoration experts provide{' '}
+              <strong>24/7 emergency response</strong> for water damage, fire damage, and mold
+              remediation.
+            </p>
+            <p className="text-gray-600 max-w-3xl mb-8">
+              <Link href="/reviews/" className="text-primary font-medium hover:underline">See what our customers say</Link> or check out <Link href="/promotions/" className="text-primary font-medium hover:underline">current promotions</Link> on restoration services.
+            </p>
 
-              <div className="flex flex-col sm:flex-row gap-4">
-                <a
-                  href="tel:7866106317"
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
-                >
-                  <Phone className="w-5 h-5" />
-                  Call (786) 610-6317
-                </a>
-                <Link
-                  href="/#contact"
-                  className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
-                >
-                  Get Free Assessment
-                </Link>
-              </div>
-            </AnimateOnScroll>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <a
+                href="tel:7866106317"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
+              >
+                <Phone className="w-5 h-5" />
+                Call (786) 610-6317
+              </a>
+              <Link
+                href="/#contact"
+                className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
+              >
+                Get Free Assessment
+              </Link>
+            </div>
           </div>
         </section>
 
@@ -147,74 +144,68 @@ export default function ServiceAreasPage() {
             className={`py-16 ${countyIndex % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`}
           >
             <div className="max-w-6xl mx-auto px-4">
-              <AnimateOnScroll animation="fade-in-up" duration={600}>
-                <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">{county}</h2>
-                <p className="text-gray-600 mb-10">
-                  {cities.length} cities served with 24/7 emergency restoration services
-                </p>
-              </AnimateOnScroll>
+              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">{county}</h2>
+              <p className="text-gray-600 mb-10">
+                {cities.length} cities served with 24/7 emergency restoration services
+              </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {cities.map((city, cityIndex) => (
-                  <AnimateOnScroll
+                {cities.map((city) => (
+                  <div
                     key={city.slug}
-                    animation="fade-in-up"
-                    duration={400}
-                    delay={cityIndex * 75}
+                    className="bg-white rounded-2xl border border-gray-200 p-6 hover:shadow-lg hover:border-primary/30 transition-all duration-300"
                   >
-                    <div className="bg-white rounded-2xl border border-gray-200 p-6 hover:shadow-lg hover:border-primary/30 transition-all duration-300">
-                      <div className="flex items-start justify-between mb-4">
-                        <h3 className="text-xl font-bold text-gray-900">{city.name}</h3>
-                        <div className="flex items-center gap-1 text-sm text-gray-500 bg-gray-100 px-2 py-1 rounded-full">
-                          <Clock className="w-3.5 h-3.5" />
-                          <span>{city.responseTime}</span>
-                        </div>
-                      </div>
-
-                      <p className="text-gray-600 text-sm mb-4">
-                        Professional restoration services for homes and businesses in {city.name},{' '}
-                        FL.
-                      </p>
-
-                      {/* Service Type Links */}
-                      <div className="grid grid-cols-2 gap-2 mb-4">
-                        <Link
-                          href={`/${primaryService}/residential/${city.slug}`}
-                          className="flex items-center gap-2 p-3 bg-blue-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
-                        >
-                          <Home className="w-4 h-4" />
-                          Residential
-                        </Link>
-                        <Link
-                          href={`/${primaryService}/commercial/${city.slug}`}
-                          className="flex items-center gap-2 p-3 bg-slate-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
-                        >
-                          <Building2 className="w-4 h-4" />
-                          Commercial
-                        </Link>
-                      </div>
-
-                      {/* Popular Services */}
-                      <div className="border-t border-gray-100 pt-4">
-                        <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">
-                          Popular Services
-                        </p>
-                        <div className="flex flex-wrap gap-2">
-                          {Object.entries(services)
-                            .slice(0, 3)
-                            .map(([serviceSlug, service]) => (
-                              <Link
-                                key={serviceSlug}
-                                href={`/${serviceSlug}/residential/${city.slug}`}
-                                className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded hover:bg-primary/10 hover:text-primary transition-colors"
-                              >
-                                {service.shortName}
-                              </Link>
-                            ))}
-                        </div>
+                    <div className="flex items-start justify-between mb-4">
+                      <h3 className="text-xl font-bold text-gray-900">{city.name}</h3>
+                      <div className="flex items-center gap-1 text-sm text-gray-500 bg-gray-100 px-2 py-1 rounded-full">
+                        <Clock className="w-3.5 h-3.5" />
+                        <span>{city.responseTime}</span>
                       </div>
                     </div>
-                  </AnimateOnScroll>
+
+                    <p className="text-gray-600 text-sm mb-4">
+                      Professional restoration services for homes and businesses in {city.name},{' '}
+                      FL.
+                    </p>
+
+                    {/* Service Type Links */}
+                    <div className="grid grid-cols-2 gap-2 mb-4">
+                      <Link
+                        href={`/${primaryService}/residential/${city.slug}`}
+                        className="flex items-center gap-2 p-3 bg-blue-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
+                      >
+                        <Home className="w-4 h-4" />
+                        Residential
+                      </Link>
+                      <Link
+                        href={`/${primaryService}/commercial/${city.slug}`}
+                        className="flex items-center gap-2 p-3 bg-slate-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
+                      >
+                        <Building2 className="w-4 h-4" />
+                        Commercial
+                      </Link>
+                    </div>
+
+                    {/* Popular Services */}
+                    <div className="border-t border-gray-100 pt-4">
+                      <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">
+                        Popular Services
+                      </p>
+                      <div className="flex flex-wrap gap-2">
+                        {Object.entries(services)
+                          .slice(0, 3)
+                          .map(([serviceSlug, service]) => (
+                            <Link
+                              key={serviceSlug}
+                              href={`/${serviceSlug}/residential/${city.slug}`}
+                              className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded hover:bg-primary/10 hover:text-primary transition-colors"
+                            >
+                              {service.shortName}
+                            </Link>
+                          ))}
+                      </div>
+                    </div>
+                  </div>
                 ))}
               </div>
             </div>
@@ -224,34 +215,26 @@ export default function ServiceAreasPage() {
         {/* All Services Section */}
         <section className="py-16 bg-white">
           <div className="max-w-6xl mx-auto px-4">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
-                Our Restoration Services
-              </h2>
-              <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
-                No matter which service area you&apos;re in, we offer the same comprehensive
-                restoration services with 24/7 emergency response.
-              </p>
-            </AnimateOnScroll>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
+              Our Restoration Services
+            </h2>
+            <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10">
+              No matter which service area you&apos;re in, we offer the same comprehensive
+              restoration services with 24/7 emergency response.
+            </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-              {Object.entries(services).map(([serviceSlug, service], index) => (
-                <AnimateOnScroll
+              {Object.entries(services).map(([serviceSlug, service]) => (
+                <Link
                   key={serviceSlug}
-                  animation="fade-in-up"
-                  duration={400}
-                  delay={index * 50}
+                  href={`/${serviceSlug}`}
+                  className="group flex items-center justify-between p-4 bg-gray-50 rounded-xl hover:bg-primary/5 hover:shadow-md transition-all duration-200"
                 >
-                  <Link
-                    href={`/${serviceSlug}`}
-                    className="group flex items-center justify-between p-4 bg-gray-50 rounded-xl hover:bg-primary/5 hover:shadow-md transition-all duration-200"
-                  >
-                    <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
-                      {service.name}
-                    </span>
-                    <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all" />
-                  </Link>
-                </AnimateOnScroll>
+                  <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
+                    {service.name}
+                  </span>
+                  <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition-all" />
+                </Link>
               ))}
             </div>
           </div>
@@ -260,30 +243,28 @@ export default function ServiceAreasPage() {
         {/* CTA Section */}
         <section className="py-20 bg-primary">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <AnimateOnScroll animation="fade-in-up" duration={600}>
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                Don&apos;t See Your City Listed?
-              </h2>
-              <p className="text-lg text-white/90 max-w-2xl mx-auto mb-8">
-                We likely still serve your area! Contact us to confirm coverage in your location.
-                Our team is available 24/7 for emergencies throughout South Florida.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="tel:7866106317"
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-primary font-bold rounded-lg hover:bg-gray-100 transition-colors shadow-lg"
-                >
-                  <Phone className="w-5 h-5" />
-                  Call (786) 610-6317
-                </a>
-                <Link
-                  href="/#contact"
-                  className="inline-flex items-center justify-center px-8 py-4 bg-transparent text-white font-bold rounded-lg border-2 border-white/50 hover:bg-white/10 transition-colors"
-                >
-                  Get Free Assessment
-                </Link>
-              </div>
-            </AnimateOnScroll>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+              Don&apos;t See Your City Listed?
+            </h2>
+            <p className="text-lg text-white/90 max-w-2xl mx-auto mb-8">
+              We likely still serve your area! Contact us to confirm coverage in your location.
+              Our team is available 24/7 for emergencies throughout South Florida.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a
+                href="tel:7866106317"
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-primary font-bold rounded-lg hover:bg-gray-100 transition-colors shadow-lg"
+              >
+                <Phone className="w-5 h-5" />
+                Call (786) 610-6317
+              </a>
+              <Link
+                href="/#contact"
+                className="inline-flex items-center justify-center px-8 py-4 bg-transparent text-white font-bold rounded-lg border-2 border-white/50 hover:bg-white/10 transition-colors"
+              >
+                Get Free Assessment
+              </Link>
+            </div>
           </div>
         </section>
       </main>
@@ -291,4 +272,3 @@ export default function ServiceAreasPage() {
     </>
   );
 }
-

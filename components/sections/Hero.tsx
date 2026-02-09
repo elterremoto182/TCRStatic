@@ -3,7 +3,6 @@
 import Link from "next/link";
 import OptimizedImage from "@/components/OptimizedImage";
 import { VideoPlayer } from "@/components/media/VideoPlayer";
-import { AnimateOnScroll } from "@/components/AnimateOnScroll";
 import { generateAltText } from "@/lib/seo-utils";
 import content from "@/config/content.json";
 
@@ -45,7 +44,7 @@ export function Hero() {
       )}
 
       <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={0} initiallyVisible>
+        
           <h1
             className={`text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 ${
               hero.backgroundVideo || hero.backgroundImage
@@ -55,9 +54,9 @@ export function Hero() {
           >
             {hero.headline}
           </h1>
-        </AnimateOnScroll>
+        
 
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={200} initiallyVisible>
+        
           <p
             className={`text-xl md:text-2xl mb-8 leading-relaxed ${
               hero.backgroundVideo || hero.backgroundImage
@@ -67,9 +66,9 @@ export function Hero() {
           >
             {hero.subheadline}
           </p>
-        </AnimateOnScroll>
+        
 
-        <AnimateOnScroll animation="fade-in-up" duration={800} delay={400} initiallyVisible>
+        
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
               href={hero.ctaPrimary.href}
@@ -85,7 +84,7 @@ export function Hero() {
               {hero.ctaSecondary.text}
             </Link>
           </div>
-        </AnimateOnScroll>
+        
       </div>
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
