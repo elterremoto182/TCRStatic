@@ -11,7 +11,6 @@ import {
   getService,
   getCauseCityContent,
 } from '@/lib/local-seo/data';
-import { getRelatedBlogPostsForCause } from '@/lib/local-seo/links';
 import { CausePage } from '@/components/local-seo';
 
 // Generate static params for all cause/city combinations
@@ -112,14 +111,6 @@ export default async function CauseCityPage({
     })
     .filter(Boolean) as { slug: string; name: string }[];
 
-  // Get related blog posts
-  const relatedBlogPosts = getRelatedBlogPostsForCause(
-    causeSlug,
-    cause.parentServices,
-    citySlug,
-    4 // Get more blog posts for richer content
-  );
-
   const breadcrumbs = [
     { label: 'Problems', href: '/problems' },
     { label: cause.name, href: `/problems/${causeSlug}/${citySlug}` },
@@ -198,11 +189,6 @@ export default async function CauseCityPage({
           city={city}
           citySlug={citySlug}
           parentServices={parentServices}
-          relatedBlogPosts={relatedBlogPosts.map(post => ({
-            slug: post.slug,
-            title: post.title,
-            excerpt: post.excerpt,
-          }))}
           breadcrumbs={breadcrumbs}
           cityContent={cityContent}
         />

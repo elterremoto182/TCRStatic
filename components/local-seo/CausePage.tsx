@@ -30,7 +30,6 @@ interface CausePageProps {
   city: CityConfig;
   citySlug: string;
   parentServices: { slug: string; name: string }[];
-  relatedBlogPosts: { slug: string; title: string; excerpt: string }[];
   breadcrumbs: { label: string; href: string }[];
   cityContent?: CauseCityContent | null;
 }
@@ -46,7 +45,6 @@ export function CausePage({
   city,
   citySlug,
   parentServices,
-  relatedBlogPosts,
   breadcrumbs,
   cityContent,
 }: CausePageProps) {
@@ -441,41 +439,6 @@ export function CausePage({
         zipCodes={city.zipCodes}
         cityName={city.name}
       />
-
-      {/* Related Blog Posts */}
-      {relatedBlogPosts.length > 0 && (
-        <section className="py-12 bg-white border-t border-gray-200">
-          <div className="max-w-6xl mx-auto px-4">
-            
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                Helpful Articles About {cause.name}
-              </h2>
-            
-
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {relatedBlogPosts.map((post, idx) => (
-                
-                  <Link
-                    href={`/${post.slug}/`}
-                    className="group block p-6 bg-amber-50 rounded-xl hover:bg-amber-100 transition-colors"
-                  >
-                    <h3 className="font-bold text-gray-900 group-hover:text-amber-700 transition-colors mb-2 line-clamp-2">
-                      {post.title}
-                    </h3>
-                    <p className="text-gray-600 text-sm line-clamp-2">
-                      {post.excerpt}
-                    </p>
-                    <span className="inline-flex items-center gap-2 text-amber-700 font-medium text-sm mt-4">
-                      Read Article
-                      <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                    </span>
-                  </Link>
-                
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
 
       {/* CTA Section */}
       <LocalCTA

@@ -574,6 +574,10 @@ Defines maximum link counts per page type to avoid diluting SEO value:
 | Service Hub | 10 | 15 | 18 |
 | Guide | 5 | 10 | 12 |
 
+#### City page linking policy
+
+City pages (service+city and cause+city) are conversion-focused local landing pages. They do **not** include "Helpful Articles" or outbound links to blog posts. Internal links are limited to: breadcrumbs, parent service/hub, neighborhoods, related problems (cause pages only), and tier-based city links. This keeps link equity focused on local intent and avoids diluting topical relevance with blog clusters.
+
 ### SEO-Optimized Alt Text
 
 The `lib/seo-utils.ts` module provides context-aware alt text generation:
