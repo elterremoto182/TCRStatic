@@ -13,7 +13,6 @@ import {
 } from '@/lib/local-seo/data';
 import { generatePageContent } from '@/lib/local-seo/templates';
 import { generateAllSchemasForServiceCityPage } from '@/lib/local-seo/schema';
-import { generateInternalLinksData } from '@/lib/local-seo/links';
 import { CityServicePage } from '@/components/local-seo/CityServicePage';
 
 const SERVICE_SLUG = 'roof-tarping';
@@ -82,7 +81,6 @@ export default async function ResidentialRoofTarpingCityPage({
   const visibleFaqs = [...(content.faq.faqs || []), ...(content.localFAQs || [])];
   const breadcrumbs = getServiceCityBreadcrumbs(SERVICE_SLUG, citySlug, SERVICE_TYPE);
   const schemas = generateAllSchemasForServiceCityPage(SERVICE_SLUG, citySlug, SERVICE_TYPE, visibleFaqs);
-  const relatedLinksData = generateInternalLinksData(SERVICE_SLUG, citySlug, SERVICE_TYPE);
   const video = getServiceVideo(SERVICE_SLUG, citySlug);
 
   return (
@@ -98,7 +96,6 @@ export default async function ResidentialRoofTarpingCityPage({
           citySlug={citySlug}
           type={SERVICE_TYPE}
           breadcrumbs={breadcrumbs}
-          relatedLinksData={relatedLinksData}
           video={video}
         />
       </main>

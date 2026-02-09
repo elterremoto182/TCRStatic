@@ -123,7 +123,7 @@ export function TrustBadges() {
 
         {/* Additional Trust Indicators */}
         <div className="mt-12 pt-8 border-t border-gray-200">
-          <div className="flex flex-wrap justify-center items-center gap-8 text-sm text-gray-600">
+          <div className="flex flex-wrap justify-center items-center gap-8 text-sm text-gray-900">
             <div className="flex items-center gap-2">
               <Users className="w-5 h-5 text-primary" />
               <span className="font-medium">1000+ Satisfied Customers</span>

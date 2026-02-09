@@ -12,7 +12,6 @@ import { ResidentialBenefits } from './ResidentialBenefits';
 import { CommercialBenefits } from './CommercialBenefits';
 import { ServiceOverview } from './ServiceOverview';
 import { PreventionTips } from './PreventionTips';
-import { RelatedLinks } from './RelatedLinks';
 import { ServiceVideo } from './ServiceVideo';
 import { generateAltText } from '@/lib/seo-utils';
 import type { ServiceVideo as ServiceVideoType } from '@/lib/local-seo/data';
@@ -42,9 +41,30 @@ import {
   Headphones,
   Star,
   CalendarCheck,
+  BookOpen,
 } from 'lucide-react';
 import type { PageContent } from '@/lib/local-seo/templates';
-import type { InternalLinksData } from '@/lib/local-seo/links';
+
+// Map service slugs to their canonical guide slugs
+const serviceToGuideMap: Record<string, string> = {
+  'water-damage-restoration': 'water-damage-restoration',
+  'fire-damage-restoration': 'fire-damage-restoration',
+  'mold-remediation': 'mold-remediation',
+  'storm-damage-restoration': 'storm-damage-restoration',
+  'roof-tarping': 'roof-tarping-shrink-wrapping',
+  'shrink-wrapping': 'roof-tarping-shrink-wrapping',
+  'sewage-cleanup': 'water-damage-restoration', // Related to water damage
+  'emergency-restoration': 'water-damage-restoration', // General emergency falls under water
+};
+
+// Informational anchor text variations (non-geo, non-salesy)
+const guideAnchorText: Record<string, string> = {
+  'water-damage-restoration': 'How water damage restoration works',
+  'fire-damage-restoration': 'Understanding the fire damage restoration process',
+  'mold-remediation': 'How mold remediation works',
+  'storm-damage-restoration': 'Understanding storm damage restoration',
+  'roof-tarping-shrink-wrapping': 'How roof tarping and shrink wrapping works',
+};
 
 interface CityServicePageProps {
   content: PageContent;
@@ -52,7 +72,6 @@ interface CityServicePageProps {
   citySlug: string;
   type: 'residential' | 'commercial';
   breadcrumbs: { label: string; href: string }[];
-  relatedLinksData?: InternalLinksData;
   video?: ServiceVideoType | null;
 }
 
@@ -84,7 +103,6 @@ export function CityServicePage({
   citySlug,
   type,
   breadcrumbs,
-  relatedLinksData,
   video,
 }: CityServicePageProps) {
   const TypeIcon = type === 'residential' ? Home : Building2;
@@ -731,6 +749,24 @@ export function CityServicePage({
         localFAQs={content.localFAQs}
       />
 
+      {/* Canonical Guide Link - Single informational link to pillar content */}
+      {serviceToGuideMap[serviceSlug] && (
+        <section className="py-10 bg-white border-t border-gray-100">
+          <div className="max-w-6xl mx-auto px-4">
+            <Link
+              href={`/guides/${serviceToGuideMap[serviceSlug]}/`}
+              className="group flex items-center gap-3 text-gray-600 hover:text-primary transition-colors"
+            >
+              <BookOpen className="w-5 h-5" />
+              <span className="font-medium">
+                {guideAnchorText[serviceToGuideMap[serviceSlug]] || 'Learn more about this service'}
+              </span>
+              <ArrowRight className="w-4 h-4 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
+            </Link>
+          </div>
+        </section>
+      )}
+
       {/* CTA Section */}
       <LocalCTA
         headline={content.cta.headline}
@@ -738,46 +774,6 @@ export function CityServicePage({
         primaryButton={content.cta.primaryButton}
         secondaryButton={content.cta.secondaryButton}
       />
-
-      {/* Internal Links - Enhanced with RelatedLinks component */}
-      {relatedLinksData ? (
-        <RelatedLinks 
-          data={relatedLinksData} 
-          title="Related Resources"
-          showBlogs={true}
-          showCauses={true}
-          showNearbyCities={true}
-        />
-      ) : (
-        <section className="py-12 bg-gray-50 border-t border-gray-200">
-          <div className="max-w-6xl mx-auto px-4">
-            <h3 className="text-xl font-bold text-gray-900 mb-6">
-              {content.internalLinks.title}
-            </h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {content.internalLinks.links.map((link, index) => (
-                <Link
-                  key={index}
-                  href={link.href}
-                  className="group p-4 bg-white rounded-lg border border-gray-200 hover:border-primary transition-colors"
-                >
-                  <div className="flex items-center justify-between">
-                    <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">
-                      {link.label}
-                    </span>
-                    <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary transition-colors" />
-                  </div>
-                  {link.description && (
-                    <p className="text-sm text-gray-500 mt-1 line-clamp-1">
-                      {link.description}
-                    </p>
-                  )}
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
     </div>
   );
 }
