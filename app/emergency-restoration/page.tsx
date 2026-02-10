@@ -161,7 +161,7 @@ export default function EmergencyRestorationPage() {
                 <div className="flex flex-col sm:flex-row gap-4">
                   <a
                     href="tel:7866106317"
-                    className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors shadow-lg"
+                    className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#FF6200] text-white font-bold rounded-lg hover:bg-[#E55A00] transition-colors shadow-lg"
                   >
                     <Phone className="w-5 h-5" />
                     Emergency: (786) 610-6317

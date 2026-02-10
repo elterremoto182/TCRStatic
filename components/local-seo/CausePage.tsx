@@ -88,11 +88,7 @@ export function CausePage({
             <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href="tel:7866106317"
-                className={`inline-flex items-center justify-center gap-2 px-8 py-4 ${
-                  cause.urgency === 'emergency'
-                    ? 'bg-red-600 hover:bg-red-700 shadow-red-600/25'
-                    : 'bg-primary hover:bg-primary/90 shadow-primary/25'
-                } text-white font-bold rounded-lg transition-colors shadow-lg`}
+                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#FF6200] hover:bg-[#E55A00] text-white font-bold rounded-lg transition-colors shadow-lg"
               >
                 <Phone className="w-5 h-5" />
                 {cause.urgency === 'emergency' ? 'Emergency: ' : 'Call '}

@@ -156,7 +156,7 @@ export function CityServicePage({
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
                 <a
                   href={`tel:${content.hero.ctaPhone.replace(/[^0-9]/g, '')}`}
-                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-lg shadow-primary/25"
+                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#FF6200] text-white font-bold rounded-lg hover:bg-[#E55A00] transition-colors shadow-lg"
                 >
                   <Phone className="w-5 h-5" />
                   {content.hero.ctaPhone}

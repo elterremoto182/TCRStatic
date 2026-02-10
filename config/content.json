@@ -13,16 +13,17 @@
     }
   },
   "hero": {
-    "headline": "Your Restoration Experts",
+    "headline": "Water, Fire & Mold Restoration Experts",
     "ctaPrimary": {
-      "href": "/#contact",
-      "text": "Get A Free Estimate"
+      "href": "tel:+17866106317",
+      "text": "Call Now for 24/7 Emergency Service"
     },
-    "subheadline": "Locally owned and operated since 2015. 24/7 emergency services • Licensed, bonded, insured • Direct billing with your insurance.",
+    "subheadline": "24/7 emergency restoration for homes and businesses. Licensed, insured, and trusted for fast water, fire, and mold damage recovery.",
     "ctaSecondary": {
-      "href": "/#services",
-      "text": "Our Services"
+      "href": "/#contact",
+      "text": "Request a Free Inspection"
     },
+    "trustLine": "✓ IICRC Certified   ✓ Insurance Approved   ✓ Locally Trusted Since 2015",
     "backgroundImage": "/images/hero/hero-background.jpg",
     "backgroundVideo": ""
   },

@@ -16,8 +16,8 @@ export async function generateMetadata() {
   const page = getPageBySlug('home');
   
   return generatePageMetadata({
-    title: page?.seo_title || page?.title || 'Water Damage Mitigation Company - Total Care Restoration',
-    description: page?.seo_description || 'Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help.',
+    title: page?.seo_title || page?.title || 'Total Care Restoration | Water, Fire & Mold Restoration Services',
+    description: page?.seo_description || '24/7 water, fire, and mold restoration for homes and businesses. Licensed, insured, and trusted since 2015. Direct insurance billing available.',
     keywords: page?.seo_title ? ['water leak detection'] : undefined,
     path: '/',
   });
@@ -29,8 +29,8 @@ export default function Home() {
   // Generate WebPage schema for homepage
   const webPageSchema = generateWebPageSchema({
     url: `${baseUrl}/`,
-    name: 'Water Damage Mitigation Company - Total Care Restoration',
-    description: 'Trust Total Care Restoration as your water remediation & water mitigation company. Expert water removal services. Licensed, certified & locally owned. 24/7 help.',
+    name: 'Total Care Restoration | Water, Fire & Mold Restoration Services',
+    description: '24/7 water, fire, and mold restoration for homes and businesses. Licensed, insured, and trusted since 2015. Direct insurance billing available.',
   });
 
   return (

@@ -96,7 +96,7 @@ export function Hero() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
               href={hero.ctaPrimary.href}
-              className="inline-block bg-primary text-white font-semibold px-8 py-4 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-200"
+              className="inline-block bg-[#FF6200] text-white font-semibold px-8 py-4 rounded-xl shadow-lg hover:bg-[#E55A00] hover:shadow-xl hover:-translate-y-0.5 transition-all duration-200"
             >
               {hero.ctaPrimary.text}
             </Link>
@@ -108,6 +108,19 @@ export function Hero() {
               {hero.ctaSecondary.text}
             </Link>
           </div>
+
+          {hero.trustLine && (
+            <p
+              className={`mt-5 text-sm font-medium tracking-wide ${
+                hero.backgroundVideo || hero.backgroundImage
+                  ? "text-white/90"
+                  : "text-gray-600"
+              }`}
+              aria-hidden="true"
+            >
+              {hero.trustLine}
+            </p>
+          )}
         
       </div>
 
