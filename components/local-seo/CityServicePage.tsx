@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import OptimizedImage from '@/components/OptimizedImage';
 import { ServiceProcess } from './ServiceProcess';
+import { ReviewsSection } from './ReviewsSection';
 import { NeighborhoodList } from './NeighborhoodList';
 import { LocalFAQ } from './LocalFAQ';
 import { LocalCTA } from './LocalCTA';
@@ -41,6 +42,9 @@ import {
   BookOpen,
 } from 'lucide-react';
 import type { PageContent } from '@/lib/local-seo/templates';
+import { getCity, getService } from '@/lib/local-seo/data';
+import { getCityTier } from '@/lib/local-seo/city-tiers';
+import { getReviewsForCityPage } from '@/lib/local-seo/reviews';
 
 // Map service slugs to their canonical guide slugs
 const serviceToGuideMap: Record<string, string> = {
@@ -105,6 +109,16 @@ export function CityServicePage({
   const TypeIcon = type === 'residential' ? Home : Building2;
   const oppositeType = type === 'residential' ? 'commercial' : 'residential';
   const oppositeLabel = type === 'residential' ? 'Commercial' : 'Residential';
+
+  const city = getCity(citySlug);
+  const service = getService(serviceSlug);
+  const tier = getCityTier(citySlug);
+  const { reviews, showGbpLink } = getReviewsForCityPage(
+    citySlug,
+    city?.name ?? citySlug,
+    serviceSlug,
+    tier ?? 2
+  );
 
   return (
     <div>
@@ -451,6 +465,14 @@ export function CityServicePage({
           </div>
         </section>
       )}
+
+      {/* Reviews Section - before Process */}
+      <ReviewsSection
+        reviews={reviews}
+        cityName={city?.name ?? citySlug}
+        serviceName={service?.name ?? serviceSlug}
+        showGbpLink={showGbpLink}
+      />
 
       {/* Process Section */}
       <ServiceProcess title={content.process.title} steps={content.process.steps} />
