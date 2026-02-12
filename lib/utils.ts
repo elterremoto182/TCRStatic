@@ -113,9 +113,10 @@ export function generatePageMetadata({
   alternateLocales?: LocaleAlternate[];
 }): Metadata {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
-  // Ensure trailing slash for all paths except root
-  const normalizedPath = ensureTrailingSlash(path);
-  const url = `${baseUrl}${normalizedPath}`;
+  // Root path: no trailing slash; all other paths: trailing slash
+  const url = (path === '' || path === '/')
+    ? baseUrl
+    : `${baseUrl}${ensureTrailingSlash(path)}`;
   const finalDescription = description || siteConfig.seo.description;
   const finalOgImage = ogImage || siteConfig.seo.ogImage;
   const ogImageUrl = finalOgImage.startsWith('http') 

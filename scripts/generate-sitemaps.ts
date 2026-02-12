@@ -79,7 +79,7 @@ function getStaticRoutes(): SitemapEntry[] {
   
   const coreRoutes: SitemapEntry[] = [
     {
-      url: `${baseUrl}/`,
+      url: baseUrl,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1,
