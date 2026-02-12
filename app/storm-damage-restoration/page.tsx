@@ -338,24 +338,22 @@ export default function StormDamageRestorationPage() {
                     : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
               }`}>
                 {service.images.gallery.map((image, index) => (
-                  
-                    <div className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
-                      <OptimizedImage
-                        src={image}
-                        alt={generateAltText({ type: 'gallery-item', serviceName: 'Storm Damage Restoration', index })}
-                        fill
-                        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                        className="object-cover group-hover:scale-105 transition-transform duration-500"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                      <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                        <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
-                          <Camera className="w-4 h-4" />
-                          Professional restoration
-                        </span>
-                      </div>
+                  <div key={index} className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
+                    <OptimizedImage
+                      src={image.src}
+                      alt={image.caption || generateAltText({ type: 'gallery-item', serviceName: 'Storm Damage Restoration', index })}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                    <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
+                        <Camera className="w-4 h-4" />
+                        {image.caption}
+                      </span>
                     </div>
-                  
+                  </div>
                 ))}
               </div>
             </div>

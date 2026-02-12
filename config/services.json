@@ -90,15 +90,15 @@
         "/images/services/water-damage-photos/checking-water-damage-bathroom.jpg"
       ],
       "gallery": [
-        "/images/services/water-damage-photos/checking-water-damage-bathroom.jpg",
-        "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg",
-        "/images/services/water-damage-photos/shower-pan-leak-test.jpg",
-        "/images/blog/2022/07/drying-floors-scaled.jpg",
-        "/images/blog/2024/03/flairgun-water-damage-inspection.jpg",
-        "/images/services/water-damage-photos/water-damage-equipment-many.jpg",
-        "/images/services/water-damage-photos/water-damage-in-bathroom.jpg",
-        "/images/services/water-damage-photos/water-damage-kitchen-fans-dehumidifier.jpg",
-        "/images/services/water-damage-photos/moisture-meter-water-damage.jpg"
+        { "src": "/images/services/water-damage-photos/checking-water-damage-bathroom.jpg", "caption": "Water damage assessment in bathroom with moisture meter" },
+        { "src": "/images/services/water-damage-photos/moisture-detection-flair-gun.jpg", "caption": "Thermal imaging camera detecting hidden moisture during water damage inspection" },
+        { "src": "/images/services/water-damage-photos/shower-pan-leak-test.jpg", "caption": "Shower pan leak testing for water damage source identification" },
+        { "src": "/images/blog/2022/07/drying-floors-scaled.jpg", "caption": "Hardwood floor drying with air movers and dehumidifiers" },
+        { "src": "/images/blog/2024/03/flairgun-water-damage-inspection.jpg", "caption": "Thermal imaging for water damage assessment behind walls" },
+        { "src": "/images/services/water-damage-photos/water-damage-equipment-many.jpg", "caption": "Commercial dehumidifiers and air movers for structural drying" },
+        { "src": "/images/services/water-damage-photos/water-damage-in-bathroom.jpg", "caption": "Bathroom water damage drying setup with air movers" },
+        { "src": "/images/services/water-damage-photos/water-damage-kitchen-fans-dehumidifier.jpg", "caption": "Kitchen water damage restoration with air movers and dehumidifier" },
+        { "src": "/images/services/water-damage-photos/moisture-meter-water-damage.jpg", "caption": "Moisture meter reading for water damage assessment" }
       ]
     },
     "video": {
@@ -239,8 +239,8 @@
       "overview": "/images/blog/2021/11/fire-hazard-header-image.jpg",
       "process": [],
       "gallery": [
-        "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg",
-        "/images/services/fire-damage-photos/fire-damage-residential-floors.jpg"
+        { "src": "/images/blog/2024/02/Fire-in-WareHose-1-scaled.jpg", "caption": "Commercial warehouse fire damage restoration" },
+        { "src": "/images/services/fire-damage-photos/fire-damage-residential-floors.jpg", "caption": "Fire and smoke damage restoration on residential flooring" }
       ]
     },
     "mainPageContent": {
@@ -383,15 +383,15 @@
         "/images/blog/2023/02/air-scrubber-scaled.jpeg"
       ],
       "gallery": [
-        "/images/services/mold-remediation-photos/mold-containment-bedroom.jpg",
-        "/images/services/mold-remediation-photos/mold-containment-bedroom-2.jpg",
-        "/images/services/mold-remediation-photos/ac-mold-containment.jpg",
-        "/images/services/mold-remediation-photos/ac-leak-containment.jpg",
-        "/images/services/mold-remediation-photos/removing-wall-remediation.jpg",
-        "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg",
-        "/images/services/mold-remediation-photos/mold-remediation-technitian.jpg",
-        "/images/services/mold-remediation-photos/mold-remediation-inside-containment-area.jpg",
-        "/images/services/mold-remediation-photos/mold-equipment-titan-hydroxyl-generator.jpg"
+        { "src": "/images/services/mold-remediation-photos/mold-containment-bedroom.jpg", "caption": "Mold containment setup in bedroom during remediation" },
+        { "src": "/images/services/mold-remediation-photos/mold-containment-bedroom-2.jpg", "caption": "Negative pressure containment for mold remediation" },
+        { "src": "/images/services/mold-remediation-photos/ac-mold-containment.jpg", "caption": "AC unit mold remediation with containment barrier" },
+        { "src": "/images/services/mold-remediation-photos/ac-leak-containment.jpg", "caption": "AC leak mold remediation with containment" },
+        { "src": "/images/services/mold-remediation-photos/removing-wall-remediation.jpg", "caption": "Removing mold-contaminated drywall during remediation" },
+        { "src": "/images/services/mold-remediation-photos/moisture-detection-after-remediation.jpg", "caption": "Moisture verification after mold remediation" },
+        { "src": "/images/services/mold-remediation-photos/mold-remediation-technitian.jpg", "caption": "Certified technician performing mold remediation" },
+        { "src": "/images/services/mold-remediation-photos/mold-remediation-inside-containment-area.jpg", "caption": "Mold removal inside containment area" },
+        { "src": "/images/services/mold-remediation-photos/mold-equipment-titan-hydroxyl-generator.jpg", "caption": "Hydroxyl generator for mold odor removal and air purification" }
       ]
     },
     "video": {
@@ -651,10 +651,10 @@
       "overview": "/images/services/roof-tarping.jpg",
       "process": [],
       "gallery": [
-        "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
-        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
-        "/images/services/roof-tarping-photos/roof-damaged-tiles.jpeg",
-        "/images/services/roof-tarping-photos/tarp-installed-roof-damage-1.jpeg"
+        { "src": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg", "caption": "Storm damage restoration and structural drying" },
+        { "src": "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg", "caption": "Storm damage assessment and mitigation" },
+        { "src": "/images/services/roof-tarping-photos/roof-damaged-tiles.jpeg", "caption": "Roof tile damage from storm requiring tarping" },
+        { "src": "/images/services/roof-tarping-photos/tarp-installed-roof-damage-1.jpeg", "caption": "Professional roof tarp installation after storm damage" }
       ]
     },
     "mainPageContent": {
@@ -780,12 +780,12 @@
         "/images/blog/2022/07/8caaf616-d7f3-4707-8f98-cd110baae2c5.jpg"
       ],
       "gallery": [
-        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
-        "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg",
-        "/images/blog/2021/09/Trap-Roof-banner.jpg",
-        "/images/services/roof-tarping-photos/commercial-tarp-installation.jpg",
-        "/images/services/roof-tarping-photos/tarp-commercial-before.jpg",
-        "/images/services/roof-tarping-photos/tarp-commercial-after.jpg"
+        { "src": "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg", "caption": "Emergency roof tarp installation for storm damage" },
+        { "src": "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg", "caption": "Roof tarping securing storm-damaged property" },
+        { "src": "/images/blog/2021/09/Trap-Roof-banner.jpg", "caption": "Professional roof tarp installation" },
+        { "src": "/images/services/roof-tarping-photos/commercial-tarp-installation.jpg", "caption": "Commercial roof tarp installation by certified crew" },
+        { "src": "/images/services/roof-tarping-photos/tarp-commercial-before.jpg", "caption": "Commercial roof before tarp installation" },
+        { "src": "/images/services/roof-tarping-photos/tarp-commercial-after.jpg", "caption": "Commercial roof after professional tarp installation" }
       ]
     },
     "mainPageContent": {
@@ -905,8 +905,8 @@
       "overview": "/images/blog/2022/07/860f7a1b-5c64-49e8-a2f1-876be14d24bb.jpg",
       "process": [],
       "gallery": [
-        "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg",
-        "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg"
+        { "src": "/images/blog/2022/07/952feee9-9a39-4874-8232-67840455b8dd.jpg", "caption": "Industrial shrink wrap installation for roof protection" },
+        { "src": "/images/blog/2022/07/b3623cc0-7035-40e8-9112-34179f756290-1.jpg", "caption": "Heat-sealed shrink wrap securing storm-damaged structure" }
       ]
     },
     "mainPageContent": {

@@ -31,6 +31,10 @@
 # =============================================================================
 
 # Old service URLs to new core service pages
+/water-damage-restoration-service/ /water-damage-restoration/ 301
+/water-damage-restoration-service /water-damage-restoration/ 301
+/water-restoration/ /water-damage-restoration/ 301
+/water-restoration /water-damage-restoration/ 301
 /services/water-restoration/ /water-damage-restoration/ 301
 /services/water-restoration /water-damage-restoration/ 301
 /services/fire-restoration/ /fire-damage-restoration/ 301
@@ -68,6 +72,12 @@
 /services/video-inspection /leak-detection/ 301
 /services/hydro-jetting/ /sewage-cleanup/ 301
 /services/hydro-jetting /sewage-cleanup/ 301
+
+# Legacy service + location URLs
+/mold-remediation-miami-fl/ /mold-remediation/residential/miami/ 301
+/mold-remediation-miami-fl /mold-remediation/residential/miami/ 301
+/roof-tarp/ /roof-tarping/ 301
+/roof-tarp /roof-tarping/ 301
 
 # =============================================================================
 # CITY PAGE REDIRECTS - Redirect to water damage residential by default

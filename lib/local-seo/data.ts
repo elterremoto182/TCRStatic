@@ -19,12 +19,17 @@ export interface TypeSpecificContent {
   tips: string[];
 }
 
+export interface GalleryItem {
+  src: string;
+  caption: string;
+}
+
 export interface ServiceImages {
   hero: string;
   heroCommercial?: string;
   overview: string;
   process: string[];
-  gallery: string[];
+  gallery: GalleryItem[];
 }
 
 export interface MainPageFAQ {

@@ -441,8 +441,8 @@ export function CityServicePage({
                   className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300"
                 >
                   <OptimizedImage
-                    src={image}
-                    alt={generateAltText({ 
+                    src={image.src}
+                    alt={image.caption || generateAltText({ 
                       type: 'gallery-item',
                       serviceName: content.hero.headline.split(' in ')[0],
                       cityName: content.hero.headline.split(' in ')[1]?.replace(/, FL$/, ''),
@@ -456,7 +456,7 @@ export function CityServicePage({
                   <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 text-gray-900 text-sm font-medium rounded-full">
                       <Camera className="w-4 h-4" />
-                      Professional restoration
+                      {image.caption}
                     </span>
                   </div>
                 </div>

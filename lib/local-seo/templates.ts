@@ -11,6 +11,7 @@ import {
   type CauseConfig,
   type FAQItem,
   type ServiceImages,
+  type GalleryItem,
   type LocalFAQItem,
 } from './data';
 import { truncateMetaTitle, truncateMetaDescription, ensureTrailingSlash } from '@/lib/utils';
@@ -113,7 +114,7 @@ export interface ImagesContent {
   hero?: string;
   overview?: string;
   process: string[];
-  gallery: string[];
+  gallery: GalleryItem[];
 }
 
 export interface LocalFactorsContent {
