@@ -209,6 +209,7 @@ The best choice ultimately depends on what matters most to you – whether it’
 
 ## Related posts
 
+-   [When and How to Use Sand Blasting After a Fire](/when-and-how-to-use-sand-blasting-after-a-fire/)
 -   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
 -   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
 -   [Common Air Quality Issues After Fire Cleanup](/common-air-quality-issues-after-fire-cleanup/)

@@ -164,6 +164,10 @@ You can also learn about [Top 5 Soot Cleaning Services](/top-5-soot-cleaning-ser
 - Blower and coil cleaning
 - System evaluation
 
+**Sand Blasting for Structural Wood**: Roof framing, beams, and joists coated in soot and char often need more than chemical cleaning. Sand blasting (abrasive blasting) physically removes embedded residue, revealing the natural wood and often saving structural members from replacement. It's necessary when soot has penetrated deeply, when wood needs a clean surface for sealing or refinishing, or when odor persists because residue remains trapped in the grain. See our article on [When and How to Use Sand Blasting After a Fire](/when-and-how-to-use-sand-blasting-after-a-fire/) for details.
+
+<iframe src="https://www.youtube.com/embed/RLCtNKtIkkY" width="560" height="315" frameborder="0" allowfullscreen title="Sand blasting fire-damaged roof wood frame restoration"></iframe>
+
 ### Step 5: Odor Elimination
 
 Smoke odor is one of the most challenging aspects of fire restoration:

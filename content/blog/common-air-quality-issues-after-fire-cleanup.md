@@ -130,9 +130,14 @@ In addition to high-performance equipment, professionals use advanced techniques
 
 -   **Thermal fogging**: Penetrates deep into surfaces to eliminate odors.
 -   **Dry ice blasting**: A non-abrasive cleaning method for delicate materials.
--   **Laser cleaning**: A safer alternative to sandblasting for removing residues.
+-   **Laser cleaning**: Precise, low-dust option for certain metals and materials.
+-   **Sand blasting**: Removes embedded soot and char from structural wood (roof framing, beams, joists), often saving wood that would otherwise be replaced. See it in action:
 
-They also use hydroxyl generators, which neutralize odors with safer chemistry than ozone generators, making them ideal for occupied spaces. This combination of cutting-edge tools and expert methods ensures restoration meets both health standards and local regulations.
+<iframe src="https://www.youtube.com/embed/RLCtNKtIkkY" width="560" height="315" frameborder="0" allowfullscreen title="Sand blasting fire-damaged roof wood frame restoration"></iframe>
+
+Read [When and How to Use Sand Blasting After a Fire](/when-and-how-to-use-sand-blasting-after-a-fire/) for more details.
+
+Professionals also use hydroxyl generators, which neutralize odors with safer chemistry than ozone generators, making them ideal for occupied spaces. This combination of cutting-edge tools and expert methods ensures restoration meets both health standards and local regulations.
 
 ### Direct Insurance Billing
 
@@ -175,6 +180,7 @@ Start by getting rid of any standing water using pumps or wet vacuums. Once the 
 Taking these steps quickly and effectively can greatly lower the chances of mold developing in your space.
 
 ## Related posts
+- [When and How to Use Sand Blasting After a Fire](/when-and-how-to-use-sand-blasting-after-a-fire/)
 - [Top 7 Fire Odor Neutralization Techniques](/top-7-fire-odor-neutralization-techniques/)
 - [Top 7 Eco-Friendly Water Damage Restoration Methods](/top-7-eco-friendly-water-damage-restoration-methods/)
 - [Top 6 Most Common Causes of Indoor Water Damage](/top-6-most-common-causes-of-indoor-water-damage/)

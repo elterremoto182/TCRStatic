@@ -128,7 +128,11 @@ HVAC systems can also become a hidden source of contamination. Soot trapped in t
 
 Experts use industrial-grade equipment and advanced technologies that go far beyond what’s available to homeowners. They carefully control factors like temperature, humidity, and treatment time for optimal results. Professionals also know how to handle ozone treatments safely, avoiding exposure levels that can exceed the health standards of 90 parts per billion for one hour or 70 parts per billion over eight hours.
 
-Their work doesn’t stop at cleaning and odor removal. Fire restoration professionals can also handle carpentry and structural repairs. Techniques like enzyme-based cleaners, HEPA filtration systems to remove toxins, and even laser cleaning technology ensure a safer and more effective restoration process compared to older methods like sandblasting.
+Their work doesn’t stop at cleaning and odor removal. Fire restoration professionals can also handle carpentry and structural repairs. Techniques like enzyme-based cleaners, HEPA filtration systems to remove toxins, laser cleaning technology, and sand blasting for structural wood ensure a thorough restoration process. When roof framing, beams, or joists are coated in soot and char, sand blasting physically removes the residue to reveal clean wood—often saving structural members from replacement. Watch how it works:
+
+<iframe src="https://www.youtube.com/embed/RLCtNKtIkkY" width="560" height="315" frameborder="0" allowfullscreen title="Sand blasting fire-damaged roof wood frame restoration"></iframe>
+
+Learn more about [When and How to Use Sand Blasting After a Fire](/when-and-how-to-use-sand-blasting-after-a-fire/).
 
 ### How Total Care Restoration Can Help
 
