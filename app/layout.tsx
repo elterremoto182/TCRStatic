@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   // When Spanish content is added, create pages under /es/ and use:
   // generatePageMetadata({ ..., locale: 'es', alternateLocales: [{ locale: 'en', path: '/...' }] })
   alternates: {
-    canonical: baseUrl,
+    canonical: `${baseUrl}/`,
     // hreflang tags removed - only needed when multi-language content exists
     // Uncomment and configure when Spanish pages are created:
     // languages: {

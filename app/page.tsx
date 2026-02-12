@@ -28,7 +28,7 @@ export default function Home() {
   
   // Generate WebPage schema for homepage
   const webPageSchema = generateWebPageSchema({
-    url: baseUrl,
+    url: `${baseUrl}/`,
     name: 'Total Care Restoration | Water, Fire & Mold Restoration Services',
     description: '24/7 water, fire, and mold restoration for homes and businesses. Licensed, insured, and trusted since 2015. Direct insurance billing available.',
   });
