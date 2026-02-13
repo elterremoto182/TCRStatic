@@ -1,5 +1,5 @@
 ---
-title: "Emergency Roof Tarping &#8211; Save Your Roof Now"
+title: "Emergency Roof Tarping – Save Your Roof Now"
 date: "2021-10-22"
 excerpt: "When it comes to the essential components of your home, the roof is arguably one of the most important. Obviously, it keeps you, your loved ones, and your valuables protected from the elements. Even the smallest roof leak can lead to major issues. This includes potential water damage, but also higher utility bills due to requiring … Continued"
 author: "Tomasz Alemany"

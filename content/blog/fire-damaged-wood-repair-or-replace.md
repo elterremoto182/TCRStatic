@@ -87,6 +87,10 @@ If the damage to wood from a fire isn’t too severe, targeted repairs can often
 
 For surface-level problems like soot buildup or minor charring, start by using a stiff brush to remove any loose debris. Scrape away burned material carefully. To clean soot, begin with a dry chemical sponge, then follow up with a mild detergent solution applied with a damp cloth. If there’s still a lingering smoke odor, lightly sand the wood to reveal a fresh layer.
 
+For heavier charring on structural elements like roof framing, professionals sometimes use **sand blasting** to remove burned material and restore the wood surface—see the video below.
+
+<iframe src="https://www.youtube.com/embed/RLCtNKtIkkY" width="560" height="315" frameborder="0" allowfullscreen title="Sand blasting fire-damaged roof wood frame to remove char and restore structural wood"></iframe>
+
 After cleaning, apply an odor-blocking primer specifically designed for fire-damaged wood. Finish the process with a protective coating, such as a stain or polyurethane, to restore its appearance and provide long-term protection. Make sure to let each layer dry fully before moving on to the next step. Once the surface is cleaned and sealed, check if the wood needs any structural reinforcement.
 
 ### Fixing Structural Weakness
@@ -148,5 +152,3 @@ Not sure how bad the damage is or worried there might be hidden problems? A lice
 
 -   [Smoke Damage Restoration Professional Vs Diy Methods](/smoke-damage-restoration-professional-vs-diy-methods/)
 -   [How To Stop Smoke Damage After A Fire](/how-to-stop-smoke-damage-after-a-fire/)
--   [Fire Damage Inspection Steps](/fire-damage-inspection-steps/)
--   [How To Safely Reenter Fire Damaged Properties](/how-to-safely-reenter-fire-damaged-properties/)

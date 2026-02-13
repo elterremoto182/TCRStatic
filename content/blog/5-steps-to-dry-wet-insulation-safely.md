@@ -224,7 +224,7 @@ If a large area of insulation is wet, has been soaked for over 24-48 hours, or s
 
 ## Related Blog Posts
 - [Emergency Water Damage Checklist: First 24 Hours](/emergency-water-damage-checklist-first-24-hours/)
-- [Emergency Roof Tarping &#8211; Save Your Roof Now](/emergency-roof-tarping/)
+- [Emergency Roof Tarping – Save Your Roof Now](/emergency-roof-tarping/)
 - [Effective Strategies for Removing Mold from Wood: A Comprehensive Guide](/effective-strategies-for-removing-mold-from-wood-a-comprehensive-guide/)
 - [Effective Strategies for Handling Toilet Overflow and Preventing Future Incidents](/effective-strategies-for-handling-toilet-overflow-and-preventing-future-incidents/)
 - [Why Drying Mats Are Essential for Restoration](/drying-mats-essential-restoration/)
