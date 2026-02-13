@@ -54,10 +54,10 @@ export default function EmergencyRestorationPage() {
     description: '24/7 emergency restoration services for residential and commercial properties throughout South Florida.',
     url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
+    areaServed: {
+      '@type': 'State',
+      name: 'Florida',
+    },
     serviceType: 'Emergency Restoration',
     hoursAvailable: {
       '@type': 'OpeningHoursSpecification',

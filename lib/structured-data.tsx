@@ -162,6 +162,7 @@ export function generateWebSiteSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    '@id': `${baseUrl}#WebSite`,
     name: siteConfig.name,
     url: baseUrl,
     potentialAction: {

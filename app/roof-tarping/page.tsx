@@ -56,10 +56,10 @@ export default function RoofTarpingPage() {
     description: 'Professional emergency roof tarping services to protect residential and commercial properties throughout South Florida from storm and water damage.',
     url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
+    areaServed: {
+      '@type': 'State',
+      name: 'Florida',
+    },
     serviceType: 'Roof Tarping',
     hasOfferCatalog: {
       '@type': 'OfferCatalog',

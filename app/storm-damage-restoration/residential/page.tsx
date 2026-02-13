@@ -1,7 +1,7 @@
 import { Header } from '@/components/sections/Header';
 import { Footer } from '@/components/sections/Footer';
 import { generatePageMetadata, truncateMetaTitle } from '@/lib/utils';
-import { StructuredData, getLocalBusinessProvider } from '@/lib/structured-data';
+import { StructuredData, getLocalBusinessProvider, generateBreadcrumbSchema } from '@/lib/structured-data';
 import { getService, getServiceType, getCausesForService } from '@/lib/local-seo/data';
 import { ServiceTypeHub } from '@/components/local-seo/ServiceTypeHub';
 import { getAllTier1CityLinks } from '@/lib/local-seo/links';
@@ -52,9 +52,16 @@ export default function ResidentialStormDamagePage() {
     serviceType: 'Storm Damage Restoration',
   };
 
+  const breadcrumbs = [
+    { label: 'Home', href: '/' },
+    { label: service.name, href: `/${SERVICE_SLUG}/` },
+    { label: serviceType.name, href: `/${SERVICE_SLUG}/${SERVICE_TYPE}` },
+  ];
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+
   return (
     <>
-      <StructuredData data={serviceSchema} />
+      <StructuredData data={[serviceSchema, breadcrumbSchema]} />
       <Header />
       <main className="min-h-screen">
         <ServiceTypeHub

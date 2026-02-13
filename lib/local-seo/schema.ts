@@ -4,10 +4,6 @@ import { ensureTrailingSlash } from '@/lib/utils';
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
 
-// Google Place ID for Total Care Restoration
-const googlePlaceId = (siteConfig as any).reviews?.google?.placeId || 'ChIJnQf8wci72YgRVY2t4MTnaYE';
-const googleMapsUrl = `https://www.google.com/maps/place/?q=place_id:${googlePlaceId}`;
-
 // Types for structured data
 export interface ServiceSchemaOptions {
   serviceSlug: string;
@@ -22,90 +18,6 @@ export interface FAQSchemaOptions {
 export interface BreadcrumbItem {
   label: string;
   href: string;
-}
-
-// Generate LocalBusiness schema with geo coordinates for city pages
-export function generateLocalBusinessSchemaForCity(
-  citySlug: string,
-  serviceSlug: string,
-  type: 'residential' | 'commercial'
-) {
-  const city = getCity(citySlug);
-  const service = getService(serviceSlug);
-  const serviceType = getServiceType(type);
-  
-  if (!city || !service || !serviceType) return null;
-  
-  const pageUrl = `${baseUrl}/${serviceSlug}/${type}/${citySlug}/`;
-  
-  return {
-    '@context': 'https://schema.org',
-    '@type': ['LocalBusiness', 'EmergencyService', 'HomeAndConstructionBusiness'],
-    '@id': `${baseUrl}#LocalBusiness`,
-    name: siteConfig.name,
-    description: `Professional ${type} ${service.name.toLowerCase()} services in ${city.name}, ${city.state}. ${city.responseTime} response time. Licensed, bonded & insured.`,
-    url: pageUrl,
-    telephone: siteConfig.phone,
-    email: siteConfig.email,
-    image: `${baseUrl}${siteConfig.logo}`,
-    logo: {
-      '@type': 'ImageObject',
-      url: `${baseUrl}${siteConfig.logo}`,
-    },
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: '7790 NW 55th St.',
-      addressLocality: 'Doral',
-      addressRegion: 'FL',
-      postalCode: '33166',
-      addressCountry: 'US',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: city.coordinates.lat,
-      longitude: city.coordinates.lng,
-    },
-    areaServed: [
-      {
-        '@type': 'City',
-        name: city.name,
-        containedInPlace: {
-          '@type': 'AdministrativeArea',
-          name: city.county,
-        },
-      },
-      ...city.neighborhoods.slice(0, 5).map(neighborhood => ({
-        '@type': 'Neighborhood',
-        name: neighborhood,
-        containedInPlace: {
-          '@type': 'City',
-          name: city.name,
-        },
-      })),
-    ],
-    openingHoursSpecification: [
-      {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        opens: '00:00',
-        closes: '23:59',
-      },
-    ],
-    priceRange: '$$',
-    paymentAccepted: ['Cash', 'Credit Card', 'Debit Card', 'Insurance'],
-    currenciesAccepted: 'USD',
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: siteConfig.reviews.google.rating.toString(),
-      reviewCount: siteConfig.reviews.google.reviewCount,
-      bestRating: '5',
-      worstRating: '1',
-    },
-    sameAs: [
-      ...Object.values(siteConfig.social).filter(Boolean) as string[],
-      googleMapsUrl,
-    ],
-  };
 }
 
 // Generate Service schema with audience type
@@ -128,20 +40,7 @@ export function generateServiceSchemaWithAudience(options: ServiceSchemaOptions)
     description: `Professional ${type} ${service.name.toLowerCase()} services in ${city.name}. Fast response, certified technicians, insurance assistance.`,
     url: pageUrl,
     serviceType: service.serviceType,
-    provider: {
-      '@type': 'LocalBusiness',
-      '@id': `${baseUrl}#LocalBusiness`,
-      name: siteConfig.name,
-      telephone: siteConfig.phone,
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: '7790 NW 55th St.',
-        addressLocality: 'Doral',
-        addressRegion: 'FL',
-        postalCode: '33166',
-        addressCountry: 'US',
-      },
-    },
+    provider: { '@id': `${baseUrl}#LocalBusiness` },
     areaServed: {
       '@type': 'City',
       name: city.name,
@@ -150,39 +49,10 @@ export function generateServiceSchemaWithAudience(options: ServiceSchemaOptions)
         name: 'Florida',
       },
     },
-    audience: {
-      '@type': 'Audience',
-      audienceType: serviceType.audienceType,
-      geographicArea: {
-        '@type': 'City',
-        name: city.name,
-      },
-    },
-    availableChannel: {
-      '@type': 'ServiceChannel',
-      serviceUrl: pageUrl,
-      servicePhone: siteConfig.phone,
-      availableLanguage: ['English', 'Spanish'],
-    },
-    termsOfService: `${baseUrl}/privacy-policy/`,
     offers: {
       '@type': 'Offer',
       availability: 'https://schema.org/InStock',
       priceCurrency: 'USD',
-      eligibleRegion: {
-        '@type': 'State',
-        name: 'Florida',
-      },
-    },
-    hasOfferCatalog: {
-      '@type': 'OfferCatalog',
-      name: `${service.name} Services`,
-      itemListElement: service.process.map((step, index) => ({
-        '@type': 'OfferCatalogItem',
-        position: index + 1,
-        name: step.title,
-        description: step.description,
-      })),
     },
   };
 }

@@ -53,10 +53,10 @@ export default function ShrinkWrappingPage() {
     description: 'Professional shrink wrapping services for roofs and properties throughout South Florida, providing superior long-term protection for storm-damaged structures.',
     url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
+    areaServed: {
+      '@type': 'State',
+      name: 'Florida',
+    },
     serviceType: 'Shrink Wrapping',
     hasOfferCatalog: {
       '@type': 'OfferCatalog',

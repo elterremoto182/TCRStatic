@@ -56,10 +56,10 @@ export default function MoldRemediationPage() {
     description: 'Professional mold remediation services for residential and commercial properties throughout South Florida.',
     url: `${baseUrl}/${SERVICE_SLUG}/`,
     provider: getLocalBusinessProvider(),
-    areaServed: cityList.map(city => ({
-      '@type': 'City',
-      name: city.name,
-    })),
+    areaServed: {
+      '@type': 'State',
+      name: 'Florida',
+    },
     serviceType: 'Mold Remediation',
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
