@@ -21,7 +21,7 @@ Several situations call for immediate roof protection:
 
 ### Storm and Hurricane Damage
 
-Florida's hurricane season runs from June 1 through November 30, but tropical weather can strike any time. High winds lift shingles, tiles, and panels. Flying debris punches holes. Falling trees crush sections of roofing. After any significant storm, inspect your roof (from the ground) for visible damage.
+Florida's hurricane season runs from June 1 through November 30, but tropical weather can strike any time. [Hurricane roof damage](/problems/hurricane-roof-damage/) from high winds can lift shingles, tiles, and panels. Flying debris punches holes. [Falling trees](/problems/tree-damage-restoration/) crush sections of roofing. After any significant storm, inspect your roof (from the ground) for visible damage.
 
 ### Roof Leaks
 
@@ -33,7 +33,7 @@ Fires often damage roof structures, leaving openings that expose your home to we
 
 ### Fallen Trees and Debris
 
-Trees falling on roofs cause immediate structural damage and create openings. Even after tree removal, the roof needs protection until proper repairs can be made.
+[Trees falling](/problems/tree-damage-restoration/) on roofs cause immediate structural damage and create openings. Even after tree removal, the roof needs protection until proper repairs can be made.
 
 ### Animal Damage
 

@@ -20,10 +20,10 @@ According to the [Insurance Information Institute](https://www.iii.org/), water 
 
 **Common causes include:**
 
-- Burst or leaking pipes
-- Roof leaks
-- Failed appliances
-- Tropical storms and flooding
+- [Burst or leaking pipes](/problems/burst-pipe-water-damage/)
+- [Roof leaks](/problems/roof-leak-water-damage/)
+- Failed appliances (washing machine, dishwasher, water heater, refrigerator)
+- [Tropical storms and flooding](/problems/hurricane-flood-damage/)
 
 **Time matters.** The longer water sits, the worse the damage gets. Mold can start growing in just 24-48 hours.
 
@@ -58,8 +58,8 @@ This is water from a clean source. It poses no health risk on contact.
 Gray water contains some contamination. It may cause illness if you swallow it or touch it for extended periods.
 
 **Where it comes from:**
-- Dishwasher or washing machine discharge
-- Toilet overflow (urine only)
+- [Dishwasher or washing machine](/problems/washing-machine-overflow-damage/) discharge
+- [Toilet overflow](/problems/toilet-overflow-cleanup/) (urine only)
 - Sump pump failures
 - Aquarium water
 - Waterbed leaks
@@ -73,7 +73,7 @@ Black water is severely contaminated. It can cause serious illness or death.
 **Where it comes from:**
 - Sewage backups
 - River or stream flooding
-- Hurricane storm surge
+- [Hurricane storm surge](/problems/hurricane-flood-damage/)
 - Seawater intrusion
 - Toilet backflow with feces
 - Standing water with bacterial growth
@@ -256,25 +256,25 @@ Knowing the causes helps you prevent damage. Here are the most common in our are
 
 ### Weather-Related Causes
 
-- **Hurricanes and tropical storms** – Storm surge and heavy rainfall
+- **[Hurricanes and tropical storms](/problems/hurricane-flood-damage/)** – Storm surge and heavy rainfall
 - **Intense rain events** – Can overwhelm drainage systems in minutes
-- **Roof leaks** – Wind damage or aging materials allow water in
+- **[Roof leaks](/problems/roof-leak-water-damage/)** – Wind damage or aging materials allow water in
 
 ### Plumbing Problems
 
 ![Professional performing shower pan leak test during water damage inspection in South Florida](/images/services/water-damage-photos/shower-pan-leak-test.jpg)
 
-- **Burst pipes** – Less common than up north, but still happens
-- **Slab leaks** – Underground pipe leaks beneath your foundation
+- **[Burst pipes](/problems/burst-pipe-water-damage/)** – Less common than up north, but still happens
+- **[Slab leaks](/problems/slab-leak-water-damage/)** – Underground pipe leaks beneath your foundation
 - **Supply line failures** – Connections to toilets, sinks, and appliances
 - **Old cast iron pipes** – Many pre-1975 homes have corroding drain lines
 
 ### Appliance Failures
 
-- **Water heater tanks** – Rust through or relief valves fail
-- **Washing machine hoses** – Rubber breaks down over time
-- **Dishwasher leaks** – Seals and connections wear out
-- **Ice maker lines** – Small leaks go unnoticed until major damage occurs
+- **[Water heater tanks](/problems/water-heater-leak-damage/)** – Rust through or relief valves fail
+- **[Washing machine hoses](/problems/washing-machine-overflow-damage/)** – Rubber breaks down over time
+- **[Dishwasher leaks](/problems/dishwasher-leak-water-damage/)** – Seals and connections wear out
+- **[Ice maker lines](/problems/refrigerator-water-line-leak-damage/)** – Small leaks go unnoticed until major damage occurs
 
 ### AC System Issues
 
@@ -282,7 +282,7 @@ Knowing the causes helps you prevent damage. Here are the most common in our are
 
 South Florida's heavy AC use creates unique risks:
 
-- **Clogged condensate drains** – The #1 cause of AC-related water damage
+- **[Clogged condensate drains](/problems/ac-leak-water-damage/)** – The #1 cause of AC-related water damage
 - **Frozen evaporator coils** – Overflow when they thaw
 - **Cracked drain pans** – Common in older units (10+ years)
 - **Poor installation** – Causes ongoing drainage problems

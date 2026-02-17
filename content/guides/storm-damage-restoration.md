@@ -28,11 +28,11 @@ Storms cause damage in several ways, often in combination:
 
 ### Wind Damage
 
-Wind damage can occur at relatively low speeds and increases dramatically as winds intensify:
+[Wind damage](/problems/wind-damage-restoration/) can occur at relatively low speeds and increases dramatically as winds intensify:
 
-- **Roof damage**: Shingles, tiles, or panels lifted, broken, or blown off
+- **[Roof damage](/problems/hurricane-roof-damage/)**: Shingles, tiles, or panels lifted, broken, or blown off
 - **Structural damage**: Walls, soffits, and fascia damaged by wind pressure
-- **Falling debris**: Trees, branches, and airborne objects striking structures
+- **[Falling debris](/problems/tree-damage-restoration/)**: Trees, branches, and airborne objects striking structures
 - **Window and door damage**: Glass breakage and frame damage
 - **Fence and screen enclosure damage**: Often among the first casualties
 
@@ -40,14 +40,14 @@ Wind damage can occur at relatively low speeds and increases dramatically as win
 
 Water enters buildings in multiple ways during storms:
 
-- **Roof leaks**: Through damaged or missing roofing materials
+- **[Roof leaks](/problems/hurricane-roof-damage/)**: Through damaged or missing roofing materials
 - **Window and door leaks**: Wind-driven rain through seals and frames
-- **Rising water**: Storm surge or flooding from heavy rain
+- **[Rising water](/problems/hurricane-flood-damage/)**: Storm surge or flooding from heavy rain
 - **Hydrostatic pressure**: Groundwater pushing through foundations
 
 ### Flooding
 
-Flooding presents unique challenges:
+[Hurricane flooding](/problems/hurricane-flood-damage/) presents unique challenges:
 
 - **Storm surge**: Seawater pushed inland by hurricane winds
 - **Flash flooding**: Overwhelming drainage systems during heavy rain

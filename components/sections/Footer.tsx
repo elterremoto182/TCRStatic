@@ -116,46 +116,54 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold mb-4">Problems</h4>
+            <h4 className="text-white font-semibold mb-4">Services</h4>
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/problems/"
+                  href="/water-damage-restoration/"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
-                  Water Damage
+                  Water Damage Restoration
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/problems/"
+                  href="/fire-damage-restoration/"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
-                  Mold Problems
+                  Fire Damage Restoration
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/problems/"
+                  href="/mold-remediation/"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
-                  Fire & Smoke
+                  Mold Remediation
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/problems/"
+                  href="/storm-damage-restoration/"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
-                  Storm Damage
+                  Storm Damage Restoration
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/problems/"
+                  href="/sewage-cleanup/"
+                  className="text-sm hover:text-white transition-colors duration-200"
+                >
+                  Sewage Cleanup
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/emergency-restoration/"
                   className="text-sm font-medium hover:text-white transition-colors duration-200"
                 >
-                  View All Problems
+                  Emergency Restoration
                 </Link>
               </li>
             </ul>

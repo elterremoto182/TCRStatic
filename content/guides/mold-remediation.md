@@ -29,9 +29,9 @@ Understanding the causes of mold helps with both prevention and treatment. Mold 
 ### Primary Causes of Indoor Mold
 
 **Water Intrusion Events**
-- Roof leaks from storms or aging materials
+- [Roof leaks](/problems/roof-leak-mold-remediation/) from storms or aging materials
 - Plumbing leaks (supply lines, drain pipes, slab leaks)
-- Flooding from hurricanes or heavy rain
+- [Flooding](/problems/post-flood-mold-remediation/) from hurricanes or heavy rain
 - Appliance failures (water heaters, washing machines, dishwashers)
 
 **High Humidity**
@@ -41,14 +41,14 @@ Understanding the causes of mold helps with both prevention and treatment. Mold 
 - Humidity from pools, hot tubs, or aquariums
 
 **Air Conditioning Issues**
-- Clogged condensate drains (the #1 cause in Florida)
+- [Clogged condensate drains](/problems/ac-mold-remediation/) (the #1 cause in Florida)
 - Frozen evaporator coils that overflow when thawing
 - Cracked or overflowing drain pans
 - Dirty air filters reducing efficiency
 - Duct condensation in unconditioned spaces
 
 **Poor Ventilation**
-- Bathrooms without exhaust fans
+- [Bathrooms](/problems/bathroom-mold-removal/) without exhaust fans
 - Dryers venting indoors
 - Blocked or inadequate attic ventilation
 - Crawl spaces without proper airflow

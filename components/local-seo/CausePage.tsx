@@ -123,18 +123,6 @@ export function CausePage({
                       </p>
                     ))}
                   </div>
-                  {parentServices.length > 0 && (
-                    <p className="text-gray-600 mt-6 leading-relaxed">
-                      See our{' '}
-                      <Link
-                        href={`/${parentServices[0].slug}/`}
-                        className="font-semibold text-primary hover:text-primary/80 underline underline-offset-2"
-                      >
-                        {parentServices[0].name}
-                      </Link>
-                      {' '}page for full service details.
-                    </p>
-                  )}
                   
                   {/* City-Specific Context - SEO Differentiator */}
                   {cityContent?.localContext && (
@@ -466,4 +454,3 @@ export function CausePage({
     </div>
   );
 }
-

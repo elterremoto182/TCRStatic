@@ -28,7 +28,7 @@ Understanding how fires start can help with both prevention and restoration plan
 
 ### Cooking Equipment
 
-Cooking equipment is the **leading cause of house fires**. Part of this is due to homeowners not knowing how to properly handle grease fires, but other issues include burning stoves or leaving ovens unattended. Never leave cooking unattended and keep flammable materials away from heat sources.
+[Kitchen fires](/problems/kitchen-fire-damage-restoration/) are the **leading cause of house fires**. Part of this is due to homeowners not knowing how to properly handle grease fires, but other issues include burning stoves or leaving ovens unattended. Never leave cooking unattended and keep flammable materials away from heat sources.
 
 ### Home Heaters
 
@@ -40,7 +40,7 @@ It's very common to find fire damage caused by smoking materials or unattended c
 
 ### Chemicals and Electrical Issues
 
-Certain household chemicals like motor oil or cleaning liquids have the potential to ignite under specific conditions. Electrical issues—including overloaded circuits, damaged wiring, and faulty appliances—are also significant fire hazards.
+Certain household chemicals like motor oil or cleaning liquids have the potential to ignite under specific conditions. [Electrical fires](/problems/electrical-fire-cleanup/)—including overloaded circuits, damaged wiring, and faulty appliances—are also significant fire hazards.
 
 In general, a lot of [fire prevention](https://www.travelers.com/resources/home/fire-safety/how-to-prevent-house-fires) comes down to being thorough and attentive, making sure that you monitor fire hazards at all times.
 
@@ -66,7 +66,7 @@ Direct fire damage occurs where flames made contact with materials:
 Smoke damage often extends throughout a property, even to areas the fire never reached:
 
 - **Visible soot deposits**: Black or gray residue on surfaces
-- **Smoke odor**: Penetrates porous materials and HVAC systems
+- **[Smoke odor](/problems/smoke-odor-removal/)**: Penetrates porous materials and HVAC systems
 - **Discoloration**: Yellowing or staining of walls, ceilings, and fabrics
 - **Corrosion**: Smoke residue is acidic and continues damaging metal surfaces
 
@@ -80,7 +80,7 @@ Soot is the black residue left by incomplete combustion. Different fires produce
 
 **Wet (Oily) Soot**: From slow-burning, low-temperature fires with restricted oxygen (like plastics, rubber, or smoldering fires). It's sticky, smears easily, and is more difficult to clean.
 
-**Protein Residue**: From kitchen fires involving burned food. Nearly invisible but produces strong, persistent odors.
+**Protein Residue**: From [kitchen fires](/problems/kitchen-fire-damage-restoration/) involving burned food. Nearly invisible but produces strong, persistent odors.
 
 **Fuel Oil Soot**: From furnace or fuel storage fires. Dense, sticky, and challenging to remove.
 
