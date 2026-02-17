@@ -56,7 +56,7 @@ export default function ProblemsPage() {
               items={[{ label: 'Problems', href: '/problems' }]} 
               className="mb-8 text-white/70"
             />
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
+            <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6 text-white">
               Common Property Damage Problems
             </h1>
             <p className="text-xl text-white/80 max-w-3xl mb-6">
@@ -65,7 +65,7 @@ export default function ProblemsPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 mt-10 text-white/90">
               <div className="bg-white/10 rounded-xl p-6">
-                <h2 className="text-lg font-semibold mb-3">Why Identifying the Cause Matters</h2>
+                <h2 className="text-lg font-semibold mb-3 text-white">Why Identifying the Cause Matters</h2>
                 <p className="text-white/80 text-sm leading-relaxed">
                   Every restoration project starts with understanding what went wrong. A burst pipe requires different techniques than hurricane flooding. 
                   Smoke damage from a kitchen fire needs different treatment than wildfire smoke infiltration. By identifying the specific cause, 
@@ -74,7 +74,7 @@ export default function ProblemsPage() {
                 </p>
               </div>
               <div className="bg-white/10 rounded-xl p-6">
-                <h2 className="text-lg font-semibold mb-3">South Florida&apos;s Unique Challenges</h2>
+                <h2 className="text-lg font-semibold mb-3 text-white">South Florida&apos;s Unique Challenges</h2>
                 <p className="text-white/80 text-sm leading-relaxed">
                   Our subtropical climate creates conditions that accelerate water damage and mold growth. High humidity means moisture lingers longer, 
                   giving mold spores the environment they need to colonize within 24-48 hours. Hurricane season brings flooding, wind damage, and storm surge. 
