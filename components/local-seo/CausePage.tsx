@@ -80,22 +80,10 @@ export function CausePage({
               {cause.name} in {city.name}, FL
             </h1>
 
-            <p className="text-xl text-gray-600 max-w-3xl mb-4">
+            <p className="text-xl text-gray-600 max-w-3xl mb-8">
               {cause.description} Our {city.name} team provides fast, professional restoration
               services with {city.responseTime} response times.
             </p>
-            {parentServices.length > 0 && (
-              <p className="text-gray-600 mb-8">
-                See our{' '}
-                <Link
-                  href={`/${parentServices[0].slug}/`}
-                  className="font-semibold text-primary hover:text-primary/80 underline underline-offset-2"
-                >
-                  {parentServices[0].name}
-                </Link>
-                {' '}page for full service details.
-              </p>
-            )}
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
@@ -135,6 +123,18 @@ export function CausePage({
                       </p>
                     ))}
                   </div>
+                  {parentServices.length > 0 && (
+                    <p className="text-gray-600 mt-6 leading-relaxed">
+                      See our{' '}
+                      <Link
+                        href={`/${parentServices[0].slug}/`}
+                        className="font-semibold text-primary hover:text-primary/80 underline underline-offset-2"
+                      >
+                        {parentServices[0].name}
+                      </Link>
+                      {' '}page for full service details.
+                    </p>
+                  )}
                   
                   {/* City-Specific Context - SEO Differentiator */}
                   {cityContent?.localContext && (

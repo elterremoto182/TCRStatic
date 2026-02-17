@@ -262,6 +262,29 @@ Each guide automatically clusters related blog posts by category and provides in
 └── next.config.js                # Next.js configuration
 ```
 
+## URL Architecture & Hierarchy
+
+A clear layer structure supports topical authority and crawlability:
+
+| Layer | Example | Purpose |
+|-------|---------|---------|
+| **Static pages** | `/`, `/about/`, `/contact/` | Brand, trust |
+| **Service hub** | `/water-damage-restoration/` | Service authority |
+| **Type hub** | `/water-damage-restoration/residential/`, `.../commercial/` | Audience split |
+| **City pages** | `.../residential/miami/`, `.../commercial/miami/` | Local SEO |
+| **Problems (cause)** | `/problems/burst-pipe-water-damage/` | Cause/topic hub |
+| **Cause × City** | `/problems/burst-pipe-water-damage/miami/` | Local + cause intent |
+| **Blog** | `/{slug}/`, `/blog/category/`, `/blog/tag/{tag}/` | Content, authority |
+| **Guides** | `/guides/`, `/guides/{slug}/` | Educational content |
+
+### How Pages Link and Pass Authority
+
+- **Top-down**: Home → service hubs → type hubs → city pages. Service hubs link to all Tier 1 cities; type hubs reinforce the hierarchy.
+- **Tier-based city links**: City pages link *down* to the tier below (Tier 1 → Tier 2, Tier 2 → Tier 3) using geographic proximity, so equity flows to nearby cities.
+- **Lateral**: City pages link to related cause×city pages; cause hubs link to parent services and city grids.
+- **Content clusters**: Guides and blog posts cluster by category; blog links to pillar guides and conversion service pages. City pages stay conversion-focused and do not link to blog posts.
+- **Link budgets** and 70/20/10 anchor text rotation control outbound links per page type.
+
 ## URL Structure
 
 ```
