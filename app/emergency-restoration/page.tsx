@@ -12,7 +12,7 @@ import { ServiceOverviewSection } from '@/components/local-seo/ServiceOverviewSe
 import { CommonCausesSection } from '@/components/local-seo/CommonCausesSection';
 import { RelatedProblems } from '@/components/local-seo/RelatedProblems';
 import { LocalFAQ } from '@/components/local-seo/LocalFAQ';
-import { AlertCircle, Home, Building2, ArrowRight, Phone, MapPin, Clock, Camera } from 'lucide-react';
+import { AlertCircle, Home, Building2, ArrowRight, Phone, MapPin, Clock, Camera, CheckCircle } from 'lucide-react';
 
 const SERVICE_SLUG = 'emergency-restoration';
 
@@ -126,7 +126,7 @@ export default function EmergencyRestorationPage() {
             
               <div className="max-w-3xl">
                 {/* Service badges */}
-                <div className="flex items-center gap-3 mb-6">
+                <div className="flex flex-wrap items-center gap-3 mb-6">
                   <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold ${
                     service.images?.hero 
                       ? 'bg-red-500/30 text-red-100 backdrop-blur-sm' 
@@ -142,6 +142,22 @@ export default function EmergencyRestorationPage() {
                   }`}>
                     <Clock className="w-4 h-4" />
                     Available 24/7
+                  </span>
+                  <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold ${
+                    service.images?.hero 
+                      ? 'bg-white/15 text-white/95 backdrop-blur-sm' 
+                      : 'bg-gray-100 text-gray-800'
+                  }`}>
+                    <CheckCircle className="w-4 h-4" />
+                    Florida Licensed Mold Remediator (MRSR2596)
+                  </span>
+                  <span className={`inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold ${
+                    service.images?.hero 
+                      ? 'bg-white/15 text-white/95 backdrop-blur-sm' 
+                      : 'bg-gray-100 text-gray-800'
+                  }`}>
+                    <CheckCircle className="w-4 h-4" />
+                    IICRC Certified Firm (#219076)
                   </span>
                 </div>
 

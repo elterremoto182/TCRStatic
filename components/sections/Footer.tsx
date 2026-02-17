@@ -218,7 +218,7 @@ export function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
             <p>
-              &copy; {currentYear} {siteConfig.name}. All rights reserved. License # CFC1430460
+              &copy; {currentYear} {siteConfig.name}. All rights reserved. Florida Mold Remediator #MRSR2596 • IICRC Certified Firm #219076
             </p>
             <div className="flex items-center gap-4">
               <Link

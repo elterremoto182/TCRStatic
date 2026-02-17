@@ -58,29 +58,28 @@ export function TrustBadges() {
     : defaultBadges;
 
   return (
-    <section className="py-20 md:py-28 bg-gradient-to-b from-background to-muted/30 border-t border-gray-200">
+    <section className="py-24 md:py-32 bg-gradient-to-b from-background to-muted/30 border-t border-gray-200">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
+        <div className="text-center mb-16">
+          <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-6">
             Trusted & Certified
           </h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-10">
             Your peace of mind is our priority. We're fully licensed, insured, and committed to excellence.
           </p>
           
-          {/* License Number - Prominently Displayed */}
-          <div className="inline-flex items-center gap-3 bg-white px-6 py-4 rounded-xl border-2 border-primary shadow-lg mb-12">
-            <FileCheck className="w-6 h-6 text-primary" />
-            <div className="text-left">
-              <p className="text-sm text-gray-600 font-medium">Florida Licensed Contractor</p>
-              <p className="text-lg font-bold text-gray-900">
-                License # {branding?.licenseNumber || 'CFC1430460'}
-              </p>
+          {/* License Numbers - Prominently Displayed */}
+          <div className="inline-flex items-center gap-6 bg-white px-8 py-6 rounded-xl border-2 border-primary shadow-lg mb-16">
+            <FileCheck className="w-8 h-8 text-primary flex-shrink-0" />
+            <div className="text-left space-y-2">
+              <p className="text-sm text-gray-600 font-medium">Licensed • Insured • IICRC Certified Firm</p>
+              <p className="text-base font-bold text-gray-900">Florida Mold Remediator License #MRSR2596</p>
+              <p className="text-base font-bold text-gray-900">IICRC Certified Firm #219076</p>
             </div>
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {badges.map((badge: any, index: number) => {
             const IconComponent = badge.icon || Shield;
             const hasImage = badge.image && badge.image !== '';
@@ -122,7 +121,7 @@ export function TrustBadges() {
         </div>
 
         {/* Additional Trust Indicators */}
-        <div className="mt-12 pt-8 border-t border-gray-200">
+        <div className="mt-20 pt-12 border-t border-gray-200">
           <div className="flex flex-wrap justify-center items-center gap-8 text-sm text-gray-900">
             <div className="flex items-center gap-2">
               <Users className="w-5 h-5 text-primary" />
