@@ -13,16 +13,21 @@ import {
 } from '@/lib/local-seo/data';
 import { CausePage } from '@/components/local-seo';
 
+// Cause slugs that are not in config but may be requested (e.g. old links, typos).
+// Pre-generating these lets the page run and call notFound() → 404 instead of 500.
+const INVALID_CAUSE_SLUGS_TO_PREGENERATE = ['clogged-drain'];
+
 // Generate static params for all cause/city combinations
 export async function generateStaticParams() {
   const allCauses = getAllCauses();
   const cities = getAllCities();
-  
+  const citySlugs = Object.keys(cities);
+
   const params: { cause: string; city: string }[] = [];
-  
+
   for (const category of Object.values(allCauses)) {
     for (const cause of category) {
-      for (const citySlug of Object.keys(cities)) {
+      for (const citySlug of citySlugs) {
         params.push({
           cause: cause.slug,
           city: citySlug,
@@ -30,7 +35,13 @@ export async function generateStaticParams() {
       }
     }
   }
-  
+
+  for (const causeSlug of INVALID_CAUSE_SLUGS_TO_PREGENERATE) {
+    for (const citySlug of citySlugs) {
+      params.push({ cause: causeSlug, city: citySlug });
+    }
+  }
+
   return params;
 }
 

@@ -11,9 +11,11 @@ export interface BreadcrumbItem {
 interface BreadcrumbsProps {
   items: BreadcrumbItem[];
   className?: string;
+  /** Use light text for current page and links (e.g. on dark hero backgrounds) */
+  inverse?: boolean;
 }
 
-export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
+export function Breadcrumbs({ items, className = '', inverse = false }: BreadcrumbsProps) {
   // Always include home as the first item
   const allItems: BreadcrumbItem[] = [
     { label: 'Home', href: '/' },
@@ -61,7 +63,7 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
               >
                 {isLast ? (
                   <span
-                    className="text-gray-600 font-medium flex items-center"
+                    className={`font-medium flex items-center ${inverse ? 'text-gray-300' : 'text-gray-600'}`}
                     aria-current="page"
                   >
                     {isHome ? (
@@ -76,7 +78,7 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
                 ) : (
                   <Link
                     href={item.href}
-                    className="text-primary hover:text-primary/80 transition-colors duration-200 flex items-center"
+                    className={`transition-colors duration-200 flex items-center ${inverse ? 'text-white hover:text-gray-200' : 'text-primary hover:text-primary/80'}`}
                   >
                     {isHome ? (
                       <>
@@ -89,7 +91,7 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
                   </Link>
                 )}
                 {!isLast && (
-                  <ChevronRight className="w-4 h-4 mx-2 text-gray-400" aria-hidden="true" />
+                  <ChevronRight className={`w-4 h-4 mx-2 ${inverse ? 'text-gray-400' : 'text-gray-400'}`} aria-hidden="true" />
                 )}
               </li>
             );

@@ -1,12 +1,15 @@
 'use client';
 
-import { useState } from 'react';
+import { useMemo } from 'react';
 import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import OptimizedImage from '@/components/OptimizedImage';
 import { LocalCTA } from './LocalCTA';
 import { LocalFAQ } from './LocalFAQ';
 import { ServiceProcess } from './ServiceProcess';
 import { NeighborhoodList } from './NeighborhoodList';
+import { generateAltText } from '@/lib/seo-utils';
+import content from '@/config/content.json';
 import {
   Phone,
   AlertTriangle,
@@ -24,6 +27,28 @@ import {
   FileCheck,
 } from 'lucide-react';
 import type { CauseConfig, CityConfig, ServiceConfig, CauseCityContent } from '@/lib/local-seo/data';
+
+/** Map cause parent services to gallery category for hero image selection */
+function getGalleryImageForCause(cause: CauseConfig, cityName: string): { src: string; alt: string } | null {
+  const projects = (content as { gallery: { projects: { category: string; afterImage: string; title: string }[] } }).gallery?.projects;
+  if (!projects?.length) return null;
+  const category = cause.parentServices.includes('water-damage-restoration')
+    ? 'Water'
+    : cause.parentServices.includes('fire-damage-restoration')
+      ? 'Fire'
+      : cause.parentServices.includes('mold-remediation')
+        ? 'Mold'
+        : 'Water';
+  const project = projects.find((p: { category: string }) => p.category === category) ?? projects[0];
+  return {
+    src: project.afterImage,
+    alt: generateAltText({
+      type: 'overview',
+      serviceName: cause.name,
+      cityName,
+    }),
+  };
+}
 
 interface CausePageProps {
   cause: CauseConfig;
@@ -50,58 +75,76 @@ export function CausePage({
 }: CausePageProps) {
   const urgencyStyle = urgencyColors[cause.urgency] || urgencyColors.moderate;
   const hasBodyContent = cause.bodyContent && cause.bodyContent.overview;
+  const heroImage = useMemo(() => getGalleryImageForCause(cause, city.name), [cause, city.name]);
 
   return (
     <div>
-      {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-gradient-to-br from-primary/10 via-background to-accent/10">
+      {/* Hero Section - dark background so headlines stay readable in all themes */}
+      <section className="pt-32 pb-20 bg-[#242835]">
         <div className="max-w-6xl mx-auto px-4">
-          <Breadcrumbs items={breadcrumbs} className="mb-6" />
+          <Breadcrumbs items={breadcrumbs} className="mb-6" inverse />
 
-          
-            <div className="flex flex-wrap items-center gap-3 mb-6">
-              <span
-                className={`inline-flex items-center gap-2 px-3 py-1 ${urgencyStyle.bg} ${urgencyStyle.text} text-sm font-semibold rounded-full`}
-              >
-                <AlertTriangle className="w-4 h-4" />
-                {cause.urgency === 'emergency'
-                  ? 'Emergency'
-                  : cause.urgency === 'high'
-                  ? 'High Priority'
-                  : 'Professional Service'}
-              </span>
-              <span className="inline-flex items-center gap-2 px-3 py-1 bg-green-100 text-green-700 text-sm font-semibold rounded-full">
-                <Clock className="w-4 h-4" />
-                24/7 Response
-              </span>
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start">
+            <div className="lg:col-span-7">
+              <div className="flex flex-wrap items-center gap-3 mb-6">
+                <span
+                  className={`inline-flex items-center gap-2 px-3 py-1 ${urgencyStyle.bg} ${urgencyStyle.text} text-sm font-semibold rounded-full`}
+                >
+                  <AlertTriangle className="w-4 h-4" />
+                  {cause.urgency === 'emergency'
+                    ? 'Emergency'
+                    : cause.urgency === 'high'
+                    ? 'High Priority'
+                    : 'Professional Service'}
+                </span>
+                <span className="inline-flex items-center gap-2 px-3 py-1 bg-green-100 text-green-700 text-sm font-semibold rounded-full">
+                  <Clock className="w-4 h-4" />
+                  24/7 Response
+                </span>
+              </div>
+
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+                {cause.name} in {city.name}, FL
+              </h1>
+
+              <p className="text-xl text-gray-300 max-w-3xl mb-8">
+                {cause.description} Our {city.name} team provides fast, professional restoration
+                services with {city.responseTime} response times.
+              </p>
+
+              <div className="flex flex-col sm:flex-row gap-4">
+                <a
+                  href="tel:7866106317"
+                  className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#FF6200] hover:bg-[#E55A00] text-white font-bold rounded-lg transition-colors shadow-lg"
+                >
+                  <Phone className="w-5 h-5" />
+                  {cause.urgency === 'emergency' ? 'Emergency: ' : 'Call '}
+                  (786) 610-6317
+                </a>
+                <Link
+                  href="/#contact"
+                  className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
+                >
+                  Get Free Assessment
+                </Link>
+              </div>
             </div>
 
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              {cause.name} in {city.name}, FL
-            </h1>
-
-            <p className="text-xl text-gray-600 max-w-3xl mb-8">
-              {cause.description} Our {city.name} team provides fast, professional restoration
-              services with {city.responseTime} response times.
-            </p>
-
-            <div className="flex flex-col sm:flex-row gap-4">
-              <a
-                href="tel:7866106317"
-                className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#FF6200] hover:bg-[#E55A00] text-white font-bold rounded-lg transition-colors shadow-lg"
-              >
-                <Phone className="w-5 h-5" />
-                {cause.urgency === 'emergency' ? 'Emergency: ' : 'Call '}
-                (786) 610-6317
-              </a>
-              <Link
-                href="/#contact"
-                className="inline-flex items-center justify-center px-8 py-4 bg-white text-primary font-bold rounded-lg border-2 border-primary hover:bg-primary/5 transition-colors"
-              >
-                Get Free Assessment
-              </Link>
-            </div>
-          
+            {heroImage && (
+              <div className="lg:col-span-5">
+                <div className="relative aspect-[4/3] rounded-xl overflow-hidden shadow-lg">
+                  <OptimizedImage
+                    src={heroImage.src}
+                    alt={heroImage.alt}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 1024px) 100vw, 480px"
+                    fetchPriority="high"
+                  />
+                </div>
+              </div>
+            )}
+          </div>
         </div>
       </section>
 
