@@ -18,13 +18,9 @@ function sendEvent(eventName: string, params: Record<string, unknown>): void {
     if (hasGtag()) {
       window.gtag('event', eventName, params);
     } else {
-      (window as Window & { dataLayer?: unknown[] }).dataLayer =
-        (window as Window & { dataLayer?: unknown[] }).dataLayer ?? [];
-      (window as Window & { dataLayer: unknown[] }).dataLayer.push([
-        'event',
-        eventName,
-        params,
-      ]);
+      const w = window as Window & { dataLayer?: unknown[] };
+      w.dataLayer = w.dataLayer ?? [];
+      w.dataLayer.push(['event', eventName, params]);
     }
   } catch {
     // Ad blockers or gtag errors must not break the site
