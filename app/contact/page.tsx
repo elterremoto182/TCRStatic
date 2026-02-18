@@ -9,7 +9,7 @@ import { GoogleMap } from '@/components/sections/GoogleMap';
 import { Mail, Phone, MapPin, Send, CheckCircle, AlertCircle, Loader2, Home } from 'lucide-react';
 import siteConfig from '@/config/site.json';
 import content from '@/config/content.json';
-
+import { trackFormSubmit } from '@/lib/analytics';
 
 export default function ContactPage() {
   const { contact } = content;
@@ -32,6 +32,7 @@ export default function ContactPage() {
     if (!webhookUrl) {
       setSubmitStatus('error');
       setErrorMessage('Webhook URL not configured. Please set NEXT_PUBLIC_N8N_WEBHOOK_URL environment variable.');
+      trackFormSubmit({ form_name: 'contact', success: false });
       setIsSubmitting(false);
       return;
     }
@@ -62,7 +63,8 @@ export default function ContactPage() {
       // Success!
       setSubmitStatus('success');
       form.reset();
-      
+      trackFormSubmit({ form_name: 'contact', success: true });
+
       // Reset success message after 5 seconds
       setTimeout(() => {
         setSubmitStatus('idle');
@@ -70,6 +72,7 @@ export default function ContactPage() {
     } catch (error) {
       console.error('Form submission error:', error);
       setSubmitStatus('error');
+      trackFormSubmit({ form_name: 'contact', success: false });
       
       // Check for CORS errors specifically
       if (error instanceof TypeError && error.message.includes('fetch')) {

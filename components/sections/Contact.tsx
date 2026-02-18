@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Mail, Phone, MapPin, Send, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 import siteConfig from '@/config/site.json';
 import content from '@/config/content.json';
+import { trackFormSubmit } from '@/lib/analytics';
 
 export function Contact() {
   const { contact } = content;
@@ -27,6 +28,7 @@ export function Contact() {
     if (!webhookUrl) {
       setSubmitStatus('error');
       setErrorMessage('Webhook URL not configured. Please set NEXT_PUBLIC_N8N_WEBHOOK_URL environment variable.');
+      trackFormSubmit({ form_name: 'contact', success: false });
       setIsSubmitting(false);
       return;
     }
@@ -57,7 +59,8 @@ export function Contact() {
       // Success!
       setSubmitStatus('success');
       form.reset();
-      
+      trackFormSubmit({ form_name: 'contact', success: true });
+
       // Reset success message after 5 seconds
       setTimeout(() => {
         setSubmitStatus('idle');
@@ -65,6 +68,7 @@ export function Contact() {
     } catch (error) {
       console.error('Form submission error:', error);
       setSubmitStatus('error');
+      trackFormSubmit({ form_name: 'contact', success: false });
       
       // Check for CORS errors specifically
       if (error instanceof TypeError && error.message.includes('fetch')) {

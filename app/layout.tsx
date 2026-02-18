@@ -6,6 +6,7 @@ import { Suspense } from 'react';
 import siteConfig from '@/config/site.json';
 import dynamic from 'next/dynamic';
 import { GoogleAnalyticsRouteTracker } from '@/components/GoogleAnalytics';
+import { GoogleAnalyticsPhoneTracker } from '@/components/GoogleAnalyticsPhoneTracker';
 import { StructuredData } from '@/lib/structured-data';
 
 const StickyCallButton = dynamic(
@@ -113,6 +114,7 @@ export default function RootLayout({
         {gaId && (
           <Suspense fallback={null}>
             <GoogleAnalyticsRouteTracker />
+            <GoogleAnalyticsPhoneTracker />
           </Suspense>
         )}
         {/* GA loads after window load (lazyOnload) to avoid gtag.js forced reflows affecting Page Speed / LCP */}
