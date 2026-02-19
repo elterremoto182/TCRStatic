@@ -155,7 +155,7 @@ Local codes complement national standards. They address specific inspection and 
 
 - Fire alarm requirements are enforced at the municipal level
 - Some flexibility is allowed during emergencies
-- California updates building codes every three years per the [ICC](https://www.iccsafe.org/) (IBC)
+- California updates building codes every three years per the [ICC IBC](https://www.iccsafe.org/products-and-services/i-codes/ibc/) (International Building Code)
 - Emergency executive orders like **California's N-4-25** may ease rules temporarily
 
 Local authorities may restrict rebuilding if it poses public health or safety risks. Non-compliance can result in severe legal and financial consequences.

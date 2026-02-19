@@ -14,7 +14,7 @@ keywords: ["fire damaged building materials", "fire restoration standards"]
 When a building is damaged by fire, its structural safety is often compromised. Materials like **concrete, steel, wood, and masonry** react differently to extreme heat, and proper restoration requires strict adherence to safety standards and building codes. Here’s what you need to know:
 
 -   **Material Standards Matter**: Guidelines ensure repairs restore safety and prevent future failures. Standards like [ASTM](https://www.astm.org/e0119-20.html) and [Intertek](https://www.intertek.com/building/standards/ul-263/) test fire resistance and structural performance.
--   **Building Codes Guide Repairs**: Codes like the [ICC](https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) require that repairs meet modern safety requirements, often stricter than when the building was originally constructed.
+-   **Building Codes Guide Repairs**: Codes like the [ICC](https://www.iccsafe.org/products-and-services/i-codes/ibc/) (IBC) require that repairs meet modern safety requirements, often stricter than when the building was originally constructed.
 -   **Material-Specific Repairs**:
     -   **Concrete**: Noncombustible but prone to spalling and cracking. Damage is assessed using load tests and ultrasonic methods.
     -   **Steel**: Loses strength in high heat; repairs often involve re-coating or replacement.
@@ -82,7 +82,7 @@ For expert assistance, Total Care Restoration‘s certified technicians are avai
 
 Restoration efforts for fire-damaged structures must adhere to strict building codes and safety standards to ensure the safety and well-being of occupants. These standards provide a clear roadmap for property owners and contractors to navigate the restoration process while meeting current safety requirements. By aligning repairs with modern codes, buildings can be restored to meet today’s safety benchmarks.
 
-### [ICC](https://www.iccsafe.org/products-and-services/i-codes/2018-i-codes/ibc/) (IBC) Requirements
+### [ICC](https://www.iccsafe.org/products-and-services/i-codes/ibc/) (IBC) Requirements
 
 The International Building Code (IBC) serves as the foundation for [Fire Damage Restoration a Step By Step Guide](/fire-damage-restoration-a-step-by-step-guide/), with Chapter 7 addressing fire-resistance-rated construction. This section outlines the requirements for structural elements, walls, partitions, and horizontal assemblies to ensure they meet updated safety standards.
 
