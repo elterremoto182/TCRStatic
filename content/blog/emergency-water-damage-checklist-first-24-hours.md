@@ -135,7 +135,11 @@ Our certified team manages every detail, including working directly with your in
 
 ### Schedule an Assessment
 
-Reach out to our 24/7 emergency line at [**(786) 610-6317**](tel:(786) 610-6317) with your address and a brief description of the damage. We’ll send a team to provide a free on-site assessment, followed by a detailed restoration plan and timeline. Work can begin immediately with your approval.
+Reach out to our 24/7 emergency line at:
+
+[**(786) 610-6317**](tel:7866106317)
+
+with your address and a brief description of the damage. We’ll send a team to provide a free on-site assessment, followed by a detailed restoration plan and timeline. Work can begin immediately with your approval.
 
 The time needed for restoration varies depending on the extent of the damage – it could take a few days or several weeks. Acting quickly is crucial, as every hour counts when dealing with water damage. Don’t delay – call us now.
 
