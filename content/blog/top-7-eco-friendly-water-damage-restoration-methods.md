@@ -235,7 +235,6 @@ These manage mold and bacteria effectively while decomposing naturally.
 
 Total Care Restoration incorporates eco-friendly antimicrobial treatments using certified technicians.
 
-###### sbb-itb-7cc21ef
 
 ## 6. Green Waterproofing Solutions
 

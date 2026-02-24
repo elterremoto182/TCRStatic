@@ -82,7 +82,6 @@ These factors make it essential to weigh ozone treatment against other available
 
 This table shows that while ozone treatment offers quick and powerful disinfection, it requires strict safety measures during use. Choosing the right method depends on factors like whether the space can be evacuated and the type of contamination being addressed.
 
-###### sbb-itb-7cc21ef
 
 ## When and How to Use Ozone Treatment
 

@@ -112,7 +112,6 @@ Conduct interim tests while the air scrubber is running to monitor progress. Air
 
 Perform a final air quality test to confirm that the restoration is complete. Make sure all contamination levels meet established safety standards before shutting down the air scrubber or removing containment barriers. Keep detailed records of all air quality testing – include dates, times, locations, and specific readings – to demonstrate the effectiveness of your efforts and to safeguard against any future disputes.
 
-###### sbb-itb-7cc21ef
 
 ## Post-Operation and Equipment Maintenance
 

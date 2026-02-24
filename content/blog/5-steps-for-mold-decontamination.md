@@ -158,7 +158,6 @@ Lastly, clean any **dehumidifiers and air movers** you used. Replace or clean th
 
 Once the mold is removed and surfaces are cleaned, the next step is to dry the area and filter the air to complete the decontamination process.
 
-###### sbb-itb-7cc21ef
 
 ## Step 4: Dry and Filter the Air
 

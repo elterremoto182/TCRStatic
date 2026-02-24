@@ -120,7 +120,6 @@ Start with dry cleaning methods before moving on to wet cleaning:
 > "The most common way to remove fire soot damage is to clean soot stains thoroughly with a gentle solution."  
 > – [Jenkins Restorations](https://jenkinsrestorations.com/fire-damage-restoration/)
 
-###### sbb-itb-7cc21ef
 
 ## Step 3: Remove Odors and Clean Air
 

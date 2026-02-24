@@ -120,7 +120,6 @@ Use your records to establish a baseline for what’s normal in your home. For i
 
 Lastly, **review your logs regularly** to spot trends and decide if preventive measures are needed. If certain areas keep having the same problems, addressing the root cause will save you time and money in the long run. This proactive mindset strengthens the value of your inspection routine and keeps your property in top shape.
 
-###### sbb-itb-7cc21ef
 
 ## When to Call Water Damage Professionals
 

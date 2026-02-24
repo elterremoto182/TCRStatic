@@ -160,7 +160,6 @@ Factors like space, ventilation, and the need for professional installation – 
 
 Ultimately, the choice comes down to your main air quality goals. For particle removal, HEPA filters are the better option. If pathogen destruction is the priority, UV systems are more effective. Using both together provides comprehensive protection against airborne contaminants.
 
-###### sbb-itb-7cc21ef
 
 ## Airflow Design and System Setup
 

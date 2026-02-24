@@ -104,7 +104,6 @@ Borescopes and video inspection allow you to peer inside walls and cavities with
 
 Be sure to document everything – affected areas, moisture levels, and any visible damage. This information is invaluable for insurance claims and helps restoration professionals plan repairs. If you encounter significant structural damage or have concerns about the stability of load-bearing components, consult a structural engineer. They can provide a detailed evaluation and recommend the necessary steps to restore the building’s safety.
 
-###### sbb-itb-7cc21ef
 
 ## Step 4: Inspect Electrical and Mechanical Systems
 

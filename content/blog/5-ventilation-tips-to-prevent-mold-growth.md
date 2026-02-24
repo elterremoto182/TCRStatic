@@ -83,7 +83,6 @@ Keep fan grilles clean by dusting them monthly and inspect vent covers seasonall
 
 If you’re unsure about your current ventilation setup or planning an upgrade, a professional assessment can help. Proper sizing, placement, and venting are essential to avoid problems like negative pressure, which can pull humid outdoor air into your home. For expert guidance, reach out to Total Care Restoration at totalcarerestoration.com or call (786) 610-6317 for assistance with your ventilation and [DIY Tips Preventing Mold After a Leak Or Flood](/diy-tips-preventing-mold-after-a-leak-or-flood/) needs.
 
-###### sbb-itb-7cc21ef
 
 ## 3\. Keep Your HVAC System Working Properly
 

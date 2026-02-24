@@ -99,7 +99,6 @@ When it comes to foot protection, **steel-toed boots** are indispensable. These 
 
 The effectiveness of PPE depends on proper selection, fit, and consistent use. Poorly fitting respirators or uncomfortable clothing can compromise safety, as workers may adjust or remove their gear. Regular inspections and timely replacement of PPE ensure it remains reliable throughout the restoration process.
 
-###### sbb-itb-7cc21ef
 
 ## How to Choose the Right PPE
 

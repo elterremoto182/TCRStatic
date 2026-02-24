@@ -119,7 +119,6 @@ To make things easier, here’s a handy checklist for common safety concerns:
 | **Appliances** | Unusual odors, sparking, excessive heat | Unplug and consider replacing the appliance |
 | **Circuit Breakers** | Frequent tripping, warm to touch | Reduce the load on the circuit and contact an electrician |
 
-###### sbb-itb-7cc21ef
 
 ## Safe Appliance Operation
 

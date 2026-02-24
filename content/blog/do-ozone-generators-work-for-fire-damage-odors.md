@@ -83,7 +83,6 @@ Ozone can also harm certain materials, such as rubber, wire coatings, fabrics, a
 
 This underscores the challenge: balancing effective odor removal with safe ozone levels. To minimize these risks, it’s crucial to follow strict safety protocols, which will be discussed in the next section.
 
-###### sbb-itb-7cc21ef
 
 ## Safety Rules for Ozone Treatment
 

@@ -141,7 +141,6 @@ For urgent situations, Total Care Restoration offers 24/7 emergency services at 
 
 Acting quickly to secure professional evaluations strengthens your appeal and ensures all damage is thoroughly documented. Timely assessments carry more weight than those conducted weeks or months later, so don’t delay. Fresh evidence can make all the difference in your claim.
 
-###### sbb-itb-7cc21ef
 
 ## Step 4: Ask for a New Inspection or File Additional Claims
 

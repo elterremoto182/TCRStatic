@@ -99,7 +99,6 @@ Professional abrasive and shot blasting machines are ideal for cleaning large ar
 
 Media selection matters, too. For standard concrete cleaning, materials like garnet, crushed glass, and coal slag are effective. For more delicate surfaces, gentler options like walnut shells or baking soda are better. Wet abrasive blasting is particularly helpful for fragile surfaces, as it controls both heat and pressure to prevent etching or pitting.
 
-###### sbb-itb-7cc21ef
 
 ## Step-by-Step Concrete Cleaning Process
 

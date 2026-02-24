@@ -124,7 +124,6 @@ Be wary of vague language like "and other work as needed" or "additional repairs
 
 Lastly, watch out for pre-signed sections or signatures that appear photocopied. This could indicate the contractor uses the same signature across multiple contracts, making it harder to prove the specific terms you agreed to. Always keep multiple signed copies for your records.
 
-###### sbb-itb-7cc21ef
 
 ## Safe Payment Methods and Project Monitoring
 

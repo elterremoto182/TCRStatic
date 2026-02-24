@@ -139,7 +139,6 @@ Smart systems maintain consistent levels. This protects sensitive equipment and 
 
 With IoT-enabled monitoring, technicians track conditions remotely. They make real-time adjustments while staying compliant with industry standards.
 
-###### sbb-itb-7cc21ef
 
 ## Regulations and Environmental Standards
 

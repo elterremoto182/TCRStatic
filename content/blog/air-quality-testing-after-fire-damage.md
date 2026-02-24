@@ -140,7 +140,6 @@ Why this matters:
 
 Certified experts provide detailed lab interpretations and clear next steps. For fire-damaged properties, this is critical since people spend about 90% of their time indoors.
 
-###### sbb-itb-7cc21ef
 
 ## Restoration and Cleanup After Testing
 

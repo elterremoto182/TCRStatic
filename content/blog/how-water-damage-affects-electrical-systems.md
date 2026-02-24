@@ -65,7 +65,6 @@ One of the most concerning consequences of water damage is the growth of mold an
 
 The risks extend beyond the electrical systems themselves. Mold exposure can cause serious health issues, including respiratory problems, allergic reactions, and even neurological conditions. For individuals with asthma or other respiratory sensitivities, prolonged exposure to mold can lead to chronic health complications.
 
-###### sbb-itb-7cc21ef
 
 ## How to Prevent Water Damage to Electrical Systems
 

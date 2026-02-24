@@ -94,7 +94,6 @@ Finally, apply a new sealer to the cleaned and prepared surface. Fire often dest
 
 If the contamination is severe or odors persist despite your efforts, consider reaching out to [Commercial](/water-damage-restoration/commercial/) like Total Care Restoration. They offer 24/7 emergency services with specialized tools and expertise to ensure the job is done right. With the concrete cleaned and prepped, the next step is choosing the best repair method for your project.
 
-###### sbb-itb-7cc21ef
 
 ## Concrete Repair Methods After Fire Damage
 

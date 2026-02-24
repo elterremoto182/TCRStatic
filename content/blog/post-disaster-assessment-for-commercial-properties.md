@@ -137,7 +137,6 @@ For more complex situations, companies like Total Care Restoration can provide p
 
 Investing time in detailed documentation not only speeds up the insurance process but also helps restoration teams work more effectively. It creates a clear baseline for tracking progress as your property is restored to normal operations.
 
-###### sbb-itb-7cc21ef
 
 ## Checking Equipment and Building Structure
 

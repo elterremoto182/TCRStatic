@@ -73,7 +73,6 @@ Activated carbon filters require a different approach. These filters should neve
 
 Instead, use the vacuum’s brush attachment to gently remove surface dust. Keep in mind that activated carbon filters lose their effectiveness over time. They usually need to be replaced every 3–6 months, depending on your air quality and how often you use the purifier. If you notice loose black granules falling out during cleaning, it’s a sign that the filter needs to be replaced. Once saturated, these filters can’t be restored to their original performance.
 
-###### sbb-itb-7cc21ef
 
 ## Air Purifier Maintenance Tips
 

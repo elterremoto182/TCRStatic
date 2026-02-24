@@ -77,7 +77,6 @@ Smoke doesn’t just leave a bad smell – it seeps deep into wood fibers, carry
 
 If you’re unsure about how to proceed, the certified technicians at Total Care Restoration can help. They specialize in fire restoration and offer 24/7 emergency services to guide you through the process. For a professional evaluation tailored to your situation, call Total Care Restoration at **(786) 610-6317** today.
 
-###### sbb-itb-7cc21ef
 
 ## How to Repair Fire-Damaged Wood
 

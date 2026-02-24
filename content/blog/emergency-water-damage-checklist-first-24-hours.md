@@ -82,7 +82,6 @@ Create a detailed list of all affected items. Include descriptions, purchase dat
 -   Reach out to your insurance adjuster as soon as possible. Provide your policy number, details of the claim, and all supporting documentation.
 -   Start the cleanup and drying process immediately – there’s no need to wait for the adjuster to arrive.
 
-###### sbb-itb-7cc21ef
 
 ## Stop Further Damage
 

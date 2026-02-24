@@ -74,7 +74,6 @@ Now, let’s look at another common source of water damage: appliances.
 
 Appliances like washing machines, dishwashers, and refrigerators often develop leaks as their hoses age. Replace these hoses every five years and check them monthly for signs of wear, such as cracks, bulges, or loose connections.
 
-###### sbb-itb-7cc21ef
 
 ## Prevention Steps and Solutions
 

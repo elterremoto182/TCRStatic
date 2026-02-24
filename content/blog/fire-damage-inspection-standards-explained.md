@@ -160,7 +160,6 @@ Local codes complement national standards. They address specific inspection and 
 
 Local authorities may restrict rebuilding if it poses public health or safety risks. Non-compliance can result in severe legal and financial consequences.
 
-###### sbb-itb-7cc21ef
 
 ## How to Document and Report Inspections
 

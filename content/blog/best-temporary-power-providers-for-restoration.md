@@ -143,7 +143,6 @@ Temporary power bridges the gap between fire damage and recovery. It offers clea
 | **Temporary Limitation** | Needs careful planning for transition to permanent power |
 | **Reliance on Providers** | Depends on external companies for setup, maintenance, and fuel |
 
-###### sbb-itb-7cc21ef
 
 ## Best Practices for Using Temporary Power During Fire Recovery
 

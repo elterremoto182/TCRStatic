@@ -146,7 +146,6 @@ It’s generally advised that homeowners avoid walking on their roofs due to the
 
 For homeowners in need of immediate assistance, Total Care Restoration offers 24/7 [Hurricane Ian Tarps Water Damage](/hurricane-ian-tarps-water-damage/). Their certified technicians are equipped to handle dangerous situations and secure your roof safely. If conditions feel too risky for DIY efforts, reach out to their emergency line at (786) 610-6317. Protect your home without compromising your safety.
 
-###### sbb-itb-7cc21ef
 
 ## Step-by-Step Tarping Process
 

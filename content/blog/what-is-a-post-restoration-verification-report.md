@@ -48,7 +48,6 @@ Testing involves professional air and surface sampling to assess the environment
 
 These methods provide a clear picture of whether contaminants have been adequately addressed, ensuring the space meets health and safety standards.
 
-###### sbb-itb-7cc21ef
 
 ## Step-by-Step Guide to the Verification Process
 

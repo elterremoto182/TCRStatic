@@ -97,7 +97,6 @@ Use appropriate cleaning solutions to scrub surfaces, then dry the area complete
 
 These steps provide a temporary solution until you can arrange for professional mold remediation.
 
-###### sbb-itb-7cc21ef
 
 ## Signs You Need a Professional
 

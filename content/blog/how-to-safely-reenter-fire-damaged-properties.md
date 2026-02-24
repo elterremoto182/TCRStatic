@@ -120,7 +120,6 @@ Continue these steps to ensure a thorough safety review before reentering the pr
 
 > "Sorting through/cleaning burn debris is not recommended for health reasons." – socoemergency.org
 
-###### sbb-itb-7cc21ef
 
 ## Do a Step-by-Step Safety Check
 

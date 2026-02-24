@@ -78,7 +78,6 @@ Stable curing conditions are crucial for successful restoration. Avoid extreme t
 
 Regular inspections during curing are equally important. Early detection of new cracks or surface degradation can prevent setbacks. Monitoring environmental factors such as temperature, humidity, and airflow gives valuable insights into the progress of the restoration. Additionally, protecting the area from contaminants ensures that the controlled conditions remain intact, supporting a successful recovery process.
 
-###### sbb-itb-7cc21ef
 
 ## Repair Techniques for Fire-Damaged Concrete
 

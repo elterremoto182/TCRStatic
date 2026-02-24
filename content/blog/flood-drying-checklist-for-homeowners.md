@@ -136,7 +136,6 @@ In one case from 2022, a homeowner discovered water damage in a living room ceil
 
 Moisture meters are invaluable during this process, as they can detect dampness that isn’t visible to the naked eye. This allows you to pinpoint areas that may require additional drying or even professional help.
 
-###### sbb-itb-7cc21ef
 
 ## Cleaning and Disinfection
 

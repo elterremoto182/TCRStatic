@@ -147,7 +147,6 @@ Skilled operators are essential for accurate interpretation.
 | Moisture Meters | Locate water-damaged areas | Pros interpret data better |
 | Odor Detectors | Quantify odor intensity | Pro devices are more accurate |
 
-###### sbb-itb-7cc21ef
 
 ## Methods for Evaluating Smoke Odor
 

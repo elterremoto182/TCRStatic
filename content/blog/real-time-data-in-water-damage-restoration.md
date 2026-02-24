@@ -131,7 +131,6 @@ Battery-powered or GSM-enabled options ensure data collection even during power 
 
 Restoration teams get immediate notifications if equipment fails or conditions become unsafe.
 
-###### sbb-itb-7cc21ef
 
 ## 3. Mold Remediation
 

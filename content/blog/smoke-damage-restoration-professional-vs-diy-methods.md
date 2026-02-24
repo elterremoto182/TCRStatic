@@ -164,7 +164,6 @@ DIY cleanup works well for minor, surface-level smoke issues:
 3.  **Time Sensitivity**  
     Smoke damage worsens quickly. If you don’t see progress fast, it’s time to call in professionals.
 
-###### sbb-itb-7cc21ef
 
 ## Professional vs DIY: Key Differences
 

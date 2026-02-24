@@ -111,7 +111,6 @@ After the fogging is complete, ventilation is crucial. Technicians open windows 
 
 Total Care Restoration’s certified technicians follow these detailed protocols to ensure the process is both safe and effective. Their team, available 24/7 at (786) 610-6317, is equipped to quickly restore indoor air quality using proven thermal fogging techniques.
 
-###### sbb-itb-7cc21ef
 
 ## How Thermal Fogging Improves Indoor Air Quality
 

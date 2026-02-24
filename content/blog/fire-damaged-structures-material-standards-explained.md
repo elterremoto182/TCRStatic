@@ -116,7 +116,6 @@ The standard extends its scope to protect surrounding structures and the public.
 
 For immediate assistance with fire restoration, Total Care Restoration offers 24/7 services and direct insurance billing. Call (786) 610-6317 to ensure your repairs meet all required codes and standards.
 
-###### sbb-itb-7cc21ef
 
 ## Repair Methods for Fire-Damaged Structures
 

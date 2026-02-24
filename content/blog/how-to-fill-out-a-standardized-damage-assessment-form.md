@@ -128,7 +128,6 @@ For complex issues, such as damage to HVAC systems or structural components, con
 
 Finally, ensure your submission looks professional. For digital forms, confirm that all files are readable and properly named. For paper forms, make sure your handwriting is legible and all attachments are securely fastened. Attention to these small details can prevent delays caused by requests for clarification.
 
-###### sbb-itb-7cc21ef
 
 ## Common Problems and Best Practices
 

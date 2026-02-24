@@ -116,7 +116,6 @@ Track all expenses related to temporary housing, meals, and other costs caused b
 
 For those looking for professional assistance, companies like Total Care Restoration offer certified technicians and direct insurance billing to simplify the process. Their expertise ensures no detail is overlooked in your claim.
 
-###### sbb-itb-7cc21ef
 
 ## Benefits of Proper Fire Damage Documentation
 
