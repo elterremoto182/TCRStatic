@@ -22,7 +22,7 @@ The right provider offers quick response times, certified technicians, and help 
 - Look for providers with 24/7 availability, certified technicians, and direct insurance billing
 - Total Care Restoration offers reliable temporary power services alongside fire restoration
 
-For immediate help, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at **[(786) 610-6317](/contact/)**.
+For immediate help, contact [Total Care Restoration Why Trust Us With Your Homes Recovery](/total-care-restoration-why-trust-us-with-your-homes-recovery/) at [**(786) 610-6317**](tel:(786) 610-6317).
 
 ## How to Choose a Temporary Power Provider
 
