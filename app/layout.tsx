@@ -95,6 +95,7 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <head>
         <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="icon" href={faviconPath} />
         <link rel="apple-touch-icon" href={faviconPath} />
         {/* Preload LCP hero image - faster LCP on mobile */}
