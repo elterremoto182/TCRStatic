@@ -120,6 +120,19 @@ function getStaticRoutes(): SitemapEntry[] {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    // App routes not in content/pages
+    {
+      url: `${baseUrl}/testimonials/`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/service-areas/`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ];
 
   const otherPages = pages
