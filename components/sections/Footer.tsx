@@ -60,6 +60,7 @@ export function Footer() {
                 <li key={item.name}>
                   <Link
                     href={item.href}
+                    rel="nofollow"
                     className="text-sm hover:text-white transition-colors duration-200"
                   >
                     {item.name}
@@ -69,6 +70,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/service-areas/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Service Areas
@@ -78,11 +80,20 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold mb-4">Guides</h4>
+            <h4 className="text-white font-semibold mb-4">
+              <Link
+                href="/guides/"
+                rel="nofollow"
+                className="hover:text-white transition-colors duration-200"
+              >
+                Guides
+              </Link>
+            </h4>
             <ul className="space-y-2">
               <li>
                 <Link
                   href="/guides/water-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Water Damage Guide
@@ -91,6 +102,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/guides/fire-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Fire Damage Guide
@@ -99,6 +111,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/guides/mold-remediation/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Mold Remediation Guide
@@ -107,6 +120,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/guides/storm-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Storm Damage Guide
@@ -121,6 +135,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/water-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Water Damage Restoration
@@ -129,6 +144,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/fire-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Fire Damage Restoration
@@ -137,6 +153,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/mold-remediation/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Mold Remediation
@@ -145,6 +162,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/storm-damage-restoration/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Storm Damage Restoration
@@ -153,6 +171,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/sewage-cleanup/"
+                  rel="nofollow"
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
                   Sewage Cleanup
@@ -161,6 +180,7 @@ export function Footer() {
               <li>
                 <Link
                   href="/emergency-restoration/"
+                  rel="nofollow"
                   className="text-sm font-medium hover:text-white transition-colors duration-200"
                 >
                   Emergency Restoration
@@ -203,7 +223,7 @@ export function Footer() {
                       key={platform}
                       href={url as string}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow"
                       className="text-gray-300 hover:text-primary transition-colors duration-300"
                       aria-label={platform.charAt(0).toUpperCase() + platform.slice(1)}
                     >
@@ -223,6 +243,7 @@ export function Footer() {
             <div className="flex items-center gap-4">
               <Link
                 href="/privacy-policy/"
+                rel="nofollow"
                 className="text-gray-300 hover:text-white transition-colors duration-200"
               >
                 Privacy Policy
@@ -231,7 +252,7 @@ export function Footer() {
               <a
                 href="https://aipress.io/"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 className="text-gray-500 hover:text-gray-300 transition-colors duration-200"
               >
                 Developed by Aipress.io
