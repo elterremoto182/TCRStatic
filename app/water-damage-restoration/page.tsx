@@ -43,7 +43,7 @@ export default function WaterDamageRestorationPage() {
   }));
 
   const breadcrumbs = [
-    { label: 'Water Damage Restoration', href: `/${SERVICE_SLUG}` },
+    { label: 'Water Damage Restoration', href: `/${SERVICE_SLUG}/` },
   ];
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
@@ -214,7 +214,7 @@ export default function WaterDamageRestorationPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               {/* Residential Card */}
               <Link
-                href={`/${SERVICE_SLUG}/residential`}
+                href={`/${SERVICE_SLUG}/residential/`}
                 className="group block p-8 bg-gradient-to-br from-blue-50 to-green-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
               >
                 <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">
@@ -254,7 +254,7 @@ export default function WaterDamageRestorationPage() {
 
               {/* Commercial Card */}
               <Link
-                href={`/${SERVICE_SLUG}/commercial`}
+                href={`/${SERVICE_SLUG}/commercial/`}
                 className="group block p-8 bg-gradient-to-br from-slate-50 to-blue-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
               >
                 <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">

@@ -467,8 +467,8 @@ export function getServiceCityBreadcrumbs(
   if (!service || !city || !serviceType) return [];
   
   return [
-    { label: service.name, href: `/${serviceSlug}` },
-    { label: serviceType.name, href: `/${serviceSlug}/${type}` },
-    { label: city.name, href: `/${serviceSlug}/${type}/${citySlug}` },
+    { label: service.name, href: `/${serviceSlug}/` },
+    { label: serviceType.name, href: `/${serviceSlug}/${type}/` },
+    { label: city.name, href: `/${serviceSlug}/${type}/${citySlug}/` },
   ];
 }

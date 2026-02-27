@@ -185,7 +185,7 @@ export function CityServicePage({
 
               {/* Switch to other type */}
               <Link
-                href={`/${serviceSlug}/${oppositeType}/${citySlug}`}
+                href={`/${serviceSlug}/${oppositeType}/${citySlug}/`}
                 className="inline-flex items-center gap-2 text-gray-600 hover:text-primary transition-colors"
               >
                 Looking for {oppositeLabel} services?

@@ -13,9 +13,11 @@ interface BreadcrumbsProps {
   className?: string;
   /** Use light text for current page and links (e.g. on dark hero backgrounds) */
   inverse?: boolean;
+  /** When true, emit JSON-LD BreadcrumbList schema. Default false — most pages provide their own via generateBreadcrumbSchema(). */
+  outputSchema?: boolean;
 }
 
-export function Breadcrumbs({ items, className = '', inverse = false }: BreadcrumbsProps) {
+export function Breadcrumbs({ items, className = '', inverse = false, outputSchema = false }: BreadcrumbsProps) {
   // Always include home as the first item
   const allItems: BreadcrumbItem[] = [
     { label: 'Home', href: '/' },
@@ -44,10 +46,12 @@ export function Breadcrumbs({ items, className = '', inverse = false }: Breadcru
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
+      {outputSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+      )}
       <nav
         aria-label="Breadcrumb"
         className={`flex items-center space-x-2 text-sm ${className}`}

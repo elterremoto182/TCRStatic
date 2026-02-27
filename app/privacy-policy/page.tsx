@@ -40,7 +40,7 @@ export default async function PrivacyPolicyPage() {
       <main className="min-h-screen pt-20">
         <article className="max-w-4xl mx-auto px-4 py-12">
           <div className="mb-8">
-            <Breadcrumbs items={[{ label: 'Privacy Policy', href: '/privacy-policy' }]} className="mb-6" />
+            <Breadcrumbs items={[{ label: 'Privacy Policy', href: '/privacy-policy/' }]} className="mb-6" outputSchema />
             <Link
               href="/"
               className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"

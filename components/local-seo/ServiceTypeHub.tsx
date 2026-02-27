@@ -134,8 +134,8 @@ export function ServiceTypeHub({
 
   // Build breadcrumbs for this hub page
   const breadcrumbs = [
-    { label: serviceName, href: `/${serviceSlug}` },
-    { label: typeLabel, href: `/${serviceSlug}/${type}` },
+    { label: serviceName, href: `/${serviceSlug}/` },
+    { label: typeLabel, href: `/${serviceSlug}/${type}/` },
   ];
 
   return (
@@ -247,7 +247,7 @@ export function ServiceTypeHub({
 
               {/* Link to opposite type */}
               <Link
-                href={`/${serviceSlug}/${oppositeType}`}
+                href={`/${serviceSlug}/${oppositeType}/`}
                 className={`inline-flex items-center gap-2 font-medium transition-colors ${
                   heroImage 
                     ? 'text-white/80 hover:text-white' 
@@ -394,7 +394,7 @@ export function ServiceTypeHub({
                   {problemLinks.map((problem, index) => (
                     
                       <Link
-                        href={`/problems/${problem.slug}`}
+                        href={`/problems/${problem.slug}/`}
                         className="group block p-4 bg-white rounded-xl border border-gray-200 hover:border-primary hover:shadow-md transition-all duration-200"
                       >
                         <div className="flex items-start gap-3">
@@ -658,7 +658,7 @@ export function ServiceTypeHub({
                 </ul>
                 {type !== 'residential' && (
                   <Link
-                    href={`/${serviceSlug}/residential`}
+                    href={`/${serviceSlug}/residential/`}
                     className="inline-flex items-center gap-2 text-primary font-semibold hover:text-primary/80 transition-colors"
                   >
                     View Residential Services
@@ -708,7 +708,7 @@ export function ServiceTypeHub({
                 </ul>
                 {type !== 'commercial' && (
                   <Link
-                    href={`/${serviceSlug}/commercial`}
+                    href={`/${serviceSlug}/commercial/`}
                     className="inline-flex items-center gap-2 text-primary font-semibold hover:text-primary/80 transition-colors"
                   >
                     View Commercial Services

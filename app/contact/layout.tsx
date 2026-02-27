@@ -21,7 +21,7 @@ export default function ContactLayout({
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   const page = getPageBySlug('contact');
   
-  const breadcrumbs = [{ label: 'Contact', href: '/contact' }];
+  const breadcrumbs = [{ label: 'Contact', href: '/contact/' }];
   
   const contactPageSchema = generateContactPageSchema({
     url: `${baseUrl}/contact/`,

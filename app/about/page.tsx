@@ -36,7 +36,7 @@ export default async function AboutPage() {
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
   
-  const breadcrumbs = [{ label: 'About', href: '/about' }];
+  const breadcrumbs = [{ label: 'About', href: '/about/' }];
   
   // Generate schemas
   const aboutPageSchema = generateAboutPageSchema({

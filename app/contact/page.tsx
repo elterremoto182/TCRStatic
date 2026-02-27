@@ -99,7 +99,7 @@ export default function ContactPage() {
       <main className="min-h-screen pt-20">
         <div className="max-w-6xl mx-auto px-4 py-12">
           <div className="mb-8">
-            <Breadcrumbs items={[{ label: 'Contact', href: '/contact' }]} className="mb-6" />
+            <Breadcrumbs items={[{ label: 'Contact', href: '/contact/' }]} className="mb-6" />
             <Link
               href="/"
               className="inline-flex items-center text-primary font-semibold hover:text-primary/80 transition-colors duration-200"

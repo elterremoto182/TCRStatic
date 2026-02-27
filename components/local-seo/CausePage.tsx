@@ -82,7 +82,7 @@ export function CausePage({
       {/* Hero Section - dark background so headlines stay readable in all themes */}
       <section className="pt-32 pb-20 bg-[#242835]">
         <div className="max-w-6xl mx-auto px-4">
-          <Breadcrumbs items={breadcrumbs} className="mb-6" inverse />
+          <Breadcrumbs items={breadcrumbs} className="mb-6" inverse outputSchema />
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start">
             <div className="lg:col-span-7">
@@ -425,7 +425,7 @@ export function CausePage({
               
                 <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
                   <Link
-                    href={`/${service.slug}/residential/${citySlug}`}
+                    href={`/${service.slug}/residential/${citySlug}/`}
                     className="group block p-6 hover:bg-gray-50 transition-colors"
                   >
                     <div className="flex items-center gap-2 mb-2">
@@ -445,7 +445,7 @@ export function CausePage({
                   </Link>
                   <div className="border-t border-gray-100">
                     <Link
-                      href={`/${service.slug}/commercial/${citySlug}`}
+                      href={`/${service.slug}/commercial/${citySlug}/`}
                       className="group flex items-center justify-between p-4 hover:bg-gray-50 transition-colors"
                     >
                       <div className="flex items-center gap-2">

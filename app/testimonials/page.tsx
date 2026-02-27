@@ -25,7 +25,7 @@ export default function TestimonialsPage() {
   // Generate breadcrumb schema (match visible trail: Home > Testimonials)
   const breadcrumbs = [
     { label: 'Home', href: '/' },
-    { label: 'Testimonials', href: '/testimonials' },
+    { label: 'Testimonials', href: '/testimonials/' },
   ];
   const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
 

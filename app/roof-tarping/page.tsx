@@ -42,7 +42,7 @@ export default function RoofTarpingPage() {
   }));
 
   const breadcrumbs = [
-    { label: 'Roof Tarping', href: `/${SERVICE_SLUG}` },
+    { label: 'Roof Tarping', href: `/${SERVICE_SLUG}/` },
   ];
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
@@ -219,7 +219,7 @@ export default function RoofTarpingPage() {
               {/* Residential Card */}
               
                 <Link
-                  href={`/${SERVICE_SLUG}/residential`}
+                  href={`/${SERVICE_SLUG}/residential/`}
                   className="group block p-8 bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
                 >
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">
@@ -261,7 +261,7 @@ export default function RoofTarpingPage() {
               {/* Commercial Card */}
               
                 <Link
-                  href={`/${SERVICE_SLUG}/commercial`}
+                  href={`/${SERVICE_SLUG}/commercial/`}
                   className="group block p-8 bg-gradient-to-br from-gray-50 to-amber-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
                 >
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">

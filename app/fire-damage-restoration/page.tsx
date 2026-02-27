@@ -41,7 +41,7 @@ export default function FireDamageRestorationPage() {
   }));
 
   const breadcrumbs = [
-    { label: 'Fire Damage Restoration', href: `/${SERVICE_SLUG}` },
+    { label: 'Fire Damage Restoration', href: `/${SERVICE_SLUG}/` },
   ];
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://totalcarerestoration.com';
@@ -208,7 +208,7 @@ export default function FireDamageRestorationPage() {
               {/* Residential Card */}
               
                 <Link
-                  href={`/${SERVICE_SLUG}/residential`}
+                  href={`/${SERVICE_SLUG}/residential/`}
                   className="group block p-8 bg-gradient-to-br from-orange-50 to-yellow-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
                 >
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">
@@ -230,7 +230,7 @@ export default function FireDamageRestorationPage() {
               {/* Commercial Card */}
               
                 <Link
-                  href={`/${SERVICE_SLUG}/commercial`}
+                  href={`/${SERVICE_SLUG}/commercial/`}
                   className="group block p-8 bg-gradient-to-br from-slate-50 to-orange-50 rounded-2xl border-2 border-transparent hover:border-primary transition-all duration-200 hover:shadow-lg"
                 >
                   <div className="w-14 h-14 bg-white rounded-xl flex items-center justify-center mb-6 shadow-sm group-hover:shadow-md transition-shadow">

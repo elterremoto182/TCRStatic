@@ -77,7 +77,7 @@ export default function GuidesIndexPage() {
         {/* Hero Section */}
         <section className="pt-32 pb-20 bg-gradient-to-br from-primary/10 via-background to-accent/10">
           <div className="max-w-6xl mx-auto px-4">
-            <Breadcrumbs items={[{ label: 'Guides', href: '/guides/' }]} className="mb-6" />
+            <Breadcrumbs items={[{ label: 'Guides', href: '/guides/' }]} className="mb-6" outputSchema />
             
             <div className="text-center">
               <div className="inline-flex items-center justify-center w-20 h-20 bg-primary/10 rounded-2xl mb-6">

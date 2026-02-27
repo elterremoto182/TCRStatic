@@ -53,8 +53,9 @@ export default function ProblemsPage() {
         <section className="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-20">
           <div className="max-w-6xl mx-auto px-4">
             <Breadcrumbs 
-              items={[{ label: 'Problems', href: '/problems' }]} 
+              items={[{ label: 'Problems', href: '/problems/' }]} 
               className="mb-8 text-white/70"
+              outputSchema
             />
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6 text-white">
               Common Property Damage Problems
@@ -108,7 +109,7 @@ export default function ProblemsPage() {
                     {causes.map((cause: CauseConfig) => (
                       <Link
                         key={cause.slug}
-                        href={`/problems/${cause.slug}/${defaultCity}`}
+                        href={`/problems/${cause.slug}/${defaultCity}/`}
                         className="group bg-white rounded-xl p-6 shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-primary/20"
                       >
                         <div className="flex items-start justify-between mb-3">
@@ -159,7 +160,7 @@ export default function ProblemsPage() {
                 Call (786) 610-6317
               </a>
               <Link
-                href="/contact"
+                href="/contact/"
                 className="inline-flex items-center justify-center px-8 py-4 bg-white/10 text-white font-semibold rounded-lg hover:bg-white/20 transition-colors border border-white/20"
               >
                 Request Free Estimate

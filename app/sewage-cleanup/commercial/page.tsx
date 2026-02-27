@@ -55,7 +55,7 @@ export default function CommercialSewageCleanupPage() {
   const breadcrumbs = [
     { label: 'Home', href: '/' },
     { label: service.name, href: `/${SERVICE_SLUG}/` },
-    { label: serviceType.name, href: `/${SERVICE_SLUG}/${SERVICE_TYPE}` },
+    { label: serviceType.name, href: `/${SERVICE_SLUG}/${SERVICE_TYPE}/` },
   ];
   const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
 

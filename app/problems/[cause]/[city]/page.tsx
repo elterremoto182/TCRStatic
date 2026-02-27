@@ -123,8 +123,8 @@ export default async function CauseCityPage({
     .filter(Boolean) as { slug: string; name: string }[];
 
   const breadcrumbs = [
-    { label: 'Problems', href: '/problems' },
-    { label: cause.name, href: `/problems/${causeSlug}/${citySlug}` },
+    { label: 'Problems', href: '/problems/' },
+    { label: cause.name, href: `/problems/${causeSlug}/${citySlug}/` },
   ];
 
   // Get city-specific content for this cause (SEO differentiator)

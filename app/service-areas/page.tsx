@@ -86,7 +86,7 @@ export default function ServiceAreasPage() {
     },
   };
 
-  const breadcrumbs = [{ label: 'Service Areas', href: '/service-areas' }];
+  const breadcrumbs = [{ label: 'Service Areas', href: '/service-areas/' }];
 
   return (
     <>
@@ -96,7 +96,7 @@ export default function ServiceAreasPage() {
         {/* Hero Section */}
         <section className="pt-32 pb-20 bg-gradient-to-br from-emerald-50 via-background to-blue-50">
           <div className="max-w-6xl mx-auto px-4">
-            <Breadcrumbs items={breadcrumbs} className="mb-6" />
+            <Breadcrumbs items={breadcrumbs} className="mb-6" outputSchema />
 
             <div className="flex items-center gap-3 mb-6">
               <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center">
@@ -171,14 +171,14 @@ export default function ServiceAreasPage() {
                     {/* Service Type Links */}
                     <div className="grid grid-cols-2 gap-2 mb-4">
                       <Link
-                        href={`/${primaryService}/residential/${city.slug}`}
+                        href={`/${primaryService}/residential/${city.slug}/`}
                         className="flex items-center gap-2 p-3 bg-blue-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
                       >
                         <Home className="w-4 h-4" />
                         Residential
                       </Link>
                       <Link
-                        href={`/${primaryService}/commercial/${city.slug}`}
+                        href={`/${primaryService}/commercial/${city.slug}/`}
                         className="flex items-center gap-2 p-3 bg-slate-50 rounded-lg text-sm font-medium text-gray-700 hover:bg-primary/10 hover:text-primary transition-colors"
                       >
                         <Building2 className="w-4 h-4" />
@@ -197,7 +197,7 @@ export default function ServiceAreasPage() {
                           .map(([serviceSlug, service]) => (
                             <Link
                               key={serviceSlug}
-                              href={`/${serviceSlug}/residential/${city.slug}`}
+                              href={`/${serviceSlug}/residential/${city.slug}/`}
                               className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded hover:bg-primary/10 hover:text-primary transition-colors"
                             >
                               {service.shortName}
@@ -227,7 +227,7 @@ export default function ServiceAreasPage() {
               {Object.entries(services).map(([serviceSlug, service]) => (
                 <Link
                   key={serviceSlug}
-                  href={`/${serviceSlug}`}
+                  href={`/${serviceSlug}/`}
                   className="group flex items-center justify-between p-4 bg-gray-50 rounded-xl hover:bg-primary/5 hover:shadow-md transition-all duration-200"
                 >
                   <span className="font-medium text-gray-900 group-hover:text-primary transition-colors">

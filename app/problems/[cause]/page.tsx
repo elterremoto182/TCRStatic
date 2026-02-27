@@ -107,8 +107,8 @@ export default async function CauseHubPage({
     .filter(Boolean) as { slug: string; name: string }[];
 
   const breadcrumbs = [
-    { label: 'Problems', href: '/problems' },
-    { label: cause.name, href: `/problems/${causeSlug}` },
+    { label: 'Problems', href: '/problems/' },
+    { label: cause.name, href: `/problems/${causeSlug}/` },
   ];
 
   // Urgency badge colors
@@ -152,6 +152,7 @@ export default async function CauseHubPage({
             <Breadcrumbs 
               items={breadcrumbs} 
               className="mb-8 text-white/70"
+              outputSchema
             />
             <div className="flex items-center gap-3 mb-4">
               <span className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium border ${urgency.color}`}>

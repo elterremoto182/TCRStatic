@@ -81,12 +81,13 @@ export function generateOrganizationSchema() {
 
 /**
  * Generate LocalBusiness schema
- * Uses multiple types for better categorization: LocalBusiness, EmergencyService, HomeAndConstructionBusiness
+ * Uses single @type to avoid Google's "3 invalid items" / "Review has multiple aggregate ratings" errors.
+ * HomeAndConstructionBusiness is the most specific type for restoration services (extends LocalBusiness).
  */
 export function generateLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
-    '@type': ['LocalBusiness', 'EmergencyService', 'HomeAndConstructionBusiness'],
+    '@type': 'HomeAndConstructionBusiness',
     '@id': `${baseUrl}#LocalBusiness`,
     name: siteConfig.name,
     image: `${baseUrl}${siteConfig.logo}`,
